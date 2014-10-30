@@ -19,8 +19,8 @@ Digitální podpis v PGP probíhá tak, že se
 - vytvoří haš zprávy, který se podepíše soukromým klíčem příjemce
 ====
 Autentizaci obecně
--*￼může někdy provádět člověk samostatně (bez pomoci počítače nebo čipové karty)
--*￼může někdy provádět počítač nebo čipová karta samočinně (bez pomoci člověka)
+-* může někdy provádět člověk samostatně (bez pomoci počítače nebo čipové karty)
+-* může někdy provádět počítač nebo čipová karta samočinně (bez pomoci člověka)
 - musí pokaždé provádět počítač nebo čipová karta ve spolupráci s člověkem (počítač nebo karta sama nestačí)
 - musí pokaždé provádět člověk ve spolupráci s počítačem nebo čipovou kartou (člověk sám nestačí)
 ====
@@ -52,7 +52,7 @@ Které z následujících možností obsahují jen relevantní bezpečnostní fu
 Jaké jsou základní vlastnosti kvantitativní analýzy rizik?
 - Výstup je nesrozumitelný.
 -* Výstup je v nějaké konkrétní hodnotě, např. v určité částce.
--*￼Výstup je lehce srozumitelný.
+-* Výstup je lehce srozumitelný.
 - Postup je plně automatizovatelný.
 - Výstup není v nějaké konkrétní hodnotě, např. v určité částce.
 -* Postup není automatizovatelný.
@@ -75,7 +75,7 @@ Při podpisu s obnovou dat platí:
 - Podepisovaná data lze z podpisu obnovit při znalosti soukromého klíče.
 - Podepisovaná data nejsou součástí podpisu, je nutné je obnovit nezávislým komunikačním kanálem.
 -* Podepisovaná data mohou být obnovena kýmkoli, kdo vlastní příslušný veřejný klíč.
--*￼Podpis obsahuje i podepisovaná data.
+-* Podpis obsahuje i podepisovaná data.
 ====
 Která z následujících tvrzení platí:
 - integrita zaručuje důvěrnost.
@@ -87,7 +87,7 @@ Která z následujících tvrzení platí:
 Poskytuje TOR testování integrity přenášených dat?
 - Ne, proč bychom něco takového potřebovali, stačí zaručená anonymita.
 -* Ano, je to obrana proti tagging útokům.
--*￼Ano, je to vylepšení oproti původnímu návrhu Onion Routing systémů.
+-* Ano, je to vylepšení oproti původnímu návrhu Onion Routing systémů.
 - Ano, je to obrana proti mig-in-the-middle útokům.
 ====
 Co patří mezi cíle bezpečnostní politiky?
@@ -110,9 +110,9 @@ V případě, že nespokojení uživatelé jsou "menší zlo" než neoprávněn�
 - vysokou hodnotu FAR a nízkou hodnotu FRR.
 ====
 Zákon o ochraně osobních údajů:
--*￼nevztahuje se na zpracování osobních údajů, které provádí fyzická osoba výlučně pro osobní spotřebu.
--* vztahuje se na veškeré zpracování osobních údajů, ať k němu dochází automatizovaně nebo￼jinými prostředky.
--* ￼nevztahuje se na nahodilé shromažďování osobních údajů, pokud tyto údaje nejsou dále zpracovávány, nebo pokud nejsou pro podnikání.
+-* nevztahuje se na zpracování osobních údajů, které provádí fyzická osoba výlučně pro osobní spotřebu.
+-* vztahuje se na veškeré zpracování osobních údajů, ať k němu dochází automatizovaně nebo jinými prostředky.
+-* nevztahuje se na nahodilé shromažďování osobních údajů, pokud tyto údaje nejsou dále zpracovávány, nebo pokud nejsou pro podnikání.
 - vztahuje se na zabezpečení zpracovávaných osobních údajů v případě automatizovaných prostředků dodávaných ze zemí mimo EU.
 - nevztahuje se na data poskytovaná dobrovolně státním institucím.
 ====
@@ -131,7 +131,7 @@ Systém detekce průniku (IDS)
 Chybovost biometrických systémů vyjádřená pomocí FAR (False Acceptance Rate) je:
 - Podíl počtu neúspěšně provedených pokusů o podvod ku počtu úspěšně provedených pokusů o přihlášení do systému.
 - Podíl počtu úspěšně provedených pokusů o podvod ku počtu všech pokusů o podvod.
--*￼Podíl počtu úspěšně provedených pokusů o podvod ku počtu všech pokusů o přihlášení do systému.
+-* Podíl počtu úspěšně provedených pokusů o podvod ku počtu všech pokusů o přihlášení do systému.
 - Podíl počtu neúspěšně provedených pokusů o podvod ku počtu všech pokusů o podvod.
 ====
 Chybovost biometrických systémů vyjádřená pomocí FTE (Fail to Enroll) je:
@@ -144,7 +144,7 @@ Chybovost biometrických systémů vyjádřená pomocí FRR (False Rejection Rat
 - Podíl počtu akceptovaných pokusů o legitimních legitimních uživatelů ku počtu odmítnutých pokusů o přihlášení legitimních uživatelů
 - Podíl počtu všech pokusů o přihlášení legitimních i nelegitimních uživatelů ku počtu všech pokusů o přihlášení legitimních uživatelů.
 - Podíl počtu akceptovaných pokusů o přihlášení legitimních uživatelů ku počtu všech pokusů o verifikaci legitimních uživatelů.
--*￼Podíl počtu odmítnutých pokusů o přihlášení legitimních uživatelů ku počtu všech pokusů o přihlášení.
+-* Podíl počtu odmítnutých pokusů o přihlášení legitimních uživatelů ku počtu všech pokusů o přihlášení.
 ====
 Digitální podpis zajišťuje
 - Komprimaci podepisovaných dat.
@@ -161,12 +161,12 @@ Digitální podpis zajišťuje
 Pokud má hašovací funkce vlastnost silné bezkoliznosti, znamená to, že:
 - Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.
 - Je výpočetně neproveditelné nalézt k danému vstupu jiný vstup tak, aby byly výsledné haše pro oba vstupy stejné.
--*￼Je výpočetně neproveditelné nalézt dva libovolné navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.
+-* Je výpočetně neproveditelné nalézt dva libovolné navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.
 - Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné na alespoň 1/2 pozic.
 ====
 Pokud má hašovací funkce vlastnost slabé bezkoliznosti, znamená to, že:
 - Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné na alespoň 1/2 pozic.
--*￼Je výpočetně neproveditelné nalézt k danému vstupu jiný vstup tak, aby byly výsledné haše￼pro oba vstupy stejné.
+-* Je výpočetně neproveditelné nalézt k danému vstupu jiný vstup tak, aby byly výsledné haše pro oba vstupy stejné.
 - Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejná.
 - Je výpočetně neproveditelné nalézt dva libovolné navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.
 ====
@@ -200,13 +200,13 @@ V případě nepozorovatelnosti (unobservability) je ochraňovanou hodnotou?
 - Informace o překročení přiděleného procesorového času pro použití nabízených zdrojů a služeb.
 - Informace o přihlášených uživatelích.
 -* Informace o použití zdrojů a služeb.
-- Informace o aplikovaných bezpečnostních opatřeních systému (např. nastavení pravidel firewallu).￼￼￼
+- Informace o aplikovaných bezpečnostních opatřeních systému (např. nastavení pravidel firewallu). 
 ====
 Proti obecným OR (Onion Routing) sítím přináší TOR navíc
 - poskytuje téměř real-time anonymní spojení pro různé služby.
 - podporu šifrování dat proudovou šifrou se symetrickým klíčem.
 -* adresářové servery s informacemi o jednotlivých routerech.
--*￼podporu skrytých služeb a míst setkání.
+-* podporu skrytých služeb a míst setkání.
 ====
 Která z uvedených tvrzení jsou pravdivá?
 - Symetrická kryptografie se využívá pouze pro šifrování, zatímco asymetrická pouze k podepisování.
@@ -215,10 +215,10 @@ Která z uvedených tvrzení jsou pravdivá?
 -* Symetrická kryptografie využívá jeden klíč sdílený mezi dvěma a více uživateli.
 ====
 Co je to odvození (inference)?
--*￼Odvozením získáváme nepřímý přístup k informacím bez přímého přístupu k datům, která tyto informace reprezentují.
+-* Odvozením získáváme nepřímý přístup k informacím bez přímého přístupu k datům, která tyto informace reprezentují.
 - Odvození nových informací se stejnou citlivostí zpracováním a analýzou skupiny informaci určité citlivosti.
 - Opak agregace.
--*￼Odvození informací o vyšší citlivosti zpracováním a analýzou skupiny informací o nižší citlivosti.
+-* Odvození informací o vyšší citlivosti zpracováním a analýzou skupiny informací o nižší citlivosti.
 - Odvození nových informací s nižší citlivostí zpracováním a analýzou skupiny informací o vyšší citlivosti.
 ====
 Pod pojmem dostupnost dat rozumíme
@@ -249,18 +249,18 @@ Protokoly SSL/TLS
 Základní metody autentizace uživatelů jsou založeny na něčem, co
 - nelze jednoduše zničit.
 -* znám.
--*￼jsem.
+-* jsem.
 ====
 Co je to perturbační technika používaná ve statistických databázích?
 - Žádná taková technika neexistuje.
 - Pro vyhodnocení dotazu nesmí být použito více záznamu než je stanovená maximální (perturbační) mez.
 -* Technika stavějící např. na zaokrouhlování mezivýsledků dotazů.
--*￼Technika umožňující zjistit konzistentní, ale ne spolehlivé odpovědi na sérii podobných dotazů.
--*￼Přidávání pseudonáhodného "šumu" k množině záznamů, na jejichž základě se vyhodnotí dotaz.
+-* Technika umožňující zjistit konzistentní, ale ne spolehlivé odpovědi na sérii podobných dotazů.
+-* Přidávání pseudonáhodného "šumu" k množině záznamů, na jejichž základě se vyhodnotí dotaz.
 Která z těchto tvrzení jsou správná?
 - Se zvýšením FAR se zvyšuje FRR.
 -* Se snížením FAR se zvyšuje FRR.
--*￼Se zvýšením FAR (False Acceptance Rate) se snižuje FRR (False Reject Rate).
+-* Se zvýšením FAR (False Acceptance Rate) se snižuje FRR (False Reject Rate).
 - Se snížením FAR se snižuje FRR.
 ====
 Co je výsledkem hodnocení systému podle Společných kritéríí (CC)?
@@ -329,7 +329,7 @@ Které tvrzení je správné:
 - Při TLS/SSL "Handshake" se povinně kontrolují certifikáty obou stran.
 - "Record" protokol dovoluje předávat/ukládat nezabezpečená data pro potřeby vlády USA, podle §708, odstavce 17 zákona o vnitřní bezpečnosti.
 -* TLS/SSL "Handshake" protokol slouží k ustavení zabezpečeného spojení, "Record" protokol představuje základní vrstvu.
-- Při TLS/SSL "Handshake" se provádí autentizace uživatele heslem.￼￼￼￼
+- Při TLS/SSL "Handshake" se provádí autentizace uživatele heslem. 
 - Použití TLS/SSL "Handshake" protokolu je volitelné v závislosti na požadavcích klienta a serveru.
 ====
 Podle čeho je určen počet kol/rund u algoritmu Rijndael.
@@ -359,20 +359,20 @@ Co jsou (z pohledu uživatele) dvě nejméně bezpečné součásti dnešních p
 Jaký je v dnešních platebních systémech pro zákazníka největší bezpečnostní problém?
 - Banky už v 90. letech zavrhly používání bezpečného protokolu SET (Secure Electronic Transaction).
 - Napěťové útoky jsou snadnou a efektivní cestou jak obejít bezpečnostní mechanizmy čipu na platební kartě.
--*￼Současný systém funguje tak, že zákazníkovi nezaručuje vazbu mezi zobrazovanou a￼potvrzovanou transakcí.
+-* Současný systém funguje tak, že zákazníkovi nezaručuje vazbu mezi zobrazovanou a potvrzovanou transakcí.
 - Zákazníci sami se chovají nezodpovědně.
 ====
 Co je to kritický dotaz ve statistické databázi?
--*￼Dotaz, který databáze nesmí vyhodnotit, neboť by tím došlo ke zjištění informací o jednotlivci nebo malé skupině osob.
+-* Dotaz, který databáze nesmí vyhodnotit, neboť by tím došlo ke zjištění informací o jednotlivci nebo malé skupině osob.
 - Dotaz, jehož vyhodnocení trvá dlouhou dobu a vyžaduje veškerou výpočetní sílu databáze, která se v tím může stát nedostupnou pro ostatní dotazy.
--*￼Sekvence složená z legitimních dotazů na statistickou databázi s cílem získat informace o￼jednotlivci nebo malé skupině osob.
+-* Sekvence složená z legitimních dotazů na statistickou databázi s cílem získat informace o jednotlivci nebo malé skupině osob.
 - Dotaz, který může být položen pouze v okamžiku, kdy v databázi neprobíhají žádné aktualizace dat.
 ====
 Pro anonymitní komunikační sítě platí:
 - dosažená anonymita je aplikačně nezávislá
 - obsah posílaných zpráv není mezi uzly šifrován
--*￼mohou být náchylné vůči analýze provozu
--*￼vstupy nelze jednoduše spojit s výstupy
+-* mohou být náchylné vůči analýze provozu
+-* vstupy nelze jednoduše spojit s výstupy
 ====
 Projekt AN.ON poskytuje stejné služby jako
 - Mixmaster
@@ -404,14 +404,14 @@ Jak ověříme pravost certifikátu vydaného důvěryhodnou certifikační auto
 -* Ověříme zda je certifikát podepsán danou certifikační autoritou.
 - Ověříme, zda je haš certifikátu shodná s haší uvedenou v certifikátu.
 ====
-Pokud existuje v systému zranitelnost a existuje útočník, který ji může využít, výsledný stav je nazýván:￼￼
+Pokud existuje v systému zranitelnost a existuje útočník, který ji může využít, výsledný stav je nazýván: 
 -* hrozba
 - zranitelnost
 - útok
 - riziko
 ====
 Pojmem tranzitivita důvěry označujeme:
--* důvěru cizího uživatele X v náš veřejný klíč, pokud mu důvěřuje uživatel Y, kterému kterým￼důvěřuje uživatel X.
+-* důvěru cizího uživatele X v náš veřejný klíč, pokud mu důvěřuje uživatel Y, kterému kterým důvěřuje uživatel X.
 - důvěru uživatele X v náš veřejný klíč, pokud my důvěřujeme jeho veřejnému klíči. takový termín neexistuje.
 -* důvěru ve veřejný klíč uživatele X, kterému důvěřuje uživatel Y, kterému důvěřujeme my.
 - důvěru v propagaci našeho veřejného klíče od uživatele X na uživatele Y.
@@ -430,7 +430,7 @@ Kdy je dosažen EER (Equal Error Rate) v biometrických systémech?
 Povinnosti správce osobních údajů:
 - archivovat data kódovaně, není-li řečeno jinak
 -* uchovávat data pouze po dobu nezbytnou k jejich zpracování
--*￼shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění stanoveného účelu.
+-* shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění stanoveného účelu.
 - vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu
 ====
 Povinnosti spravce osobnich udaju:
@@ -482,10 +482,10 @@ Cílem projektu Eternity server je
 -* vytvořit datové úložiště, které je odolné vůči výpadkům
 ====
 Jaký je v dnešních platebních systémech pro zákazníka největší bezpečnostní problém?
-- Zákazníci sami se chovají nezodpovědně.￼￼￼
+- Zákazníci sami se chovají nezodpovědně. 
 - Banky už v 90. letech zavrhly používání bezpečného protokolu SET (Secure Electronic Transaction).
 - Napěťové útoky jsou snadnou a efektivní cestou jak obejít bezpečnostní mechanizmy čipu na platební kartě.
--*￼Současný systém funguje tak, že zákazníkovi nezaručuje vazbu mezi zobrazovanou a￼potvrzovanou transakcí.
+-* Současný systém funguje tak, že zákazníkovi nezaručuje vazbu mezi zobrazovanou a potvrzovanou transakcí.
 ====
 PGP umožňuje nastavit úroveň důvěry pro konkrétní veřejný klíč. Toto nastavení se používá pro:
 - filtrování zpráv, které mohou být poslány danému uživateli.
@@ -498,7 +498,7 @@ Která z těchto tvrzení jsou správná?
 -* Kopírování měřených biologických charakteristik člověka není sice triviální, ale ani nemožné.
 - Biometrická data jsou tajná.
 - Biometriky po analýze s využitím kryptogragie o subjektu zprávy vypovídají.
--*￼Biometriky v ideálním případě určují identitu člověka přesně a lze tak spojovat jednotlivě￼jeho činy.
+-* Biometriky v ideálním případě určují identitu člověka přesně a lze tak spojovat jednotlivě jeho činy.
 ====
 Existuje nějaký útok na službu TOR, který sníží anonymitu uživatelů?
 -* Ano, existuje útok, který může snížit anonymitu uživatelů.
@@ -532,7 +532,7 @@ Projekt AN.ON poskytuje stejné služby jako
 ====
 Co je to statistická databáze?
 - Databáze, která umožňuje získávat statistické informace o jednotlivcích.
--*￼Databáze, která obsahuje informace o jednotlivcích, ale povoluje pouze statistické dotazy, tj.￼nedovolí získat informace o jednotlivcích.
+-* Databáze, která obsahuje informace o jednotlivcích, ale povoluje pouze statistické dotazy, tj. nedovolí získat informace o jednotlivcích.
 - Databáze, která je dohledována Českým statistickým úřadem.
 ====
 Analýza a hodnocení hrozeb zahrnuje:
@@ -545,7 +545,7 @@ Bezpečnostní politika je
 - Dokument schválený vrcholovým managementem a specifikující využití IT pro zajištění cílů organizace.
 - Soubor opatření a mechanizmů potřebných k dosažení požadované minimální úrovně prevence a detekce zranitelností.
 - Dokument schválený členem představenstva a stanovující přesná pravidla pro zajištění technických i lidských zdrojů pro využití IT pro zajištění cílů organizace.
--*￼Soubor pravidel specifikující účinný způsob uplatňování opatření potřebných k dosažení požadované minimální úrovně rizik.
+-* Soubor pravidel specifikující účinný způsob uplatňování opatření potřebných k dosažení požadované minimální úrovně rizik.
 ====
 Klasické odemykání zámku na dveřích klíčem
 -* spadá pod autentizační procedury.
@@ -556,14 +556,14 @@ Jakým způsobem je prováděna analýza rizik metodou CRAMM?
 - Infrastrukturní přístup: identifikace a ocenění hodnot zohledňující zejména investice a rizika infrastruktury
 - Nestrukturovaný přístup: vytvoření tabulky rizik a zranitelností na základě spirálového modelu.
 - Nestrukturovaný přístup: inkrementální odhad hrozeb a zranitelností hodnot na základě rozšířeného spirálového modelu.
--*￼Strukturovaný přístup: i. identifikace a ocenění hodnot; ii. odhad hrozeb a zranitelností hodnot; iii. výběr vhodných protiopatření.
+-* Strukturovaný přístup: i. identifikace a ocenění hodnot; ii. odhad hrozeb a zranitelností hodnot; iii. výběr vhodných protiopatření.
 - Strukturovaný přístup: i. odhad hrozeb a zranitelností hodnot; ii. naprogramování vhodných protiopatření.
 - Adhoc přístup: odhad hrozeb a zranitelností hodnot na základě běžného seznamu aktiv (metoda lze paralelizovat).
 ====
 Pro emailové zprávy posílané pomocí systému Mixminion platí
--*￼jsou anonymní.
--*￼je možné na ně v určitém časovém rámci odpovědět
--*￼uživatel specifikuje cestu po síti.
+-* jsou anonymní.
+-* je možné na ně v určitém časovém rámci odpovědět
+-* uživatel specifikuje cestu po síti.
 - odpovědi jsou v systému doručovány odlišně od normálních emailů.
 - hlavičky mailů nejsou modifikovány.
 - jsou pseudonymní.
@@ -579,8 +579,8 @@ Podezřelé chování v síti zjistíte
 - antivirovým programem.
 -* honeypotem.
 - antispyware programem.
--*￼IDS.
--*￼firewallem.
+-* IDS.
+-* firewallem.
 ====
 Jaký je rozdíl mezi termíny security a safety?
 - Je to to samé, čeština používá jen jeden termín - bezpečnost
@@ -605,8 +605,8 @@ Pod pojmem asymetrická kryptografie rozumíme
 - Nic z ostatních uvedených možností.
 ====
 Ke zneužitím mobilního telefonu operátorem patří:
--*￼SMS posílané z mobilu na mobil mohou být jednoduše ukládány.
--*￼poloha mobilního telefonu může být sledována.
+-* SMS posílané z mobilu na mobil mohou být jednoduše ukládány.
+-* poloha mobilního telefonu může být sledována.
 - žádná z těchto odpovědí není správná, protože celá komunikace je bezpečně šifrována.
 ====
 Co jsou (z pohledu uživatele) dvě nejméně bezpečné součásti dnešních platebních systémů?
@@ -630,7 +630,7 @@ Protokoly SSL/TLS umožňují
 ====
 Zvolte správnou hierarchii podle druhu pseudonymu (ve směru zvyšující se anonymity a nespojitelnosti).
 - Pseudonym osoby > pseudonym rolevztahu > pseudonym vztahu > pseudonym role > pseudonym transakce.
--*￼Pseudonym osoby > pseudonym role a pseudonym vztahu > pseudonym rolevztahu > pseudonym transakce.
+-* Pseudonym osoby > pseudonym role a pseudonym vztahu > pseudonym rolevztahu > pseudonym transakce.
 - Pseudonym transakce > pseudonym rolevztahu > pseudonym role a pseudonym vztahu > pseudonym osoby.
 - Pseudonym osoby > pseudonym transakce > pseudonym role a pseudonym vztahu > pseudonym rolevztahu.
 - Pseudonym osoby > pseudonym rolevztahu > pseudonym role > pseudonymvztahu > pseudonym t transakce.
@@ -653,7 +653,7 @@ Místa setkání a skryté služby TORu je/jsou:
 -* je služba umožňující serveru kontrolovat anonymní příchozí požadavky.
 ====
 Pretty Good Privacy (PGP) umožňuje
--*￼šifrovat a dešifrovat data
+-* šifrovat a dešifrovat data
 -* digitálně podepsat data a ověřit podpis
 - anonymně přistupovat k webu
 - odeslat, přijmout a odpovědět na anonymní e-mail
@@ -697,7 +697,7 @@ Pro liberální kontrolu certifikátu veřejného klíče platí:
 - Nic z ostatních uvedených možností.
 ====
 Jak pracuje technika náhodného výběru ve statistických databázích?
--*￼Výsledek dotazu je vyhodnocen na základě náhodně vybraných záznamů ze všech existujících￼záznamů v databázi.
+-* Výsledek dotazu je vyhodnocen na základě náhodně vybraných záznamů ze všech existujících záznamů v databázi.
 - Žádná taková technika neexistuje.
 - Výsledek dotazu je zaokrouhlen na hodnotu náhodně vybraného záznamu.
 - Výsledek dotazu je vyhodnocen na základě mírně poupravených záznamů, které jsou náhodně vybrány ze všech existujících záznamů v databázi.
@@ -707,7 +707,7 @@ Pro zajištění prokazatelné zodpovědnosti (accountability)?
 - Je na začátku práce v systému obvykle prováděno dešifrování dat pro práci s účtem.
 - Je na začátku práce v systému obvykle prováděna autentizace nebo identifikace.
 - Je prováděna archivace dat pro udržení schopnosti správy účtu.
--*￼Je prováděna archivace dat umožňujících propojení činnosti s konkrétní osobou tak, že daná￼osoba se nemůže zříci zodpovědnosti za svoji činnost.
+-* Je prováděna archivace dat umožňujících propojení činnosti s konkrétní osobou tak, že daná osoba se nemůže zříci zodpovědnosti za svoji činnost.
 ====
 Šifrování v PGP probíhá tak, že se data šifrují
 - asymetricky, klíče se zašifrují soukromým klíčem příjemce a přiloží k datům.
@@ -718,7 +718,7 @@ Pro zajištění prokazatelné zodpovědnosti (accountability)?
 Typické operace na firewallu jsou
 - hašovat
 - xorovnat
--*￼zakázat
+-* zakázat
 -* povolit
 -* prelozit
 ====
@@ -729,7 +729,7 @@ Které dvě z těchto biometrických technik bývají obvykle nejlevnější s o
 - DNA.
 ====
 Co řeší Zákon o ochraně osobních údajů?
--*￼vztahuje se na osobní údaje, které zpracovávají státní orgány, orgány územní samosprávy, jiné orgány veřejné moci, jakož i fyzické a právnické osoby, není-li stanoveno jinak.
+-* vztahuje se na osobní údaje, které zpracovávají státní orgány, orgány územní samosprávy, jiné orgány veřejné moci, jakož i fyzické a právnické osoby, není-li stanoveno jinak.
 - upravuje právo na ochranu osobních údajů u jedinců se záznamem v trestním rejstříku po dobu výkonu trestu.
 ====
 Magnetický proužek standardní platební karty obsahuje:
@@ -746,7 +746,7 @@ Jak pracuje technika maximálního rozsahu dotazu ve statistických databázích
 Výraz script kiddies označuje:
 - Útočníka, který je schopen kreativně odhalovat nové zranitelnosti i bez znalostí o systému
 - Hackera, který píše skripty a odhaluje nové zranitelnosti systému. Má částečné informace o systému.
--*￼Útočníka, který nemá dostatek znalostí o systému a využívá běžně dostupné předpřipravené￼nástroje na známé zranitelnosti, často způsobem pokus-omyl.
+-* Útočníka, který nemá dostatek znalostí o systému a využívá běžně dostupné předpřipravené nástroje na známé zranitelnosti, často způsobem pokus-omyl.
 ====
 Pravidla přístupu do počítačové sítě (FI) MU
 - v případě nutnosti je povoleno rekonfigurovat PC, které je pod správou CVT FI.
@@ -776,8 +776,8 @@ Co je nejčastější příčinou bezpečnostních incidentů?
 - Škodlivý software
 ====
 Které z tvrzení o anonymitní množině neplatí
--*￼velikost anonymitní množiny je smysluplný ukazatel.
--*￼nezáleží na chování uživatelů v dané skupině.
+-* velikost anonymitní množiny je smysluplný ukazatel.
+-* nezáleží na chování uživatelů v dané skupině.
 - záleží i na kontextových informacích v systému.
 - pro určení velikosti anonymitní množiny se užívá entropie.
 ====
@@ -795,16 +795,16 @@ Zabezpečení provozu na úrovni IP dosáhnu pokud zvolím:
 - IPv4s
 ====
 Které z těchto tvrzení je správné, pokud mluvíme o kartách s čipem?
--*￼Čip je schopen provádět výpočet a autentizovat se pomocí důkazu nulového rozšíření￼znalosti.
+-* Čip je schopen provádět výpočet a autentizovat se pomocí důkazu nulového rozšíření znalosti.
 - Lze snadno vytvořit kopii čipu, ale ne současně čipu a magnetického proužku.
 - Dodatečným mechanizmem ochrany čipu je magnetický proužek.
 -* Bez techniky velmi náročného rozebrání čipu a jeho analýzy není možné vytvořit kopii.
 ====
 Které z následujích bodů lze zařadit mezi obecné principy pro bezpečnost IT?
 - Nepoužívejte klíče s délkou < 128 bitů.
--*￼Usilujte o jednoduchost
--*￼Externí zdroje pokládejte za nebezpečné.
--*￼Fyzicky nebo logicky oddělte kritické zdroje.
+-* Usilujte o jednoduchost
+-* Externí zdroje pokládejte za nebezpečné.
+-* Fyzicky nebo logicky oddělte kritické zdroje.
 - Nikdy nezveřejňujte kritické bezpečnostní algoritmy.
 ====
 Pod pojmem riziko rozumíme:
@@ -816,8 +816,8 @@ Pod pojmem riziko rozumíme:
 Řešení pro odesílání anonymních e-mailů jsou založena na:
 - anonymity před příjemcem lze dosáhnout velmi těžko.
 - anycastových sítích, remailerech a mixech.
--*￼remailerech, u kterých rozlišujeme několik typů (tříd).
--*￼broadcastových sítích, remailerech a mixech.
+-* remailerech, u kterých rozlišujeme několik typů (tříd).
+-* broadcastových sítích, remailerech a mixech.
 - využití účtu na freemailu (Seznam).
 ====
 Při podpisu bez obnovy dat platí:
@@ -830,12 +830,12 @@ Pro komunikaci mezi jednotlivými Onion Routery (OR) platí
 -* seznam přeposlaných paketů se ukládá.
 - topologie uzlů připomíná hvězdici s pevně daným středem.
 - komunikace se šifruje pomocí asymetrické kryptografie.
--*￼každý OR odstraní vrstvu paketu dešifrováním.
--*￼komunikace se šifruje pomocí šifry se symetrickým klíčem.
+-* každý OR odstraní vrstvu paketu dešifrováním.
+-* komunikace se šifruje pomocí šifry se symetrickým klíčem.
 ====
 Jaký způsob předání veřejného klíče je považován za důvěryhodný:
--*￼ověření otisku klíče telefonem.
--*￼osobní předání na USB disku.
+-* ověření otisku klíče telefonem.
+-* osobní předání na USB disku.
 - zaslání emailem s paralelním umístěním na webovou stránku.
 - vystavení na klíčový server.
 - zaslání důvěryhodným zprostředkovatelem.
@@ -848,7 +848,7 @@ Britská medicínská asociace nařizuje při zakládání nového záznamu paci
 Britská medicínská asociace nařizuje při práci se záznamy pacientů:
 -* Implementaci opatření zamezujících agregaci dat.
 -* Zaznamenávání veškerých modifikací provedených se záznamy pro potřeby auditu.
--*￼Nutnost informovat pacienta (na jeho žádost) o aktuálním stavu seznamu přístupů k jeho￼záznamu.
+-* Nutnost informovat pacienta (na jeho žádost) o aktuálním stavu seznamu přístupů k jeho záznamu.
 - Nutnost informovat rodinné příslušníky pacienta (na jejich žádost) o aktuálním stavu seznamu přístupů k jeho záznamu.
 ====
 PIN je u kreditních karet vyžadován, aby
@@ -873,7 +873,7 @@ Citlivé osobní údaje dle české legislativy vypovídají mj. o:
 Bezpečnost použití těchto zařízení pro autentizaci je porovnatelná s bezpečností použití čipových karet pro stejný účel:
 - žádná z těchto odpovědi není správná
 - heslo dlouhé alespoň 8 znaků a vytvořené náhodně ze sady min. 95 znaků
--* autentizační kalkulačka￼￼￼￼
+-* autentizační kalkulačka 
 - certifikovaný USB disk
 ====
 Mezi vlastnosti Onion Routingu (OR) rozhodně patří
@@ -891,16 +891,16 @@ Mezi vlastnosti Onion Routingu (OR) rozhodně nepatří
 - komunikační cesta je definována při sestavení komunikačního kanálu.
 ====
 Pro osobní údaje dle české legislativy platí:
--*￼jde-li na základě jednoho či více osobních údajů přímo či nepřímo zjistit identitu subjektu, považuje se subjekt údajů za určený nebo určitelný .
+-* jde-li na základě jednoho či více osobních údajů přímo či nepřímo zjistit identitu subjektu, považuje se subjekt údajů za určený nebo určitelný .
 -* jedná se o jakýkoliv údaj týkající se určeného nebo určitelného subjektu údajů.
 - zpracovávání osobních údajů je zakázáno, vyjma případů pro osobní potřebu.
 - dozor nad osobními údaji provádí Policie ČR.
--*￼osobní údaj se nejedná, pokud je třeba ke zjištění identity subjektu údajů nepřiměřené￼množství času nebo materiálních prostředků.
+-* osobní údaj se nejedná, pokud je třeba ke zjištění identity subjektu údajů nepřiměřené množství času nebo materiálních prostředků.
 ====
 Které dvě z těchto biometrických technik jsou nejpohodlnější pro uživatele?
 - EKG
--*￼srovnání tváře
--*￼vzor oční duhovky
+-* srovnání tváře
+-* vzor oční duhovky
 - vzor oční sítnice
 ====
 Jakým způsobem je počítána analýza rizik metodou ALE (Annual Loss Expentancy)
@@ -918,8 +918,8 @@ Bylo by možné spolehlivě autentizovat studenta MU na základě trojice celýc
 ====
 Která z těchto tvrzení jsou správná?
 - Biometrická data jsou tajná.
--*￼Některé biometriky hodně o subjektu vypovídají.
--* Biometriky v ideálním případě určují identitu člověka přesně a lze tak spojovat jednotlivě￼jeho činy.
+-* Některé biometriky hodně o subjektu vypovídají.
+-* Biometriky v ideálním případě určují identitu člověka přesně a lze tak spojovat jednotlivě jeho činy.
 - Jeden vzorek lze využít jen v jednom systému.
 ====
 Digitální pseudonym je řetězec bitů, který:
@@ -963,16 +963,16 @@ Jak pracuje technika minimalniho rozsahu dotazu ve statistickych databazich?
 -* Pro vyhodnoceni dotazu nesmi byt pouzito mene zaznamu nez je stanovena minimalni mez.
 ====
 Mezi obvykle bezpecnostni politiky patri:
--*￼Systemova bezpecnostni politika
--*￼Celkova bezpecnostni politika
+-* Systemova bezpecnostni politika
+-* Celkova bezpecnostni politika
 - Interaplikacni bezpecnostni politika
 - Integrovana bezpecnostni politika
 - Horizontalni bezpecnostni politika
 ====
 Duveryhodnost dat?
 - Utajeni obsazene informace.
--*￼Data jsou v nezmenene podobe tak, jak byla vytvorena.
--*￼Technicky se realizuje napr. pomoci digitalniho podpisu.
+-* Data jsou v nezmenene podobe tak, jak byla vytvorena.
+-* Technicky se realizuje napr. pomoci digitalniho podpisu.
 - Data ziskana od duveryhodneho zdroje.
 ====
 Nespojitelnost (podle Spolecnych kriterii) zajistuje moznost opakovaneho pouziti zdroju:
@@ -1016,7 +1016,7 @@ Komu v platebnich systemech poskytuji soucasne tokeny nejnizsi ochranu?
 -* Zakaznikum
 ====
 Co je to verejny pseudonym?
--* Napr. telefonni cislo ve Zlatych strankach￼￼￼￼￼
+-* Napr. telefonni cislo ve Zlatych strankach 
 - Pseudonym pouzivany uvnitr verejne nedostupneho systemu
 - Je znam verejnosti za poplatek
 - Pseudonym pouzitelny pouze na verejnosti
@@ -1036,8 +1036,8 @@ Nepozorovatelnost (podle Spolecnych kriterii) zajistuje moznost pouziti zdroju n
 - ostatni uzivatele systemu nemohou pozorovat pouzivani daneho zdroje nebo sluzeb, ale v pripade potreby lze toto chovani zpetne spojit s konkretnim uzivatelem
 - uzivatele nejsou zodpovedni za sve chovani v systemu
 - ostatni uzivatele, s vyjimkou administratoru, nemohou pozorovat pouzivani daneho zdroje nebo sluzeb
--* specifikovane entity nejsou schopny pozorovat specifikovane operace provadene￼specifikovanymi entitami na specifikovanych objektech
--*￼ostatni uzivatele (ani administratori) systemu nemohou pozorovat pouzivani daneho zdroje￼nebo sluzeb
+-* specifikovane entity nejsou schopny pozorovat specifikovane operace provadene specifikovanymi entitami na specifikovanych objektech
+-* ostatni uzivatele (ani administratori) systemu nemohou pozorovat pouzivani daneho zdroje nebo sluzeb
 - specifikovane entity jsou schopny pozorovat specifikovane operace provadene specifikovanymi entitami na nespecifikovanych objektech
 ====
 IEEE - principy SW inzenyra stanovi napr.
@@ -1045,12 +1045,12 @@ IEEE - principy SW inzenyra stanovi napr.
 - zastavat pouze takove pozice, na ktere ma narok a schopnosti
 - povinnost zit cestne, zdrave a podle pravidel IEEE tak, aby na nej mohla byt spolecnost hrda
 -* zajistit cestnost a nezavislost ve svych odbornych odhadech
-- povinnost pouzivat pouze software, za ktery nebylo prokazatelnym zpusobem zaplaceno￼￼
+- povinnost pouzivat pouze software, za ktery nebylo prokazatelnym zpusobem zaplaceno 
 ====
 Pro zajisteni prokazatelne zodpovednosti (accountability)?
 - Je provadena archivace dat pro udrzeni schopnosti spravy uctu.
 -* Je na zacatku prace v systemu obvykle provadena autentizace nebo identifikace.
--*￼Je provadena archivace dat umoznujicich propojeni cinnosti s konkretni osobou tak, ze dana￼osoba se nemuze zrici zodpovednosti za svoji cinnost.
+-* Je provadena archivace dat umoznujicich propojeni cinnosti s konkretni osobou tak, ze dana osoba se nemuze zrici zodpovednosti za svoji cinnost.
 - Ja na zacatku prace v systemu obvykle provadeno desifrovani dat pro praci s uctem.
 ====
 Mezi zakladni pravidla bezpecnostniho modelu Bell-LaPadula patri:
@@ -1088,9 +1088,9 @@ Maximalni pocet identit jedne osoby muze byt
 - 1
 ====
 V souvislosti se sdruzovanim dat do rozsahlych databazi uklada zakon 101/2000 sb. o ochrane osobnich udaju
--*￼Povinnost nesdruzovat data, ktera byla puvodne ziskana k rozdilnym ucelum, do jednoho￼celku.
+-* Povinnost nesdruzovat data, ktera byla puvodne ziskana k rozdilnym ucelum, do jednoho celku.
 - Povinnost informovat zkoumanou osobu (subjekt) o tom, ze se podarilo zjistit o nem citlive informace a zda muze potvrdit jejich pravdivost.
--*￼Povinnost informovat osobu, jejiz data budou ulozena a zpracovavana v databazi, ze se timto zpusobem bude s poskytnutymi daty nakladat.
+-* Povinnost informovat osobu, jejiz data budou ulozena a zpracovavana v databazi, ze se timto zpusobem bude s poskytnutymi daty nakladat.
 ====
 Podle ceskeho zakona o e-podpisu (227/2000) je zaruceny elektronicky podpis:
 -* Elektronicky podpis, ktery je jednoznacne spojen s podepisujici osobou
@@ -1103,6 +1103,5 @@ Pseudonymita (podle Společných kritérií) zajišťuje možnost použití zdro
 - identita uživatele zůstane skryta specifickým uživatelům, pro specifické operace
 - identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav zvrátit
 - identita uživatele zůstane skryta, ale to platí pouze pro původně neveřejné pseudonymy
--*￼identita uživatele zůstane skryta, ale specifikované entity za specifikovaných podmínek￼mohou tento stav zvrátit
+-* identita uživatele zůstane skryta, ale specifikované entity za specifikovaných podmínek mohou tento stav zvrátit
 - identita uživatele zůstane skryta ostatním uživatelům, ale ne administrátorům
-====
