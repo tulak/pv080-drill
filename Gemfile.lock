@@ -8,6 +8,11 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     coderay (1.1.0)
+    coffee-script (2.3.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.8.0)
+    execjs (2.2.2)
     i18n (0.6.11)
     json (1.8.1)
     method_source (0.8.2)
@@ -26,4 +31,5 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (~> 4.1.0)
+  coffee-script
   pry
