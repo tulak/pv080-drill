@@ -1,0 +1,3904 @@
+[
+  {
+    "name": "Co je to \"původně neveřejný\" pseudonym?",
+    "answers": [
+      {
+        "body": "Pseudonym, který původně nebyl veřejný, ale v některých případech může být zveřejněn.",
+        "right": true
+      },
+      {
+        "body": "Pseudonym, který musí být po druhém použití zveřejněn.",
+        "right": false
+      },
+      {
+        "body": "Pseudonym původně neurčený pro veřejnost, který ale neschválil Úřad pro ochranu osobních údajů.",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který musí být při druhém použití zveřejněn.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "K bezpečným metodám autentizace klienta bance v systému internetového bankovnictví patří prokázání se",
+    "answers": [
+      {
+        "body": "osobním klíčem uloženým bezpečně na čipové kartě, USB flashdisku či SD kartě.",
+        "right": true
+      },
+      {
+        "body": "kódem získaným vložením rodného čísla či uživatelského hesla do autentizační \"kalkulačky\".",
+        "right": false
+      },
+      {
+        "body": "rodným číslem.",
+        "right": false
+      },
+      {
+        "body": "heslem, které si klient zvolil při zakládání účtu.",
+        "right": false
+      },
+      {
+        "body": "kódem získaným vložením výzvy (challenge) bankovního systému do autentizační\"kalkulačky\".",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Digitální podpis v PGP probíhá tak, že se",
+    "answers": [
+      {
+        "body": "vytvoří haš zprávy, který se podepíše veřejným klíčem příjemce",
+        "right": false
+      },
+      {
+        "body": "zpráva se podepisuje přímo klíčem dle volby uživatele",
+        "right": false
+      },
+      {
+        "body": "vytvoří haš zprávy, který se podepíše veřejným klíčem odesílatele",
+        "right": false
+      },
+      {
+        "body": "vytvoří haš zprávy, který se podepíše soukromým klíčem odesílatele",
+        "right": true
+      },
+      {
+        "body": "vytvoří haš zprávy, který se podepíše soukromým klíčem příjemce",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Autentizaci obecně",
+    "answers": [
+      {
+        "body": "může někdy provádět člověk samostatně (bez pomoci počítače nebo čipové karty)",
+        "right": true
+      },
+      {
+        "body": "může někdy provádět počítač nebo čipová karta samočinně (bez pomoci člověka)",
+        "right": true
+      },
+      {
+        "body": "musí pokaždé provádět počítač nebo čipová karta ve spolupráci s člověkem (počítač nebo karta sama nestačí)",
+        "right": false
+      },
+      {
+        "body": "musí pokaždé provádět člověk ve spolupráci s počítačem nebo čipovou kartou (člověk sám nestačí)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jaká rizika s sebou nese zasílání platebních karet a PINů poštou?",
+    "answers": [
+      {
+        "body": "Libovolná platební karta může být skrze neporušenou obálku snadno zkopírována.",
+        "right": false
+      },
+      {
+        "body": "Poštovní obálku lze během doručování ztratit.",
+        "right": true
+      },
+      {
+        "body": "PIN múže být skrze neporušenou obálku nepozorovaně přečten.",
+        "right": true
+      },
+      {
+        "body": "Platební karta je skrze obálku vystavena tzv. napěťovým a teplotním útokům.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Odmítnutí služby (Denial of Service) je",
+    "answers": [
+      {
+        "body": "útok, kdy zpracování požadavku na webovém serveru nevyhnutelně skončí s HTTP chybou 500.",
+        "right": false
+      },
+      {
+        "body": "útok, který uvede server do stavu, kdy není schopen reagovat na požadavky.",
+        "right": true
+      },
+      {
+        "body": "stav, kdy server včas zjistí útok a zamítne další komunikaci s útočníkem.",
+        "right": false
+      },
+      {
+        "body": "stav, kdy server zjistí nedostatečnou autorizaci uživatele k operaci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Proxy servery jsou na Internetu",
+    "answers": [
+      {
+        "body": "zbytečné, pouze zpomalují rychlost dat a jsou snadno zneužitelné.",
+        "right": false
+      },
+      {
+        "body": "často způsobem jak obejít lokální bezpečnostní politiku.",
+        "right": true
+      },
+      {
+        "body": "zdrojem všeho zla, patřily by zakázat.",
+        "right": false
+      },
+      {
+        "body": "zaručeným prostředkem anonymního využívání Internetových zdrojů.",
+        "right": false
+      },
+      {
+        "body": "důležité, rozumí aplikačním protokolům, umožňují anonymizaci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících možností obsahují jen relevantní bezpečnostní funkce systémů pro ochranu inf. soukromí?",
+    "answers": [
+      {
+        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita, identita.",
+        "right": false
+      },
+      {
+        "body": "identita, nepozorovatelnost, anonymita, pseudonymita.",
+        "right": false
+      },
+      {
+        "body": "nezjistitelnost, nespojitelnost, anonymita, pseudonymita.",
+        "right": false
+      },
+      {
+        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaké jsou základní vlastnosti kvantitativní analýzy rizik?",
+    "answers": [
+      {
+        "body": "Výstup je nesrozumitelný.",
+        "right": false
+      },
+      {
+        "body": "Výstup je v nějaké konkrétní hodnotě, např. v určité částce.",
+        "right": true
+      },
+      {
+        "body": "Výstup je lehce srozumitelný.",
+        "right": true
+      },
+      {
+        "body": "Postup je plně automatizovatelný.",
+        "right": false
+      },
+      {
+        "body": "Výstup není v nějaké konkrétní hodnotě, např. v určité částce.",
+        "right": false
+      },
+      {
+        "body": "Postup není automatizovatelný.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaké jsou základní vlastnosti kvalitativní analýzy rizik?",
+    "answers": [
+      {
+        "body": "Výstup je nesrozumitelný",
+        "right": true
+      },
+      {
+        "body": "Výstup je v nějaké konkrétní hodnotě, např. v určité částce",
+        "right": false
+      },
+      {
+        "body": "Postup je do značné míry automatizovatelný",
+        "right": true
+      },
+      {
+        "body": "Výstup je lehce srozumitelný",
+        "right": false
+      },
+      {
+        "body": "Výstup není v nějaké konkrétní hodnotě, např. v určité částce",
+        "right": true
+      },
+      {
+        "body": "Postup není automatizovatelný",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Čipová kreditní karta bez mag. proužku",
+    "answers": [
+      {
+        "body": "obvykle neobsahuje procesor, přestože se jí tradičně říká \"čipová\".",
+        "right": false
+      },
+      {
+        "body": "skýtá obvykle vyšší bezpečnost než karta s mag. proužkem (bez čipu).",
+        "right": true
+      },
+      {
+        "body": "obvykle obsahuje malý procesor.",
+        "right": true
+      },
+      {
+        "body": "skýtá obvykle nižší bezpečnost než karta s mag. proužkem (bez čipu).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Při podpisu s obnovou dat platí:",
+    "answers": [
+      {
+        "body": "Podepisovaná data lze z podpisu obnovit při znalosti soukromého klíče.",
+        "right": false
+      },
+      {
+        "body": "Podepisovaná data nejsou součástí podpisu, je nutné je obnovit nezávislým komunikačním kanálem.",
+        "right": false
+      },
+      {
+        "body": "Podepisovaná data mohou být obnovena kýmkoli, kdo vlastní příslušný veřejný klíč.",
+        "right": true
+      },
+      {
+        "body": "Podpis obsahuje i podepisovaná data.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z následujících tvrzení platí:",
+    "answers": [
+      {
+        "body": "integrita zaručuje důvěrnost.",
+        "right": false
+      },
+      {
+        "body": "důvěrnost zaručuje integritu.",
+        "right": false
+      },
+      {
+        "body": "neplatí ani jedno tvrzení.",
+        "right": true
+      },
+      {
+        "body": "silná integrita zaručuje důvěrnost.",
+        "right": false
+      },
+      {
+        "body": "prokazatelná zodpovědnost vyžaduje důvěrnost.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Poskytuje TOR testování integrity přenášených dat?",
+    "answers": [
+      {
+        "body": "Ne, proč bychom něco takového potřebovali, stačí zaručená anonymita.",
+        "right": false
+      },
+      {
+        "body": "Ano, je to obrana proti tagging útokům.",
+        "right": true
+      },
+      {
+        "body": "Ano, je to vylepšení oproti původnímu návrhu Onion Routing systémů.",
+        "right": true
+      },
+      {
+        "body": "Ano, je to obrana proti mig-in-the-middle útokům.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co patří mezi cíle bezpečnostní politiky?",
+    "answers": [
+      {
+        "body": "Identifikovat ochraňované prostředky firmy.",
+        "right": false
+      },
+      {
+        "body": "Přenést odpovědnost na třetí strany.",
+        "right": false
+      },
+      {
+        "body": "Eliminovat všechny útočníky.",
+        "right": false
+      },
+      {
+        "body": "Minimalizace (kontrola) rizik.",
+        "right": true
+      },
+      {
+        "body": "Stanovení strategie pro použití bezpečnostních funkcí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Protože standard GSM obsahoval bezpečnostní chyby,",
+    "answers": [
+      {
+        "body": "byl navržen protokol 3GSM.",
+        "right": true
+      },
+      {
+        "body": "začalo se v některých zemích používat GSM šifrování SMS zpráv (hlasová data se už tak těžko zpracovávají).",
+        "right": false
+      },
+      {
+        "body": "začalo se v některých zemích používat GSM šifrování hlasových přenosů a SMS zpráv.",
+        "right": false
+      },
+      {
+        "body": "byl navržen protokol 4GSM, ve kterém se šifruje novou symetrickou šifrou SHA-3.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V případě, že nespokojení uživatelé jsou \"menší zlo\" než neoprávnění uživatelé, nastavíme biometrický systém tak, že bude mít FAR (False Acceptance Rate) a FRR (False Rejection Rate):",
+    "answers": [
+      {
+        "body": "nízkou hodnotu FRR a nízkou hodnotu FAR.",
+        "right": false
+      },
+      {
+        "body": "vysokou hodnotu FRR a vysokou hodnotu FAR.",
+        "right": false
+      },
+      {
+        "body": "vysokou hodnotu FRR a nízkou hodnotu FAR.",
+        "right": true
+      },
+      {
+        "body": "vysokou hodnotu FAR a nízkou hodnotu FRR.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zákon o ochraně osobních údajů:",
+    "answers": [
+      {
+        "body": "nevztahuje se na zpracování osobních údajů, které provádí fyzická osoba výlučně pro osobní spotřebu.",
+        "right": true
+      },
+      {
+        "body": "vztahuje se na veškeré zpracování osobních údajů, ať k němu dochází automatizovaně nebo jinými prostředky.",
+        "right": true
+      },
+      {
+        "body": "nevztahuje se na nahodilé shromažďování osobních údajů, pokud tyto údaje nejsou dále zpracovávány, nebo pokud nejsou pro podnikání.",
+        "right": true
+      },
+      {
+        "body": "vztahuje se na zabezpečení zpracovávaných osobních údajů v případě automatizovaných prostředků dodávaných ze zemí mimo EU.",
+        "right": false
+      },
+      {
+        "body": "nevztahuje se na data poskytovaná dobrovolně státním institucím.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem symetrická kryptografie rozumíme:",
+    "answers": [
+      {
+        "body": "Kryptografie s využitím stejného klíče pro šifrování i dešifrování.",
+        "right": true
+      },
+      {
+        "body": "Kryptografie s takovým algoritmem, jehož všechny operace splňují matematickou vlastnost symetrie nad danou grupou.",
+        "right": false
+      },
+      {
+        "body": "Kryptografie s takovým algoritmem, který umožňuje komukoli symetricky ověřit pravost podpisu.",
+        "right": false
+      },
+      {
+        "body": "Kryptografie s využitím klíče, který je na binární úrovni symetrický.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Systém detekce průniku (IDS)",
+    "answers": [
+      {
+        "body": "je možné použít buď v síti nebo na počítači",
+        "right": false
+      },
+      {
+        "body": "je možné použít v síti i na počítači",
+        "right": true
+      },
+      {
+        "body": "poskytuje lepší ochranu než firewall",
+        "right": false
+      },
+      {
+        "body": "má smysl používat pouze jako síťový prvek, kdy detekuje a informuje o probíhajícím útoku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Chybovost biometrických systémů vyjádřená pomocí FAR (False Acceptance Rate) je:",
+    "answers": [
+      {
+        "body": "Podíl počtu neúspěšně provedených pokusů o podvod ku počtu úspěšně provedených pokusů o přihlášení do systému.",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu úspěšně provedených pokusů o podvod ku počtu všech pokusů o podvod.",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu úspěšně provedených pokusů o podvod ku počtu všech pokusů o přihlášení do systému.",
+        "right": true
+      },
+      {
+        "body": "Podíl počtu neúspěšně provedených pokusů o podvod ku počtu všech pokusů o podvod.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Chybovost biometrických systémů vyjádřená pomocí FTE (Fail to Enroll) je:",
+    "answers": [
+      {
+        "body": "Podíl počtu uživatelů, které systém zaregistroval na více než jeden pokus, ku počtu všech uživatelů systému.",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu uživatelů, které systém neverifikoval, ku počtu všech pokusů uživatelů o přihlášení do systému.",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu uživatelů, které systém zaregistroval, ku počtu uživatelů systému, které systém nezaregistroval.",
+        "right": false
+      },
+      {
+        "body": "Žádná z těchto odpovědi není správná.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Chybovost biometrických systémů vyjádřená pomocí FRR (False Rejection Rate) je:",
+    "answers": [
+      {
+        "body": "Podíl počtu akceptovaných pokusů o legitimních legitimních uživatelů ku počtu odmítnutých pokusů o přihlášení legitimních uživatelů",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu všech pokusů o přihlášení legitimních i nelegitimních uživatelů ku počtu všech pokusů o přihlášení legitimních uživatelů.",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu akceptovaných pokusů o přihlášení legitimních uživatelů ku počtu všech pokusů o verifikaci legitimních uživatelů.",
+        "right": false
+      },
+      {
+        "body": "Podíl počtu odmítnutých pokusů o přihlášení legitimních uživatelů ku počtu všech pokusů o přihlášení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Digitální podpis zajišťuje",
+    "answers": [
+      {
+        "body": "Komprimaci podepisovaných dat.",
+        "right": false
+      },
+      {
+        "body": "Platnost podepisovaných dat.",
+        "right": false
+      },
+      {
+        "body": "Důvěrnost podepisovaných dat.",
+        "right": false
+      },
+      {
+        "body": "Autentizaci podepisovaných dat.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Digitální podpis zajišťuje",
+    "answers": [
+      {
+        "body": "Integritu podepisovaných dat.",
+        "right": true
+      },
+      {
+        "body": "Obnovu privátního klíče při jeho ztrátě.",
+        "right": false
+      },
+      {
+        "body": "Důvěrnost podepisovaných dat.",
+        "right": false
+      },
+      {
+        "body": "Autorizaci podepisovaných dat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pokud má hašovací funkce vlastnost silné bezkoliznosti, znamená to, že:",
+    "answers": [
+      {
+        "body": "Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.",
+        "right": false
+      },
+      {
+        "body": "Je výpočetně neproveditelné nalézt k danému vstupu jiný vstup tak, aby byly výsledné haše pro oba vstupy stejné.",
+        "right": false
+      },
+      {
+        "body": "Je výpočetně neproveditelné nalézt dva libovolné navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.",
+        "right": true
+      },
+      {
+        "body": "Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné na alespoň 1/2 pozic.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pokud má hašovací funkce vlastnost slabé bezkoliznosti, znamená to, že:",
+    "answers": [
+      {
+        "body": "Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné na alespoň 1/2 pozic.",
+        "right": false
+      },
+      {
+        "body": "Je výpočetně neproveditelné nalézt k danému vstupu jiný vstup tak, aby byly výsledné haše pro oba vstupy stejné.",
+        "right": true
+      },
+      {
+        "body": "Nelze nalézt dva navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejná.",
+        "right": false
+      },
+      {
+        "body": "Je výpočetně neproveditelné nalézt dva libovolné navzájem různé vstupy takové, aby byly výsledné haše pro oba vstupy stejné.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících pojmů se vztahují ke Společným kritériím (CC).",
+    "answers": [
+      {
+        "body": "Subjekt hodnocení (Subject of Evaluation, SOE)",
+        "right": false
+      },
+      {
+        "body": "Profil bezpečnosti (Protection Profile, PP)",
+        "right": true
+      },
+      {
+        "body": "Specifikace síťové bezpečnosti (Network Security Target, NST)",
+        "right": false
+      },
+      {
+        "body": "Předmět hodnocení (Target of Evaluation, TOE)",
+        "right": true
+      },
+      {
+        "body": "Specifikace bezpečnosti (Security Target, ST)",
+        "right": true
+      },
+      {
+        "body": "Profil prokazatelné bezpečnosti (Provable Protection Profile, PPP)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Citlivé osobní údaje dle české legislativy vypovídají o:",
+    "answers": [
+      {
+        "body": "zdravotním stavu.",
+        "right": true
+      },
+      {
+        "body": "postoji k trestné činnosti rodinných příslušníků.",
+        "right": false
+      },
+      {
+        "body": "majetkových poměrech státních úředníků.",
+        "right": false
+      },
+      {
+        "body": "sexuální orientaci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základní metody autentizace uživatelů jsou založeny na něčem, co",
+    "answers": [
+      {
+        "body": "vím.",
+        "right": true
+      },
+      {
+        "body": "smím.",
+        "right": false
+      },
+      {
+        "body": "mám.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z jakého důvodu se doporučuje podepisovat vlastní veřejný klíč privátním klíčem:",
+    "answers": [
+      {
+        "body": "pro zvýšení entropie veřejného klíče.",
+        "right": false
+      },
+      {
+        "body": "pro zajištění jeho integrity.",
+        "right": true
+      },
+      {
+        "body": "nedoporučuje se.",
+        "right": false
+      },
+      {
+        "body": "pro zvýšení jeho důvěryhodnosti o vyšší počet podpisů.",
+        "right": false
+      },
+      {
+        "body": "pro zarovnání délky veřejného klíče na hodnotu dělitelnou délkou veřejného modula.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V případě nepozorovatelnosti (unobservability) je ochraňovanou hodnotou?",
+    "answers": [
+      {
+        "body": "Informace o překročení přiděleného procesorového času pro použití nabízených zdrojů a služeb.",
+        "right": false
+      },
+      {
+        "body": "Informace o přihlášených uživatelích.",
+        "right": false
+      },
+      {
+        "body": "Informace o použití zdrojů a služeb.",
+        "right": true
+      },
+      {
+        "body": "Informace o aplikovaných bezpečnostních opatřeních systému (např. nastavení pravidel firewallu).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Proti obecným OR (Onion Routing) sítím přináší TOR navíc",
+    "answers": [
+      {
+        "body": "poskytuje téměř real-time anonymní spojení pro různé služby.",
+        "right": false
+      },
+      {
+        "body": "podporu šifrování dat proudovou šifrou se symetrickým klíčem.",
+        "right": false
+      },
+      {
+        "body": "adresářové servery s informacemi o jednotlivých routerech.",
+        "right": true
+      },
+      {
+        "body": "podporu skrytých služeb a míst setkání.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z uvedených tvrzení jsou pravdivá?",
+    "answers": [
+      {
+        "body": "Symetrická kryptografie se využívá pouze pro šifrování, zatímco asymetrická pouze k podepisování.",
+        "right": false
+      },
+      {
+        "body": "Pokud chceme využít asymetrickou kryptografii k šifrování, musí zůstat oba klíče utajeny.",
+        "right": false
+      },
+      {
+        "body": "Teoreticky lze použít asymetrickou kryptografii i k šifrování, ale v praxi se toho nevyužívá.",
+        "right": false
+      },
+      {
+        "body": "Symetrická kryptografie využívá jeden klíč sdílený mezi dvěma a více uživateli.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co je to odvození (inference)?",
+    "answers": [
+      {
+        "body": "Odvozením získáváme nepřímý přístup k informacím bez přímého přístupu k datům, která tyto informace reprezentují.",
+        "right": true
+      },
+      {
+        "body": "Odvození nových informací se stejnou citlivostí zpracováním a analýzou skupiny informaci určité citlivosti.",
+        "right": false
+      },
+      {
+        "body": "Opak agregace.",
+        "right": false
+      },
+      {
+        "body": "Odvození informací o vyšší citlivosti zpracováním a analýzou skupiny informací o nižší citlivosti.",
+        "right": true
+      },
+      {
+        "body": "Odvození nových informací s nižší citlivostí zpracováním a analýzou skupiny informací o vyšší citlivosti.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem dostupnost dat rozumíme",
+    "answers": [
+      {
+        "body": "Data by měla být dostupná i neautorizované osobě v případě kritické události.",
+        "right": false
+      },
+      {
+        "body": "Průběh autentizace osoby pro práci s daty a službami by měl být dostupný i lidem se sníženou pracovní schopností.",
+        "right": false
+      },
+      {
+        "body": "Uživatelé by měly mít přístup k datům a službám co nejméně komplikovaný.",
+        "right": false
+      },
+      {
+        "body": "Autorizovaní uživatelé by měly mít přístup k datům a službám co nejméně komplikovaný.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Systémy měnící tok a výskyt dat na komunikačním kanálu se nazývají",
+    "answers": [
+      {
+        "body": "mixy.",
+        "right": true
+      },
+      {
+        "body": "anonymitní.",
+        "right": true
+      },
+      {
+        "body": "mutexy.",
+        "right": false
+      },
+      {
+        "body": "minixy.",
+        "right": false
+      },
+      {
+        "body": "minmaxy.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bezpečnostní politika zahrnuje",
+    "answers": [
+      {
+        "body": "Specifikaci technologických opatření kterými budou prosazovány bezpečnostní požadavky společnosti",
+        "right": false
+      },
+      {
+        "body": "Seznam konkrétních osob, které mají povoleno přistupovat k citlivým datům společnosti.",
+        "right": false
+      },
+      {
+        "body": "Požadavky, pravidla a postupy určující způsob ochrany a zacházení s hodnotami společnosti.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Protokoly SSL/TLS",
+    "answers": [
+      {
+        "body": "není snadné integrovat do již existujících aplikací.",
+        "right": false
+      },
+      {
+        "body": "se chovají k protokolům aplikační vrstvy OSI modelu transparentně.",
+        "right": true
+      },
+      {
+        "body": "není vhodné používat ve starších operačních systémech pro 32bitové procesory.",
+        "right": false
+      },
+      {
+        "body": "nepředstavují zvýšené nároky na výpočetní výkon komunikujících stran.",
+        "right": false
+      },
+      {
+        "body": "vyžadují zajištění vhodného systému správy (kryptografických) klíčů.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základní metody autentizace uživatelů jsou založeny na něčem, co",
+    "answers": [
+      {
+        "body": "nelze jednoduše zničit.",
+        "right": false
+      },
+      {
+        "body": "znám.",
+        "right": true
+      },
+      {
+        "body": "jsem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co je to perturbační technika používaná ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": false
+      },
+      {
+        "body": "Pro vyhodnocení dotazu nesmí být použito více záznamu než je stanovená maximální (perturbační) mez.",
+        "right": false
+      },
+      {
+        "body": "Technika stavějící např. na zaokrouhlování mezivýsledků dotazů.",
+        "right": true
+      },
+      {
+        "body": "Technika umožňující zjistit konzistentní, ale ne spolehlivé odpovědi na sérii podobných dotazů.",
+        "right": true
+      },
+      {
+        "body": "Přidávání pseudonáhodného \"šumu\" k množině záznamů, na jejichž základě se vyhodnotí dotaz.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z těchto tvrzení jsou správná?",
+    "answers": [
+      {
+        "body": "Se zvýšením FAR se zvyšuje FRR.",
+        "right": false
+      },
+      {
+        "body": "Se snížením FAR se zvyšuje FRR.",
+        "right": true
+      },
+      {
+        "body": "Se zvýšením FAR (False Acceptance Rate) se snižuje FRR (False Reject Rate).",
+        "right": true
+      },
+      {
+        "body": "Se snížením FAR se snižuje FRR.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je výsledkem hodnocení systému podle Společných kritéríí (CC)?",
+    "answers": [
+      {
+        "body": "Popis, jakým způsobem je v hodnoceném systému dosaženo daných vlastností",
+        "right": false
+      },
+      {
+        "body": "Subjektivní (ze strany hodnotitele) hodnocení bezpečnosti systému",
+        "right": false
+      },
+      {
+        "body": "Sada doporučení, jak hodnocený systém zabezpečit",
+        "right": false
+      },
+      {
+        "body": "Diskrétní hodnocení (ano/ne) daných požadavků na hodnocený systém",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem hybridní kryptosystémy rozumíme například",
+    "answers": [
+      {
+        "body": "Data jsou před podpisem zašifrována algoritmem asymetrické kryptografie.",
+        "right": false
+      },
+      {
+        "body": "Data jsou šifrována náhodným symetrickým klíčem, ten je šifrován veřejným klíčem příjemce.",
+        "right": true
+      },
+      {
+        "body": "Data jsou před šifrováním algoritmem symetrické kryptografie hašována, šifrována je pouze výsledná haš.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi bezpečnostní požadavky podle standardu pro hodnocení kryptografických modulů FIPS 140-1/2 patří:",
+    "answers": [
+      {
+        "body": "Fyzická bezpečnost",
+        "right": true
+      },
+      {
+        "body": "Rozhraní modulu",
+        "right": true
+      },
+      {
+        "body": "Bezpečnost O/S",
+        "right": true
+      },
+      {
+        "body": "Testování GUI modulu",
+        "right": false
+      },
+      {
+        "body": "Služby a autentizace",
+        "right": true
+      },
+      {
+        "body": "Odolnost vůči lidskému faktoru",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bezpečnost je založena především na",
+    "answers": [
+      {
+        "body": "prevenci, detekci a reakci na možné problémy",
+        "right": true
+      },
+      {
+        "body": "správném nastavení bezpečnosti sítě i koncových stanic",
+        "right": false
+      },
+      {
+        "body": "aktualizovaném antiviru a správně nastaveném firewallu, příp. i využití PGP",
+        "right": false
+      },
+      {
+        "body": "dohodě s uživateli",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi bezpečnostní požadavky podle standardu pro hodnocení kryptografických modulů FIPS 140- 1/2 patří:",
+    "answers": [
+      {
+        "body": "Elektromagnetická rezonance",
+        "right": false
+      },
+      {
+        "body": "Správa klíčů",
+        "right": true
+      },
+      {
+        "body": "Služby a autentizace",
+        "right": true
+      },
+      {
+        "body": "Rozhraní modulu",
+        "right": true
+      },
+      {
+        "body": "Flexibilita modulu",
+        "right": false
+      },
+      {
+        "body": "Metody pro zmírnění jiných útoků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cibulové schéma používané např. v Onion Routing",
+    "answers": [
+      {
+        "body": "využívá symetrické i asymetrické kryptografie",
+        "right": true
+      },
+      {
+        "body": "používá pouze asymetrickou kryptografii",
+        "right": false
+      },
+      {
+        "body": "používá pouze symetrickou kryptografii, protože je rychlejší",
+        "right": false
+      },
+      {
+        "body": "kryptografie se nepoužívá vůbec, není potřeba",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z těchto tvrzení, pokud mluvíme o biometrických systémech, jsou správná?",
+    "answers": [
+      {
+        "body": "Proces identifikace je náročnější než proces verifikace.",
+        "right": true
+      },
+      {
+        "body": "Na začátku procesu verifikace není identita známa.",
+        "right": false
+      },
+      {
+        "body": "Na začátku procesu verifikace je identita známa.",
+        "right": true
+      },
+      {
+        "body": "Proces verifikace je náročnější než proces identifikace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je cílem zajištění důvěrnosti dat?",
+    "answers": [
+      {
+        "body": "Utajit existenci sémantiky dat před nedůvěryhodnými osobami",
+        "right": false
+      },
+      {
+        "body": "Zamezit změně sémantického obsahu dat neautorizovanými osobami",
+        "right": false
+      },
+      {
+        "body": "Zabránit zjištění sémantického obsahu dat neutorizovanými osobami",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Autentizace je",
+    "answers": [
+      {
+        "body": "překlep - správně je \"autorizace\"",
+        "right": false
+      },
+      {
+        "body": "volitelná (ale obvykle přítomná) fáze procesu prokazování identity",
+        "right": false
+      },
+      {
+        "body": "všechny ostatní možnosti jsou nepravdivé",
+        "right": true
+      },
+      {
+        "body": "proces nezbytný pro ustavení šifrované komunikace u bezdrátového spojení",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Systém detekce průniku (IDS)",
+    "answers": [
+      {
+        "body": "je možné použít buď v síti nebo na počítači",
+        "right": false
+      },
+      {
+        "body": "má smysl používat pouze jako síťový prvek, kdy detekuje a informuje o probíhajícím útoku",
+        "right": false
+      },
+      {
+        "body": "je možné použít v síti i na počítači",
+        "right": true
+      },
+      {
+        "body": "poskytuje lepší ochranu než firewall",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které tvrzení je správné:",
+    "answers": [
+      {
+        "body": "Při TLS/SSL \"Handshake\" se povinně kontrolují certifikáty obou stran.",
+        "right": false
+      },
+      {
+        "body": "\"Record\" protokol dovoluje předávat/ukládat nezabezpečená data pro potřeby vlády USA, podle §708, odstavce 17 zákona o vnitřní bezpečnosti.",
+        "right": false
+      },
+      {
+        "body": "TLS/SSL \"Handshake\" protokol slouží k ustavení zabezpečeného spojení, \"Record\" protokol představuje základní vrstvu.",
+        "right": true
+      },
+      {
+        "body": "Při TLS/SSL \"Handshake\" se provádí autentizace uživatele heslem.",
+        "right": false
+      },
+      {
+        "body": "Použití TLS/SSL \"Handshake\" protokolu je volitelné v závislosti na požadavcích klienta a serveru.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Podle čeho je určen počet kol/rund u algoritmu Rijndael.",
+    "answers": [
+      {
+        "body": "Délka bloku",
+        "right": false
+      },
+      {
+        "body": "Délka klíče a bloku",
+        "right": false
+      },
+      {
+        "body": "Inicializační vektor",
+        "right": false
+      },
+      {
+        "body": "Inicializační vektor a délka bloku",
+        "right": false
+      },
+      {
+        "body": "Délka zprávy",
+        "right": false
+      },
+      {
+        "body": "Délka klíče",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pseudonymita (podle A.Pfitzmanna - mixy) znamená:",
+    "answers": [
+      {
+        "body": "Používání pseudonymu jako identifikátoru (ID)",
+        "right": true
+      },
+      {
+        "body": "Bytí anonymním s možností zpětného zjistění skutečné identity",
+        "right": false
+      },
+      {
+        "body": "Bytí anonymním pouze vůči uživatelům systému, nikoli vůči administrátorům",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem slabá integrita dat rozumíme",
+    "answers": [
+      {
+        "body": "Data nesmí bez svolení autorizované osoby změnit svůj stav vůbec",
+        "right": false
+      },
+      {
+        "body": "Data nesmí bez svolení autorizované osoby nepozorovaně změnit svůj stav",
+        "right": true
+      },
+      {
+        "body": "Data nesmí být bez svolení autorizované osoby zpracovávána na sémantické úrovni",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co jsou (z pohledu uživatele) dvě nejméně bezpečné součásti dnešních platebních systémů?",
+    "answers": [
+      {
+        "body": "Čipová karta s magnetickým proužkem",
+        "right": true
+      },
+      {
+        "body": "Bankomat",
+        "right": false
+      },
+      {
+        "body": "Platební terminál",
+        "right": true
+      },
+      {
+        "body": "Čipová karta",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jaký je v dnešních platebních systémech pro zákazníka největší bezpečnostní problém?",
+    "answers": [
+      {
+        "body": "Banky už v 90. letech zavrhly používání bezpečného protokolu SET (Secure Electronic Transaction).",
+        "right": false
+      },
+      {
+        "body": "Napěťové útoky jsou snadnou a efektivní cestou jak obejít bezpečnostní mechanizmy čipu na platební kartě.",
+        "right": false
+      },
+      {
+        "body": "Současný systém funguje tak, že zákazníkovi nezaručuje vazbu mezi zobrazovanou a potvrzovanou transakcí.",
+        "right": true
+      },
+      {
+        "body": "Zákazníci sami se chovají nezodpovědně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je to kritický dotaz ve statistické databázi?",
+    "answers": [
+      {
+        "body": "Dotaz, který databáze nesmí vyhodnotit, neboť by tím došlo ke zjištění informací o jednotlivci nebo malé skupině osob.",
+        "right": true
+      },
+      {
+        "body": "Dotaz, jehož vyhodnocení trvá dlouhou dobu a vyžaduje veškerou výpočetní sílu databáze, která se v tím může stát nedostupnou pro ostatní dotazy.",
+        "right": false
+      },
+      {
+        "body": "Sekvence složená z legitimních dotazů na statistickou databázi s cílem získat informace o jednotlivci nebo malé skupině osob.",
+        "right": true
+      },
+      {
+        "body": "Dotaz, který může být položen pouze v okamžiku, kdy v databázi neprobíhají žádné aktualizace dat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro anonymitní komunikační sítě platí:",
+    "answers": [
+      {
+        "body": "dosažená anonymita je aplikačně nezávislá",
+        "right": false
+      },
+      {
+        "body": "obsah posílaných zpráv není mezi uzly šifrován",
+        "right": false
+      },
+      {
+        "body": "mohou být náchylné vůči analýze provozu",
+        "right": true
+      },
+      {
+        "body": "vstupy nelze jednoduše spojit s výstupy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Projekt AN.ON poskytuje stejné služby jako",
+    "answers": [
+      {
+        "body": "Mixmaster",
+        "right": false
+      },
+      {
+        "body": "Onion routing.",
+        "right": true
+      },
+      {
+        "body": "Mixminion.",
+        "right": false
+      },
+      {
+        "body": "TOR",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících metod lze využít k analýze rizik?",
+    "answers": [
+      {
+        "body": "Metoda AES (Advanced Evaluation Standard)",
+        "right": false
+      },
+      {
+        "body": "Metoda ALE (Annual Loss Expentancy)",
+        "right": true
+      },
+      {
+        "body": "Metoda ARO (Annualized Rate of Occurence)",
+        "right": false
+      },
+      {
+        "body": "Metoda BPA (Business Process Analysis)",
+        "right": true
+      },
+      {
+        "body": "Metoda RSA (Risk System Analysis)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Certifikát veřejného klíče (nař. X.509) vydaný důvěryhodnou certifikační autoritou umožňuje",
+    "answers": [
+      {
+        "body": "Získat veřejný klíč konkrétního uživatele",
+        "right": true
+      },
+      {
+        "body": "Zabránit ztrátě privátního klíče",
+        "right": false
+      },
+      {
+        "body": "Ověřit identitu předkladatele veřejného klíče",
+        "right": true
+      },
+      {
+        "body": "Získat přístup k šifrovaným datům konkrétního uživatele v kritické situaci oprávněnou organizací",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících protokolů brání tomu, aby se ten komu jednou prokážete znalost tajné informace nemohl později vydávat za vás:",
+    "answers": [
+      {
+        "body": "protokol, založený na důkazu nulového rozšíření znalosti (zero-knowledge).",
+        "right": true
+      },
+      {
+        "body": "protokol, který používá šifrování pro zabezpečení přenosu autentizačních dat.",
+        "right": false
+      },
+      {
+        "body": "protokol typu výzva-odpověď (challenge-response), který využije asymetrickou kryptografii jen pro podpis, nikoliv ale pro šifrování.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jak ověříme pravost certifikátu vydaného důvěryhodnou certifikační autoritou?",
+    "answers": [
+      {
+        "body": "Využijeme meta-certifikátu certifikační autority.",
+        "right": false
+      },
+      {
+        "body": "Ověříme zda se shoduje název certifikační autority s názvem uvedeným na daném certifikátu.",
+        "right": false
+      },
+      {
+        "body": "Ověříme zda je certifikát podepsán danou certifikační autoritou.",
+        "right": true
+      },
+      {
+        "body": "Ověříme, zda je haš certifikátu shodná s haší uvedenou v certifikátu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pokud existuje v systému zranitelnost a existuje útočník, který ji může využít, výsledný stav je nazýván: ",
+    "answers": [
+      {
+        "body": "hrozba",
+        "right": true
+      },
+      {
+        "body": "zranitelnost",
+        "right": false
+      },
+      {
+        "body": "útok",
+        "right": false
+      },
+      {
+        "body": "riziko",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pojmem tranzitivita důvěry označujeme:",
+    "answers": [
+      {
+        "body": "důvěru cizího uživatele X v náš veřejný klíč, pokud mu důvěřuje uživatel Y, kterému kterým důvěřuje uživatel X.",
+        "right": true
+      },
+      {
+        "body": "důvěru uživatele X v náš veřejný klíč, pokud my důvěřujeme jeho veřejnému klíči. takový termín neexistuje.",
+        "right": false
+      },
+      {
+        "body": "důvěru ve veřejný klíč uživatele X, kterému důvěřuje uživatel Y, kterému důvěřujeme my.",
+        "right": true
+      },
+      {
+        "body": "důvěru v propagaci našeho veřejného klíče od uživatele X na uživatele Y.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Proč platební karty s čipem mají magnetický proužek?",
+    "answers": [
+      {
+        "body": "Kvůli zpětně kompatibilitě.",
+        "right": true
+      },
+      {
+        "body": "Čip provádí kryptografické operace nad daty uloženými na magnetickém proužku.",
+        "right": false
+      },
+      {
+        "body": "Žádná z těchto odpovědí není správná.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Kdy je dosažen EER (Equal Error Rate) v biometrických systémech?",
+    "answers": [
+      {
+        "body": "Nastavení prahové hodnoty, pro kterou je FAR/FRR rovno 0.8.",
+        "right": false
+      },
+      {
+        "body": "Nastavení prahové hodnoty, pro kterou je FRR/FAR rovno 0.8.",
+        "right": false
+      },
+      {
+        "body": "Nastavení prahové hodnoty, pro kterou FRR a FAR jsou stejné.",
+        "right": true
+      },
+      {
+        "body": "Nastavení prahové hodnoty, pro kterou je FRR roven 1.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Povinnosti správce osobních údajů:",
+    "answers": [
+      {
+        "body": "archivovat data kódovaně, není-li řečeno jinak",
+        "right": false
+      },
+      {
+        "body": "uchovávat data pouze po dobu nezbytnou k jejich zpracování",
+        "right": true
+      },
+      {
+        "body": "shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění stanoveného účelu.",
+        "right": true
+      },
+      {
+        "body": "vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Povinnosti spravce osobnich udaju:",
+    "answers": [
+      {
+        "body": "vkladat falesne zaznamy, aby v pripade kradeze dat nebylo mozne snadno posoudit jejich validitu",
+        "right": false
+      },
+      {
+        "body": "neposkytovat data tretim stranam pred sepsanim Smlouvy o poskytnuti osobnich datech",
+        "right": false
+      },
+      {
+        "body": "stanovit prostredky a zpusob zpracovavani osobnich udaju",
+        "right": true
+      },
+      {
+        "body": "archivovat data kodovane, nenili urceno jinak",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která technika není platná pro anonymitní komunikační sítě:",
+    "answers": [
+      {
+        "body": "přeuspořádávání zpráv v rámci uzlu",
+        "right": false
+      },
+      {
+        "body": "šifrování zpráv mezi uzly algoritmem RSA s délkou klíče závislou na počtu uzlů",
+        "right": true
+      },
+      {
+        "body": "pozastavování přijatých zpráv",
+        "right": false
+      },
+      {
+        "body": "v čase nedeterministické odesílání přijatých zpráv",
+        "right": false
+      },
+      {
+        "body": "využívání minixů pro přeposílání zpráv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "K čemu se používají systémy řízení identity (IMS)?",
+    "answers": [
+      {
+        "body": "Systém pro správu veřejných klíčů s identifikátory",
+        "right": false
+      },
+      {
+        "body": "K návrhu a správě atributů identity",
+        "right": true
+      },
+      {
+        "body": "K dlouhodobé archivaci odcizených identifikačních průkazů",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi obvykla bezpecnostni politiky patri:Interaplikační bezpečnostni politika",
+    "answers": [
+      {
+        "body": "Interaplikační bezpečnostni politika",
+        "right": false
+      },
+      {
+        "body": "Integrovana bezpecnostni politika",
+        "right": false
+      },
+      {
+        "body": "Horizontalní bezpecnostni politika",
+        "right": false
+      },
+      {
+        "body": "Celkova bezpecnostni politika",
+        "right": true
+      },
+      {
+        "body": "Systemova bezpecnostni politika",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Problém živosti pro vstupní zařízení spočívá v tom, že:",
+    "answers": [
+      {
+        "body": "Žádná z těchto odpovědi není správná.",
+        "right": false
+      },
+      {
+        "body": "Vstupní zařízení není schopno určit, zda vzorek je právě od osoby, která stojí u vstupního zařízení.",
+        "right": false
+      },
+      {
+        "body": "Vstupní zařízení není schopno určit, zda vzorek je od živé osoby.",
+        "right": true
+      },
+      {
+        "body": "Osoba, která se přihlašuje u vstupního zařízení není schopná určit kam její vzorek bude přeposláno.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pokud neautorizovaná osoba zjistí sémantický obsahu chráněných dat, jedná se o narušení",
+    "answers": [
+      {
+        "body": "důvěrnosti",
+        "right": true
+      },
+      {
+        "body": "integrity",
+        "right": false
+      },
+      {
+        "body": "dostupnosti",
+        "right": false
+      },
+      {
+        "body": "prokazatelné zodpovědnosti",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Obvykle nejmene bezpecnym bodem behem prubehu autentizace v internetovem bankovnictvi je:",
+    "answers": [
+      {
+        "body": "autentizace banky",
+        "right": true
+      },
+      {
+        "body": "autentizace pocitace klienta",
+        "right": false
+      },
+      {
+        "body": "autentizace klienta",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Cílem projektu Eternity server je",
+    "answers": [
+      {
+        "body": "navrhnout službu, která je odolná vůči útoku typu Denial of Service",
+        "right": false
+      },
+      {
+        "body": "poskytnout trvalé úložiště dat",
+        "right": true
+      },
+      {
+        "body": "poskytnout trvalé úložiště dat s operacemi uložit, nalézt a smazat",
+        "right": false
+      },
+      {
+        "body": "vytvořit datové úložiště, které je odolné vůči výpadkům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaký je v dnešních platebních systémech pro zákazníka největší bezpečnostní problém?",
+    "answers": [
+      {
+        "body": "Zákazníci sami se chovají nezodpovědně.",
+        "right": false
+      },
+      {
+        "body": "Banky už v 90. letech zavrhly používání bezpečného protokolu SET (Secure Electronic Transaction).",
+        "right": false
+      },
+      {
+        "body": "Napěťové útoky jsou snadnou a efektivní cestou jak obejít bezpečnostní mechanizmy čipu na platební kartě.",
+        "right": false
+      },
+      {
+        "body": "Současný systém funguje tak, že zákazníkovi nezaručuje vazbu mezi zobrazovanou a potvrzovanou transakcí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "PGP umožňuje nastavit úroveň důvěry pro konkrétní veřejný klíč. Toto nastavení se používá pro:",
+    "answers": [
+      {
+        "body": "filtrování zpráv, které mohou být poslány danému uživateli.",
+        "right": false
+      },
+      {
+        "body": "indikaci důvěry v původ dat podepsaných vlastníkem odpovídajícího privátního klíče",
+        "right": true
+      },
+      {
+        "body": "indikaci důvěry v původ dat podepsaných daným veřejným klíčem.",
+        "right": false
+      },
+      {
+        "body": "kontrolu skupiny lidí, které může být distribuován náš veřejný klíč.",
+        "right": false
+      },
+      {
+        "body": "indikaci důvěry v klíč na základě jeho bitové velikosti.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z těchto tvrzení jsou správná?",
+    "answers": [
+      {
+        "body": "Kopírování měřených biologických charakteristik člověka není sice triviální, ale ani nemožné.",
+        "right": true
+      },
+      {
+        "body": "Biometrická data jsou tajná.",
+        "right": false
+      },
+      {
+        "body": "Biometriky po analýze s využitím kryptogragie o subjektu zprávy vypovídají.",
+        "right": false
+      },
+      {
+        "body": "Biometriky v ideálním případě určují identitu člověka přesně a lze tak spojovat jednotlivě jeho činy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Existuje nějaký útok na službu TOR, který sníží anonymitu uživatelů?",
+    "answers": [
+      {
+        "body": "Ano, existuje útok, který může snížit anonymitu uživatelů.",
+        "right": true
+      },
+      {
+        "body": "Ano, existuje útok, který stoprocentně \"odanonymizuje\" všechny uživatele.",
+        "right": false
+      },
+      {
+        "body": "Ne, TOR je navržen tak, aby odolal všem znamým i neznámým typům útoků.",
+        "right": false
+      },
+      {
+        "body": "Ne, žádný takový útok zatím není znám.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z těchto tvrzení, pokud mluvíme o biometrických systémech, jsou správná?",
+    "answers": [
+      {
+        "body": "Proces verifikace je náročnější než proces identifikace.",
+        "right": false
+      },
+      {
+        "body": "Na začátku procesu verifikace není identita známa.",
+        "right": false
+      },
+      {
+        "body": "Na začátku procesu verifikace je identita známa.",
+        "right": true
+      },
+      {
+        "body": "Proces identifikace je náročnější než proces verifikace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Kerckhoffsův princip v současnosti neplatí:",
+    "answers": [
+      {
+        "body": "Anžto dokážeme hrubou silou prolomit klíče o délce větší než 80 bitů.",
+        "right": false
+      },
+      {
+        "body": "Jelikož současné délky klíčů neumožňují efektivní útoky hrubou silou.",
+        "right": false
+      },
+      {
+        "body": "Protože dokážeme účinně utajovat šifrovací algoritmy.",
+        "right": false
+      },
+      {
+        "body": "Nesmysl, Kerckhoffsův princip platí i v současnosti.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kerckhoffsův princip říká, že:",
+    "answers": [
+      {
+        "body": "Použitý algoritmus je veřejně znám, utajován je pouze klíč.",
+        "right": true
+      },
+      {
+        "body": "Klíč není třeba utajovat, pokud je použitý algoritmus veřejně znám.",
+        "right": false
+      },
+      {
+        "body": "Použitý algoritmus je přístupný pouze autorizovaným osobám, klíč je utajován.",
+        "right": false
+      },
+      {
+        "body": "Klíč není třeba utajovat, pokud použitý algoritmus je také tajný.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Projekt AN.ON poskytuje stejné služby jako",
+    "answers": [
+      {
+        "body": "Onion routing.",
+        "right": true
+      },
+      {
+        "body": "Mixmaster.",
+        "right": false
+      },
+      {
+        "body": "Mixminion.",
+        "right": false
+      },
+      {
+        "body": "TOR.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co je to statistická databáze?",
+    "answers": [
+      {
+        "body": "Databáze, která umožňuje získávat statistické informace o jednotlivcích.",
+        "right": false
+      },
+      {
+        "body": "Databáze, která obsahuje informace o jednotlivcích, ale povoluje pouze statistické dotazy, tj. nedovolí získat informace o jednotlivcích.",
+        "right": true
+      },
+      {
+        "body": "Databáze, která je dohledována Českým statistickým úřadem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Analýza a hodnocení hrozeb zahrnuje:",
+    "answers": [
+      {
+        "body": "Rozvahu, co všechno by mělo být chráněno.",
+        "right": true
+      },
+      {
+        "body": "Pravidla a postupy, určující způsob ochrany a zacházení s ochraňovanými hodnotami.",
+        "right": false
+      },
+      {
+        "body": "Techniky pro implementaci bezpečnostních funkcí chránících ochraňované hodnoty.",
+        "right": false
+      },
+      {
+        "body": "Vyhodnocení, jaké hrozby hrozí ochraňovaným hodnotám.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Bezpečnostní politika je",
+    "answers": [
+      {
+        "body": "Dokument schválený vrcholovým managementem a specifikující využití IT pro zajištění cílů organizace.",
+        "right": false
+      },
+      {
+        "body": "Soubor opatření a mechanizmů potřebných k dosažení požadované minimální úrovně prevence a detekce zranitelností.",
+        "right": false
+      },
+      {
+        "body": "Dokument schválený členem představenstva a stanovující přesná pravidla pro zajištění technických i lidských zdrojů pro využití IT pro zajištění cílů organizace.",
+        "right": false
+      },
+      {
+        "body": "Soubor pravidel specifikující účinný způsob uplatňování opatření potřebných k dosažení požadované minimální úrovně rizik.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Klasické odemykání zámku na dveřích klíčem",
+    "answers": [
+      {
+        "body": "spadá pod autentizační procedury.",
+        "right": true
+      },
+      {
+        "body": "nespadá pod autentizaci (klíč není ani něco, co znám, vím, ani něco, co \"jsem\").",
+        "right": false
+      },
+      {
+        "body": "spadá pod autentizační procedury, ale jen když klíč do zámku pasuje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jakým způsobem je prováděna analýza rizik metodou CRAMM?",
+    "answers": [
+      {
+        "body": "Infrastrukturní přístup: identifikace a ocenění hodnot zohledňující zejména investice a rizika infrastruktury",
+        "right": false
+      },
+      {
+        "body": "Nestrukturovaný přístup: vytvoření tabulky rizik a zranitelností na základě spirálového modelu.",
+        "right": false
+      },
+      {
+        "body": "Nestrukturovaný přístup: inkrementální odhad hrozeb a zranitelností hodnot na základě rozšířeného spirálového modelu.",
+        "right": false
+      },
+      {
+        "body": "Strukturovaný přístup: i. identifikace a ocenění hodnot; ii. odhad hrozeb a zranitelností hodnot; iii. výběr vhodných protiopatření.",
+        "right": true
+      },
+      {
+        "body": "Strukturovaný přístup: i. odhad hrozeb a zranitelností hodnot; ii. naprogramování vhodných protiopatření.",
+        "right": false
+      },
+      {
+        "body": "Adhoc přístup: odhad hrozeb a zranitelností hodnot na základě běžného seznamu aktiv (metoda lze paralelizovat).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro emailové zprávy posílané pomocí systému Mixminion platí",
+    "answers": [
+      {
+        "body": "jsou anonymní.",
+        "right": true
+      },
+      {
+        "body": "je možné na ně v určitém časovém rámci odpovědět",
+        "right": true
+      },
+      {
+        "body": "uživatel specifikuje cestu po síti.",
+        "right": true
+      },
+      {
+        "body": "odpovědi jsou v systému doručovány odlišně od normálních emailů.",
+        "right": false
+      },
+      {
+        "body": "hlavičky mailů nejsou modifikovány.",
+        "right": false
+      },
+      {
+        "body": "jsou pseudonymní.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Tvrzení \"Využití služby pro neautorizovaný přístup\" by mohlo označovat",
+    "answers": [
+      {
+        "body": "riziko.",
+        "right": false
+      },
+      {
+        "body": "zranitelnost.",
+        "right": false
+      },
+      {
+        "body": "hrozbu.",
+        "right": true
+      },
+      {
+        "body": "útok.",
+        "right": false
+      },
+      {
+        "body": "bezpečnostní politiku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Podezřelé chování v síti zjistíte",
+    "answers": [
+      {
+        "body": "antivirovým programem.",
+        "right": false
+      },
+      {
+        "body": "honeypotem.",
+        "right": true
+      },
+      {
+        "body": "antispyware programem.",
+        "right": false
+      },
+      {
+        "body": "IDS.",
+        "right": true
+      },
+      {
+        "body": "firewallem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaký je rozdíl mezi termíny security a safety?",
+    "answers": [
+      {
+        "body": "Je to to samé, čeština používá jen jeden termín - bezpečnost",
+        "right": false
+      },
+      {
+        "body": "Safety - stav ochrany IS proti ztrátám; security - nedojde k ohrožení lidského života",
+        "right": false
+      },
+      {
+        "body": "Security - stav ochrany IS proti ztrátám; safety - nedojde k ohrožení lidského života",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Proč platební karty s čipem mají magnetický proužek?",
+    "answers": [
+      {
+        "body": "Čip provádí kryptografické operace nad daty uloženými na magnetickém proužku.",
+        "right": false
+      },
+      {
+        "body": "Kvůli zpětně kompatibilitě.",
+        "right": true
+      },
+      {
+        "body": "Žádná z těchto odpovědí není správná.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je to agregace dat?",
+    "answers": [
+      {
+        "body": "Seskupování (osobních) dat do rozsáhlých databází.",
+        "right": true
+      },
+      {
+        "body": "Odvozování nových (typicky citlivějších) informací, na základě zpracování informací s nižší úrovní citlivosti.",
+        "right": false
+      },
+      {
+        "body": "\"Pročišťování\" velkých databází.",
+        "right": false
+      },
+      {
+        "body": "Zálohování dat jako obrana proti živelným pohromám.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem asymetrická kryptografie rozumíme",
+    "answers": [
+      {
+        "body": "Kryptografie s algoritmem, který je opakem symetrické kryptografie a nepoužívá žádný klíč.",
+        "right": false
+      },
+      {
+        "body": "Kryptografie s využitím klíče, který je výstupem kvalitní hašovací funkce.",
+        "right": false
+      },
+      {
+        "body": "Kryptografie s využitím dvojice soukromého a veřejného klíče.",
+        "right": true
+      },
+      {
+        "body": "Nic z ostatních uvedených možností.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Ke zneužitím mobilního telefonu operátorem patří:",
+    "answers": [
+      {
+        "body": "SMS posílané z mobilu na mobil mohou být jednoduše ukládány.",
+        "right": true
+      },
+      {
+        "body": "poloha mobilního telefonu může být sledována.",
+        "right": true
+      },
+      {
+        "body": "žádná z těchto odpovědí není správná, protože celá komunikace je bezpečně šifrována.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co jsou (z pohledu uživatele) dvě nejméně bezpečné součásti dnešních platebních systémů?",
+    "answers": [
+      {
+        "body": "Čipová karta s magnetickým proužkem",
+        "right": true
+      },
+      {
+        "body": "Platební terminál",
+        "right": true
+      },
+      {
+        "body": "Bankomat",
+        "right": false
+      },
+      {
+        "body": "Čipová karta",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které dvě z těchto biometrických technik jsou nejpřesnější?",
+    "answers": [
+      {
+        "body": "dynamika podpisu",
+        "right": false
+      },
+      {
+        "body": "vzor oční duhovky",
+        "right": true
+      },
+      {
+        "body": "hlas",
+        "right": false
+      },
+      {
+        "body": "vzor oční sítnice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Protokoly SSL/TLS umožňují",
+    "answers": [
+      {
+        "body": "kontrolu integrity přenášených dat.",
+        "right": true
+      },
+      {
+        "body": "komunikovat anonymně.",
+        "right": false
+      },
+      {
+        "body": "zajistit nepopiratelnost.",
+        "right": false
+      },
+      {
+        "body": "autentizaci komunikujících stran (klient i server).",
+        "right": true
+      },
+      {
+        "body": "autentizaci jen a pouze jedné strany.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zvolte správnou hierarchii podle druhu pseudonymu (ve směru zvyšující se anonymity a nespojitelnosti).",
+    "answers": [
+      {
+        "body": "Pseudonym osoby \u003e pseudonym rolevztahu \u003e pseudonym vztahu \u003e pseudonym role \u003e pseudonym transakce.",
+        "right": false
+      },
+      {
+        "body": "Pseudonym osoby \u003e pseudonym role a pseudonym vztahu \u003e pseudonym rolevztahu \u003e pseudonym transakce.",
+        "right": true
+      },
+      {
+        "body": "Pseudonym transakce \u003e pseudonym rolevztahu \u003e pseudonym role a pseudonym vztahu \u003e pseudonym osoby.",
+        "right": false
+      },
+      {
+        "body": "Pseudonym osoby \u003e pseudonym transakce \u003e pseudonym role a pseudonym vztahu \u003e pseudonym rolevztahu.",
+        "right": false
+      },
+      {
+        "body": "Pseudonym osoby \u003e pseudonym rolevztahu \u003e pseudonym role \u003e pseudonymvztahu \u003e pseudonym t transakce.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z těchto tvrzení jsou správná?",
+    "answers": [
+      {
+        "body": "Biometriky po analýze s využitím kryptografie o subjektu zprávy vypovídají.",
+        "right": false
+      },
+      {
+        "body": "Jeden vzorek lze využít jen v jednom systému.",
+        "right": false
+      },
+      {
+        "body": "Žádná z těchto odpovědi není správná.",
+        "right": true
+      },
+      {
+        "body": "Biometrická data jsou tajná.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co znamená pojem důvěrnost dat?",
+    "answers": [
+      {
+        "body": "Utajení obsažené informace.",
+        "right": true
+      },
+      {
+        "body": "Zajištění integrity dat.",
+        "right": false
+      },
+      {
+        "body": "Data jsou v nezměněné podobě tak, jak byla vytvořena.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Místa setkání a skryté služby TORu je/jsou:",
+    "answers": [
+      {
+        "body": "místa, kde uživatelé získavají anonymitu tak, že to ostatní nevidí.",
+        "right": false
+      },
+      {
+        "body": "služba, která umožňuje anonymní provoz např. webového serveru.",
+        "right": true
+      },
+      {
+        "body": "místa, kde se setkávají pouze anonymní uživatelé.",
+        "right": false
+      },
+      {
+        "body": "je služba umožňující serveru kontrolovat anonymní příchozí požadavky.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pretty Good Privacy (PGP) umožňuje",
+    "answers": [
+      {
+        "body": "šifrovat a dešifrovat data",
+        "right": true
+      },
+      {
+        "body": "digitálně podepsat data a ověřit podpis",
+        "right": true
+      },
+      {
+        "body": "anonymně přistupovat k webu",
+        "right": false
+      },
+      {
+        "body": "odeslat, přijmout a odpovědět na anonymní e-mail",
+        "right": false
+      },
+      {
+        "body": "chránit počítač před zneužitím",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Je lepší používat TOR nebo Mixminion?",
+    "answers": [
+      {
+        "body": "Jednoznačně TOR.",
+        "right": false
+      },
+      {
+        "body": "Ani jedno, ani druhé.",
+        "right": false
+      },
+      {
+        "body": "Zaleží na tom, co chceme dělat.",
+        "right": true
+      },
+      {
+        "body": "Jednoznačně Mixminion.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Remailer je",
+    "answers": [
+      {
+        "body": "služba pro anonymní posílání a příjem e-mailů.",
+        "right": true
+      },
+      {
+        "body": "je část poštovního serveru, která se stará o opakování neúspěšných pokusů.",
+        "right": false
+      },
+      {
+        "body": "veřejný poštovní server (považovaný za chybně nakonfigurovaný).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Autentizace protokolem s nulovým rozšířením znalostí (zero-knowledge)",
+    "answers": [
+      {
+        "body": "zabrání ověřovateli, aby se mohl později neoprávněně vydávat za prokazující se stranu.",
+        "right": true
+      },
+      {
+        "body": "zabrání prokazující se straně, aby se dozvěděla, jak zní tajemství, které vlastní ověřovatel.",
+        "right": false
+      },
+      {
+        "body": "zabrání ověřovateli, aby se dozvěděl tajemství, které vlastní prokazující se strana",
+        "right": true
+      },
+      {
+        "body": "sdělí ověřovateli pouze počet nul v tajném klíči prokazující se strany.",
+        "right": false
+      },
+      {
+        "body": "zabrání ověřovateli, aby se zároveň autentizoval prokazující se straně.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jaké byly důvody (a motivace) pro zavedení kritérií bezpečnosti?",
+    "answers": [
+      {
+        "body": "Standardizace kryptografických primitiv.",
+        "right": false
+      },
+      {
+        "body": "Jednalo se o chytrý marketingový tah výrobců špatně zabezpečených operačních systémů.",
+        "right": false
+      },
+      {
+        "body": "Usnadnění specifikace požadavků na návrh a vývoj.",
+        "right": true
+      },
+      {
+        "body": "Snazší a rychlejší vývoj implicitně bezpečných systémů.",
+        "right": false
+      },
+      {
+        "body": "Potřeba minimalizace nákladů na individuální ohodnocení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro konzervativní kontrolu certifikátu veřejného klíče platí:",
+    "answers": [
+      {
+        "body": "Nic z ostatních uvedených možností.",
+        "right": false
+      },
+      {
+        "body": "Klíč považujeme za platný, dokud nejsme přesvědčeni o opaku.",
+        "right": false
+      },
+      {
+        "body": "Klíč považujeme za zneplatněný, pokud standard X.509 nestanoví jinak.",
+        "right": false
+      },
+      {
+        "body": "Klíč považujeme za neplatný, dokud nejsme přesvědčeni o opaku.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro liberální kontrolu certifikátu veřejného klíče platí:",
+    "answers": [
+      {
+        "body": "Klíč považujeme za platný, dokud nejsme přesvědčeni o opaku.",
+        "right": true
+      },
+      {
+        "body": "Klíč považujeme za neplatný, dokud nejsme přesvědčeni o opaku.",
+        "right": false
+      },
+      {
+        "body": "Klíč považujeme za zneplatněný, pokud standard X.509 nestanoví jinak.",
+        "right": false
+      },
+      {
+        "body": "Nic z ostatních uvedených možností.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jak pracuje technika náhodného výběru ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Výsledek dotazu je vyhodnocen na základě náhodně vybraných záznamů ze všech existujících záznamů v databázi.",
+        "right": true
+      },
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": false
+      },
+      {
+        "body": "Výsledek dotazu je zaokrouhlen na hodnotu náhodně vybraného záznamu.",
+        "right": false
+      },
+      {
+        "body": "Výsledek dotazu je vyhodnocen na základě mírně poupravených záznamů, které jsou náhodně vybrány ze všech existujících záznamů v databázi.",
+        "right": false
+      },
+      {
+        "body": "Výsledek dotazu je zcela náhodný a nepředvídatelný.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro zajištění prokazatelné zodpovědnosti (accountability)?",
+    "answers": [
+      {
+        "body": "Je na začátku práce v systému obvykle prováděno dešifrování dat pro práci s účtem.",
+        "right": false
+      },
+      {
+        "body": "Je na začátku práce v systému obvykle prováděna autentizace nebo identifikace.",
+        "right": false
+      },
+      {
+        "body": "Je prováděna archivace dat pro udržení schopnosti správy účtu.",
+        "right": false
+      },
+      {
+        "body": "Je prováděna archivace dat umožňujících propojení činnosti s konkrétní osobou tak, že daná osoba se nemůže zříci zodpovědnosti za svoji činnost.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Šifrování v PGP probíhá tak, že se data šifrují",
+    "answers": [
+      {
+        "body": "asymetricky, klíče se zašifrují soukromým klíčem příjemce a přiloží k datům.",
+        "right": false
+      },
+      {
+        "body": "asymetricky, klíče se zašifrují veřejným klíčem příjemce a přiloží k datům.",
+        "right": false
+      },
+      {
+        "body": "symetricky, symetrický klíč se zašifruje soukromým klíčem příjemce a přiloží k datům.",
+        "right": false
+      },
+      {
+        "body": "symetricky, symetrický klíč se zašifruje veřejným klíčem příjemce a přiloží k datům.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Typické operace na firewallu jsou",
+    "answers": [
+      {
+        "body": "hašovat",
+        "right": false
+      },
+      {
+        "body": "xorovnat",
+        "right": false
+      },
+      {
+        "body": "zakázat",
+        "right": true
+      },
+      {
+        "body": "povolit",
+        "right": true
+      },
+      {
+        "body": "prelozit",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které dvě z těchto biometrických technik bývají obvykle nejlevnější s ohledem na celkové náklady na nasazení u koncových uživatelů, resp. jejich pracovních stanic?",
+    "answers": [
+      {
+        "body": "otisk prstu.",
+        "right": true
+      },
+      {
+        "body": "vzor oční sítnice.",
+        "right": false
+      },
+      {
+        "body": "dynamika psaní na klávesnici.",
+        "right": true
+      },
+      {
+        "body": "DNA.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co řeší Zákon o ochraně osobních údajů?",
+    "answers": [
+      {
+        "body": "vztahuje se na osobní údaje, které zpracovávají státní orgány, orgány územní samosprávy, jiné orgány veřejné moci, jakož i fyzické a právnické osoby, není-li stanoveno jinak.",
+        "right": true
+      },
+      {
+        "body": "upravuje právo na ochranu osobních údajů u jedinců se záznamem v trestním rejstříku po dobu výkonu trestu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Magnetický proužek standardní platební karty obsahuje:",
+    "answers": [
+      {
+        "body": "údaje o majiteli.",
+        "right": true
+      },
+      {
+        "body": "údaje o posledních 3-5 transakcích s kartou.",
+        "right": false
+      },
+      {
+        "body": "údaje o kartě.",
+        "right": true
+      },
+      {
+        "body": "údaje o částce, kterou držitel této karty naposledy vybral nebo platil.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jak pracuje technika maximálního rozsahu dotazu ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Pro vyhodnocení dotazu může být použito pouze menší množství záznamů než je stanovená maximální mez.",
+        "right": false
+      },
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": true
+      },
+      {
+        "body": "Pro vyhodnocení dotazu nesmí být použito více záznamu než je stanovená maximální mez.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výraz script kiddies označuje:",
+    "answers": [
+      {
+        "body": "Útočníka, který je schopen kreativně odhalovat nové zranitelnosti i bez znalostí o systému",
+        "right": false
+      },
+      {
+        "body": "Hackera, který píše skripty a odhaluje nové zranitelnosti systému. Má částečné informace o systému.",
+        "right": false
+      },
+      {
+        "body": "Útočníka, který nemá dostatek znalostí o systému a využívá běžně dostupné předpřipravené nástroje na známé zranitelnosti, často způsobem pokus-omyl.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pravidla přístupu do počítačové sítě (FI) MU",
+    "answers": [
+      {
+        "body": "v případě nutnosti je povoleno rekonfigurovat PC, které je pod správou CVT FI.",
+        "right": false
+      },
+      {
+        "body": "je zakázáno odposlouchávat provoz a vytvářet kopie poštovních zpráv.",
+        "right": true
+      },
+      {
+        "body": "je povoleno provozovat vlastní herní server jen po 22:00.",
+        "right": false
+      },
+      {
+        "body": "je třeba volit si dobrá hesla, nezjišťovat hesla jiných.",
+        "right": true
+      },
+      {
+        "body": "v počítačových učebnách a na počítačích FI je možné hrát pouze legálně zakoupené hry.",
+        "right": false
+      },
+      {
+        "body": "uživatel smí poskytovat jen takové programové vybavení a datové soubory, k nimž vlastní platnou licenci",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je to profil bezpečnosti (Protection Profile, PP)?",
+    "answers": [
+      {
+        "body": "Cílová kombinace komponent jasně profilujících konkrétní hodnocený systém.",
+        "right": false
+      },
+      {
+        "body": "Implementačně nezávislá skupina bezpečnostních požadavků určité skupiny předmětu hodnocení.",
+        "right": true
+      },
+      {
+        "body": "Implementačně nezávislá skupina bezpečnostních požadavků schválená příslušnou národní autoritou (v ČR NBÚ).",
+        "right": false
+      },
+      {
+        "body": "Předmět hodnocení, který již musí být definován formálním profilačním jazykem.",
+        "right": false
+      },
+      {
+        "body": "Cílová kombinace komponent spojených s konkrétním produktem nebo systémem.",
+        "right": false
+      },
+      {
+        "body": "Produkt nebo systém (či jeho část), který je předmětem hodnocení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je to \"Security through obscurity\"?",
+    "answers": [
+      {
+        "body": "Víra, že pouze dobře utajený algoritmus je bezpečný.",
+        "right": true
+      },
+      {
+        "body": "Souhrnný název pro bezpečnostní mechanizmy vybudované na teorii složitosti.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co je nejčastější příčinou bezpečnostních incidentů?",
+    "answers": [
+      {
+        "body": "Chyby (neúmyslné).",
+        "right": true
+      },
+      {
+        "body": "Vliv přírody, zdrojů.",
+        "right": false
+      },
+      {
+        "body": "Záměrný útok (sabotáž) zaměstnanců (i bývalých).",
+        "right": false
+      },
+      {
+        "body": "Vnější útočníci.",
+        "right": false
+      },
+      {
+        "body": "Škodlivý software",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které z tvrzení o anonymitní množině neplatí",
+    "answers": [
+      {
+        "body": "velikost anonymitní množiny je smysluplný ukazatel.",
+        "right": true
+      },
+      {
+        "body": "nezáleží na chování uživatelů v dané skupině.",
+        "right": true
+      },
+      {
+        "body": "záleží i na kontextových informacích v systému.",
+        "right": false
+      },
+      {
+        "body": "pro určení velikosti anonymitní množiny se užívá entropie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Onion Routing systémem označujeme",
+    "answers": [
+      {
+        "body": "systém poskytující své služby pro různé protokoly.",
+        "right": true
+      },
+      {
+        "body": "rezistentní systém pro anonymitní komunikační sítě.",
+        "right": false
+      },
+      {
+        "body": "systém pro anonymní komunikaci při použití veřejné sítě.",
+        "right": true
+      },
+      {
+        "body": "systém fungující po vrstvách (např. TCP/IP).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zabezpečení provozu na úrovni IP dosáhnu pokud zvolím:",
+    "answers": [
+      {
+        "body": "IPsec",
+        "right": true
+      },
+      {
+        "body": "Stunnel",
+        "right": false
+      },
+      {
+        "body": "PGP",
+        "right": false
+      },
+      {
+        "body": "IPv6",
+        "right": true
+      },
+      {
+        "body": "IPv4s",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které z těchto tvrzení je správné, pokud mluvíme o kartách s čipem?",
+    "answers": [
+      {
+        "body": "Čip je schopen provádět výpočet a autentizovat se pomocí důkazu nulového rozšíření znalosti.",
+        "right": true
+      },
+      {
+        "body": "Lze snadno vytvořit kopii čipu, ale ne současně čipu a magnetického proužku.",
+        "right": false
+      },
+      {
+        "body": "Dodatečným mechanizmem ochrany čipu je magnetický proužek.",
+        "right": false
+      },
+      {
+        "body": "Bez techniky velmi náročného rozebrání čipu a jeho analýzy není možné vytvořit kopii.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujích bodů lze zařadit mezi obecné principy pro bezpečnost IT?",
+    "answers": [
+      {
+        "body": "Nepoužívejte klíče s délkou \u003c 128 bitů.",
+        "right": false
+      },
+      {
+        "body": "Usilujte o jednoduchost",
+        "right": true
+      },
+      {
+        "body": "Externí zdroje pokládejte za nebezpečné.",
+        "right": true
+      },
+      {
+        "body": "Fyzicky nebo logicky oddělte kritické zdroje.",
+        "right": true
+      },
+      {
+        "body": "Nikdy nezveřejňujte kritické bezpečnostní algoritmy.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem riziko rozumíme:",
+    "answers": [
+      {
+        "body": "existenci zranitelnosti v systému a přítomnost útočníka, který ji může využít.",
+        "right": false
+      },
+      {
+        "body": "pravděpodobnost uplatnění hrozby.",
+        "right": true
+      },
+      {
+        "body": "pravděpodobnost odhalení zranitelnosti.",
+        "right": false
+      },
+      {
+        "body": "rozsah dopadu uplatnění hrozby.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Řešení pro odesílání anonymních e-mailů jsou založena na:",
+    "answers": [
+      {
+        "body": "anonymity před příjemcem lze dosáhnout velmi těžko.",
+        "right": false
+      },
+      {
+        "body": "anycastových sítích, remailerech a mixech.",
+        "right": false
+      },
+      {
+        "body": "remailerech, u kterých rozlišujeme několik typů (tříd).",
+        "right": true
+      },
+      {
+        "body": "broadcastových sítích, remailerech a mixech.",
+        "right": true
+      },
+      {
+        "body": "využití účtu na freemailu (Seznam).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Při podpisu bez obnovy dat platí:",
+    "answers": [
+      {
+        "body": "Po provedení podpisu jsou původní data smazána a nelze je obnovit.",
+        "right": false
+      },
+      {
+        "body": "Podpis neobsahuje podepisovaná data.",
+        "right": true
+      },
+      {
+        "body": "Před provedením podpisu je nutné obnovit podepisovaná data, po provedení podpisu to již bez znalosti soukromého klíče není možné.",
+        "right": false
+      },
+      {
+        "body": "Nepodepisují se přímo původní data, ale jejich haš – otisk.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro komunikaci mezi jednotlivými Onion Routery (OR) platí",
+    "answers": [
+      {
+        "body": "seznam přeposlaných paketů se ukládá.",
+        "right": true
+      },
+      {
+        "body": "topologie uzlů připomíná hvězdici s pevně daným středem.",
+        "right": false
+      },
+      {
+        "body": "komunikace se šifruje pomocí asymetrické kryptografie.",
+        "right": false
+      },
+      {
+        "body": "každý OR odstraní vrstvu paketu dešifrováním.",
+        "right": true
+      },
+      {
+        "body": "komunikace se šifruje pomocí šifry se symetrickým klíčem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaký způsob předání veřejného klíče je považován za důvěryhodný:",
+    "answers": [
+      {
+        "body": "ověření otisku klíče telefonem.",
+        "right": true
+      },
+      {
+        "body": "osobní předání na USB disku.",
+        "right": true
+      },
+      {
+        "body": "zaslání emailem s paralelním umístěním na webovou stránku.",
+        "right": false
+      },
+      {
+        "body": "vystavení na klíčový server.",
+        "right": false
+      },
+      {
+        "body": "zaslání důvěryhodným zprostředkovatelem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Britská medicínská asociace nařizuje při zakládání nového záznamu pacienta, aby:",
+    "answers": [
+      {
+        "body": "Na seznamu přístupů k záznamu byl pouze pacient, další lékaře přidává primář oddělení.",
+        "right": false
+      },
+      {
+        "body": "Na seznamu přístupů k záznamu byl pouze ošetřující lékař a pacient.",
+        "right": true
+      },
+      {
+        "body": "Na seznamu přístupů do další návštěvy lékaře nebyl nikdo z administrativního personálu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Britská medicínská asociace nařizuje při práci se záznamy pacientů:",
+    "answers": [
+      {
+        "body": "Implementaci opatření zamezujících agregaci dat.",
+        "right": true
+      },
+      {
+        "body": "Zaznamenávání veškerých modifikací provedených se záznamy pro potřeby auditu.",
+        "right": true
+      },
+      {
+        "body": "Nutnost informovat pacienta (na jeho žádost) o aktuálním stavu seznamu přístupů k jeho záznamu.",
+        "right": true
+      },
+      {
+        "body": "Nutnost informovat rodinné příslušníky pacienta (na jejich žádost) o aktuálním stavu seznamu přístupů k jeho záznamu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "PIN je u kreditních karet vyžadován, aby",
+    "answers": [
+      {
+        "body": "karta po okopírování šla obtížněji zneužít",
+        "right": true
+      },
+      {
+        "body": "celý systém plateb kartami vypadal bezpečněji (ve skutečnosti však bezpečnost vůbec nezvedá - je zde jen pro psychologický efekt)",
+        "right": false
+      },
+      {
+        "body": "člověk, který kartu zcizí, ji nemohl snadno použít k platbám karta šla hůře okopírovat",
+        "right": true
+      },
+      {
+        "body": "zajistil absolutní ochranu peněz před jakýmkoli útokem na bezpečnost karty",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Tvrzení \"Systém je chráněn sdíleným heslem\" by mohlo označovat",
+    "answers": [
+      {
+        "body": "bezpečnostní politiku",
+        "right": false
+      },
+      {
+        "body": "útok",
+        "right": false
+      },
+      {
+        "body": "hrozbu",
+        "right": false
+      },
+      {
+        "body": "riziko",
+        "right": false
+      },
+      {
+        "body": "zranitelnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Citlivé osobní údaje dle české legislativy vypovídají mj. o:",
+    "answers": [
+      {
+        "body": "národnostním, rasovém nebo etnickém původu",
+        "right": true
+      },
+      {
+        "body": "postoji k trestné činnosti rodinných příslušníků",
+        "right": false
+      },
+      {
+        "body": "politických postojích",
+        "right": true
+      },
+      {
+        "body": "postoji k trestné činnosti jiných",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bezpečnost použití těchto zařízení pro autentizaci je porovnatelná s bezpečností použití čipových karet pro stejný účel:",
+    "answers": [
+      {
+        "body": "žádná z těchto odpovědi není správná",
+        "right": false
+      },
+      {
+        "body": "heslo dlouhé alespoň 8 znaků a vytvořené náhodně ze sady min. 95 znaků",
+        "right": false
+      },
+      {
+        "body": "autentizační kalkulačka",
+        "right": true
+      },
+      {
+        "body": "certifikovaný USB disk",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi vlastnosti Onion Routingu (OR) rozhodně patří",
+    "answers": [
+      {
+        "body": "zpoždění komunikace by měla být co nejmenší",
+        "right": true
+      },
+      {
+        "body": "využívá se zejména v privátních sítích",
+        "right": false
+      },
+      {
+        "body": "závislost na specializovaném hardwaru",
+        "right": false
+      },
+      {
+        "body": "neumožňuje komunikaci klient-server",
+        "right": false
+      },
+      {
+        "body": "aplikace mohou s OR fungovat bez nutnosti jejich modifikace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi vlastnosti Onion Routingu (OR) rozhodně nepatří",
+    "answers": [
+      {
+        "body": "využívá se zejména v privátních sítích.",
+        "right": false
+      },
+      {
+        "body": "mezi jednotlivými OR se předávají šifrovaná data.",
+        "right": false
+      },
+      {
+        "body": "umožňuje spojení klient-server.",
+        "right": false
+      },
+      {
+        "body": "výběr následujícího komunikačního uzlu je nezávislý na uživateli.",
+        "right": true
+      },
+      {
+        "body": "komunikační cesta je definována při sestavení komunikačního kanálu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro osobní údaje dle české legislativy platí:",
+    "answers": [
+      {
+        "body": "jde-li na základě jednoho či více osobních údajů přímo či nepřímo zjistit identitu subjektu, považuje se subjekt údajů za určený nebo určitelný .",
+        "right": true
+      },
+      {
+        "body": "jedná se o jakýkoliv údaj týkající se určeného nebo určitelného subjektu údajů.",
+        "right": true
+      },
+      {
+        "body": "zpracovávání osobních údajů je zakázáno, vyjma případů pro osobní potřebu.",
+        "right": false
+      },
+      {
+        "body": "dozor nad osobními údaji provádí Policie ČR.",
+        "right": false
+      },
+      {
+        "body": "osobní údaj se nejedná, pokud je třeba ke zjištění identity subjektu údajů nepřiměřené množství času nebo materiálních prostředků.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které dvě z těchto biometrických technik jsou nejpohodlnější pro uživatele?",
+    "answers": [
+      {
+        "body": "EKG",
+        "right": false
+      },
+      {
+        "body": "srovnání tváře",
+        "right": true
+      },
+      {
+        "body": "vzor oční duhovky",
+        "right": true
+      },
+      {
+        "body": "vzor oční sítnice",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jakým způsobem je počítána analýza rizik metodou ALE (Annual Loss Expentancy)",
+    "answers": [
+      {
+        "body": "ALE=SLOxARE, kde SLO=Single Loss of Opportunity a ARE=Annualized Rate of Executions",
+        "right": false
+      },
+      {
+        "body": "ALE=SLO/ARE, kde SLO=Single Loss of Opportunity a ARE=Annualized Rate of Executions",
+        "right": false
+      },
+      {
+        "body": "ALE=SLO+ARE, kde SLO=Single Loss of Opportunity a ARE=Annualized Rate of Executions",
+        "right": false
+      },
+      {
+        "body": "ALE=SLE/ARO, kde SLE=Single Loss Expentancy a ARO=Annualized Rate of Occurence",
+        "right": false
+      },
+      {
+        "body": "ALE=SLExARO, kde SLE=Single Loss Expentancy a ARO=Annualized Rate of Occurence",
+        "right": true
+      },
+      {
+        "body": "ALE=SLE+ARO, kde SLE=Single Loss Expentancy a ARO=Annualized Rate of Occurence",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bylo by možné spolehlivě autentizovat studenta MU na základě trojice celých čísel výška[cm] : váha[kg] : věk[roky]?",
+    "answers": [
+      {
+        "body": "Ano, jde o údaje cizím lidem neznámé.",
+        "right": false
+      },
+      {
+        "body": "Ne, MU studentů příliš mnoho, aby toto bylo spolehlivé.",
+        "right": true
+      },
+      {
+        "body": "Ano, jde o fyzickou vlastnost (biometrika).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z těchto tvrzení jsou správná?",
+    "answers": [
+      {
+        "body": "Biometrická data jsou tajná.",
+        "right": false
+      },
+      {
+        "body": "Některé biometriky hodně o subjektu vypovídají.",
+        "right": true
+      },
+      {
+        "body": "Biometriky v ideálním případě určují identitu člověka přesně a lze tak spojovat jednotlivě jeho činy.",
+        "right": true
+      },
+      {
+        "body": "Jeden vzorek lze využít jen v jednom systému.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Digitální pseudonym je řetězec bitů, který:",
+    "answers": [
+      {
+        "body": "je unikátní jako ID (s velmi velkou pravděpodobností)",
+        "right": true
+      },
+      {
+        "body": "je konstruován přesně v souladu s pravidly stanovenými Úřadem pro ochranu osobních údajů",
+        "right": false
+      },
+      {
+        "body": "je použitelný pro autentizaci jeho vlastníka a předmětů zájmu (např. odeslaných zpráv)",
+        "right": true
+      },
+      {
+        "body": "by měl být nerozlišitelný od náhodného šumu",
+        "right": false
+      },
+      {
+        "body": "si jeho držitel musí bezpodmínečně zapamatovat",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Provoz v anonymitní síti",
+    "answers": [
+      {
+        "body": "je pro zachování určité míry anonymity nepodstatný",
+        "right": false
+      },
+      {
+        "body": "je pro zachování určité míry anonymity důležitý",
+        "right": true
+      },
+      {
+        "body": "neobsahuje falešné zprávy",
+        "right": false
+      },
+      {
+        "body": "je často zaměňován za falešné zprávy",
+        "right": false
+      },
+      {
+        "body": "je často obohacován o falešné zprávy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nepozorovatelnost (podle A.Pfitzmanna – mixy) znamená",
+    "answers": [
+      {
+        "body": "že pravděpodobnost spojení prvků v systému je stejná před a po (prů)běhu nějaké posloupnosti událostí v systému",
+        "right": false
+      },
+      {
+        "body": "Stav (daných) předmětů zájmu, kdy nejsou odlišitelné od jiných předmětů zájmu",
+        "right": true
+      },
+      {
+        "body": "Stav, kdy ostatní uživatelé nemohou pozorovat využívání zdrojů systému.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z uvedených tvrzení jsou pravdivá? (založeno na zákonu o elektrickém podpisu 227/2000 Sb.)",
+    "answers": [
+      {
+        "body": "Elektronický podpis vytváří člověk, zatímco elektronickou značku vytváří počítač",
+        "right": false
+      },
+      {
+        "body": "Elektronický podpis a elektronická značka se liší v úrovni ochrany soukromého klíče.",
+        "right": true
+      },
+      {
+        "body": "Elektronický podpis a elektronická značka jsou technologicky totožné.",
+        "right": true
+      },
+      {
+        "body": "Elektronický podpis je vytvářen soukromým klíčem, zatímco elektronická značka je vytvářena klíčem veřejným.",
+        "right": false
+      },
+      {
+        "body": "Mezi elektronickým podpisem a elektronickou čtečkou není žádný rozdíl.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Co to je pozitivni kompromitace statisticke databaze?",
+    "answers": [
+      {
+        "body": "Nesmysl",
+        "right": false
+      },
+      {
+        "body": "Opak castecne kompromitace",
+        "right": true
+      },
+      {
+        "body": "Kompromitace se zametenim stop",
+        "right": false
+      },
+      {
+        "body": "Opak negativni kompromitace",
+        "right": false
+      },
+      {
+        "body": "Vysledkem zpresneneho dotazu je nenulovy pocet odpovedi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jak pracuje technika minimalniho rozsahu dotazu ve statistickych databazich?",
+    "answers": [
+      {
+        "body": "zadna takova technika neexistuje.",
+        "right": false
+      },
+      {
+        "body": "Pro vyhodnoceni dotazu muze byt pouzito mene zaznamu nez je stanovena",
+        "right": false
+      },
+      {
+        "body": "minimalni mez, ale pouze za zvlastnich bezpecnostnich opatreni (napr. podpis dohody o mlcenlivosti).",
+        "right": false
+      },
+      {
+        "body": "zadna takova technika se ve statistickych databazich nepouziva.",
+        "right": false
+      },
+      {
+        "body": "Pro vyhodnoceni dotazu nesmi byt pouzito mene zaznamu nez je stanovena minimalni mez.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi obvykle bezpecnostni politiky patri:",
+    "answers": [
+      {
+        "body": "Systemova bezpecnostni politika",
+        "right": true
+      },
+      {
+        "body": "Celkova bezpecnostni politika",
+        "right": true
+      },
+      {
+        "body": "Interaplikacni bezpecnostni politika",
+        "right": false
+      },
+      {
+        "body": "Integrovana bezpecnostni politika",
+        "right": false
+      },
+      {
+        "body": "Horizontalni bezpecnostni politika",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Duveryhodnost dat?",
+    "answers": [
+      {
+        "body": "Utajeni obsazene informace.",
+        "right": false
+      },
+      {
+        "body": "Data jsou v nezmenene podobe tak, jak byla vytvorena.",
+        "right": true
+      },
+      {
+        "body": "Technicky se realizuje napr. pomoci digitalniho podpisu.",
+        "right": true
+      },
+      {
+        "body": "Data ziskana od duveryhodneho zdroje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nespojitelnost (podle Spolecnych kriterii) zajistuje moznost opakovaneho pouziti zdroju:",
+    "answers": [
+      {
+        "body": "tak, ze identita uzivatele zustane skryta specifickym uzivatelum, pro specificke operace bez prozrazeni identity uzivatele, ale v pripade potreby lze identitu zpetne zjistit",
+        "right": false
+      },
+      {
+        "body": "tak, ze pouze administratori uvidi, ze ve skutecnosti toto pouziti inicioval tentyz uzivatel",
+        "right": false
+      },
+      {
+        "body": "tak, ze ostatni si tato pouziti nebudou schopni spojit bez prozrazeni identity uzivatele",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jake jsou faktory primo ovlivnujici pravdepodobnost neopravneneho (vy)uziti informaci?",
+    "answers": [
+      {
+        "body": "uroven bezpecnostnich mechanizmu.",
+        "right": true
+      },
+      {
+        "body": "Vyse trestu tem, kdo s daty neopravnene manipuluje.",
+        "right": false
+      },
+      {
+        "body": "Vyse trestu tem, kdo data hlidali a zajistili restriktivni manipulaci.",
+        "right": false
+      },
+      {
+        "body": "Vyse trestu tem, kdo data neohlidali a spolupodileli se na jejich uniku.",
+        "right": false
+      },
+      {
+        "body": "Kódovani dat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Typicke operace na firewallu jsou",
+    "answers": [
+      {
+        "body": "hasovat",
+        "right": false
+      },
+      {
+        "body": "prelozit",
+        "right": true
+      },
+      {
+        "body": "zmenit",
+        "right": false
+      },
+      {
+        "body": "zakazat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Je vubec mozne, aby melo vnejsi prostredi (teplota atp.) nejaky vliv na bezpecnost cipovych karet?",
+    "answers": [
+      {
+        "body": "ne, neni to mozne",
+        "right": false
+      },
+      {
+        "body": "ano, je to mozne",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem prokazatelna zodpovednost rozumime",
+    "answers": [
+      {
+        "body": "Za veskere sve ciny v systemu jsou uzivatele zodpovedni vuci majiteli dat",
+        "right": true
+      },
+      {
+        "body": "Uzivatele se musi pred pouzitim systemu autentizovat vuci jeho majiteli",
+        "right": false
+      },
+      {
+        "body": "U kazde cinnosti lze jednoznacne prokazat, kdo je za ni zodpovedny.",
+        "right": false
+      },
+      {
+        "body": "Uzivatele systemu jsou zodpovedni za ciny, ktere lze jednoznacne prokazat",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nespojitelnost nezohlednuje identitu uzivatele ale",
+    "answers": [
+      {
+        "body": "Rozsah sluzeb a zdroju, ktere jsou v systemu aktualne vyuzivane",
+        "right": false
+      },
+      {
+        "body": "Jeho pseudonymitu a nesledovatelnost",
+        "right": false
+      },
+      {
+        "body": "Rozsah sluzeb a zdroju, ktere byly pouzity jednim uzivatelem",
+        "right": true
+      },
+      {
+        "body": "Rozsah sluzeb a zdroju, ktere byly pouzity ruznymi uživateli",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Komu v platebnich systemech poskytuji soucasne tokeny nejnizsi ochranu?",
+    "answers": [
+      {
+        "body": "Bankam",
+        "right": false
+      },
+      {
+        "body": "Provozovatelum site bankomatu (v pripade, ze provozovatelem neni primo banka)",
+        "right": false
+      },
+      {
+        "body": "Obchodnikum",
+        "right": false
+      },
+      {
+        "body": "Zakaznikum",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co je to verejny pseudonym?",
+    "answers": [
+      {
+        "body": "Napr. telefonni cislo ve Zlatych strankach",
+        "right": true
+      },
+      {
+        "body": "Pseudonym pouzivany uvnitr verejne nedostupneho systemu",
+        "right": false
+      },
+      {
+        "body": "Je znam verejnosti za poplatek",
+        "right": false
+      },
+      {
+        "body": "Pseudonym pouzitelny pouze na verejnosti",
+        "right": false
+      },
+      {
+        "body": "Je verejne znam od pocatku, napr. v seznamu osob",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Anonymita (podle Spolecnych kriterii) zajistuje moznost pouziti zdroju nebo sluzeb systemu tak, ze:",
+    "answers": [
+      {
+        "body": "specifikovane entity jsou schopny urcit skutecne uzivatelske jmeno spojene se specifikovanymi subjekty, operacemi, objekty",
+        "right": false
+      },
+      {
+        "body": "identita uzivatele zustane skryta specifickym uzivatelum, pro specificke operace",
+        "right": true
+      },
+      {
+        "body": "identita uzivatele zustane skryta, ale v pripade potreby ji lze zpetne zjistit",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Firewall je",
+    "answers": [
+      {
+        "body": "umela prekazka pred potencialne nebezpecnym okolim",
+        "right": true
+      },
+      {
+        "body": "software pro detekci a blokaci podezrelych aktivit v systemu",
+        "right": false
+      },
+      {
+        "body": "spolehlivou ochranou pred zneuzitim pocitacu ve vnitrni siti",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nepozorovatelnost (podle Spolecnych kriterii) zajistuje moznost pouziti zdroju nebo sluzeb systemu tak, ze:",
+    "answers": [
+      {
+        "body": "ostatni uzivatele systemu nemohou pozorovat pouzivani daneho zdroje nebo sluzeb, ale v pripade potreby lze toto chovani zpetne spojit s konkretnim uzivatelem",
+        "right": false
+      },
+      {
+        "body": "uzivatele nejsou zodpovedni za sve chovani v systemu",
+        "right": false
+      },
+      {
+        "body": "ostatni uzivatele, s vyjimkou administratoru, nemohou pozorovat pouzivani daneho zdroje nebo sluzeb",
+        "right": false
+      },
+      {
+        "body": "specifikovane entity nejsou schopny pozorovat specifikovane operace provadene specifikovanymi entitami na specifikovanych objektech",
+        "right": true
+      },
+      {
+        "body": "ostatni uzivatele (ani administratori) systemu nemohou pozorovat pouzivani daneho zdroje nebo sluzeb",
+        "right": true
+      },
+      {
+        "body": "specifikovane entity jsou schopny pozorovat specifikovane operace provadene specifikovanymi entitami na nespecifikovanych objektech",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "IEEE - principy SW inzenyra stanovi napr.",
+    "answers": [
+      {
+        "body": "vykonavat svou cinnost v souladu s verejnym zajmem",
+        "right": true
+      },
+      {
+        "body": "zastavat pouze takove pozice, na ktere ma narok a schopnosti",
+        "right": false
+      },
+      {
+        "body": "povinnost zit cestne, zdrave a podle pravidel IEEE tak, aby na nej mohla byt spolecnost hrda",
+        "right": false
+      },
+      {
+        "body": "zajistit cestnost a nezavislost ve svych odbornych odhadech",
+        "right": true
+      },
+      {
+        "body": "povinnost pouzivat pouze software, za ktery nebylo prokazatelnym zpusobem zaplaceno",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro zajisteni prokazatelne zodpovednosti (accountability)?",
+    "answers": [
+      {
+        "body": "Je provadena archivace dat pro udrzeni schopnosti spravy uctu.",
+        "right": false
+      },
+      {
+        "body": "Je na zacatku prace v systemu obvykle provadena autentizace nebo identifikace.",
+        "right": true
+      },
+      {
+        "body": "Je provadena archivace dat umoznujicich propojeni cinnosti s konkretni osobou tak, ze dana osoba se nemuze zrici zodpovednosti za svoji cinnost.",
+        "right": true
+      },
+      {
+        "body": "Ja na zacatku prace v systemu obvykle provadeno desifrovani dat pro praci s uctem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi zakladni pravidla bezpecnostniho modelu Bell-LaPadula patri:",
+    "answers": [
+      {
+        "body": "Procesy nesmeji cist/zapisovat data z/do nizsi urovne.",
+        "right": false
+      },
+      {
+        "body": "Procesy nesmeji zapisovat data do nizsi urovne.",
+        "right": true
+      },
+      {
+        "body": "Procesy nesmeji cist data na nizsi urovni.",
+        "right": false
+      },
+      {
+        "body": "Procesy nesmeji zapisovat data do vyssi urovne.",
+        "right": false
+      },
+      {
+        "body": "Procesy nesmeji cist data na vyssi urovni.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro emailove zpravy posilane pomoci systemu Mixminion plati",
+    "answers": [
+      {
+        "body": "jsou anonymni",
+        "right": true
+      },
+      {
+        "body": "hlavicky mailu nejsou modifikovany",
+        "right": false
+      },
+      {
+        "body": "uzivatel specifikuje cestu po siti",
+        "right": true
+      },
+      {
+        "body": "odpovedi jsou v systemu dorucovany odlisne od normalnich emailu",
+        "right": false
+      },
+      {
+        "body": "je mozne na ne v urcitem casovem ramci odpovedet",
+        "right": true
+      },
+      {
+        "body": "jsou pseudonymni",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Ktera technika neni platna pro anonymitni komunikacni site:",
+    "answers": [
+      {
+        "body": "vyuzivani minixu pro preposilani zprav",
+        "right": true
+      },
+      {
+        "body": "sifrovani zprav mezi uzly algoritmem RSA s delkou klice zavislou na poctu uzlu",
+        "right": true
+      },
+      {
+        "body": "pozastavovani prijatych zprav",
+        "right": false
+      },
+      {
+        "body": "v case nedeterministicke odesilani prijatych zprav",
+        "right": false
+      },
+      {
+        "body": "preusporadavani zprav v ramci uzlu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem dostupnost dat rozumime",
+    "answers": [
+      {
+        "body": "Prubeh autentizace osoby pro praci s daty a sluzbami by mel byt dostupny i lidem se snizenou pracovni schopnosti",
+        "right": false
+      },
+      {
+        "body": "Uzivatele by mely mit pristup k datum a sluzbam co nejmene komplikovany",
+        "right": false
+      },
+      {
+        "body": "Data by mela byt dostupna i neautorizovane osobe v pripade kriticke udalosti",
+        "right": false
+      },
+      {
+        "body": "Autorizovani uzivatele by mely mit pristup k datum a sluzbam co nejmene komplikovany",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Maximalni pocet identit jedne osoby muze byt",
+    "answers": [
+      {
+        "body": "2 pro vdane zeny",
+        "right": false
+      },
+      {
+        "body": "kolik chce (kdyz se bude dostatecne snazit)",
+        "right": true
+      },
+      {
+        "body": "4 pro jedince s dvema svatbami a jednim rozvodem",
+        "right": false
+      },
+      {
+        "body": "1",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V souvislosti se sdruzovanim dat do rozsahlych databazi uklada zakon 101/2000 sb. o ochrane osobnich udaju",
+    "answers": [
+      {
+        "body": "Povinnost nesdruzovat data, ktera byla puvodne ziskana k rozdilnym ucelum, do jednoho celku.",
+        "right": true
+      },
+      {
+        "body": "Povinnost informovat zkoumanou osobu (subjekt) o tom, ze se podarilo zjistit o nem citlive informace a zda muze potvrdit jejich pravdivost.",
+        "right": false
+      },
+      {
+        "body": "Povinnost informovat osobu, jejiz data budou ulozena a zpracovavana v databazi, ze se timto zpusobem bude s poskytnutymi daty nakladat.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle ceskeho zakona o e-podpisu (227/2000) je zaruceny elektronicky podpis:",
+    "answers": [
+      {
+        "body": "Elektronicky podpis, ktery je jednoznacne spojen s podepisujici osobou",
+        "right": true
+      },
+      {
+        "body": "Elektronicky podpis, ktery je proveden nad zarucene korektnimi daty",
+        "right": false
+      },
+      {
+        "body": "Nic takoveho dle ceskeho zakona neexistuje",
+        "right": false
+      },
+      {
+        "body": "Elektronicky podpis, ktery je pripojen ke zprave tak, aby ho bylo mozne zarucene overit",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pseudonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
+    "answers": [
+      {
+        "body": "identita uživatele zůstane trvale skryta",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta specifickým uživatelům, pro specifické operace",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav zvrátit",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale to platí pouze pro původně neveřejné pseudonymy",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za specifikovaných podmínek mohou tento stav zvrátit",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane skryta ostatním uživatelům, ale ne administrátorům",
+        "right": false
+      }
+    ]
+  }
+]

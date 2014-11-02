@@ -1,10 +1,12 @@
 require 'pry'
+require 'active_support/all'
+
 class Parser
   QUESTION_SEPARATOR = /====/
   ANSWER_SIGN = /-/
   RIGHT_ANSWER_SIGN = /\*/
 
-  attr_reader :questions
+  attr_reader :questions, :errors
   def initialize file
     @file = File.open(file, "r")
   end
@@ -36,6 +38,11 @@ class Parser
   rescue DuplicitQuestionNameError => e
     @errors ||= []
     @errors << e
+    question
+  end
+
+  def as_json
+    questions.collect(&:as_json)
   end
 end
 
@@ -52,6 +59,13 @@ class Answer < Struct.new(:body, :right)
   def to_s
     "#{right ? "*" : "-"} #{body} "
   end
+
+  def as_json
+    {
+        body: body,
+        right: right
+    }
+  end
 end
 
 class Question < Struct.new(:name, :answers)
@@ -61,6 +75,13 @@ class Question < Struct.new(:name, :answers)
         r << "\n #{a}"
       end
     end
+  end
+
+  def as_json
+    {
+        name: name,
+        answers: answers.collect(&:as_json)
+    }
   end
 end
 

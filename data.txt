@@ -257,6 +257,7 @@ Co je to perturbační technika používaná ve statistických databázích?
 -* Technika stavějící např. na zaokrouhlování mezivýsledků dotazů.
 -* Technika umožňující zjistit konzistentní, ale ne spolehlivé odpovědi na sérii podobných dotazů.
 -* Přidávání pseudonáhodného "šumu" k množině záznamů, na jejichž základě se vyhodnotí dotaz.
+====
 Která z těchto tvrzení jsou správná?
 - Se zvýšením FAR se zvyšuje FRR.
 -* Se snížením FAR se zvyšuje FRR.
