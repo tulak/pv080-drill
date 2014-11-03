@@ -286,8 +286,7 @@
 - nezjistitelnost
 ====
 49. Pseudonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:
-- identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav
-zvátit
+- identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav zvrátit
 - identita uživatele zůstane skryta ostatním uživatelům, ale ne administrátorům
 -* identita uživatele zůstane skryta, ale v případe potřeby ji lze zpětně zjistit
 - identita uživatele zůstane skryta, ale to platí pouze pro původně neveřejné pseudonymy
@@ -321,10 +320,10 @@ zvátit
 - vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu
 - ověřovat neautorizované výskyty osob
 -* zpracovávat pouze pravdivé a přesné osobní údaje
+====
 54. Povinnosti správce osobních údajů:
 -* uchovávat data pouze po dobu nezbytnou k jejich zpracování
--* shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění
-stanoveného účelu
+-* shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění stanoveného účelu
 - vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu
 - archivovat data kódovaně, není-li řečeno jinak
 -* uchovávat data pouze po dobu nezbytnou k jejich zpracování

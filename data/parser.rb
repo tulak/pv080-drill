@@ -89,7 +89,16 @@ class Question < Struct.new(:name, :answers)
   end
 end
 
-p = Parser.new "data.txt"
-# p.parse
+# p1 = Parser.new "data.txt"
+# p1.parse
+# f1 = File.open("../questions.json", "w")
+# f1.write p1.questions.as_json.to_json
+# f1.close
+
+p2 = Parser.new "data-vnitro.txt"
+p2.parse
+f2 = File.open("../questions_midterm.json", "w")
+f2.write p2.questions.as_json.to_json
+f2.close
 
 binding.pry

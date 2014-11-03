@@ -1007,7 +1007,27 @@
     "name": "49. Pseudonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
     "answers": [
       {
-        "body": "identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav",
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav zvrátit",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta ostatním uživatelům, ale ne administrátorům",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale v případe potřeby ji lze zpětně zjistit",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale to platí pouze pro původně neveřejné pseudonymy",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za specifikovaných podmínek mohou tento stav zvrátit",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane trvale skryta",
         "right": false
       }
     ]
@@ -1108,6 +1128,31 @@
       },
       {
         "body": "zpracovávat pouze pravdivé a přesné osobní údaje",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "54. Povinnosti správce osobních údajů:",
+    "answers": [
+      {
+        "body": "uchovávat data pouze po dobu nezbytnou k jejich zpracování",
+        "right": true
+      },
+      {
+        "body": "shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění stanoveného účelu",
+        "right": true
+      },
+      {
+        "body": "vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu",
+        "right": false
+      },
+      {
+        "body": "archivovat data kódovaně, není-li řečeno jinak",
+        "right": false
+      },
+      {
+        "body": "uchovávat data pouze po dobu nezbytnou k jejich zpracování",
         "right": true
       }
     ]
