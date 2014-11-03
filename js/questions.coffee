@@ -19,8 +19,6 @@ class Classes.Questions
     @container.html(html)
     @container.find('#submit-button').click @submit
     @container.find('#next-button').click @nextQuestion
-    @container.find('#source-link').on "click", ->
-      window.location.href = "http://www.github.com/tulak/pv080-drill/"
 
   popRandomQuestion: =>
     if @questions.length == 0

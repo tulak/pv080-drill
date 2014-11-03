@@ -9,6 +9,10 @@ mainView = myApp.addView '.view-main', {
   domCache: true
 }
 
+$(document).ready ->
+  $('.source-link').click ->
+    window.location.href = "http://www.github.com/tulak/pv080-drill/"
+
 window.questions_all = new Classes.Questions
   dataset: "questions.json"
   container: $('#questions-all')
