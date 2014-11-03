@@ -44,6 +44,10 @@ class Parser
   def as_json
     questions.collect(&:as_json)
   end
+
+  def duplicites
+    @questions.group_by{|q| q.name }.find_all{|g,qs| qs.size > 1}
+  end
 end
 
 class DuplicitQuestionNameError < StandardError
@@ -86,6 +90,6 @@ class Question < Struct.new(:name, :answers)
 end
 
 p = Parser.new "data.txt"
-p.parse
+# p.parse
 
 binding.pry

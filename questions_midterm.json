@@ -1,0 +1,1698 @@
+[
+  {
+    "name": "1. Které z následujících možností obsahují relevantní bezpečnostní funkce systémů pro ochranu inf. soukromí?",
+    "answers": [
+      {
+        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita",
+        "right": true
+      },
+      {
+        "body": "nezjistitelnost, nespojitelnost, anonymita, pseudonymita",
+        "right": false
+      },
+      {
+        "body": "identita, nepozorovatelnost, anonymita, pseudonymita",
+        "right": false
+      },
+      {
+        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita, identita",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "2. Anonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
+    "answers": [
+      {
+        "body": "identita uživatele zůstane skryta specifickým uživatelům, pro specifické operace",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale v případě potřeby ji lze zpětně zjistit",
+        "right": false
+      },
+      {
+        "body": "specifikované entity jsou schopny určit skutečné uživatelské jméno spojene se specifikovanými subjekty, operacemi, objekty",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "3. Nespojitelnost (podle Společných kritérií) zajišťuje možnost opakovaného použití zdrojů:",
+    "answers": [
+      {
+        "body": "bez prozrazení identity uživatele, ale v případě potřeby lze identitu zpětně zjistit",
+        "right": false
+      },
+      {
+        "body": "bez prozrazení identity uživatele",
+        "right": false
+      },
+      {
+        "body": "tak, že identita uživatele zůstane skryta specifickým uživatelům, pro specifické operace",
+        "right": false
+      },
+      {
+        "body": "tak, že ostatní si tato použití nebudou schopni spojit",
+        "right": true
+      },
+      {
+        "body": "tak, že pouze administrátoři uvidí, že ve skutečnosti toto použití inicioval tentýž uživatel",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "4. Je e-mailová adresa tvaru jmeno.prijmeni@nejakafirma.cz osobním údajem nebo nikoliv?",
+    "answers": [
+      {
+        "body": "Ne",
+        "right": true
+      },
+      {
+        "body": "Záleží na postoji majitele této adresy",
+        "right": false
+      },
+      {
+        "body": "Ano",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "5. Může zaměstnavatel podrobně sledovat a číst veškerou e-mailovou komunikaci zaměstnance, který písemně potvrdil, že svoji e-mailovou adresu nebude používat k soukromým účelům?",
+    "answers": [
+      {
+        "body": "Ano, ale pouze pokud má důvodné podezření, že dochází k porušení písemné dohody",
+        "right": false
+      },
+      {
+        "body": "Ano, ale pouze s vědomím Policie ČR",
+        "right": false
+      },
+      {
+        "body": "Ano",
+        "right": false
+      },
+      {
+        "body": "Ne",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "6. Nepozorovatelnost (podle A.Pfitzmanna - mixy) znamená:",
+    "answers": [
+      {
+        "body": "Stav (daných) předmětů zájmu, kdy nejsou odlišitelné od jiných předmětů zájmu",
+        "right": true
+      },
+      {
+        "body": "Že pravděpodobnost spojení prvků v systému je stejná před a po (prů)běhu nějaké posloupnosti událostí v systému.",
+        "right": false
+      },
+      {
+        "body": "Stav, kdy ostatní uživatelé nemohou pozorovat využívání zdrojů systému",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "7. Pseudonymita (podle A.Pfitzmanna - mixy) znamená:",
+    "answers": [
+      {
+        "body": "Bytí anonymním pouze vůči uživatelům systému, nikoli vůči administrátorům",
+        "right": false
+      },
+      {
+        "body": "Používání pseudonymu jako identifikátoru (ID)",
+        "right": true
+      },
+      {
+        "body": "Bytí anonymním s možností zpětného zjistění skutečné identity",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "8. Digitální pseudonym je řetězec bitů, který:",
+    "answers": [
+      {
+        "body": "by měl být nerozlišitelný od náhodného šumu",
+        "right": false
+      },
+      {
+        "body": "si jeho držitel musí bezpodmínečně zapamatovat",
+        "right": false
+      },
+      {
+        "body": "je konstruován přesně v souladu s pravidly stanovenými Úřadem pro ochranu osobních údajů",
+        "right": false
+      },
+      {
+        "body": "je unikátní jako ID (s velmi velkou pravděpodobností)",
+        "right": true
+      },
+      {
+        "body": "je použitelný pro autentizaci jeho vlastníka a předmětů zájmu (např. odeslaných zpráv)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "9. Maximální počet identit jedné osoby může být",
+    "answers": [
+      {
+        "body": "1",
+        "right": false
+      },
+      {
+        "body": "kolik chce (když se bude dostatečně snažit)",
+        "right": true
+      },
+      {
+        "body": "2 pro vdané ženy",
+        "right": false
+      },
+      {
+        "body": "4 pro jedince s dvěma svatbami a jedním rozvodem",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "10. K čemu se používají systémy řízení identity (IMS)?",
+    "answers": [
+      {
+        "body": "K návrhu a správě atributů identity",
+        "right": true
+      },
+      {
+        "body": "K dlouhodobé archivaci odcizených identifikačních průkazů",
+        "right": false
+      },
+      {
+        "body": "Systém pro správu veřejných klíčů s identifikátory",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "11. Citlivé osobní údaje dle české legislativy vypovídají mj. o:",
+    "answers": [
+      {
+        "body": "politických postojích",
+        "right": true
+      },
+      {
+        "body": "národnostním, rasovém nebo etnickém původu",
+        "right": true
+      },
+      {
+        "body": "postoji k trestné činnosti jiných",
+        "right": false
+      },
+      {
+        "body": "odsouzení za trestný čin",
+        "right": true
+      },
+      {
+        "body": "postoji k trestné činnosti rodinných příslušníků",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "12. Citlivé osobní údaje dle české legislativy vypovídají mj. o:",
+    "answers": [
+      {
+        "body": "sexuální orientaci",
+        "right": true
+      },
+      {
+        "body": "postoji k trestné činnosti jiných",
+        "right": false
+      },
+      {
+        "body": "majetkových poměrech státních úředníků",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "13. Co řeší Zákon o ochraně osobních údajů?",
+    "answers": [
+      {
+        "body": "upravuje právo na ochranu osobních údajů u jedinců se záznamem v trestním rejstříku po dobu výkonu trestu",
+        "right": false
+      },
+      {
+        "body": "vztahuje se na osobní údaje, které zpracovávají státní orgány, orgány územní samosprávy, jiné orgány veřejné moci, jakož i fyzické a právnické osoby, není-li stanoveno jinak",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "14. Zákon o ochraně osobních údajů:",
+    "answers": [
+      {
+        "body": "se vztahuje na zabezpečení zpracovávaných osobních údajů v případě automatizovaných prostředků",
+        "right": false
+      },
+      {
+        "body": "se nevztahuje na data poskytovaná dobrovolně státním institucím",
+        "right": false
+      },
+      {
+        "body": "se nevztahuje na nahodilé shromažďování osobních údajů, pokud tyto údaje nejsou dále zpracovávány, nebo pokud nejsou pro podnikání",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "15. IEEE - principy SW inženýra stanoví např.",
+    "answers": [
+      {
+        "body": "povinnost žít čestně, zdravě a podle pravidel IEEE tak, aby na něj mohla být společnost hrdá",
+        "right": false
+      },
+      {
+        "body": "zastávat pouze takové pozice, na které má nár-*a schopnosti",
+        "right": false
+      },
+      {
+        "body": "zajistit čestnost a nezávislost ve svých odborných odhadech",
+        "right": true
+      },
+      {
+        "body": "povinnost používat pouze software, za který nebylo prokazatelným způsobem zaplaceno",
+        "right": false
+      },
+      {
+        "body": "vykonávat svou činnost v souladu s veřejným zájmem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "16. Co je to statistická databáze?",
+    "answers": [
+      {
+        "body": "Databáze, která obsahuje informace o jednotlivcích, ale povoluje pouze statistické dotazy, tj. nedovolí získat informace o jednotlivcích.",
+        "right": true
+      },
+      {
+        "body": "Databáze, která umožňuje získávat statistické informace o jednotlivcích.",
+        "right": false
+      },
+      {
+        "body": "Databáze, která je dohledována Českým statistickým úřadem.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "17. Britská medicínská asociace nařizuje při zakládání nového záznamu pacienta, aby:",
+    "answers": [
+      {
+        "body": "Na seznamu přístupů do další návštěvy lékaře nebyl nikdo z administrativního personálu.",
+        "right": false
+      },
+      {
+        "body": "Na seznamu přístupů k záznamu byl pouze pacient, další lékaře přidává primář oddělení.",
+        "right": false
+      },
+      {
+        "body": "Na seznamu přístupů k záznamu byl pouze ošetřující lékař a pacient.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "18. Jak pracuje technika maximálního rozsahu dotazu ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Pro vyhodnocení dotazu může být použito pouze menší množství záznamů než je stanovená maximální mez.",
+        "right": false
+      },
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": true
+      },
+      {
+        "body": "Pro vyhodnocení dotazu nesmí být použito více záznamu než je stanovená maximální mez.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "19. Co znamená pojem důvěrnost dat?",
+    "answers": [
+      {
+        "body": "Data jsou v nezměněné podobě tak, jak byla vytvořena.",
+        "right": false
+      },
+      {
+        "body": "Utajení obsažené informace.",
+        "right": true
+      },
+      {
+        "body": "Zajištění integrity dat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "20. Mezi bezp. funkce systémů pro ochranu inf. soukromí nepatří:",
+    "answers": [
+      {
+        "body": "integrita",
+        "right": true
+      },
+      {
+        "body": "nepozorovatelnost",
+        "right": false
+      },
+      {
+        "body": "pseudonymita",
+        "right": false
+      },
+      {
+        "body": "nespojitelnost",
+        "right": false
+      },
+      {
+        "body": "identita",
+        "right": true
+      },
+      {
+        "body": "neslučitelnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "21. Které z následujících možností obsahují relevantní bezpečnostní funkce systémů pro ochranu inf. soukromí?",
+    "answers": [
+      {
+        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita",
+        "right": true
+      },
+      {
+        "body": "nezjistitelnost, nespojitelnost, anonymita, identita",
+        "right": false
+      },
+      {
+        "body": "neslučitelnost, nepozorovatelnost, anonymita, pseudonymita",
+        "right": false
+      },
+      {
+        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita, identita",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "22. Anonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
+    "answers": [
+      {
+        "body": "identita uživatele zůstane skryta",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane skryta specifickým uživatelům, pro specifické operace",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale v případě potřeby ji lze zpětně zjistit",
+        "right": false
+      },
+      {
+        "body": "specifikované entity jsou schopny určit skutečné uživatelské jméno spojené se specifikovanými subjekty, operacemi, objekty",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "23. Pseudonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
+    "answers": [
+      {
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za specifikovaných podmínek mohou tento stav zvrátit",
+        "right": true
+      },
+      {
+        "body": "identita uživatele zůstane trvale skryta",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta specifickým uživatelům, pro specifické operace",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav zvrátit",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta ostatním uživatelům, ale ne administrátorům",
+        "right": false
+      },
+      {
+        "body": "identita uživatele zůstane skryta, ale to platí pouze pro původně neveřejné pseudonymy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "24. Nepozorovatelnost (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
+    "answers": [
+      {
+        "body": "ostatní uživatelé systému nemohou pozorovat používání daného zdroje nebo služeb, ale v případě potřeby lze toto chování zpětně spojit s konkrétním uživatelem",
+        "right": false
+      },
+      {
+        "body": "specifikované entity jsou schopny pozorovat specifikované operace prováděné specifikovanými entitami na nespecifikovaných objektech",
+        "right": false
+      },
+      {
+        "body": "ostatní uživatelé (ani administrátoři) systému nemohou pozorovat používání daného zdroje nebo služeb",
+        "right": true
+      },
+      {
+        "body": "ostatní uživatelé, s výjimkou administrátorů, nemohou pozorovat používání daného zdroje nebo služeb",
+        "right": false
+      },
+      {
+        "body": "specifikované entity nejsou schopny pozorovat specifikované operace prováděné specifikovanými entitami na specifikovaných objektech",
+        "right": true
+      },
+      {
+        "body": "uživatelé nejsou zodpovědní za své chování v systému",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "25. Co je výsledkem hodnocení systému podle Společných kritéríí (CC)?",
+    "answers": [
+      {
+        "body": "Subjektivní (ze strany hodnotitele) hodnocení bezpečnosti systému",
+        "right": false
+      },
+      {
+        "body": "Popis, jakým způsobem je v hodnoceném systému dosaženo daných vlastností",
+        "right": false
+      },
+      {
+        "body": "Sada doporučení, jak hodnocený systém zabezpečit",
+        "right": false
+      },
+      {
+        "body": "Diskrétní hodnocení (ano/ne) daných požadavků na hodnocený systém",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "26. Anonymita subjektu (podle A.Pfitzmanna - mixy) znamená stav:",
+    "answers": [
+      {
+        "body": "bytí neidentifikovatelným v ramci dané množiny subjektů, tvz. anonymitní množině, ale s výjimkou administrátorů - ti jsou schopni identitu kdykoliv zjistit",
+        "right": false
+      },
+      {
+        "body": "bytí neidentifikovatelným v rámci libovolné podmnožiny z množiny všech subjektů",
+        "right": false
+      },
+      {
+        "body": "bytí neidentifikovatelným v rámci dané množiny subjektů, tzv. anonymitní množině",
+        "right": true
+      },
+      {
+        "body": "ve kterém má daný subjekt minimální prokazatelnou zodpovědnost (acountability)",
+        "right": true
+      },
+      {
+        "body": "bytí neidentifikovatelným v rámci dané množiny subjektů, tzv. anonymitní množině s tím, že v případě potřeby je identitu subjektu možno zpětně dohledat",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "27. Pro větší anonymitní množinu je:",
+    "answers": [
+      {
+        "body": "podle některých názorů anonymita stejná jako pri menší anonymitní množině",
+        "right": true
+      },
+      {
+        "body": "podle některých názorů anonymita menší než pri menší anonymitní množině",
+        "right": false
+      },
+      {
+        "body": "podle některých názorů anonymita větší než při menší anonymitní množině",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "28. Nespojitelnost (podle A.Pfitzmanna - mixy) znamená:",
+    "answers": [
+      {
+        "body": "Že pravděpodobnost spojení prvků v systému je stejná před a po (prů)běhu nějaké posloupnosti událostí v systému.",
+        "right": true
+      },
+      {
+        "body": "Nespojitelnost dvou a více prvků (např. subjektů, zpráv, událostí) tak, že v takovém systému nejsou prvky ani více, ani méně ve vzájemném vztahu s ohledem na předchozí znalost systému.",
+        "right": true
+      },
+      {
+        "body": "Nespojitelnost tří a více prvků (např. subjektů, zpráv, událostí) tak, že budou anonymní pouze vůči uživatelům systému, nikoli vůči administrátorům.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "29. Co je to veřejný pseudonym?",
+    "answers": [
+      {
+        "body": "Je veřejně znám od počátku, např. v seznamu osob",
+        "right": true
+      },
+      {
+        "body": "Pseudonym používaný uvnitř veřejně nedostupného systému",
+        "right": false
+      },
+      {
+        "body": "Pseudonym použitelný pouze na veřejnosti",
+        "right": false
+      },
+      {
+        "body": "Např. telefonní číslo ve Zlatých stránkách",
+        "right": true
+      },
+      {
+        "body": "Je znám veřejnosti za poplatek",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "30. Co je to \"původně neveřejný\" pseudonym?",
+    "answers": [
+      {
+        "body": "Pseudonym původně neurčený pro veřejnost, který ale neschválil Úřad pro ochranu osobních údajů",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který musí být po druhém použití zveřejněn",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který musí být při druhém použití zveřejněn",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který původně nebyl veřejný, ale v některých případech může být zveřejněn",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "31. Co je to \"původně nespojený\" pseudonym?",
+    "answers": [
+      {
+        "body": "Je znám pouze vlastníku a jeho nejbližšímu okolí",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který není spojen s žádným loginem",
+        "right": false
+      },
+      {
+        "body": "Pseudonym původně neurčený pro veřejnost, který ale neschválil Úřad pro ochranu osobních údajů",
+        "right": false
+      },
+      {
+        "body": "Není od počátku znám nikomu kromě jeho vlastníka",
+        "right": true
+      },
+      {
+        "body": "Např. ID v chatu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "32. Co je to identita (podle A. Pfitzmana - mixy)",
+    "answers": [
+      {
+        "body": "Libovolná podmnožina atributů určitého jedince, která tohoto jedince jednoznačně určuje v jakékoliv množině jedinců",
+        "right": true
+      },
+      {
+        "body": "Pevně stanovená podmnožina atributů určité skupiny jedinců, která tuto skupinu jednoznačně určuje v jakékoliv množině jedinců",
+        "right": false
+      },
+      {
+        "body": "Taková podmnožina atributů určitého jedince, která jeho identitní skupinu jednoznačně určuje v jakékoliv množině jedinců",
+        "right": false
+      },
+      {
+        "body": "Libovolná podmnožina atributů určitého jedince, která jeho identitní skupinu jednoznačně určuje v jakékoliv množině jedinců",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "33. Co představuje pseudonym osoby?",
+    "answers": [
+      {
+        "body": "Identifikace dané osoby",
+        "right": false
+      },
+      {
+        "body": "Pseudonym původně určený pro veřejnost, který ale neschválil Úřad pro ochranu osobních údajů",
+        "right": false
+      },
+      {
+        "body": "Reprezentace dané osoby",
+        "right": true
+      },
+      {
+        "body": "Např. číslo mobilního telefonu dané osoby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "34. Co platí pro pseudonym role?",
+    "answers": [
+      {
+        "body": "Jedna osoba může pro různé role využívat různé pseudonymy",
+        "right": true
+      },
+      {
+        "body": "Např. login pro přístup do internetového bankovnictví",
+        "right": true
+      },
+      {
+        "body": "Více osob musí pro tutéž roli využívat tentýž pseudonym",
+        "right": false
+      },
+      {
+        "body": "Více osob může pro více rolí využívat různé pseudonymy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "35. Co je to pseudonym vztahu?",
+    "answers": [
+      {
+        "body": "Například použití různých přezdívek (nickname) pro komunikaci s každým partnerem",
+        "right": true
+      },
+      {
+        "body": "Pro každého partnera je použito jeho jméno podle platného občanského průkazu",
+        "right": false
+      },
+      {
+        "body": "Pro každého partnera je použito jiné jméno",
+        "right": true
+      },
+      {
+        "body": "Pro každého partnera je použito stejné jméno",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "36. Co je to pseudonym transakce?",
+    "answers": [
+      {
+        "body": "Pseudonym, který neumožňuje zjistit, že dvě různé transakce byly ve skutečnosti provedeny jedním subjektem",
+        "right": true
+      },
+      {
+        "body": "Např. login pro přístup do internetového bankovnictví",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který se použije k ověření pravosti transakce",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který je unikátní pro každou transakci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "37. Citlivé osobní údaje dle české legislativy vypovídají o:",
+    "answers": [
+      {
+        "body": "postoji k trestné činnosti rodinných příslušníků",
+        "right": false
+      },
+      {
+        "body": "sexuální orientaci",
+        "right": true
+      },
+      {
+        "body": "majetkových poměrech státních úředníků",
+        "right": false
+      },
+      {
+        "body": "zdravotním stavu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "38. Pro osobní údaje dle české legislativy platí:",
+    "answers": [
+      {
+        "body": "dozor nad osobními údaji provádí Policie ČR",
+        "right": false
+      },
+      {
+        "body": "jde-li na základě jednoho či více osobních údajů přímo či nepřímo zjistit identitu subjektu, považuje se subjekt údajů za určený nebo určitelný",
+        "right": true
+      },
+      {
+        "body": "jedná se o jakýkoliv údaj týkající se určeného nebo určitelného subjektu údajů.",
+        "right": true
+      },
+      {
+        "body": "zpracovávání osobních údajů je zakázáno, vyjma případů pro osobní potřebu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "39. Povinnosti správce osobních údajů:",
+    "answers": [
+      {
+        "body": "archivovat data kódovaně, není-li řečeno jinak",
+        "right": false
+      },
+      {
+        "body": "stanovit prostředky a způsob zpracování osobních údajů",
+        "right": true
+      },
+      {
+        "body": "vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu",
+        "right": false
+      },
+      {
+        "body": "neposkytovat data třetím stranám před sepsáním Smlouvy o poskytnutí osobních dat",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "40. Co řeší Zákon o ochraně osobních údajů?",
+    "answers": [
+      {
+        "body": "vztahuje se na osobní údaje, které zpracovávají státní orgány, orgány územní samosprávy, jiné orgány veřejné moci, jakož i fyzické a právnické osoby, není-li stanoveno jinak",
+        "right": true
+      },
+      {
+        "body": "upravuje právo na ochranu osobních údajů u jedinců se záznamem v trestním rejstříku po dobu výkonu trestu",
+        "right": false
+      },
+      {
+        "body": "upravuje ochranu osobních údajů o fyzických osobách, práva a povinnosti při zpracování těchto údajů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "41. Pro osobní údaje dle české legislativy neplatí:",
+    "answers": [
+      {
+        "body": "dozor nad osobními údaji provádí Policie ČR",
+        "right": true
+      },
+      {
+        "body": "o osobní údaj se nejedná, pokud je třeba ke zjištění identity subjektu údajů nepřiměřené množství času nebo materiálních prostředků",
+        "right": false
+      },
+      {
+        "body": "o osobní údaj se jedná i v policií neschválených sběrech dat, které provádí fyzická osoba výlučně pro osobní potřebu",
+        "right": true
+      },
+      {
+        "body": "zpracovávání osobních údajů je zakázáno, vyjma případů pro osobní potřebu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "42. Co je to agregace dat?",
+    "answers": [
+      {
+        "body": "Seskupování (osobních) dat do rozsáhlých databází.",
+        "right": true
+      },
+      {
+        "body": "Zálohování dat jako obrana proti živelným pohromám.",
+        "right": false
+      },
+      {
+        "body": "\"Pročišťování\" velkých databází",
+        "right": false
+      },
+      {
+        "body": "Odvozování nových (typicky citlivějších) informací, na základě zpracování informací s nižší úrovní citlivosti.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "43. V souvislosti se sdružováním dat do rozsáhlých databází ukládá zákon 101/2000 sb. o ochraně osobních údajů",
+    "answers": [
+      {
+        "body": "Povinnost informovat osobu, jejíž data budou uložena a zpracovávána v databázi, že se tímto způsobem bude s poskytnutými daty nakládat.",
+        "right": true
+      },
+      {
+        "body": "Povinnost informovat zkoumanou osobu (subjekt) o tom, že se podařilo zjistit o něm citlivé informace a zda může potvrdit jejich pravdivost.",
+        "right": false
+      },
+      {
+        "body": "Povinnost nesdružovat data, která byla původně získána k rozdílným účelům, do jednoho celku.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "44. Jaké jsou faktory přímo ovlivňující pravděpodobnost neoprávněného (vy)užití informací?",
+    "answers": [
+      {
+        "body": "Výše trestu těm, kdo s daty neoprávněně manipuluje.",
+        "right": true
+      },
+      {
+        "body": "Výše trestu těm, kdo data neohlídali a spolupodíleli se na jejich úniku.",
+        "right": true
+      },
+      {
+        "body": "Kódování dat.",
+        "right": false
+      },
+      {
+        "body": "Úroveň bezpečnostních mechanizmů.",
+        "right": true
+      },
+      {
+        "body": "Výše trestu těm, kdo data hlídali a zajistili restriktivní manipulaci.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "45. Jaká protiopatření zabraňující neoprávněnému přístupu k informacím se používají ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Anonymita, pseudonymita, nespojitelnost, nesledovatelnost.",
+        "right": false
+      },
+      {
+        "body": "Náhodný výběr, minimální rozsah dotazu, perturbační techniky.",
+        "right": true
+      },
+      {
+        "body": "Náhodný výběr, maximální rozsah dotazu, turbační techniky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "46. Jak pracuje technika náhodného výběru ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Výsledek dotazu je zaokrouhlen na hodnotu náhodně vybraného záznamu.",
+        "right": false
+      },
+      {
+        "body": "Výsledek dotazu je zcela náhodný a nepředvídatelný.",
+        "right": false
+      },
+      {
+        "body": "Výsledek dotazu je vyhodnocen na základě mírně poupravených záznamů, které jsou náhodně vybrány ze všech existujících záznamů v databázi.",
+        "right": false
+      },
+      {
+        "body": "Výsledek dotazu je vyhodnocen na základě náhodně vybraných záznamů ze všech existujících záznamů v databázi.",
+        "right": true
+      },
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "47. Jak pracuje technika minimálního rozsahu dotazu ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Pro vyhodnocení dotazu může být použito méně záznamů než je stanovená minimální mez, ale pouze za zvláštních bezpečnostních opatření (např. podpis dohody o mlčenlivosti).",
+        "right": false
+      },
+      {
+        "body": "Žádná taková technika se ve statistických databázích nepoužívá.",
+        "right": false
+      },
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": false
+      },
+      {
+        "body": "Pro vyhodnocení dotazu nesmí být použito méně záznamů než je stanovená minimální mez.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "48. Mezi bezp. funkce systémů pro ochranu inf. soukromí patří:",
+    "answers": [
+      {
+        "body": "nespojitelnost",
+        "right": true
+      },
+      {
+        "body": "identita",
+        "right": false
+      },
+      {
+        "body": "nepozorovatelnost",
+        "right": true
+      },
+      {
+        "body": "pseudonymita",
+        "right": true
+      },
+      {
+        "body": "anonymita",
+        "right": true
+      },
+      {
+        "body": "nezjistitelnost",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "49. Pseudonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
+    "answers": [
+      {
+        "body": "identita uživatele zůstane skryta, ale specifikované entity za nespecifikovaných podmínek mohou tento stav",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "50. Co je to pseudonym role-vztahu?",
+    "answers": [
+      {
+        "body": "Pseudonym, který lze pro danou roli a vztah použít pouze jednou a při další takové komunikaci musí být vygenerován nový",
+        "right": false
+      },
+      {
+        "body": "Pseudonym, který je unikátní pro roli a vztah (partnera)",
+        "right": true
+      },
+      {
+        "body": "Takový pseudonym, že komunikační partner se nedozví, že dva pseudonymy použité v různých rolích patří ve skutečnosti pouze jednomu uživateli",
+        "right": true
+      },
+      {
+        "body": "Pseudonym, jehož použití je omezeno pouze pro unikátní roli a vztah (partnera)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "51. Zvolte správnou hierarchii podle druhu pseudonymu (ve směru zvyšující se anonymity a nespojitelnosti)",
+    "answers": [
+      {
+        "body": "Pseudonym osoby -\u003e pseudonym role-vztahu -\u003e pseudonym vztahu -\u003e pseudonym role -\u003e pseudonym transakce",
+        "right": false
+      },
+      {
+        "body": "Pseudonym osoby -\u003e pseudonym transakce -\u003e pseudonym role a pseudonym vztahu -\u003e pseudonym role-vztahu",
+        "right": false
+      },
+      {
+        "body": "Pseudonym osoby -\u003e pseudonym role-vztahu -\u003e pseudonym role -\u003e pseudonym vztahu -\u003e pseudonym transakce",
+        "right": false
+      },
+      {
+        "body": "Pseudonym osoby -\u003e pseudonym role a pseudonym vztahu -\u003e pseudonym role-vztahu -\u003e pseudonym transakce",
+        "right": true
+      },
+      {
+        "body": "Pseudonym transakce -\u003e pseudonym role-vztahu -\u003e pseudonym role a pseudonym vztahu -\u003e pseudonym osoby",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "52. Pro osobní údaje dle české legislativy platí:",
+    "answers": [
+      {
+        "body": "jedná se o jakýkoliv údaj týkající se určeného nebo určitelného subjektu údajů.",
+        "right": true
+      },
+      {
+        "body": "zpracovávání osobních údajů je zakázáno, vyjma případů pro osobní potřebu",
+        "right": false
+      },
+      {
+        "body": "jde-li na základě jednoho či více osobních údajů přímo či nepřímo zjistit identitu subjektu, považuje se subjekt údajů za určený nebo určitelný",
+        "right": true
+      },
+      {
+        "body": "o osobní údaj se nejedná, pokud je třeba ke zjištění identity subjektu údajů nepřiměřené množství času nebo materiálních prostředků",
+        "right": true
+      },
+      {
+        "body": "dozor nad osobními údaji provádí Policie ČR",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "53. Povinnosti správce osobních údajů:",
+    "answers": [
+      {
+        "body": "neposkytovat data třetím stranám před sepsáním Smlouvy o autorizovaném poskytnutí osobních dat",
+        "right": false
+      },
+      {
+        "body": "archivovat data kódovaně, není-li řečeno jinak",
+        "right": false
+      },
+      {
+        "body": "stanovit prostředky a způsob zpracování osobních údajů",
+        "right": true
+      },
+      {
+        "body": "vkládat falešné záznamy, aby v případě krádeže dat nebylo možné snadno posoudit jejich validitu",
+        "right": false
+      },
+      {
+        "body": "ověřovat neautorizované výskyty osob",
+        "right": false
+      },
+      {
+        "body": "zpracovávat pouze pravdivé a přesné osobní údaje",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "55. Zákon o ochraně osobních údajů:",
+    "answers": [
+      {
+        "body": "vztahuje se na veškeré zpracování osobních údajů, ať k němu dochází automatizovaně nebo jinými prostředky",
+        "right": true
+      },
+      {
+        "body": "nevztahuje se na nahodilé shromažďování osobních údajů, pokud tyto údaje nejsou dále zpracovávány, nebo pokud nejsou pro podnikání",
+        "right": true
+      },
+      {
+        "body": "nevztahuje se na data poskytovaná dobrovolně státním institucím",
+        "right": false
+      },
+      {
+        "body": "vztahuje se na zabezpečení zpracovávaných osobních údajů v případě automatizovaných prostředků dodávaných ze zemí mimo EU",
+        "right": false
+      },
+      {
+        "body": "nevztahuje se na zpracování osobních údajů, které provádí fyzická osoba výlučně pro osobní spotřebu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "56. Pravidla přístupu do počítačové sítě (FI) MU",
+    "answers": [
+      {
+        "body": "v případě nutnosti je povoleno rekonfigurovat PC, které je pod správou CVT FI",
+        "right": false
+      },
+      {
+        "body": "uživatel smí kopírovat programové vybavení jen pro potřeby svého ročníku",
+        "right": false
+      },
+      {
+        "body": "je zakázáno odposlouchávat provoz a vytvářet kopie poštovních zpráv",
+        "right": true
+      },
+      {
+        "body": "v počítačových učebnách a na počítačích FI je možné hrát pouze legálně zakoupené hry",
+        "right": false
+      },
+      {
+        "body": "je povoleno používat pouze legální software",
+        "right": true
+      },
+      {
+        "body": "je zakázáno pracovat pod cizí identitou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "57. Pravidla přístupu do počítačové sítě (FI) MU",
+    "answers": [
+      {
+        "body": "v případě nutnosti je povoleno rekonfigurovat PC, které je pod správou CVT FI",
+        "right": false
+      },
+      {
+        "body": "je třeba volit si dobrá hesla, nezjišťovat hesla jiných",
+        "right": true
+      },
+      {
+        "body": "v počítačových učebnách a na počítačích FI je možné hrát pouze legálně zakoupené hry",
+        "right": false
+      },
+      {
+        "body": "je povoleno provozovat vlastní herní server jen po 22:00",
+        "right": false
+      },
+      {
+        "body": "je zakázáno odposlouchávat provoz a vytvářet kopie poštovních zpráv",
+        "right": true
+      },
+      {
+        "body": "uživatel smí poskytovat jen takové programové vybavení a datové soubory, k nimž vlastní platnou licenci",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "58 Co je to odvození (inference)?",
+    "answers": [
+      {
+        "body": "Odvození nových informací se stejnou citlivostí zpracováním a analýzou skupiny informaci určité citlivosti.",
+        "right": false
+      },
+      {
+        "body": "Odvození nových informací s nižší citlivostí zpracováním a analýzou skupiny informací o vyšší citlivosti.",
+        "right": false
+      },
+      {
+        "body": "Odvození informací o vyšší citlivosti zpracováním a analýzou skupiny informací o nižší citlivosti.",
+        "right": true
+      },
+      {
+        "body": "Opak agregace.",
+        "right": false
+      },
+      {
+        "body": "Odvozením získáváme nepřímý přístup k informacím bez přímého přístupu k datům, která tyto informace reprezentují.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "59. Jaké ochranné mechanizmy se používají k zabránění neoprávněného použití informací v databázích?-",
+    "answers": [
+      {
+        "body": "Kódování dat.",
+        "right": false
+      },
+      {
+        "body": "Kryptování dat.",
+        "right": false
+      },
+      {
+        "body": "Zákaz agregace u velkých databází.",
+        "right": true
+      },
+      {
+        "body": "Statistické databáze.",
+        "right": true
+      },
+      {
+        "body": "Povinná autentifikace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "60. Co je to kritický dotaz ve statistické databázi?",
+    "answers": [
+      {
+        "body": "Dotaz, jehož vyhodnocení trvá dlouhou dobu a vyžaduje veškerou výpočetní sílu databáze, která se v tím může stát nedostupnou pro ostatní dotazy.",
+        "right": false
+      },
+      {
+        "body": "Dotaz, který databáze nesmí vyhodnotit, neboť by tím došlo ke zjištění informací o jednotlivci nebo malé skupině osob.",
+        "right": true
+      },
+      {
+        "body": "Sekvence složená z legitimních dotazů na statistickou databázi s cílem získat informace o jednotlivci nebo malé skupině osob.",
+        "right": true
+      },
+      {
+        "body": "Dotaz, který může být položen pouze v okamžiku, kdy v databázi neprobíhají žádné aktualizace dat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "61. Co je to perturbační technika používaná ve statistických databázích?",
+    "answers": [
+      {
+        "body": "Pro vyhodnocení dotazu nesmí být použito více záznamu než je stanovená maximální (perturbační) mez.",
+        "right": false
+      },
+      {
+        "body": "Technika stavějící např. na zaokrouhlování mezivýsledků dotazů.",
+        "right": true
+      },
+      {
+        "body": "Pro vyhodnocení dotazu může být použito pouze menší množství záznamů než je stanovená maximální (perturbační) mez.",
+        "right": false
+      },
+      {
+        "body": "Technika umožňující zjistit konzistentní, ale ne spolehlivé odpovědi na sérii podobných dotazů.",
+        "right": true
+      },
+      {
+        "body": "Žádná taková technika neexistuje.",
+        "right": false
+      },
+      {
+        "body": "Přidávání pseudonáhodného \"šumu\" k množině záznamů, na jejichž základě se vyhodnotí dotaz.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "62. Důvěryhodnost dat?",
+    "answers": [
+      {
+        "body": "Data získaná od důvěryhodného zdroje.",
+        "right": false
+      },
+      {
+        "body": "Data jsou v nezměněné podobě tak, jak byla vytvořena.",
+        "right": true
+      },
+      {
+        "body": "Technicky se realizuje např. pomocí digitálního podpisu.",
+        "right": true
+      },
+      {
+        "body": "Utajení obsažené informace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "63. Pro zajištění prokazatelné zodpovědnosti (accountability)?",
+    "answers": [
+      {
+        "body": "Ja na začátku práce v systému obvykle prováděno dešifrování dat pro práci s účtem.",
+        "right": false
+      },
+      {
+        "body": "Je na začátku práce v systému obvykle prováděna autentizace nebo identifikace.",
+        "right": true
+      },
+      {
+        "body": "Je prováděna archivace dat umožňujících propojení činnosti s konkrétní osobou tak, že daná osoba se nemůže zříci zodpovědnosti za svoji činnost.",
+        "right": true
+      },
+      {
+        "body": "Je prováděna archivace dat pro udržení schopnosti správy účtu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "64. Britská medicínská asociace nařizuje při práci se záznamy pacientů:",
+    "answers": [
+      {
+        "body": "Nutnost informovat pacienta (na jeho žádost) o aktuálním stavu seznamu přístupů k jeho záznamu.",
+        "right": true
+      },
+      {
+        "body": "Implementaci opatření zamezujících agregaci dat.",
+        "right": true
+      },
+      {
+        "body": "Zaznamenávání veškerých modifikací provedených se záznamy pro potřeby auditu.",
+        "right": true
+      },
+      {
+        "body": "Nutnost informovat rodinné příslušníky pacienta (na jejich žádost) o aktuálním stavu seznamu přístupů k jeho záznamu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "65. Pod pojmem slabá integrita dat rozumíme",
+    "answers": [
+      {
+        "body": "Data nesmí bez svolení autorizované osoby měnit svůj stav vůbec",
+        "right": false
+      },
+      {
+        "body": "Data nesmí bez svolení autorizované osoby nepozorovaně měnit svůj stav",
+        "right": true
+      },
+      {
+        "body": "Data nesmí bez svolení autorizované osoby zpracovávána na sémantické úrovni",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "66. Pod pojmem silná integrita dat rozumíme",
+    "answers": [
+      {
+        "body": "Data nesmí bez svolení autorizované osoby nepozorovaně měnit svůj stav",
+        "right": false
+      },
+      {
+        "body": "Data nesmí bez svolení autorizované osoby zpracovávána na sémantické úrovni",
+        "right": false
+      },
+      {
+        "body": "Data nesmí bez svolení autorizované osoby měnit svůj stav vůbec",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "67. Bezpečnostní politika zahrnuje",
+    "answers": [
+      {
+        "body": "Specifikaci technologických opatření kterými budou prosazovány bezpečnostní požadavky společnosti",
+        "right": false
+      },
+      {
+        "body": "Seznam konkrétních osob, které mají povoleno přistupovat k citlivým datům společnosti",
+        "right": false
+      },
+      {
+        "body": "Požadavky, pravidla a postupy určující způsob ochrany a zacházení s hodnotami společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "68. Pod pojmem hybridní kryptosystémy rozumíme například",
+    "answers": [
+      {
+        "body": "Data jsou před podpisem zašifrována algoritmem asymetrické kryptografie",
+        "right": false
+      },
+      {
+        "body": "Data jsou šifrována náhodným symetrickým klíčem, ten je šifrován veřejným klíčem příjemce",
+        "right": true
+      },
+      {
+        "body": "Data jsou před šifrováním algoritmem symetrické kryptografie hašována, šifrována je pouze výsledná haš",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "69. Pokud existuje v systému zranitelnost a existuje útočník, který ji může využít, výsledný stav je nazýván:",
+    "answers": [
+      {
+        "body": "hrozba",
+        "right": true
+      },
+      {
+        "body": "útok",
+        "right": false
+      },
+      {
+        "body": "riziko",
+        "right": false
+      },
+      {
+        "body": "zranitelnost",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "70. Pod pojmem důvěrnost dat rozumíme",
+    "answers": [
+      {
+        "body": "Snaha zamezit změně sémantického obsahu dat neautorizovanými osobami",
+        "right": false
+      },
+      {
+        "body": "Snaha zabránit zjištění sémantického obsahu dat neutorizovanými osobami",
+        "right": true
+      },
+      {
+        "body": "Snaha utajit existenci sémantiky dat před nedůvěryhodnými osobami",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "71. Pod pojmem dostupnost dat rozumíme",
+    "answers": [
+      {
+        "body": "Průběh autentizace osoby pro práci s daty a službami by měl být dostupný i lidem se sníženou pracovní schopností",
+        "right": false
+      },
+      {
+        "body": "Osoby by měly mít přístup ke svým datům a službám co nejsnadnější",
+        "right": false
+      },
+      {
+        "body": "Data by měla být dostupná i neautorizované sobě v případě kritické události",
+        "right": false
+      },
+      {
+        "body": "Autorizované osoby by měly mít přístup ke svým datům a službám co nejsnadnější",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "72. Pod pojmem prokazatelná zodpovědnost rozumíme",
+    "answers": [
+      {
+        "body": "Uživatelé se musí před použitím systému autentizovat vůči jeho majiteli",
+        "right": false
+      },
+      {
+        "body": "Uživatelé systému jsou zodpovědní za činy, které lze jednoznačně prokázat",
+        "right": false
+      },
+      {
+        "body": "U každé činnosti lze jednoznačně prokázat, kdo je za ni zodpovědný.",
+        "right": false
+      },
+      {
+        "body": "Za veškeré činy v systému jsou uživatelé zodpovědní vůči majiteli dat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "73. Kerckhoffsův princip říká, že:",
+    "answers": [
+      {
+        "body": "Použitý algoritmus je přístupný pouze autorizovaným osobám, klíč je utajován",
+        "right": false
+      },
+      {
+        "body": "Klíč není třeba utajovat, pokud je použitý algoritmus veřejně znám",
+        "right": false
+      },
+      {
+        "body": "Klíč není třeba utajovat, pokud použitý algoritmus je také tajný",
+        "right": false
+      },
+      {
+        "body": "Použitý algoritmus je veřejně znám, utajován je pouze klíč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "74. Zaručený elektronický podpis je",
+    "answers": [
+      {
+        "body": "Podpis, který je proveden nad zaručeně koretními daty",
+        "right": false
+      },
+      {
+        "body": "Nic takového dle českého zákona neexistuje",
+        "right": false
+      },
+      {
+        "body": "Podpis, který je připojen ke zprávě tak, aby ho bylo možné zaručeně ověřit",
+        "right": false
+      },
+      {
+        "body": "Podpis, který je jednoznačně spojen s podepisující osobou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "75. Digitální podpis zajišťuje",
+    "answers": [
+      {
+        "body": "Obnovu privátního klíče při jeho ztrátě",
+        "right": false
+      },
+      {
+        "body": "Autorizaci podepisovaných dat",
+        "right": false
+      },
+      {
+        "body": "Integritu podepisovaných dat",
+        "right": true
+      },
+      {
+        "body": "Důvěrnost podepisovaných dat",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "76. Certifikát veřejného klíče (nař. X.509) vydaný důvěryhodnou certifikační autoritou umožňuje",
+    "answers": [
+      {
+        "body": "Zabránit ztrátě privátního klíče",
+        "right": false
+      },
+      {
+        "body": "Získat veřejný klíč konkrétního uživatele",
+        "right": true
+      },
+      {
+        "body": "Získat přístup k šifrovaným datům konkrétního uživatele v kritické situaci oprávněnou organizací",
+        "right": false
+      },
+      {
+        "body": "Ověřit identitu předkladatele veřejného klíče",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "77. Jaké druhy kryptografie dle typu použitých klíčů rozlišujeme",
+    "answers": [
+      {
+        "body": "Symetrická, asymetrická, s náhodnými klíči",
+        "right": false
+      },
+      {
+        "body": "Pouze asymetrickou, symetrická je speciálním případem asymetrické",
+        "right": false
+      },
+      {
+        "body": "Symetrická, asymetrická, antisymetrická",
+        "right": false
+      },
+      {
+        "body": "Symetrická, asymetrická, bez klíčů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "78. Od kryptografické hašovací funkce požadujeme",
+    "answers": [
+      {
+        "body": "Rychlost výpočtu, jednosměrnost, bezkoliznost",
+        "right": true
+      },
+      {
+        "body": "Bezkoliznost, antisymetričnost, jednosměrnost, rychlost výpočtu",
+        "right": false
+      },
+      {
+        "body": "Jednosměrnost, koliznost, rychlost výpočtu",
+        "right": false
+      },
+      {
+        "body": "Obousměrnost, bezkoliznost, rychlost výpočtu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "79. Která z uvedených tvrzení jsou nepravdivá?",
+    "answers": [
+      {
+        "body": "Algoritmy používané pro asymetrickou kryptografii jsou typicky pomalejší než algoritmy pro symetrickou kryptografii",
+        "right": false
+      },
+      {
+        "body": "Symetrická kryptografie využívá dva klíče, veřejný a privátní",
+        "right": true
+      },
+      {
+        "body": "U asymetrické kryptografie je privátní klíč sdílen mezi dvěma a více uživateli",
+        "right": true
+      },
+      {
+        "body": "Symetrická kryptografie využívá obvykle klíče s kratší délkou",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "80. Pod pojmem depozitování klíčů rozumíme",
+    "answers": [
+      {
+        "body": "Uložení kopie klíče na chráněné místo tak, aby mohlo dojít k jeho obnově při ztrátě",
+        "right": true
+      },
+      {
+        "body": "Uchování klíčů v takové podobě, aby je bylo možné hromadně zálohovat",
+        "right": false
+      },
+      {
+        "body": "Uchovávání více klíčů pohromadě tak, aby nedošlo k jejich vyzrazení neautorizovaným osobám",
+        "right": false
+      },
+      {
+        "body": "Uchování kopie klíče přístupné v případě krizové situace odpovědnou organizací",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "81. Certifikační autorita",
+    "answers": [
+      {
+        "body": "Monitoruje chování uživatele po vydání certifikátu",
+        "right": false
+      },
+      {
+        "body": "Ověřuje identitu uživatele před vydáním certifikátu",
+        "right": true
+      },
+      {
+        "body": "Umožňuje přístup k privátnímu klíči uživatele pro vládní organizace",
+        "right": false
+      },
+      {
+        "body": "Umožňuje zneplatnit vydaný certifikát",
+        "right": true
+      }
+    ]
+  }
+]

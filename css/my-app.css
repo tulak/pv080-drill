@@ -34,36 +34,36 @@ i.tabbar-demo-icon-4 {
 }
 
 
-#questions li.answer .item-text {
+.question-pages li.answer .item-text {
     -webkit-line-clamp: 15;
     height: auto !important;
 }
 
-#questions li.answer.bad {
+.question-pages li.answer.bad {
     background-color: #ff3b30;
 }
 
-#questions li.answer.bad .item-text {
+.question-pages li.answer.bad .item-text {
     color: white;
 }
 
-#questions li.answer.good {
+.question-pages li.answer.good {
     background-color: green;
 }
 
-#questions li.answer.good .item-text {
+.question-pages li.answer.good .item-text {
     color: white;
 }
 
-#questions li.answer.missing {
+.question-pages li.answer.missing {
     background-color: #ff7e2a;
 }
 
-#questions li.answer.missing .item-text {
+.question-pages li.answer.missing .item-text {
     color: white;
 }
 
-#questions .question-name {
+.question-pages .question-name {
     -webkit-line-clamp: 15;
     height: auto !important;
     white-space: pre-wrap;

@@ -4,7 +4,7 @@ class Classes.Questions
     @template = options.template
 
     @done_questions = []
-    $.getJSON "questions.json", (data)=>
+    $.getJSON options.dataset, (data)=>
       @questions = data
       @renderQuestion(@popRandomQuestion())
 
@@ -17,9 +17,9 @@ class Classes.Questions
       total_questions: @done_questions.length + @questions.length
     }
     @container.html(html)
-    $('#submit-button').click @submit
-    $('#next-button').click @nextQuestion
-    $('#source-link').on "click", ->
+    @container.find('#submit-button').click @submit
+    @container.find('#next-button').click @nextQuestion
+    @container.find('#source-link').on "click", ->
       window.location.href = "http://www.github.com/tulak/pv080-drill/"
 
   popRandomQuestion: =>
@@ -34,8 +34,8 @@ class Classes.Questions
     ret
 
   submit: =>
-    _.each $('input[name=answer]'), (answer)->
-      li = $(answer).parent().parent()
+    _.each @container.find('input[name=answer]'), (answer)=>
+      li = @container.find(answer).parent().parent()
       li.removeClass "bad"
       li.removeClass "good"
       li.removeClass "missing"
