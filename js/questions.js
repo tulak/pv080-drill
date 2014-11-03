@@ -9,8 +9,6 @@
       this.renderQuestion = __bind(this.renderQuestion, this);
       this.container = options.container;
       this.template = options.template;
-      $('#submit-button').click(this.submit);
-      $('#cancel-button').click(this.cancel);
       this.done_questions = [];
       $.getJSON("questions.json", (function(_this) {
         return function(data) {
@@ -27,29 +25,40 @@
       }
       this.current_question = question;
       html = this.template(question);
-      return this.container.html(html);
+      this.container.html(html);
+      $('#submit-button').click(this.submit);
+      return $('#next-button').click(this.nextQuestion);
     };
 
     Questions.prototype.popRandomQuestion = function() {
-      var random_index;
+      var random_index, ret;
       if (this.questions.length === 0) {
         this.questions = this.done_questions;
         this.done_questions = [];
       }
       random_index = _.random(0, this.questions.length - 1);
-      return this.questions[random_index];
+      ret = this.questions[random_index];
+      this.questions[random_index] = void 0;
+      this.questions = _.compact(this.questions);
+      this.done_questions.push(ret);
+      return ret;
     };
 
     Questions.prototype.submit = function() {
       return _.each($('input[name=answer]'), function(answer) {
         var li;
         li = $(answer).parent().parent();
-        li.removeClass("color-red");
+        li.removeClass("bad");
+        li.removeClass("good");
+        li.removeClass("missing");
         if (answer.checked && $(answer).attr('value') === "false") {
-          li.addClass("color-red");
+          li.addClass("bad");
         }
         if (!answer.checked && $(answer).attr('value') === "true") {
-          return li.addClass("color-red");
+          li.addClass("missing");
+        }
+        if (answer.checked && $(answer).attr('value') === "true") {
+          return li.addClass("good");
         }
       });
     };

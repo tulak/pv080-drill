@@ -13,100 +13,76 @@
   </head>
   <body>
     <!-- Status bar overlay for fullscreen mode-->
-    <div class="statusbar-overlay"></div>
+    <div class="statusbar-overlay">
+
+    </div>
     <!-- Panels overlay-->
     <div class="panel-overlay"></div>
-    <!-- Left panel with reveal effect-->
-    <div class="panel panel-left panel-reveal">
-      <div class="content-block">
-        <p>Left panel content goes here</p>
-      </div>
-    </div>
-    <!-- Right panel with cover effect-->
-    <div class="panel panel-right panel-cover">
-      <div class="content-block">
-        <p>Right panel content goes here</p>
-      </div>
-    </div>
     <!-- Views-->
     <div class="views">
       <!-- Your main view, should have "view-main" class-->
-      <div class="view view-main">
-        <!-- Top Navbar-->
-        <div class="navbar">
-          <!-- Navbar inner for Index page-->
-          <div data-page="index" class="navbar-inner">
-            <!-- We have home navbar without left link-->
-            <div class="center sliding">PV080 Drill</div>
-            <div class="right">
-              <!-- Right link contains only icon - additional "icon-only" class--><a href="#" class="link icon-only open-panel"> <i class="icon icon-bars"></i></a>
-            </div>
-          </div>
-          <!-- Navbar inner for Form page-->
-          <div data-page="form" class="navbar-inner cached">
-            <div class="left sliding"><a href="#" class="back link"> <i class="icon icon-back"></i><span>Back</span></a></div>
-            <div class="center sliding">Form</div>
-          </div>
-        </div>
-        <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes-->
-        <div class="pages navbar-through toolbar-through">
-          <!-- Index Page-->
-          <div data-page="index" class="page">
-            <!-- Scrollable page content-->
-            <div class="page-content">
-              <div id="questions">
+      <div class="view view-main" id="questions">
 
-              </div>
-              <div class="content-block">
-                  <div class="row">
-                      <div class="col-50">
-                          <a href="#" id="cancel-button" class="button button-big button-fill color-red">Cancel</a>
-                      </div>
-                      <div class="col-50">
-                          <a href="#" id="submit-button" class="button button-big button-fill color-green">Submit</a>
-                      </div>
-                  </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Bottom Toolbar-->
-        <div class="toolbar">
-          <div class="toolbar-inner">
-              <!--<a href="#" class="link">Link 1</a><a href="#" class="link">Link 2</a>-->
-
-          </div>
-        </div>
       </div>
     </div>
 
-    <script type="text/template" class="question">
-        <div class="content-block-title"><%= name %></div>
-        <div class="list-block">
-            <ul>
-                <% _.each(answers, function(answer) { %>
-                <li class="li">
-                    <label class="label-checkbox item-content">
-                        <input type="checkbox" name="answer" value="<%= answer.right %>">
-                        <div class="item-media"><i class="icon icon-form-checkbox"></i></div>
-                        <div class="item-inner">
-                            <div class="item-title"><%= answer.body %></div>
+    <script type="text/html" class="question">
+        <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes -->
+        <div class="pages navbar-through toolbar-through">
+            <!-- Index Page-->
+            <div data-page="index" class="page">
+                <!-- Scrollable page content-->
+                <div class="page-content questions-page-content">
+                    <div class="content-block-title question-name"><%= question.name %></div>
+                    <div class="list-block">
+                        <ul>
+                            <% _.each(_.shuffle(question.answers), function(answer) { %>
+                            <li class="answer">
+                                <label class="label-checkbox item-content">
+                                    <input type="checkbox" name="answer" value="<%= answer.right %>">
+                                    <div class="item-media"><i class="icon icon-form-checkbox"></i></div>
+                                    <div class="item-inner">
+                                        <div class="item-text"><%= answer.body %></div>
+                                    </div>
+                                </label>
+                            </li>
+                            <% }); %>
+                        </ul>
+                    </div>
+                    <div class="content-block">
+                        <div class="row">
+                            <div class="col-50">
+                                <a href="#" id="submit-button" class="button button-big button-fill color-green">Check</a>
+                            </div>
+                            <div class="col-50">
+                                <a href="#" id="next-button" class="button button-big button-fill color-blue">Next</a>
+                            </div>
                         </div>
-                    </label>
-                </li>
-                <% }); %>
-            </ul>
+                    </div>
+                </div>
+                <div class="toolbar">
+                    <div class="toolbar-inner">
+                        <span></span>
+                        <span>Question: <b><%= question_index %></b> of <%= total_questions %>s <b></b></span>
+                        <a href="#" id="source-link">Source</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </script>
     <!-- Path to Framework7 Library JS-->
     <script type="text/javascript" src="js/framework7.min.js"></script>
     <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
     <script type="text/javascript" src="js/underscore.js"></script>
+    <script type="text/javascript" src="js/coffee-script.js"></script>
     <script type="text/javascript">
         window.Classes = {};
+//        $.get("js/questions.coffee", function(data){
+//            eval(data);
+//        });
     </script>
-    <script type="text/javascript" src="js/questions.js"></script>
+    <script type="text/coffeescript" src="js/questions.coffee"></script>
     <!-- Path to your app js-->
-    <script type="text/javascript" src="js/my-app.js"></script>
+    <script type="text/coffeescript" src="js/my-app.coffee"></script>
   </body>
 </html>
