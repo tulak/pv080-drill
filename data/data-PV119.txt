@@ -1,0 +1,336 @@
+Listina zakladnich prav a svobod zarucuje:
+-* listovni tajemstvi pisemnosti uchovavanych v soukromi
+-* listovni tajemstvi pisemnosti zasilanych poštou
+-* tajemstvi zprav podavanych telefonem
+-* tajemstvi zprav podavanych elektronickou poštou
+====
+Pisemnosti osobni povahy mohou byt pouzity:
+-* se souhlasem osoby, ktera je vytvorila
+- bez souhlasu osoby, ktera je vytvorila
+-* k ucelum urednim na zaklade zakona
+- na zaklade "zpravodajske licence"
+====
+Obchodni tajemstvi
+-* je vzdy predmetem prav nalezejicich k podniku
+- patri vzdy do majetku obchodni spolecnosti
+- jedna se o autorska prava a technicke vynalezy
+- je zaznamenano u uradu prumysloveho vlastnictvi
+====
+Pri porušeni autorskeho prava ma autor pravo se domahat
+-* odstraneni nasledku neopravnenych zasahu do autorskeho prava
+- zaplaceni pokuty
+-* zadostiucineni
+-* vydani neopravneneho obohaceni
+====
+Databaze
+-* se povazuje za souborne autorske dilo
+-* majetkove autorske pravo k databazi trva 15 let od jejiho porizeni
+- muze byt neomezene vytezovana jen, je-li verejne pristupna
+- muze byt neomezeni vytizovana pro osobni potrebu uzivatele
+====
+Zanik patentu
+- majitel patentu je povinnen vynalez prakticky vyuzivat  
+- patent muze byt zrušen, pokud jej majitel nevyuziva (mùze byt ale zrušen patentovy monopol, pokud jej majitel nevyuziva a blokuje jeho uzivani ostatnim, kteri by chteli)
+-* patent zanika, uplyne-li doba jeho platnosti
+-* patent zanika, nezaplati-li majitel poplatky za...
+====
+Spravce je povinnen
+-* prokazat souhlas subjektu udaju po celou dobu zpracovavani
+-* informovat subjekt udaju, kdo a jakym zpusobem bude udaje zpracovavat
+-* informovat subjekt udaju, komu mohou byt jeho udaje zpristupneny
+- pravidelne jednou rocne zaslat subjektu udaju ... zpracovavanych
+====
+Zamestnanci spravce:
+-* musi uzavrit dohodu o ochranezpracovavanych
+-* mohou zpracovavat osobni udaje pouze v rozsahu stanovenym  spravcem
+- maji dozivotni povinnost mlcenlivosti o zpracovavnych informacich
+- maji dozivotni povinnost mlcenlivosti o bezpecnostnich prvcich
+====
+Podle zakona o svobodnem pristupu k informacim jsou
+-* povinnymi subjekty statni organy
+- povinnymi subjekty všichni, kdo hospodaoi s veo... mozna
+-* zadateli fyzicke osoby zpusobile k pravnim ukonum
+-* zadateli veškere pravnicke osoby
+====
+V souvislosti s ochranou utajovanych informaci...
+-* dodrzovat nutna omezeni stanovena vladou
+-* podrobit se bezpecnostni proverce
+-* odevzdat nalezenou utajovanou informaci
+-* zachovavat mlcenlivost o utajovanych informacich
+====
+1 Listina zakladnich prav
+-* zarucuje ochranu pisemnosti uchovavanych v soukromi
+-* zarueuje ochranu pisemnosti prepravovanych poštou
+-* zarueuje tajemstvi zprav podavanych telefonem
+-* zarucuje tajemstvi zprav prenašenych elektronicky
+====
+2. Pisemnost osobniho charakteru
+-* muze byt zverejnina se souhlasem autora
+- muze byt zveoejnina bez souhlasu autora
+-* muze byt pouzita k urednim ucelum na zaklade zakona
+- muze byt zverejnina na zaklade zpravodajske licence
+====
+3.Obchodni tajemstvi
+- patri mezi majetek podniku
+-* patri k pravum souvisejicim s podnikem
+- jedna se o autorska prava a technicke vynalezy
+- je zaznamenano u uradu prumysloveho vlastnictvi
+====
+4.Osobnostni autorska prava
+- autorem muze byt pouze fyzicka osoba zpusobila k pravnim ukonum
+-* o zverejnini dila rozhoduje autor
+-* autorstvi je neprevoditelne a autor se jej nemuze vzdat 
+-* smrti autora prechazi autorska prava na dedice ne- vykon prav, ne prava
+====
+5.Zamestnanecky vztah            nevim
+-* veškera prava k dilum vykonava zamestnanec
+-* po zaniku pravnicke osoby bez pravniho nastupce prechazeji prava na autora
+-* pri zhotoveni pocitacoveho programu na objednavku ma autor pravo na primirenou dodatecnou odmenu
+====
+6.Vynalezy
+-* patentovatelne jsou jen nove vynalezy
+-* patentovatelne jsou jen prumyslove vyuzitelne vynalezy
+-* patent nemuze byt nikdy udelen na pocitacovy program
+- pravo k patentu ma jeho autor
+====
+7 Osobni udaje
+-* urcitelnou osobou je osoba, o niz je znamo jmeno, prijmeni, bydlište a datum narozeni
+-* citlivym udajem je prislušnost k politicke strani nebo hnuti
+- osobni udaj muze byt anonymizovan
+- udaje o osobi se deli na osobni a neosobni
+====
+8.Pri neopravnenem zverejnini osobnich udaju ma subjekt udaju pravo zadat
+-* odstraneni zpusobenych škod
+- zaplaceni pokuty
+-* zadostiucineni
+-* vydani bezduvodneho obohaceni
+====
+9.Svobodny pristup k informacim
+-* poskytovatelem jsou statni organy
+-* poskytovatelem jsou všechny organizace hospodarici s verejnymi prostredky
+-* zadatelem je fyzicka osoba zpusobila k pravnim ukonum
+-* zadatelem jsou všechny pravnicke osoby
+====
+10 Pro pristup k utajovanym informacim musi podnik
+-* byt administrativni bezpeeny
+-* nebyt v konkurzu ani likvidaci
+-* vypracovat bezpeenostni projekt
+- mit certifikovany vnitrni informacni system
+====
+Odvetvi ceskeho prava
+- obcanske pravo nepatri mezi odvetvi soukromeho prava
+-* pracovni pravo nepatri mezi odvetvi verejneho prava
+- trestni pravo patri mezi odvetvi soukromeho prava
+-* spravni pravo patri mezi odvetvi verejneho prava
+====
+Vlada CR
+-* tvori zakony CR
+- je volena poslaneckou snemovnou Parlamantu CR
+-* navrhuje zakony CR
+-* funkce clena vlady CR je neslucitelna s funkci senatora parlamentu CR
+====
+zanik trestnosti
+-* vina obzalovaneho se vzdy posuzuje podle trestneho zakona ve stavu v okamziku spachani trestneho cinu 
+-* odsouzeny muze byt za dobre chovani propusten po vykonu poloviny ulozeneho trestu
+- v pripadne trestneho teroru zanika jeho trestnost pri ucinne litosti pachatele
+-* trestny cin teroru nemuze byt promlcen
+====
+trestni rizeni
+-* zalobu podava poskozeny
+-* ucastniky jsou vzdy obzalovany a obhajce
+-* nad trestnim rizenim vykonava dozor statni zastupce nebo soud
+====
+spolecnost s rucenim omezenim 
+-* ma minimalne 2 cleny a maximalne 50 clenu 
+-* kazdy ze spolecniku ruci za zavasky spolecnosti do vyse sveho nesplaceneho vkladu
+-* zakladni kapital je minimalne 200 000 Kc
+- nejvyssim organem je predstavenstvo
+====
+pravnicka osoba
+-* zpusobilost k pravum je ekvivalentni zpusobilosti k pravnim ukonum
+- jedna se vzdy o ucelove zdruzeni majetku
+-* vsechny druhy obchodnich spolecnosti jsou pravnickymi osobami
+- o vzniku ci zaniku pravnicke osoby vzdy rozhoduje soud
+====
+zavazky
+-* jednostranne zavazky musi mit ustni, pisemnou nebo elektronickou podobu
+-* vznikaji na zaklada smlouvy
+- ze zavazku je povinnen dluznik neco dat, konat,neceho se zdrzet nebo trpet
+-* strany smolouvy si vzdy mohou zvolit, zda smlouvu uzavrenou dle obcanskeho nebo obchodniho zakoniku 
+====
+vykon rozhodnuti
+-* muze byt proveden srazkami ze mzdy
+-* muze byt proveden donucenim k provedeni praci ci vykonu
+-* pri nezaplaceni dluzne castky muze byt udelen alternativni trest odneti svobody 
+-* muze byt provedena exekuce na movity i nemovity majetek
+====
+v pravocni smlouve nesmi chybet
+-* podpis stran
+-* druh prace
+- datum vzniku a zaniku pracovniho pomeru
+-* ujednani o vysi mzdy
+====
+pracovni doba a dovolena
+- zakladni vymera pracovni doby je 42,5 hodin tydne
+- matky s detmi a mladistvi maji zakladni vymeru pracovni doby 20 hodin tydne
+- prescasova prace je nepripustna
+-* zakladni vymera dovolene je 4 tdyny
+====
+Listina zakladnich prav a svobod zarucuje
+-* pravo na zachovani dobre povesti
+-* pravo na ochranu obchodniho tajemstvi
+-* pravo na ochranu jmena
+-* pravo na ochranu pred neopravnenim shromazdovanim osobnich udaju
+====
+Podle zakona o svobodnem pristupu k informacim nesmi byt poskytnute informace ktere jsou
+-* utajovanymi informacemi
+-* obchodnim tajemstvim
+-* osobnimi udaji
+- informacemi o rozhodnuti organu statni spravy
+====
+tresne ciny v souvislosti s utajovanymi informcemi 
+- projednavaji vojenske soudy 
+- vyzvedacstvi muze byt trestano vymecnym trestem
+-* ohrozeni utajovane informace je trestne i kdyz je spachano z nedbalosti
+- vyzvedacstvi v kategorii "Vyhrazene" je prestupkem
+====
+Po smrti fyzicke osoby prislusi uplatnovat pravo na:
+-* ochranu jeji osobnosti jejim detem
+- ochranu jeji osobnosti jejim dedicum
+- nahradu skody spusebenou neopravnenym zasahem do prava na ochranu osobnosti jejim detem
+-* nahradu skody spusebenou neopravnenym zasahem do prava na ochranu osobnosti jejim dedicum
+====
+Pri poruseni nebo ohrozeni prava na obchodni tajmenstvi ma .....
+-* odstraneni zavadneho stavu
+- zaplaceni pokuty
+-* zadostiucineni
+-* vydani bezduvodneho obohaceni
+====
+Majetkova autorska prava
+-* jejich drzitelem muze byt pouze fyzicka osoba spusobila pravnim ukonum ktera dilo vytvorila
+- obecne trvaji 50 let po smrti autora
+- nelze se jich vzdat a jsou neprevoditelna
+-* po smrti autora prechazeji na dedice
+====
+Pravo prumysloveho vlastnictvi chrani
+-* autorska dila 
+-* biotechnologicke vynalezy
+-* obchodni tajemstvi
+-* zlepsovaci navrhy
+====
+citlive udaje muze spravce spracovavat 
+-* jestlize je spracovani nezbytpne pro zjisteni a uplatnovani pravnich naroku
+-* poklada-li to za nezbytne k ochrane zivotne dulezitych zajmu subjektu udaju
+- poklada-li to za nezbytne k ochrane svych zajmu
+-* na zaklade pisemne smlouvy se subjektem udaju
+====
+pri poruseni povinnosti pri zpracovavani osobnich udaju ma subjekt udaju pravo domahat se
+-* odstraneni nasledku takoveho jednani
+- zaplaceni pokuty
+-* zadostiucineni
+-* vydani bezduvodneho obohaceni
+====
+informace vyzadane zadatelem podle zakona o svobodnem pristupu k informacim se preda
+-* zverejnenim na uredni desce
+-* zverejnenim dalkovim pristupem (Internet)
+- odkazem na zverejnenou informaci
+-* pisemne
+====
+utajovane informace mohou byt poskytovany organizaci, ktera
+-* je administrativne bezpecna
+-* neni v likvidaci ci konkurzu
+- ma certifikovany vnitrni informacni system
+- vypracovala bezpecnostni projekt
+====
+Mezi zakladni principy soukromeho prava patri
+-* smi se co neni zakonem zakazano
+- smi se jen to, co je zakonem dovoleno
+- smi se jen to, co je zakonem urceno
+- musi se jen to, co je zakonem urceno
+====
+PSP CR
+-* je volena na 4 roky
+- ma 150 poslancu
+-* schvaluje vladu
+-* tvori zakony
+====
+Vypoved ze strany zamestnance
+-* zakladni vyp. doba 3 mesice
+- osoba mladistva nemuze podat okamzitou vypoved
+-* osoba na rod. dovolene muze podat okamzitou vypoved
+-* zamestnanec nemusi vypoved zduvodnovat
+====
+Zamestnavatel
+-* pri spojeni firem prechazi pracovni zavazky na novy subjekt
+- pri zaniku firmy prechazi zavazky na stat
+====
+Zpusobilost k pravu
+-* je li clovek zpusobily k pravu, je zpusobily i k pravnim ukonum
+-* je li clovek zpusobily k pravnim ukonum, je zpusobily i k pravu
+-* zpusobilost k pravu vznika 18. Rokem 
+-* zpusobilost k pravnim ukonum vznika 18. Rokem
+====
+Organy cinne v trestnim rizeni
+- mestska police
+-* soudy
+-* statni zastupitelstvi
+- vezenska sluzba
+====
+Okolnosti vylucujici trestni odpovednost
+- jakakoliv nutna obrana
+-* nepricetnost
+-* je li z duvodu dusevni choroby omezena schopnost osoby kontrolovat sve ciny 
+-* vznika vzdy dosazenim 15 let
+====
+ Soudnictvi
+-* soudy jsou okresni, krajske, vrchni, nejvyssi, nejvyssi spravni a ustavni
+-* pokud promeskate lhutu na odvolani, rozsudek nabyva pravni moci
+-* proti platebnimu prikazu lze podat odpor
+-* proti rozsudku se muzete odvolat a dovolat
+====
+komanditni spolecnost
+-* ma minimalne 2 spolecniky 
+- vsichni ruci celym svym majetkem
+- min jmeni 200 kKc
+-* jsou dva druhy spolecniku
+====
+- Verejna obchodni spolecnost
+- Verejna obchodni spolecnost ma povinnost jednou rocne zverejnit svou ucetni zaverku 
+-* Verejna obchodni spolecnost musi mit nejmene 2 cleny.
+- Verejna o.s. musi mit zakladni kapital. 
+====
+Statni moc
+-* Statni moc lze uplatnovat jen v mezich stanovenych zakonem 
+- Statni moc lze uplatnovat v mezich dovolenych zakonem.
+- Statni moc lze uplatnovat v mezich nezakazanych zakonem.
+-* Nikdo nesmiu byt nucen delat, co zakon neuklada.
+====
+ Trestni rizeni
+-* zalobu podava poskozeny.
+-* Nad rizenim dohlizi statni zastupce 
+- Statni zastupce narizuje vazbu obzalovaneho.
+-* ucastnikem rizeni je vzdy obzalovany a obhajce. 
+====
+Obcanskopravni spor:
+-* Soud je vazan navrhy poskozeneho.
+- Naklady za soudni spor vzdy uhradi poskozeny.
+- Naklady za soudni spor vzdy uhradi zalovany.
+- Soud muze vyhlasit rozsudek pro ome?k?n?.???
+====
+ Vlastnicke pravo:
+-* Nabyti vlastnictvi je mozne koupi, dedenim nebo vydrzenim veci. 
+- Zastavni pravo se nevztahuje na movity majetek.
+- Vecne bremeno se vztahuje na movity i nemovity majetek. 
+- Pri koupi veci s hodnotou nad 500 000 Kc je nutnosti pisemna smlouva.
+====
+ Zastupovani:
+- Jenom rodice smi zastupovat sve deti.
+- Manzele se smi zastupovat ve vecech pravnich ukonu.
+-* Manzele se nesmi zastupovat v pravnim ukonu materialniho vyrovnani. 
+- Je mozne zastupovat jenom fyzicke osoby.
+====
+Senat:
+-* Ma 81 clenu
+- Jsou voleni na 4 roky
+-* Navrhuje zakony CR
+- Vyslovuje vlade neduveru 

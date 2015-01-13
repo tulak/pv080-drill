@@ -95,10 +95,22 @@ end
 # f1.write p1.questions.as_json.to_json
 # f1.close
 
-p2 = Parser.new "data-vnitro.txt"
-p2.parse
-f2 = File.open("../questions_midterm.json", "w")
-f2.write p2.questions.as_json.to_json
-f2.close
+#p2 = Parser.new "data-vnitro.txt"
+#p2.parse
+#f2 = File.open("../questions_midterm.json", "w")
+#f2.write p2.questions.as_json.to_json
+#f2.close
+
+p3 = Parser.new "data-PV119.txt"
+p3.parse
+f3 = File.open("../questions_PV119.json", "w")
+f3.write p3.questions.as_json.to_json
+f3.close
+
+#p4 = Parser.new "data-PB151.txt"
+#p4.parse
+#f4 = File.open("../questions_PB151.json", "w")
+#f4.write p4.questions.as_json.to_json
+#f4.close
 
 binding.pry
