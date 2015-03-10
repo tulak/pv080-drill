@@ -1,106 +1,121 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <title>PV080 Drill</title>
-    <!-- Path to Framework7 Library CSS-->
-    <link rel="stylesheet" href="css/framework7.min.css">
-    <!-- Path to your custom app styles-->
-    <link rel="stylesheet" href="css/my-app.css">
-  </head>
-  <body>
-    <!-- Status bar overlay for fullscreen mode-->
-    <div class="statusbar-overlay">
-
-    </div>
-    <!-- Panels overlay-->
-    <div class="panel-overlay"></div>
-
-    <div class="panel panel-left panel-reveal">
-        <div class="content-block">
-            <div class="content-block-title">Question Datasets</div>
-            <p><a href="#all" class="close-panel">All</a></p>
-            <p><a href="#midterm" class="close-panel">Midterm</a></p>
-            <p><a href="#PV119" class="close-panel">PV119</a></p>
-            <p><a href="#PB151" class="close-panel">PB151</a></p>
-            <div class="content-block-title">About</div>
-            <p>
-                Datasets are parsed from materials from fi.muny.cz. If some question have wrong answers marked as right,
-                feel free to open pull request and start the discusion.
-            </p>
-            <p>
-                The app was made for my personal use, and then shared to others to make the world better place :D.
-            </p>
-            <p>
-                If you find it helpful you can buy me a beer.
-            </p>
-        </div>
-    </div>
-    <!-- Views-->
-    <div class="views">
-      <!-- Your main view, should have "view-main" class-->
-      <div class="view view-main">
-          <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes -->
-          <div class="pages navbar-fixed toolbar-fixed question-pages">
-              <!-- Index Page-->
-              <div data-page="all" class="page">
-                  <span id="questions-all">
-
-                  </span>
-                  <div class="toolbar">
-                      <div class="toolbar-inner">
-                          <a href="#" data-panel="left" class="open-panel">Menu</a>
-                          <a href="#" class="source-link">Source</a>
-                      </div>
-                  </div>
-              </div>
-
-              <!-- Index Page-->
-              <div data-page="midterm" class="page">
-                  <span id="questions-midterm">
-
-                  </span>
-                  <div class="toolbar">
-                      <div class="toolbar-inner">
-                          <a href="#" data-panel="left" class="open-panel">Menu</a>
-                          <a href="#" class="source-link">Source</a>
-                      </div>
-                  </div>
-              </div>
-			  
-			  <!-- Index Page-->
-              <div data-page="PV119" class="page">
-                  <span id="questions-PV119">
-
-                  </span>
-                  <div class="toolbar">
-                      <div class="toolbar-inner">
-                          <a href="#" data-panel="left" class="open-panel">Menu</a>
-                          <a href="#" class="source-link">Source</a>
-                      </div>
-                  </div>
-              </div>
-			  
-			  <!-- Index Page-->
-              <div data-page="PB151" class="page">
-                  <span id="questions-PB151">
-
-                  </span>
-                  <div class="toolbar">
-                      <div class="toolbar-inner">
-                          <a href="#" data-panel="left" class="open-panel">Menu</a>
-                          <a href="#" class="source-link">Source</a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-    </div>
-
-    <script type="text/html" class="question">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<title>PV080 Drill</title>
+	<!-- Path to Framework7 Library CSS-->
+	<link rel="stylesheet" href="css/framework7.min.css">
+	<!-- Path to your custom app styles-->
+	<link rel="stylesheet" href="css/my-app.css">
+</head>
+<body>
+<div class="statusbar-overlay">
+</div>
+<!-- Panels overlay-->
+<div class="panel-overlay">
+</div>
+<div class="panel panel-left panel-reveal">
+	<div class="content-block">
+		<div class="content-block-title">
+			Question Datasets
+		</div>
+		<p>
+			<a href="#all" class="close-panel">All</a>
+		</p>
+		<p>
+			<a href="#midterm" class="close-panel">Midterm</a>
+		</p>
+		<p>
+			<a href="#PV119" class="close-panel">PV119</a>
+		</p>
+		<p>
+			<a href="#PB151" class="close-panel">PB151</a>
+		</p>
+		<p>
+			<a href="#PV157" class="close-panel">PV157</a>
+		</p>
+		<div class="content-block-title">
+			About
+		</div>
+		<p>
+			 Datasets are parsed from materials from fi.muny.cz. If some question have wrong answers marked as right, feel free to open pull request and start the discusion.
+		</p>
+		<p>
+			 The app was made for my personal use, and then shared to others to make the world better place :D.
+		</p>
+		<p>
+			 If you find it helpful you can buy me a beer.
+		</p>
+	</div>
+</div>
+<!-- Views-->
+<div class="views">
+	<!-- Your main view, should have "view-main" class-->
+	<div class="view view-main">
+		<!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes -->
+		<div class="pages navbar-fixed toolbar-fixed question-pages">
+			<!-- Index Page-->
+			<div data-page="all" class="page">
+				<span id="questions-all">
+				</span>
+				<div class="toolbar">
+					<div class="toolbar-inner">
+						<a href="#" data-panel="left" class="open-panel">Menu</a>
+						<a href="#" class="source-link">Source</a>
+					</div>
+				</div>
+			</div>
+			<!-- Index Page-->
+			<div data-page="midterm" class="page">
+				<span id="questions-midterm">
+				</span>
+				<div class="toolbar">
+					<div class="toolbar-inner">
+						<a href="#" data-panel="left" class="open-panel">Menu</a>
+						<a href="#" class="source-link">Source</a>
+					</div>
+				</div>
+			</div>
+			<!-- Index Page-->
+			<div data-page="PV119" class="page">
+				<span id="questions-PV119">
+				</span>
+				<div class="toolbar">
+					<div class="toolbar-inner">
+						<a href="#" data-panel="left" class="open-panel">Menu</a>
+						<a href="#" class="source-link">Source</a>
+					</div>
+				</div>
+			</div>
+			<!-- Index Page-->
+			<div data-page="PB151" class="page">
+				<span id="questions-PB151">
+				</span>
+				<div class="toolbar">
+					<div class="toolbar-inner">
+						<a href="#" data-panel="left" class="open-panel">Menu</a>
+						<a href="#" class="source-link">Source</a>
+					</div>
+				</div>
+			</div>
+			<!-- Index Page-->
+			<div data-page="PV157" class="page">
+				<span id="questions-PV157">
+				</span>
+				<div class="toolbar">
+					<div class="toolbar-inner">
+						<a href="#" data-panel="left" class="open-panel">Menu</a>
+						<a href="#" class="source-link">Source</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/html" class="question">
         <!-- Scrollable page content-->
         <div class="page-content questions-page-content">
             <div class="content-block-title question-name"><%= question.name %></div>
@@ -129,25 +144,23 @@
                     </div>
                 </div>
             </div>
-
             <div class="content-block">
                 <div class="content-block-inner">
                     <p>Question: <b><%= question_index %></b> of <%= total_questions %></p>
                 </div>
             </div>
         </div>
-
     </script>
-    <!-- Path to Framework7 Library JS-->
-    <script type="text/javascript" src="js/framework7.min.js"></script>
-    <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
-    <script type="text/javascript" src="js/underscore.js"></script>
-    <script type="text/javascript" src="js/coffee-script.js"></script>
-    <script type="text/javascript">
+<!-- Path to Framework7 Library JS-->
+<script type="text/javascript" src="js/framework7.min.js"></script>
+<script type="text/javascript" src="js/jquery-2.1.1.js"></script>
+<script type="text/javascript" src="js/underscore.js"></script>
+<script type="text/javascript" src="js/coffee-script.js"></script>
+<script type="text/javascript">
         window.Classes = {};
     </script>
-    <script type="text/coffeescript" src="js/questions.coffee"></script>
-    <!-- Path to your app js-->
-    <script type="text/coffeescript" src="js/my-app.coffee"></script>
-  </body>
+<script type="text/coffeescript" src="js/questions.coffee"></script>
+<!-- Path to your app js-->
+<script type="text/coffeescript" src="js/my-app.coffee"></script>
+</body>
 </html>
