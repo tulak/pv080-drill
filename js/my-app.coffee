@@ -32,3 +32,8 @@ window.questions_PB151 = new Classes.Questions
   dataset: "questions_PB151.json"
   container: $('#questions-PB151')
   template: _.template($('.question').first().html())
+  
+window.questions_PV157 = new Classes.Questions
+  dataset: "questions_PV157.json"
+  container: $('#questions-PV157')
+  template: _.template($('.question').first().html())
