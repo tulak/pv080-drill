@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<title>PV080 Drill</title>
-<!-- Path to Framework7 Library CSS-->
-<link rel="stylesheet" href="css/framework7.min.css">
-<!-- Path to your custom app styles-->
-<link rel="stylesheet" href="css/my-app.css">
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>PV080 Drill</title>
+    <!-- Path to Framework7 Library CSS-->
+    <link rel="stylesheet" href="css/framework7.min.css">
+    <!-- Path to your custom app styles-->
+    <link rel="stylesheet" href="css/my-app.css">
 </head>
 <body>
 <!-- Status bar overlay for fullscreen mode-->
@@ -19,142 +20,156 @@
 <div class="panel-overlay">
 </div>
 <div class="panel panel-left panel-reveal">
-	<div class="content-block">
-		<div class="content-block-title">
-			Question Datasets
-		</div>
-		<p>
-			<a href="#PV080-all" class="close-panel">PV080 - All</a>
-		</p>
-		<p>
-			<a href="#PV080-midterm" class="close-panel">PV080 - Midterm</a>
-		</p>
-		<p>
-			<a href="#PV119" class="close-panel">PV119</a>
-		</p>
-		<p>
-			<a href="#PB151" class="close-panel">PB151</a>
-		</p>
-		<p>
-			<a href="#PV157" class="close-panel">PV157</a>
-		</p>
-		<div class="content-block-title">
-			About
-		</div>
-		<p>
-			 Datasets are parsed from materials from fi.muny.cz. If some question have wrong answers marked as right, feel free to open pull request and start the discusion.
-		</p>
-		<p>
-			 The app was made for my personal use, and then shared to others to make the world better place :D.
-		</p>
-		<p>
-			 If you find it helpful you can buy me a beer.
-		</p>
-	</div>
+    <div class="content-block">
+        <div class="content-block-title">
+            Question Datasets
+        </div>
+        <p>
+            <a href="#PV080-all" class="close-panel">PV080 - All</a>
+        </p>
+
+        <p>
+            <a href="#PV080-midterm" class="close-panel">PV080 - Midterm</a>
+        </p>
+
+        <p>
+            <a href="#PV119" class="close-panel">PV119</a>
+        </p>
+
+        <p>
+            <a href="#PB151" class="close-panel">PB151</a>
+        </p>
+
+        <p>
+            <a href="#PV157" class="close-panel">PV157</a>
+        </p>
+
+        <div class="content-block-title">
+            About
+        </div>
+        <p>
+            Datasets are parsed from materials from fi.muny.cz. If some question have wrong answers marked as right,
+            feel free to open pull request and start the discusion.
+        </p>
+
+        <p>
+            The app was made for my personal use, and then shared to others to make the world better place :D.
+        </p>
+
+        <p>
+            If you find it helpful you can buy me a beer.
+        </p>
+    </div>
 </div>
 <!-- Views-->
 <div class="views">
-	<!-- Your main view, should have "view-main" class-->
-	<div class="view view-main">
-		<!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes -->
-		<div class="pages navbar-fixed toolbar-fixed question-pages">
-			<!-- Index Page-->
-			<div data-page="PV080-all" class="page">
+    <!-- Your main view, should have "view-main" class-->
+    <div class="view view-main">
+        <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes -->
+        <div class="pages navbar-fixed toolbar-fixed question-pages">
+            <!-- Index Page-->
+            <div data-page="PV080-all" class="page">
 				<span id="questions-all">
 				</span>
-				<div class="toolbar">
-					<div class="toolbar-inner">
-						<a href="#" data-panel="left" class="open-panel">Menu</a>
-						<span>PV080 - All</span>
-						<a href="#" class="source-link">Source</a>
-					</div>
-				</div>
-			</div>
-			<!-- Index Page-->
-			<div data-page="PV080-midterm" class="page">
+
+                <div class="toolbar">
+                    <div class="toolbar-inner">
+                        <a href="#" data-panel="left" class="open-panel">Menu</a>
+                        <span>PV080 - All</span>
+                        <a href="#" class="source-link">Source</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Index Page-->
+            <div data-page="PV080-midterm" class="page">
 				<span id="questions-midterm">
 				</span>
-				<div class="toolbar">
-					<div class="toolbar-inner">
-						<a href="#" data-panel="left" class="open-panel">Menu</a>
-						<span>PV080 - Midterm</span>
-						<a href="#" class="source-link">Source</a>
-					</div>
-				</div>
-			</div>
-			<!-- Index Page-->
-			<div data-page="PV119" class="page">
+
+                <div class="toolbar">
+                    <div class="toolbar-inner">
+                        <a href="#" data-panel="left" class="open-panel">Menu</a>
+                        <span>PV080 - Midterm</span>
+                        <a href="#" class="source-link">Source</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Index Page-->
+            <div data-page="PV119" class="page">
 				<span id="questions-PV119">
 				</span>
-				<div class="toolbar">
-					<div class="toolbar-inner">
-						<a href="#" data-panel="left" class="open-panel">Menu</a>
-						<span>PV119</span>
-						<a href="#" class="source-link">Source</a>
-					</div>
-				</div>
-			</div>
-			<!-- Index Page-->
-			<div data-page="PB151" class="page">
+
+                <div class="toolbar">
+                    <div class="toolbar-inner">
+                        <a href="#" data-panel="left" class="open-panel">Menu</a>
+                        <span>PV119</span>
+                        <a href="#" class="source-link">Source</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Index Page-->
+            <div data-page="PB151" class="page">
 				<span id="questions-PB151">
 				</span>
-				<div class="toolbar">
-					<div class="toolbar-inner">
-						<a href="#" data-panel="left" class="open-panel">Menu</a>
-						<span>PB151</span>
-						<a href="#" class="source-link">Source</a>
-					</div>
-				</div>
-			</div>
-			<!-- Index Page-->
-			<div data-page="PV157" class="page">
+
+                <div class="toolbar">
+                    <div class="toolbar-inner">
+                        <a href="#" data-panel="left" class="open-panel">Menu</a>
+                        <span>PB151</span>
+                        <a href="#" class="source-link">Source</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Index Page-->
+            <div data-page="PV157" class="page">
 				<span id="questions-PV157">
 				</span>
-				<div class="toolbar">
-					<div class="toolbar-inner">
-						<a href="#" data-panel="left" class="open-panel">Menu</a>
-						<a href="#" class="source-link">Source</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+
+                <div class="toolbar">
+                    <div class="toolbar-inner">
+                        <a href="#" data-panel="left" class="open-panel">Menu</a>
+                        <a href="#" class="source-link">Source</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <script type="text/html" class="question">
-<!-- Scrollable page content-->
-<div class="page-content questions-page-content">
-<div class="content-block-title question-name"><%= question.name %></div>
-<div class="list-block">
-<ul>
-<% _.each(_.shuffle(question.answers), function(answer) { %>
-<li class="answer">
-<label class="label-checkbox item-content">
-<input type="checkbox" name="answer" value="<%= answer.right %>">
-<div class="item-media"><i class="icon icon-form-checkbox"></i></div>
-<div class="item-inner">
-<div class="item-text"><%= answer.body %></div>
-</div>
-</label>
-</li>
-<% }); %>
-</ul>
-</div>
-<div class="content-block">
-<div class="row">
-<div class="col-50">
-<a href="#" id="submit-button" class="button button-big button-fill color-green">Check</a>
-</div>
-<div class="col-50">
-<a href="#" id="next-button" class="button button-big button-fill color-blue">Next</a>
-</div>
-</div>
-</div>
-<div class="content-block">
-<div class="content-block-inner">
-<p>Question: <b><%= question_index %></b> of <%= total_questions %></p>
-</div>
-</div>
-</div>
+    <!-- Scrollable page content-->
+    <div class="page-content questions-page-content">
+        <div class="content-block-title question-name"><%= question.name %></div>
+        <div class="list-block">
+            <ul>
+                <% _.each(_.shuffle(question.answers), function(answer) { %>
+                <li class="answer">
+                    <label class="label-checkbox item-content">
+                        <input type="checkbox" name="answer" value="<%= answer.right %>">
+
+                        <div class="item-media"><i class="icon icon-form-checkbox"></i></div>
+                        <div class="item-inner">
+                            <div class="item-text"><%= answer.body %></div>
+                        </div>
+                    </label>
+                </li>
+                <% }); %>
+            </ul>
+        </div>
+        <div class="content-block">
+            <div class="row">
+                <div class="col-50">
+                    <a href="#" id="submit-button" class="button button-big button-fill color-green">Check</a>
+                </div>
+                <div class="col-50">
+                    <a href="#" id="next-button" class="button button-big button-fill color-blue">Next</a>
+                </div>
+            </div>
+        </div>
+        <div class="content-block">
+            <div class="content-block-inner">
+                <p>Question: <b><%= question_index %></b> of <%= total_questions %></p>
+            </div>
+        </div>
+    </div>
 </script>
 <!-- Path to Framework7 Library JS-->
 <script type="text/javascript" src="js/framework7.min.js"></script>
@@ -162,7 +177,7 @@
 <script type="text/javascript" src="js/underscore.js"></script>
 <script type="text/javascript" src="js/coffee-script.js"></script>
 <script type="text/javascript">
-window.Classes = {};
+    window.Classes = {};
 </script>
 <script type="text/coffeescript" src="js/questions.coffee"></script>
 <!-- Path to your app js-->
