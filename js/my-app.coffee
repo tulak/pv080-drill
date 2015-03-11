@@ -33,7 +33,12 @@ window.questions_PB151 = new Classes.Questions
   container: $('#questions-PB151')
   template: _.template($('.question').first().html())
   
-window.questions_PV157 = new Classes.Questions
+window.questions_PV157_all = new Classes.Questions
   dataset: "questions_PV157.json"
-  container: $('#questions-PV157')
+  container: $('#questions-PV157-all')
+  template: _.template($('.question').first().html())
+
+window.questions_PV157_midterm = new Classes.Questions
+  dataset: "questions_PV157_midterm.json"
+  container: $('#questions-PV157-midterm')
   template: _.template($('.question').first().html())

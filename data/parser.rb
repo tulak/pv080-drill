@@ -113,10 +113,17 @@ end
 #f4.write p4.questions.as_json.to_json
 #f4.close
 
-p5 = Parser.new "data-PV157.txt"
-p5.parse
-f5 = File.open("../questions_PV157.json", "w")
-f5.write p5.questions.as_json.to_json
-f5.close
+# p5 = Parser.new "data-PV157.txt"
+# p5.parse
+# f5 = File.open("../questions_PV157.json", "w")
+# f5.write p5.questions.as_json.to_json
+# f5.close
 
-binding.pry
+input_file = ARGV[0]
+output_file = ARGV[1]
+
+p = Parser.new input_file
+p.parse
+f = File.open(output_file, "w")
+f.write p.questions.as_json.to_json
+f.close
