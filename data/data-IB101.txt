@@ -1,0 +1,548 @@
+﻿Pro p pravdivé bude formule ¬(p ⋁ q)
+-vždy pravdivá
+-pravdivá nebo nepravidá podle q
+-*vždy nepravdivá====
+Pro p pravdivé bude formule ¬p ⋀ q
+-*vždy nepravdivá
+-vždy pravdivá
+-pravdivá nebo nepravdivá podle q====
+Pro p pravdivé bude formule p ⋀ q
+-vždy nepravdivá
+-*pravdivá nebo nepravdivá podle q
+-vždy pravdivá====
+Pro p pravdivé bude formule p ⇒ q
+-*pravdivá nebo nepravdivá podle q
+-vždy pravdivá
+-vždy nepravdivá====
+Formule (p ⇒ q) ⇒ (q ⇒ p) je
+-kontradikce
+-tautologie
+-*ne tautologie, ale splnitelná====
+Pro p nepravdivé bude formule p ⋁ q
+-vždy pravdivá
+-vždy nepravdivá
+-*pravdivá nebo nepravdivá podle q====
+Která z variant je úplným systémem logických spojek?
+-⋁ , ⋀ , ⇔
+-⋁ , ⋀
+-*⋁ , ⋀ , ¬====
+Která z variant je úplným systémem logických spojek ?
+-¬ , ⇔
+-*NOR
+-⋁ , ⋀ , ⇔====
+Která z variant je úplným systémem logických spojek ?
+-XOR, ⋁
+-XOR, ¬
+-*XOR, ⇒
+====
+Která z variant je úplným systémem logických spojek?
+-*NAND
+-⋁, ⋀, ⇒
+-⋀, XOR====
+Která z variant je ůplným systémem logických spojek ?
+-¬, ⇔
+-*NOR
+-⋁, ⋀, ⇔====
+Pro formuli ¬p ⇒ (q ⋀ ¬q) urcete, ktera z nasledujicich interpretaci neni modelem
+-*I(p) = 1, I(q) = 0 
+-I(p) =0, I(q) = 1 
+-I(p) = 0, I(q) = 0====
+Pro p nepravdivé bude formule ¬(p ⋀ q)
+-pravdivá nebo nepravdivá podle q
+-vždy nepravdivá
+-*vždy pravdivá====
+Pro p nepravdivé bude formule ¬p ⋀ q
+-vždy nepravdivá
+-*vždy pravdivá
+-pravdivá nebo nepravdivá podle q====
+Pro p nepravdivé bude formule ¬p ⋁ q
+-vždy bepravdivá
+-pravdivá nebo nepravdivá podle q
+-*vždy pravdivá====
+Pro p nepravdivé bude formule p ⇒ q
+-*vždy pravdivá
+-vždy nepravdivá
+-pravdivá nebo nepravdivá====
+Formule ¬(p ⋁ q) je ekvivalentní s formulí
+-¬(¬q ⋀ ¬p)
+-¬(q ⋀ p)
+-*¬q ⋀ ¬p====
+Formule ¬(p ⋀ q) je ekvivalentní s formulí
+-¬(q ⋁ p)
+-¬(¬q ⋁ ¬p)
+-*¬q ⋁ ¬p
+====
+-Pro p nepravdivé bude formule p ⋀ q
+-vždy pravdivá
+-*vždy nepravdivá
+-pravdivá nebo nepravdivá podle q====
+Která logická spojka netvoří spolu se spojkou ¬ úplný systém logických spojek ?
+-*XOR
+-⇒
+-⋁====
+Která logická spojka netvoří spolu se spojkou ¬ úplný systém logických spojek ?
+-⋁
+-*⇔
+-⇒====
+Prenexe zachovává
+-splnitelnost formulí, ale ne ekvivalenci
+-ekvivalenci formulí, ale ne splnitelnost
+-*ekvivalenci i splnitelnost====
+Které logické spojky spolu netvoří úplný systém logických spojek ?
+-⇔, NOR
+-*⇔, ⇒
+-⇔, ⋁ , XOR====
+Které logické spojky spolu netvoří systém logických spojek ?
+-*⇔, ¬
+-⇔, ⋀, XOR
+-⇔, NAND====
+V úplném systému logických spojek
+-*může být negace
+-musí být negace
+-nesmí být negace====
+Pro formuli (p ⋁ q) ⇒ (¬p ⋀ q) urcete, ktera z nasledujicich interpretaci je modelem
+-I(p) = 1, I(q) = 0 
+-I(p) =1, I(q) = 1 
+-*I(p) = 0, I(q) = 0====
+Která formule je ekvivalentní s formulí ¬p ⇒ ¬q  ?
+-*q ⇒ p
+-*¬p ⇒ ¬q
+-p ⇒ q
+====
+-Která formule je ekvivalentní s formulí p ⇒ q ?
+-*¬q ⇒ ¬p
+-q ⇒ p
+-¬p ⇒ ¬q====
+Která formule logicky vyplývá z teori {p ⇒ (r ⋀ p), ¬p ⋀ s, s ⋁ (p ⇒ q)} ?
+-s ⋀ (q ⋁ r)
+-p ⋁ q ⋁ r ⋁ ¬s
+-*¬q ⋁ s ⋁ r====
+Nechť P(Adam, Eva, jablko) znamená Adam dává Evě jablko. Která formule je symbolickým přepisem výroku Eva dává někomu jablko a někdo nedává Evě nic ?
+-∃xP(Eva, x, jablko) ⋀ ∃y∃z¬P(y. Eva, z)
+-∃xP(x, Eva, jablko) ⋀ ¬(∃y∃zP(Eva, y, z))
+-*∃xP(Eva, x jablko) ⋀ ∃y ¬(∃z P(y, Eva, z)) ====
+Formule p
+-je v konjunktivní normální formě a není v disjunktivní normální formě.
+-není ani v konjunktivní ani v disjunktivní normální formě.
+-*je v konjunktivní i disjunktivní normální formě.====
+Pro formuli A = ¬(¬a1 ⋁ ¬a2 ⋁ ¬a3) platí, že
+-A ⇒ ¬ai pro každé i = 1, 2, 3 je kontradikce.
+-*A ⇒ ai pro každé i = 1, 2, 3 je tautologie.
+-A ⇒ ¬ai pro každé i = 1, 2, 3 je tautologie.====
+Která formule reprezentuje stejnou pravdivostní funkci jako formule p ⇒ (¬q ⇒ p) ?
+-*(¬q ⋁ p) ⋁ (q ⋀ ¬p)
+-(p ⋀ ¬q) ⋁ (¬q ⋀ p)
+-q ⋀ ¬p====
+Která formule reprezentuje stejnou pravdivostní funkci jako formule p ⇒ ((q ⋀ ¬p) ⇒ p) ?
+-(q ⋀ ¬q) ⋁ (¬q ⋁ p)
+-*(¬q ⋁ p) ⋁ (q ⋀ ¬p)
+-(q ⋀ ¬p) ⋁ p====
+Pro proměnné x,y ve formuli P(x) ⋀ ∃xP(y,x) platí, že
+-*každá má jeden volný výskyt
+-jen y má volný výskyt
+-jen x má volný výsky====
+Obecná rezoluce je pro predikátovou logiku
+-*korektní a úplná
+-ne korektní, ale úplná
+-korektní, ale ne úplná====
+Obecná rezoluce je pro Hornovy klauzule v predikátové logice
+-*korektní a úplná
+-ne korektní, ale úplná
+-korektní, ale ne úplná====
+Term nabývá hodnoty
+-*z dané domény
+-libovolné hodnoty
+-pravda, nepravda====
+Mějme konečnou doménu D = {a1,a2,...,an}. Pak ∀xP(x) je zkratkou
+-*P(a1) ⋀ P(a2) ⋀ … ⋀ P(an)
+-P(a1) ⋁ P(a2) ⋁ … ⋁ P(an)
+-P(ai) pro právě jedno i====
+Mějme konečnou doménu D = {a1,a2,...,an}. Pak ∃xP(x) je zkratkou
+-P(a1) ⋀ P(a2) ⋀ … ⋀ P(an)
+-*P(a1) ⋁ P(a2) ⋁ … ⋁ P(an)
+-P(ai) pro právě jedno i====
+Formule ∀x(P(x, a) ⇒ ∃y(x = f(y, b))) je pravdivá v interpretaci I s doménou D, kde
+-D jsou celá záporná čísla a nula, I(a) = 0, I(b) = -1, I(f) = +, I(p) = ≤
+-D jsou celá přirozená čísla včetně nuly, I(a) = 0, I(b) = 1, I(f) = +, I(p) = ≥
+-*D jsou přirozená čísla bez nuly, I(a) = 1, I(b) = 1, I(f) = +, I(P) = >====
+Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všech správně utvořených formulí výrokové logiky a P množinu všech tautologií. Které z následujících tvrzení platí?
+-*je-li systém sporný, pak T = V
+-je-li systém úplný, pak P ⊂ T
+-je-li systém korektní, pak P = T====
+Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všech správně utvořených formulí výrokové logiky a P množinu všech tautologií. Které z následujících tvrzení platí?
+-je-li systém sporný, pak T = P
+-*je-li systém korektní, pak T ⊆ P
+-je-li systém úplný, pak T = V
+====
+-Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všech správně utvořených formulí výrokové logiky a P množinu všech tautologií. Které z následujících tvrzení platí?
+-je-li systém sporný, pak P = V
+-je-li systém bezesporný, pak T = V
+-*je-li systém úplný, pak P = T====
+Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všec správně utvořených formulí výrokové logiky a P množinu všech kontradikcí. Které z následujících tvrzení platí?
+-je-li systém korektní, pak V = T
+-*je-li systém úplný, pak T ⊆  V
+-je-li systém sporný, pak T = P====
+Výsledkem skolemizace je
+-*nahrazení existenčně kvatifikovaných formulí
+-nahrazení všeobecně kvantifikovaných formulí
+-nalezení nejobecnějšího unifikátoru====
+Výrok je
+-*nulární predikát
+-unární predikát
+-něco jiného====
+Nechť P,Q a R jsou formule predikátového počtu. Pak pro ně platí, že
+-*existuje nejvýše jeden nejobecnější unifikátor
+-existuje právě jeden nejobecnější unifikátor
+-existuje alespoň jeden nejobecnější unifikátor====
+Substituce je ve tvaru A/B, kde
+-*A je proměnná a B je libovolný term
+-A je proměnná a B je konstanta nebo term, nikoliv proměnná
+-A je konstanta nebo proměnná a B je libovolný term====
+Skolemizace zachovává
+-ekvivalenci formulí
+-*splnitelnost formulí
+-ani ekvivalenci ani splnitelnost====
+Proměnnými, za které lze substituovat, jsou
+-*jen volné proměnné
+-všechny proměnné
+-jen vázané proměnné====
+Lineární rezoluce je pro Hornovy klauzule v predikátové logice
+-korektní, ale né úplná
+-ne korektní, ale úplná
+-*korektní a úplná====
+Lineární rezoluce je pro predikátovou logiku
+-*korektní a úplná
+-korektní, ale ne úplná
+-ne korektní, ale úplná====
+Lineární rezoluce je
+-*korektní a úplná pro výrokový počet.
+-ne korektní, ale úplná pro výrokový počet.
+-korektní ne včak úplná pro výrokový počet====
+Platí
+-*¬∀xP(x) ⇔ ∃x¬P(x)
+-∀xP(x) ⇔ ∃x¬P(x)
+-¬∀xP(x) ⇔ ¬∃x¬P(x)====
+Formule p ⇒ p a (p ⇒ p) ⇒ (q ⇒ (p ⇒ q)) jsou tautologie. Přimou aplikací věty o implikaci (sémantický modus ponens) na tyto tautologie získáme tautologii
+-q ⇒ (p ⇒ p)
+-*q ⇒ (p ⇒ q)
+-(q ⇒ p) ⇒ p====
+Úplnou normální formou formule ¬(p ⇒ p) je
+-*p ⋀ ¬p
+-p ⋁ ¬p
+-úplná normální forma neexistuje====
+Úplnou normálni formou formule p ⇒ (p ⇒ p) je
+-*p ⋁ ¬p
+-úplná normální forma neexistuje
+-p ⋀ ¬p====
+Klauzule je pravdivá,
+-*jestliže aspoň jeden literál je pravdivý
+-právě když všechny pozitivní literály jsou pravdivé
+-právě když všechny literály jsou pravdivé====
+Klauzule
+-je množina literálů chápaná jako jejich konjunkce
+-je množina literálů chápaná jako jejich konjunkce a dizjunkce
+-*je množina literálů chápaná jako jejich dizjunkce====
+Všechny logické důsledky množiny {p ⋁ ¬p} jsou
+-p, p ⋁ ¬p, ¬p ⋁ p, (¬p ⋁ p) ⋀ (p ⋁ ¬p)
+-všechny správně utvořené formule výrokové logiky
+-*všechny tautologie výrokové logiky====
+Kterou klauzuli musíme přidat k množině klauzulí {p ⋁ q, ¬q, ¬r ⋁ ¬p}, aby množina byla sporná
+-*r
+-r ⋁ ¬q
+-¬r====
+Přidáme-li k formuli {{p, ¬p}} klauzule {p} a {¬p}. bude takto vytvořená formule
+-tautologií
+-splnitelná
+-*kontradiktorická====
+V úplném systému logických spojek
+-nesmí být implikace.
+-*může být implikace
+-musí být implikace====
+Může být výraz t1 = t2 formulí ?
+-*ano, pokud jsou t1, t2 termy
+-ano, pokud jsou t1, t2 predikáty
+-ne, t1 = t2 není nikdy formulí====
+Která z nabízených možností není premisou formule p ⋁ ¬p ?
+-{p ⋁ ¬p}
+-*žádná z uvedených
+-∅====
+Formule p ⋁ (q ⋀ r)
+-je v konjunktivní normální formě
+-neni v normální formě
+-*je v dizjunktivní normální formě====
+Formule p ⋁ ¬(q ⋀ r)
+-je v dizjunktivní normální formě
+-*není v normální formě
+-je v konjunktivní normální formě
+====
+-Nechť formule A, B obsahují spojky ¬, ⋀, ⋁. Nechť AI, BI vzniknou z A, B záměnou spojek ⋀, ⋁. Pak platí:
+-⊨ A právě když ⊨ AI.
+-*⊨ A právě když ⊨ ¬AI.
+-⊨ ¬A právě když ⊨ ¬AI.====
+Formule p ⋁ (q ⋀ r)
+-*není v úplné normální formě
+-je v úplné dizjunktivní normální formě
+-je v úplné konjunktivní normální formě====
+Pro libovolné výrokové formule A,B,C platí:
+-*{A, B} ⊨ C právě když A ⊨ (B ⇒ C)
+-A ⊨ C právě kfyž A ⊨ (B ⇒ C)
+-(A ⇒ B) ⊨ právě když A ⊨ (B ⇒ C)====
+Pravdivostní funkce výrokové formule P má alespoň jednu hodnotu rovnu jedné a aslepoň jednu hodnotu rovnou 0. Formule P je potom
+-*ne tautologie, ale splnitelná
+-kontradikce
+-tautologie====
+Pravdivostní funkce výrokové formule P má alespoň jednu hodnotu rovnu jedné a aslepoň jednu hodnotu rovnou 1. Formue P je potom
+-*buď tautologie nebo splnitelná
+-kontradikce
+-musí být tautologie====
+Pro termy platí
+-jen funkce jsou termy
+-jen proměnné a konstanty jsou termy
+-*každá proměnná a každá konstanta je term====
+Pro existenční ∃ a všeobecný ∀ kvantifikátor platí
+-*¬(∀xP(x)) je ekvivalentní s ∃x(¬P(x))
+-¬(∀xP(x)) je ekvivalentní s ¬(∃x¬P(x))
+-∀xP(x) je ekvivalentní s ∃x(¬P(x))====
+Formule A logicky vyplívá z množiny T, pokud
+-existuje model I monžiny T, který splňuje A.
+-*pro každý model I množiny T I splňuje A.
+-pro každým model I množiny A I splňuje T.====
+Formule A NOR A je ekvivalentní s formulí
+-*¬A
+-A
+-true====
+Důkaz se skládá z
+-*nejméně čtyř rezolučních kroků
+-více než čtyř rezolučních kroků
+-méně než čtyč rezolučních kroků====
+LI-rezoluce je
+-ne korektní, ale úplná pro výrokový počet
+-*korektní ne však úplná pro výrokový počet
+-korektní a ṕlná pro výrokový počet====
+Pro LI-rezoluci a rezoluční strom platí, že
+-právě odvozená klazule nemusí být použita v bezprostředné následujícím rezolučním kroku.
+-*právě odvozená klazule musí být použita v bezprostředně následujícím rezolučním kroku.
+-právě odvozená klauzule musí být použita v některém z  následujících rezolučních kroků, ne však nutně v bezprostředně následujícím.====
+Pro LI-rezoluci a rezoluční strom platí, že
+-střední klauzule se může později použit jako klauzule boční
+-*střední klauzule se nemůže později použít jako klauzule boční
+-alespoň jedna střední klauzule se musí později použít jako klauzule boční====
+Pro SLD-rezoluci a rezoluční strom platí, že
+-alespoň jedna střední klauzule se musí později pužít jako klazule boční
+-střední klauzule se může později použit jako klazule boční
+-*střední klazule se nemůže později použít jako klauzule boční====
+Pro SLD-rezoluci a rezoluční strom platí, že
+-právě odvozená klazule musí být použita v některém z následujících kroků, ne však nutně v bezprostředně následujícím
+-*právě odvozená klazule musí být použita v bezprostředně následujícím rezolučním kroku
+-právě odvozená klazule nemusí být použita v bezprostředně následujícím rezolučním kroku====
+Pro SLD-rezoluci a rezoluční strom platí, že
+-obsahuje alespoň jednu nekonečnou větev
+-*může obsahovat nekonečnou větev
+-má vždy konečně mnoho uzlů====
+Která z následujících klauzulí není hornovská ?
+-*{p, q, ¬r}
+-{¬p, ¬q, ¬r}
+-{p, ¬q, ¬r}====
+Strom lineárního vstupního (LI)-rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klauzule, je vždy zároveň stromem
+-lineárního rezolučního odvození G z P
+-*LD-rezolučního odvození ◻ z P ⋃ {¬G}
+-l*ineárního rezolučního vyvrácení P ⋃ {G}====
+Strom LD-rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klazule, je vždy zároveň stromem
+-Lineárního vstupního (LI)-rezolučního odvození G z P
+-*LD-rezolučního vyvrácení P ⋃ {G}
+-SLD-rezolučního odvození ◻ z P ⋃ {G}====
+Strom lineárního rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klauzule, je vždy zároveň stromem
+-lineárního vstupního (LI)-rezolučního odvoze ◻ z / ⋃ {G}
+-*rezolučního vyvrácení P ⋃ {G}
+-rezolučního odvození G z P====
+Z množiny vstupních klazulí
+-nejsou použity dvě klauzule
+-není použita jedna z klazulí
+-*jsou v důkazu použity všechny====
+Rezolventou {p, q} a {¬r, ¬p} je
+-q ⋀ ¬r
+-p ⋁ q ⋀ ¬r
+-*q ⋁ ¬r====
+Rezolventou {p, ¬q} a {q, ¬p} je
+-◻
+-*q ⋁ ¬q
+-q ⋀ ¬q====
+Pro SLD-strom platí, že
+-existuje alespoň jedna cesta odpovídající rezolučnímu vyvrácení kořenové klauzule
+-všechny cesty jsou rezolučním vyvrácením kořenové klauzule
+-*nemusí existovat cesta odpovídající rezolučnímu vyvrácení kořenové klauzule====
+SLD-rezoluce je
+-*korektni ne však úplná pro výrokový počet
+-korektní a úplná pro výrokový počet
+-ne korektní, ale úplná pro výrokový počet====
+Strom SLD-rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klazule, je vždy zároveň stromem
+-SLD-rezolučního odvození G z P
+-LD-rezolučního odvození G z P
+-*SLD-rezolučního vyvrácení P ⋃ {G}====
+Pro LD-rezoluci a rezoluční strom platí, že
+-právě odvozená klazule musí být použita v některém z následujícíh kroků, ne však nutně v bezprostředně následujícím
+-*právě odvozená klazule musí být použita v bezprostředně následujícím rezolučním kroku
+-právě odvozená klauzule nemusí být použita v bezprostředně následujícím rezolučním kroku====
+Každá nesplnitelná množina neprázdných Hornových klauzulí musí obsahovat
+-alespoň jeden fakt a alespoň jedno pravidlo.
+-alespoň jeden cíl a alespoň jedno pravidlo.
+-*alespoň jeden fakt a alespoň jeden cíl.====
+LD-rezoluce je
+-ne korektní, ale úplná pro výrokový počet.
+-*korektní ne však úplná pro výrokový počet.
+-korektní a úplná pro výrokový počet====
+Pro SLD-strom platí, že
+-obsahuje alespoň jednu nekonečnou větev
+-*může obsahovat nekonečnou větev
+-má vždy konečně mnoho uzlů====
+Formule A NAND A je ekvivalentní s formulí
+-*A NOR A
+-A NOR (A NOR A)
+-(A NOR A) NOR A====
+Pravdivostní funkce výrokové formule P má alespoň jednu hodnotu rovnou 0. Formule P je potom
+-může být tautologie
+-*kontradikce nebo splnitelná
+-tautologie====
+Formule A NAND A je ekvivalentní s formulí
+-A
+-true
+-*¬A====
+Formule (r ⋀ ¬p) ⋁ (p ⋀ r)
+-*je v úplné dizjunktivní normální formě
+-není v úplně normální formě
+-je v úplně konjunktivní normální formě====
+Jsou-li formule A a A ⇒ B tautologie, pak
+-¬A ⋁ ¬B je též tautologie
+-*B je též tautologie
+-¬B je též tautologie====
+Normální konjunktivní forma formule (q ⇒ p) ⋀ (q ⇔ (p ⋁ q)) je
+-¬p ⋁ ¬q
+-p ⋁ ¬q
+-*(p ⋁ ¬q) ⋀ (¬p ⋁ q)====
+Normální disjunktivní forma formule (¬q ⋁ p) ⋀ (q ⇔ (¬p ⇒ q))
+-(¬q ⋀ p) ⋁ (¬p ⋀ ¬q)
+-q ⋁ ¬p
+-*(p ⋀ q) ⋁ (¬p ⋀ ¬q)====
+Která z následujících formulí není tautologie
+-∃x∀yA(x,y) ⇒ ∀y∃xA(x,y)
+-∀x∀yA(x,y) ⇒ ∀xA(x,x)
+-*∀xA(x) ⇒ ∃xA(x)====
+Pro formuli (¬u ⇔ ¬s) ⋀ (s ⋁ ¬r) a její pravdivostní tabulku platí: 
+-*žádná vlastní podformule této formule nereprezentuje stejnou pravdivostní funkci jako celá formule 
+-formule je kontradikce 
+-podformule s ⋁ ¬r se dá ekvivalentně vyjádřit jako s ⇔ ¬r
+-pro interpretaci I(r)=1, I(u)=1 je formule pravdivá
+-*formule není tautologie, ale je splnitelná
+-*tuto formuli je možné převést do úplné disjunktivní normální formy
+-formule je tautologie
+-jediná vlastní podformule této formule reprezentuje stejnou pravdivostní funkci jako celá formule
+-*pro interpretaci I(r)=1, I(s)=0, I(u)=1 je formule nepravdivá
+-pravdivostní tabulka (bez záhlaví) obsahuje 6 řádků
+-tuto formuli je možné převést do úplné konjunktivní normální formy====
+Pro formuli (¬r ⇔ q) ⋀ (¬r ⋁ u) a její pravdivostní tabulku platí:
+-*formule není tautologie, ale je splnitelná
+-*tuto formuli je možné převést do úplné disjunktivní normální formy
+-*tuto formuli je možné převést do úplné konjunktivní normální formy
+-*žádná vlastní podfomule této formule nereprezentuje stejnou pravidvostní funkci jako celá formule
+-*pro interpretaci I(q)=1, I(r)=0, I(u)=1 je formule pravdivá====
+Formule predikátové logiky (∀x(¬P(x)) ⇒ ∀yQ(y)) ⇒ ∀x(¬P(x)) je
+-kontradikce
+-*tautologie
+-splnitelná, ale není tautologie====
+Formule predikátové logiky ∃x(¬P(x) ⋀ ¬Q(x)) ⋁ (∀xP(x) ⋁ ∀xQ(x)) je
+-*splnitelná, ale není tautologie
+-tautologie
+-kontradikce====
+Formule je množina klazulí chápána jako
+-*jejich konjunkce
+-jejich dizjunkce
+-jejich konjukce a dizjunkce====
+Které tvrzení logicky nevyplývá z dvojice tvrzení Každému, kdo si pere sám, nepere žádná pradlena. Každá pradlena pere všem, kdo si neperou sami.
+-každá pradlena pere sama sobě.
+-žádná pradlena nepere sama sobě.
+-*exitují pradleny.====
+Mějme kontradikci K a libovolnou formuli F výrokové logiky. Pak platí
+-F ⊨ K
+-*K ⊨ F
+-⊨ F ⋀ ¬K====
+Mějme výrokové formule A1, A2, A3, B. Pak platí, že A1, A2, A3 ⊨ B.
+-*právě když A1, A2 ⊨ A3 ⇒ B.
+-právě když A1, A2 ⊨ B ⇒ A3.
+-právě když A1, A2 ⊨ A3 ⇒ ¬B.
+-====
+-Všechny vzájemně neekvivalentní logické důsledky množiny {¬p ⇒ q}, které obsahují jen výrokové proměnné p, q jsou
+-p, q, p ⋁ q
+-¬p ⋁ q, p ⋁ ¬q, p ⋁ q, (¬p ⋁ q) ⋀ (p ⋁ ¬q), p, q, p ⋀ q
+-*p ⋁ q, q ⋁ ¬q
+-====
+-Všechny vzájemně neekvivalentní logické důsledky množiny {p, q}, které obsahují jen výrokové proměnné p,q jsou
+-p, q, p ⋁ q, p ⋀ q, p ⇒ q, p ⇔ q
+-p, q, p ⋀ q
+-*¬p ⋁ q, p ⋁ ¬q, p ⋁ q, (¬p ⋁ q) ⋀ (p ⋁ ¬q), p, q, p ⋀ q, p ⋁ ¬p====
+Všechny vzájemně neekvivalentní logické důsledky množiny {p ⋁ q}, které obsahují jen výrokové proměnné p,q jsou
+-p, q, p ⋁ q, p ⋁ ¬q
+-*p, q, p ⋀ ¬q
+-¬p ⋁ q, p ⋁ ¬q, p ⋁ q, (¬p ⋁ q) ⋀ (p ⋁ ¬q), p, q, p ⋀ q====
+Všechny vzájemně neekvivalentní logické důsledky množiny {p, ¬p} jsou
+-*všechny vzájemně neekvivalentní správně utvořené formule výrokové logiky
+-¬p ⋁ p, p ⋁ ¬p, (¬p ⋁ p) ⋀ (p ⋁ ¬p)
+-p, ¬p, p ⋁ ¬p====
+Všechny vzájemně neekvivalentní premisy formule (p ⇒ q) ⋀ (q ⇒ p) (obsahující výrokové symboly p,q) jsou
+-{¬p ⋁ q, p ⋁ ¬q, p ⋁ q, ¬p ⋁ ¬q}
+-*{p ⇔ q}, {p ⇔ q, p ⋁ q}, {p ⇔ q, ¬p ⋁ ¬q}, {p ⋀ ¬p}
+-{¬p ⋁ q, p ⋁ ¬q}, {¬p ⋁ q}, {p ⋁ ¬q}, ∅====
+Všechny vzájemně neekvivalentní premisy formule p ⇔ q (obsahující pouze výrokové symboly p, q) jsou
+-{¬p ⋁ q, p ⋁ ¬q}, {¬p ⋁ q}, {p ⋁ ¬q}, ∅
+-{¬p ⋁ q, p ⋁ ¬q, p ⋁ q, ¬p ⋁ ¬q}
+-*{p ⇔ q}, {p ⇔ q, p ⋁ q}, {p ⇔ q, ¬p ⋁ ¬q}, {p ⋀ ¬p}====
+Všechny vzájemné neekvivalentní premisy formule p ⇔ q (obsahující pouze výrokové symboly p,q) jsou
+-*¬∀xP(x) ⇔ ∃x¬P(x)
+-∀xP(x) ⇔ ∃x¬P(x)
+-¬∀xP(x) ⇔ ¬∃x¬P(x)====
+Prázdná klazule ◻ je
+-vždy pravdivá
+-*vždy nepravdivá
+-pravdivá podle vstupní množiny klauzulí====
+Pro formuli F = p ⇒ p označte pravdivé tvrzení:
+-Prázdná množina formulí není premisou F.
+-Množina {¬(p ⇒ p)} není premisou F.
+-*Libovolná množina formulí je premisou F.
+-====
+-Negaci věty “Na každém hradě straší bílá paní” je věta
+-*Na některých hradech bílá paní nestraší.
+-Na některých hradech bílá paní straší.
+-Na žádném hradě bílá paní nestraší.====
+Pro spojky NAND (negace konjunkce) a NOR (negace disjunkce) platí
+-((p NAND p) NOR p) je tautologie
+-((p NAND p) NOR (p NOR p)) je tautologie
+-*((p NOR p) NAND p) je tautologie====
+Pro spojku NAND(negace konjunkce) platí
+-*(p NAND (p NAND p)) je tautologie
+-(p NAND (p NAND p)) je kontradikce
+-(p NAND p) je kontradikce====
+Úplná normální konjunktivní forma formule r ⋀ (¬p ⋁ q) je
+-(p ⋀ q ⋀ r) ⋁ (p ⋀ ¬q ⋀ r) ⋁ (¬p ⋀ q ⋀ ¬r) ⋁ (¬p ⋀ q ⋀ r)
+-*(p ⋁ q ⋁ r) ⋀ (p ⋁ ¬q ⋁ r) ⋀ (¬p ⋁ q ⋁ ¬r) ⋀ (¬p ⋁ q ⋁ r) ⋀ (¬p ⋁ ¬q ⋁ r)
+-(p ⋁ ¬q ⋁ r) ⋀ (¬p ⋁ q ⋁ ¬r) ⋀ (p ⋁ q ⋁ r) ⋀ (¬p ⋁ ¬q ⋁ r) ⋀ (¬p ⋁ q ⋁ ¬r)====
+Implikace ∀xA(x) ⇒ ∃xA(x)
+-*platí jen pro neprázdnou doménu
+-platí vždy
+-neplatí nikdy====
+Pro lineární rezoluční strom platí, že
+-*právě odvozená klauzule musí být použita v bezprostředně následujícím rezolučním kroku
+-právě odvozená klauzule musí být použita v některém z  následujících rezolučních kroků, ne však nutně v bezprostředně následujícím. 
+-právě odvozená klauzule nemusí být použita v bezprostředně následujícím rezolučním kroku.====
+Pro lineární rezoluční strom platí, že
+-střední klauzule se nesmí později použít jako klauzule boční.
+-*střední klauzule se může později použit jako klauzule boční
+-alespoň jedna střední klauzule se musí později použít jako klauzule boční.====
+Fuzzy logika: Pravdepodobnost javu Q je 1, pravdepodobnost javu P je 0,5. Aka je pravdepodobnost javu (Q => P)?
+-0
+-*0,5 
+-1====
+Která z formulí je formálně zapsanou negací tvrzení “Každý člověk má matku a otce”?nJsou použity predikáty C(x)  s významem “x je člověk”, O(x,y) s významem “x je otcem y” a M(x,y) s významem “x je matkou y”.
+-*∃x(C(x) ⋀ (∀y¬O(y,x) ⋁ ∀z¬M(z,x)))====
+Nechť val(P) je pravdivostní hodnota výroku P ve fuzzy logice. Nechť val(A)=0.2 a val(B)=0.6. Pro jakou hodnotu val(C) bude mít výroková formule (A⋁ ¬ C)⋁ B pravdivostní hodnotu 0.8?
+-0.8
+-*0.2
+-nikdy

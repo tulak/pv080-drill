@@ -42,3 +42,8 @@ window.questions_PV157_midterm = new Classes.Questions
   dataset: "questions_PV157_midterm.json"
   container: $('#questions-PV157-midterm')
   template: _.template($('.question').first().html())
+  
+window.questions_IB101 = new Classes.Questions
+  dataset: "questions_IB101.json"
+  container: $('#questions-IB101')
+  template: _.template($('.question').first().html())
