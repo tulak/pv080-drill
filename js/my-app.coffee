@@ -47,3 +47,8 @@ window.questions_IB101 = new Classes.Questions
   dataset: "questions_IB101.json"
   container: $('#questions-IB101')
   template: _.template($('.question').first().html())
+  
+window.questions_IB101_v2 = new Classes.Questions
+  dataset: "questions_IB101_v2.json"
+  container: $('#questions-IB101_v2')
+  template: _.template($('.question').first().html())
