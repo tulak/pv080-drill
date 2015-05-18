@@ -57,3 +57,8 @@ window.questions_PV004 = new Classes.Questions
   dataset: "questions_PV004.json"
   container: $('#questions-PV004')
   template: _.template($('.question').first().html())
+
+window.questions_PB071 = new Classes.Questions
+  dataset: "questions_PB071.json"
+  container: $('#questions-PB071')
+  template: _.template($('.question').first().html())
