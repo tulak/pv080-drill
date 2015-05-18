@@ -22,17 +22,17 @@ window.questions_midterm = new Classes.Questions
   dataset: "questions_midterm.json"
   container: $('#questions-midterm')
   template: _.template($('.question').first().html())
-  
+
 window.questions_PV119 = new Classes.Questions
   dataset: "questions_PV119.json"
   container: $('#questions-PV119')
   template: _.template($('.question').first().html())
-  
+
 window.questions_PB151 = new Classes.Questions
   dataset: "questions_PB151.json"
   container: $('#questions-PB151')
   template: _.template($('.question').first().html())
-  
+
 window.questions_PV157_all = new Classes.Questions
   dataset: "questions_PV157.json"
   container: $('#questions-PV157-all')
@@ -42,8 +42,13 @@ window.questions_PV157_midterm = new Classes.Questions
   dataset: "questions_PV157_midterm.json"
   container: $('#questions-PV157-midterm')
   template: _.template($('.question').first().html())
-  
+
 window.questions_IB101 = new Classes.Questions
   dataset: "questions_IB101.json"
   container: $('#questions-IB101')
+  template: _.template($('.question').first().html())
+
+window.questions_PV004 = new Classes.Questions
+  dataset: "questions_PV004.json"
+  container: $('#questions-PV004')
   template: _.template($('.question').first().html())
