@@ -52,8 +52,11 @@ class QdefParser
 			];
 
 			while ($line = end($block)) {
-				if (preg_match('~^\\:r(?P<i>\\d+)\\s+ok~i', $line, $m)) {
+				if (preg_match('~^\\:r(?P<i>\\d+)\\s+(?P<answer>.*)~i', $line, $m)) {
 					$question['answers'][$m['i']]['right'] = TRUE;
+					if ($m['answer'] !== 'ok') {
+						$question['answers'][$m['i']]['comment'] = $m['answer'];
+					}
 
 				} elseif (preg_match('~^\\s+\\:r(?P<i>\\d+)\\s+(?P<body>.*)$~i', $line, $m)) {
 					$question['answers'][$m['i']]['body'] = $m['body'];
