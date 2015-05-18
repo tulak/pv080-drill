@@ -1,0 +1,817 @@
+Řídícím operátorem není
+ :r1 //
+ :r2 ||
+ :r3 &&
+ :r4 ;;
+:r1 ok
+--
+Znak, který následuje za \ se
+ :r1 nepovažuje za řídící. Je-li tím znakem "nový řádek", pokračuje se na dalším řádku.
+ :r2 nepovažuje za řídící. Je-li tím znakem "nový řádek", nepokračuje se na dalším řádku.
+ :r3 považuje za řídící. Je-li tím znakem "nový řádek", pokračuje se na dalším řádku.
+ :r4 považuje za řídící. Je-li tím znakem "nový řádek", nepokračuje se na dalším řádku.
+:r1 ok
+--
+Znaky uzavřené do dvojice apostrofů ('...') ztrácejí svůj řídící význam s výjimkou
+ :r1 ' (apostrof)
+ :r2 $, ` (obrácený apostrof), \ (následuje-li $, `, ", \, nový řádek)
+ :r3 ' (apostrof), \
+ :r4 ` (obrácený apostrof)
+:r1 ok
+--
+Znaky uzavřené do dvojice uvozovek ("...") ztrácejí svůj řídící význam s výjimkou
+ :r1 ' (apostrof)
+ :r2 $, ` (obrácený apostrof), \ (následuje-li $, `, ", \, nový řádek)
+ :r3 ' (apostrof), \
+ :r4 ` (obrácený apostrof)
+:r2 ok
+--
+Adresář se jménem "Ferda mravenec" (má ve jméně mezeru) nevytvořím příkazem
+ :r1 mkdir "Ferda mravenec"
+ :r2 mkdir 'Ferda mravenec'
+ :r3 mkdir `Ferda mravenec`
+ :r4 mkdir Ferda\ mravenec
+ :r5 mkdir Ferda" "mravenec
+:r3 ok
+--
+Co se předá na standardní výstup po spuštění příkazu<PRE>echo \'</PRE>
+ :r1 Bad filename
+ :r2 echo \'
+ :r3 \'
+ :r4 ''
+ :r5 '
+:r5 ok
+--
+Co se předá na standardní výstup po spustění příkazu echo \'\\\"\'
+ :r1 '\"'
+ :r2 '\\\"'
+ :r3 \\\"\'
+ :r4 \\\"
+:r1 ok
+--
+Příkaz při ukončení vrací ukončovací kód. Jaký ukončovací kód je?
+ :r1 číselný; 0 znamená úspěšné ukončení, nenulové znamená ukončení s chybou
+ :r2 číselný; 1 znamená úspěšné ukončení, 0 znamená ukončení s chybou
+ :r3 číselný; nenulový znamená úspěšné ukončení, 0 znamená ukončení s chybou
+ :r4 textový; 'ok' znamená úspěšné ukončení, prázdný řetězec znamená ukončení s chybou
+ :r5 textový; prázdný řetězec znamená úspěšné ukončení,  neprázdný řetězec znamená ukončení s chybou
+:r1 ok
+--
+Znak \ má následující význam:
+ :r1 oddělovač adresářů a jména souboru od adresáře v cestě
+ :r2 zapnutí pokračovacího řádku
+ :r3 označení control znaku
+ :r4 zrušení řídicího charakteru následkujícího znaku
+:r2 pokračovací řádek zapíná kombinace \ a nový řádek
+:r4 ok
+--
+Znak ' (apostrof) má následující význam:
+ :r1 všechny znaky v řetězci uzavřeném do dvojice '...' ztrácí řídicí význam
+ :r2 příkaz uzavřený do dvojice '...' se při expanzi příkazového řádku provede a celý řetězec se nahradí obsahem standardního výstupu
+ :r3 znaky v řetězci uzavřeném do dvojice '...' ztrácí řídicí význam vyjma řídicích znaků $`\
+ :r4 označuje control znak
+:r1 ok
+--
+Znak " má následující význam:
+ :r1 všechny znaky v řetězci uzavřeném do dvojice "..." ztrácí řídicí význam
+ :r2 příkaz uzavřený do dvojice "..." se při expanzi příkazového řádku provede a celý řetězec se nahradí obsahem standardního výstupu
+ :r3 znaky v řetězci uzavřeném do dvojice "..." ztrácí řídicí význam vyjma řídicích znaků $`\
+ :r4 označuje control znak
+:r3 ok
+--
+Kolik obrácených lomítek a kolik apostrofů předá na standardní výstup příkaz <TT>echo '\'"'"\\\'</TT>
+ :r1 2 a 1
+ :r2 2 a 2
+ :r3 3 a 2
+ :r4 3 a 3
+ :r5 4 a 4
+:r2 ok
+--
+Který z příkazů nesmaže soubor x?
+ :r1 rm x
+ :r2 rm 'x'
+ :r3 rm "x"
+ :r4 rm `x`
+ :r5 rm \x
+:r4 ok
+--
+Příkaz<PRE>sort > soubor1 < soubor2</PRE>
+ :r1 čte standardní vstup ze souboru <TT>soubor2</TT> a standardní výstup zapisuje do souboru <TT>soubor1</TT>
+ :r2 čte standardní vstup ze souboru <TT>soubor1</TT> a standardní výstup zapisuje do souboru <TT>soubor2</TT>
+ :r3 čte standardní vstup ze souboru <TT>soubor2</TT> a standardní chybový výstup zapisuje do souboru <TT>soubor1</TT>
+ :r4 čte standardní vstup ze souboru <TT>soubor1</TT> a standardní chybový výstup zapisuje do souboru <TT>soubor2</TT>
+:r1 ok
+--
+Operátory přesměrování jsou
+ :r1 <TT>>&, >, >>, <<-, <></TT>
+ :r2 <TT><<, >&, <->, <&</TT>
+ :r3 <TT><, >, >|, <=, >>></TT>
+ :r4 <TT>>>, <<, <$, <, >, $></TT>
+:r1 ok
+--
+Který z příkazů nezkopíruje soubor 'a' do souboru 'b'?
+ :r1 cp a b
+ :r2 cat a > b
+ :r3 cat < a > b
+ :r4 cat a|cat > b
+ :r5 cp < a > b
+:r5 ok
+--
+Jaké je korektní a smysluplné přesměrování vstupu?
+ :r1 ls < adresar
+ :r2 cd < adresar
+ :r3 grep Brno < mesta
+ :r4 ls > adresar
+:r3 ok
+--
+Jaké je korektní a smysluplné přesměrování výstupu?
+ :r1 echo toto se mi libi > soubor
+ :r2 cd adresar > soubor
+ :r3 mv a > b
+ :r4 grep Brno < mesta
+:r1 ok
+--
+Soubor 'a' před provedením příkazu <TT>ls > a</TT>
+ :r1 musí existovat
+ :r2 nesmí existovat
+ :r3 může existovat
+:r3 ok
+--
+Soubor 'a' před provedením příkazu <TT>sort < a</TT>
+ :r1 musí existovat
+ :r2 nesmí existovat
+ :r3 může existovat
+:r1 ok
+--
+Po provedení příkazu
+<PRE>echo je > je; rm -rf neni; ls je neni > a 2> b</PRE>
+ :r1 bude soubor 'a' větší než soubor 'b'
+ :r2 bude soubor 'b' větší než soubor 'a'
+ :r3 budou soubory 'a' a 'b' stejně velké
+ :r4 soubor 'b' nebude existovat nebo bude prázdný
+ :r5 soubor 'a' nebude existovat nebo bude prázdný
+:r2 ok
+--
+Po provedení příkazu
+<PRE>echo a > b > c</PRE>
+ :r1 bude soubor 'b' prázdný a soubor 'c' neprázdný
+ :r2 budou soubory 'b' a 'c' stejně velké
+ :r3 bude soubor 'b' neprázdný a soubor 'c' prázdný
+ :r4 soubor 'b' nebude existovat
+ :r5 soubor 'a' se vyprázdní
+:r1 ok
+--
+Po provedení příkazu
+<PRE>echo b > s; echo a >> s;sort < s > s</PRE>
+ :r1 bude soubor 's' prázdný
+ :r2 bude soubor 's' obsahovat řádky v pořadí 'a' a 'b'
+ :r3 bude soubor 's' obsahovat řádky v pořadí 'b' a 'a'
+ :r4 nebude soubor 's' existovat
+:r1 ok protože při přesměrování výstupu se soubor vyprázdní dříve, než se provede příkaz
+--
+Po provedení příkazů
+<PRE> $ echo 'mravenec' > a; ls -l a
+ -rw-r--r--  1 brandejs staff 9 dub  8 23:23 a
+ $ echo ferda >> a</PRE>
+bude mít soubor 'a' velikost
+ :r1 5
+ :r2 6
+ :r3 13
+ :r4 14
+ :r5 15
+:r5 ok
+--
+Posloupnost příkazů
+<PRE>cat &lt;&lt;ukazka
+ls -l ukazka
+ukazka</PRE>
+předá na standardní výstup
+ :r1 obsah souboru 'ukazka', výstup příkazu 'ls -l ukazka', spustí se program 'ukazka' z běžného adresáře
+ :r2 text 'ls -l ukazka'
+ :r3 text 'ukazka'
+ :r4 nepředá se nic
+ :r5 předá se výstup programu 'ukazka'
+:r2 ok
+--
+Spojení příkazů do kolony je
+ :r1 ls|grep txt|sort
+ :r2 ls;grep txt;sort
+ :r3 ls&grep txt&sort
+ :r4 ls&&grep txt&&sort
+:r1 ok
+--
+Návratový kód seznamu<PRE>rm -rf adr;mkdir adr;touch adr/so;ls adr/so|sort|grep soubor</PRE>bude
+ :r1 0
+ :r2 nenulové kladné číslo
+ :r3 nenulové záporné číslo
+ :r4 prázdný řetězec
+ :r5 text s chybovým hlášením
+:r2 ok
+--
+Návratový kód seznamu<PRE>rm -rf adr;touch adr/soubor;echo adr/soubor|sort|grep soubor</PRE>bude
+ :r1 0
+ :r2 nenulové kladné číslo
+ :r3 nenulové záporné číslo
+ :r4 prázdný řetězec
+ :r5 text s chybovým hlášením
+:r1 ok
+--
+Příkaz spustíme na pozadí, když
+ :r1 za příkaz napíšeme &
+ :r2 před příkaz napíšeme &
+ :r3 za příkaz napíšeme $
+ :r4 před příkaz napíšeme $
+:r1 ok
+--
+Pro příkaz spuštený na pozadí neplatí
+ :r1 lze ho ukončit speciálním znakem INTR
+ :r2 lze ho ukončit příkazem kill
+ :r3 standardní vstup se napojí na /dev/null
+ :r4 byl spuštěn pomocí oddělovače &
+:r1 ok
+--
+Kam je napojen standardní vstup procesu spuštěného na pozadí?
+ :r1 /dev/null
+ :r2 /dev/tty
+ :r3 /dev/zero
+ :r4 /dev/console
+:r1 ok
+--
+Který z příkazů předá na standardní výstup nejprve řádek obsahující 'b' a potom řádek obsahující 'a'?
+ :r1 sleep 2;echo a&sleep 1;echo b
+ :r2 sleep 1;echo a&sleep 2;echo b
+ :r3 (sleep 1;echo a)&sleep 2;echo b
+ :r4 (sleep 2;echo a)&sleep 1;echo b
+:r4 ok
+--
+Jakým způsobem nelze úlohu dostat pod správu Job Controllu?
+ :r1 příkazem fg
+ :r2 příkazem bg
+ :r3 spuštěním s &
+ :r4 speciálním znakem SUSP (^Z)
+:r1 ok
+--
+Úloha běžící na pozadí se přesune na popředí příkazem
+ :r1 lg
+ :r2 kill
+ :r3 nohup
+ :r4 fg
+ :r5 žádná jiná odpověď není správná
+:r4 ok
+--
+Pro seznam neplatí
+ :r1 je to posloupnost žádneho nebo více příkazu
+ :r2 příkazy jsou odděleny novým řádkem nebo středníkem (;) nebo ampersandem (&)
+ :r3 shell provádí příkazy v pořadí, v jakém jsou zapsány
+ :r4 návratový kód seznamu je návratový kód prvního provádeného procesu
+ :r5 pokud příkaz končí ampersandem (&), ihned se zahájí provádení následujíciho příkazu
+:r4 ok
+--
+Oddělením dvou příkazů oddělovačem &&
+ :r1 spustíme první příkaz na popředí a druhý příkaz na pozadí
+ :r2 spustíme první příkaz na pozadí a druhý příkaz na popředí
+ :r3 provedeme druhý příkaz, jen když první příkaz vrátil nulový návratový kód
+ :r4 provedeme druhý příkaz, jen když první příkaz vrátil nenulový návratový kód
+:r3 ok
+--
+K čemu slouží oddělovač && mezi dvěma příkazy?
+ :r1 druhý příkaz se provede, pokud je návratový kód prvního nenulový
+ :r2 druhý příkaz se provede, pokud je návratový kód prvního nula
+ :r3 druhý příkaz se spustí hned po spuštění prvního
+ :r4 druhý příkaz se spustí na pozadí hned po spuštění prvního
+:r2 ok
+--
+Oddělením dvou příkazů oddělovačem ||
+ :r1 spustíme první příkaz na popředí a druhý příkaz na pozadí
+ :r2 spustíme první příkaz na pozadí a druhý příkaz na popředí
+ :r3 provedeme druhý příkaz, jen když první příkaz vrátil nulový návratový kód
+ :r4 provedeme druhý příkaz, jen když první příkaz vrátil nenulový návratový kód
+:r4 ok
+--
+K čemu slouží oddělovač || mezi příkazy?
+ :r1 druhý příkaz se provede, pokud je návratový kód prvního nenulový
+ :r2 druhý příkaz se provede, pokud je návratový kód prvního nula
+ :r3 druhý příkaz se spustí hned po spuštění prvního
+ :r4 druhý příkaz se spustí na pozadí hned po spuštění prvního
+:r1 ok
+--
+Příkazem<PRE>ls adresar 2>/dev/null || mkdir adresar</PRE>
+ :r1 vytvoříme adresář, pokud neexistuje
+ :r2 vytvoříme adresář, pokud příkaz ls vrátil nulový návratový kód
+ :r3 vypíšeme vždy obsah adresáře a vytvoříme nový adresář
+ :r4 vypíšeme obsah adresáře
+:r1 ok
+--
+Vyberte nesprávné tvrzení o seznamu<PRE>cd zkusto&&rm *</PRE>
+ :r1 pokud adresář zkusto nebude existovat, zruší se všechny soubory běžného adresáře
+ :r2 první příkaz bude mít návratovou hodnotu 0, pokud existuje přístupný adresář zkusto
+ :r3 pokud adresář zkusto bude existovat, zruší se v něm všechny soubory
+ :r4 pokud první příkaz bude mít návratovou hodnotu 1, tak se druhý neprovede
+:r1 ok
+--
+Příkaz<PRE>rm `cat files.txt`</PRE>
+ :r1 vymaže všechny soubory, které jsou uvedeny v souboru files.txt
+ :r2 vymaže soubor files.txt
+ :r3 vymaže soubor cat i soubor files.txt
+ :r4 vymaže soubor files.txt a také soubory, které jsou v něm uvedeny
+:r1 ok
+--
+Příkaz<PRE>rm cat files.txt</PRE>
+ :r1 vymaže všechny soubory, které jsou uvedeny v souboru files.txt
+ :r2 vymaže soubor files.txt
+ :r3 vymaže soubor cat i soubor files.txt
+ :r4 vymaže soubor files.txt a také soubory, které jsou v něm uvedeny
+:r3 ok
+--
+Příkaz<PRE>rm -rf *;touch a;echo 'ls' `ls`</PRE>předá na standardní výstup
+ :r1 ls a
+ :r2 a ls
+ :r3 obsah souboru 'a'
+ :r4 'ls' ls
+ :r5 ls `ls`
+:r1 ok
+--
+Příkaz<PRE>echo a > seznam;rm 'seznam'</PRE>smaže soubor
+ :r1 a
+ :r2 seznam
+ :r3 příkaz je chybný
+ :r4 'a' i 'seznam'
+:r2 ok
+--
+Příkaz<PRE>echo a > 'seznam';rm `cat seznam`</PRE>smaže soubor
+ :r1 a
+ :r2 seznam
+ :r3 příkaz je chybný
+ :r4 'a' i 'seznam'
+:r1 ok
+--
+Příkaz<PRE>echo a > 'seznam';rm `echo seznam`</PRE>smaže soubor
+ :r1 a
+ :r2 seznam
+ :r3 příkaz je chybný
+ :r4 'a' i 'seznam'
+:r2 ok
+--
+Příkaz<PRE>echo a > `seznam`;rm 'cat seznam'</PRE>smaže soubor
+ :r1 a
+ :r2 seznam
+ :r3 příkaz je chybný
+ :r4 'a' i 'seznam'
+:r3 ok
+--
+Proměnná se v shellu "deklaruje" příkazem
+ :r1 var ADRESAR=/tmp
+ :r2 ADRESAR=/tmp
+ :r3 $ADRESAR=/tmp
+ :r4 strings $ADRESAR /tmp
+:r2 ok
+--
+Jak vytvořím proměnou ADRESAR obsahující slovo EMPTY
+ :r1 ADRESAR=EMPTY
+ :r2 ADRESAR:=EMPTY
+ :r3 $ADRESAR=EMPTY
+ :r4 touch ADRESAR < EMPTY
+:r1 ok
+--
+Zadali jsme<PRE>velikost=maxi</PRE>Jak vypíšeme řetězec "maxipes"?
+ :r1 echo $velikost."pes"
+ :r2 echo $[velikost]pes
+ :r3 echo $velikostpes
+ :r4 echo ${velikost}pes
+:r4 ok
+--
+Deklarace proměnné spolu s jejím naplněním se provádí
+ :r1 jmeno_promenne=[hodnota]
+ :r2 jmeno_promenne:=[hodnota]
+ :r3 jmeno_promenne<[hodnota]
+ :r4 $jmeno_promenne:=[hodnota]
+:r1 ok
+--
+Uživatelem zavedené proměnné se v shellu dědí do potomků
+ :r1 vždy
+ :r2 nikdy
+ :r3 jen proměnné označené příkazem export
+ :r4 jen proměnné označené příkazem import
+ :r5 jen proměnné označené příkazem child
+:r3 ok
+--
+Jaké je nesprávné použití obsahu proměnné ADRESAR?
+ :r1 echo $ADRESAR/NEW
+ :r2 echo ${ADRESAR}NEW
+ :r3 echo $ADRESAR NEW
+ :r4 echo $ADRESARNEW
+:r4 ok
+--
+Co provádí příkaz set spuštěný bez voleb a argumentů?
+ :r1 vyprázdní všechny proměnné
+ :r2 smaže všechny proměnné
+ :r3 vypíše všechny proměnné
+ :r4 exportuje všechny proměnné
+:r3 ok
+--
+Ve kterém způsobu závorkování se provede příkaz ve vnořeném shellu?
+ :r1 (prikaz)
+ :r2 { prikaz;}
+ :r3 &lt;prikaz;&gt;
+:r1 ok
+--
+Příkaz<PRE>cd `echo $OLDPWD`</PRE>se chová stejně jako:
+ :r1 pwd
+ :r2 cd ~
+ :r3 cd -
+ :r4 cd ..
+:r3 ok
+--
+Který z příkazů má správnou syntaxi?
+ :r1 { echo ahoj;}
+ :r2 { echo ahoj }
+ :r3 {echo ahoj};
+ :r4 {echo ahoj}
+ :r5 {echo ahoj }
+:r1 ok
+--
+Máme nastavený pracovní adresář /tmp/data. Které z použití příkazu <B>pwd</B> vypíše jiný pracovní adresář než /tmp/data?
+ :r1 cd $PWD;pwd
+ :r2 { cd $PWD;};pwd
+ :r3 { cd $HOME;};cd -;pwd
+ :r4 { cd $HOME;};pwd
+ :r5 (cd $HOME);pwd
+:r4 ok
+--
+Co je uloženo v proměnné PWD
+ :r1 pracovní adresář
+ :r2 heslo, zašifrované jednosměrnou šifrou
+ :r3 domovský adresář
+ :r4 hesla všech uživatelů (zašifrovaná jednosměrnou šifrou)
+:r1 ok
+--
+Mezi složené příkazy nepatří
+ :r1 for
+ :r2 case
+ :r3 while
+ :r4 until
+ :r5 find
+:r5 ok
+--
+Co vykonává příkaz true?
+ :r1 vrací hodnotu true
+ :r2 vypisuje řetězec true dokud není ukončen
+ :r3 vrací návratový kód 0
+ :r4 vrací návratový kód 1
+ :r5 není to příkaz, je to logická hodnota
+:r3 ok
+--
+[ je
+ :r1 příkaz
+ :r2 otevírací závorka pro zápis podmínky
+ :r3 otevírací závorka pro zápis osmičkového čísla
+ :r4 symbol přesměrování
+ :r5 speciální znak
+:r1 ok
+--
+Který z příkazů nesmaže všechny soubory z běžného adresáře?
+ :r1 for S in *; do rm $S; done
+ :r2 rm `ls`
+ :r3 rm `echo *`
+ :r4 for S in `ls`; do rm $S; done
+ :r5 for S in `rm`; do ls $S; done
+:r5 ok
+--
+Kterým příkazem pošleme správně celý text e-mailem na zadanou adresu?
+ :r1 echo Milý Jeníčku,;echo posílám Ti seznam souborů;ls;echo;echo Tvůj Pepík>mail adresa@nekde
+ :r2 (echo Milý Jeníčku,;echo posílám Ti seznam souborů;ls;echo;echo Tvůj Pepík)>mail adresa@nekde
+ :r3 (echo Milý Jeníčku,;echo posílám Ti seznam souborů;ls;echo;echo Tvůj Pepík)|mail adresa@nekde
+ :r4 echo Milý Jeníčku,;echo posílám Ti seznam souborů;ls;echo;echo Tvůj Pepík|mail adresa@nekde
+:r3 ok
+--
+Jaký příkaz můžeme použít, chceme-li na standardní výstup předat na řádku vždy jméno souboru, mezeru a znovu jméno souboru s příponou .o pro všechny soubory/položky běžného adresáře?
+ :r1 for JM in $PWD; do echo $JM ${JM}.o; done
+ :r2 for $JM in *; do echo $JM $JM.o; done
+ :r3 for JM in *; do echo $JM $JM.o; done
+ :r4 for JM in *; do echo JM JM.o; done
+:r3 ok
+--
+Jaká je korektní syntaxe zápisu vyhodnocení podmínky?
+ :r1 if `ls soubor`; then rm soubor; fi
+ :r2 if 'ls soubor'; then rm soubor; fi
+ :r3 if ls soubor; then rm soubor; fi
+ :r4 if [ ls soubor ]; then rm soubor; fi
+:r3 ok
+--
+Kterým příkazem <B>ne</B>zjistím, zda položka 'adresar' je adresář?
+ :r1 if test -d adresar; then echo ok; fi
+ :r2 if [ -d adresar ]; then echo ok; fi
+ :r3 if ls -ld adresar|grep -q '^d'; then echo ok; fi
+ :r4 if pwd adresar; then echo ok; fi
+:r4 ok
+--
+Který příkaz je syntakticky špatně?
+ :r1 if [ $# -ge 3 ] && [ $# -lt 6 ]; then echo ok; fi
+ :r2 if [ $# -ge 3 && $# -lt 6 ]; then echo ok; fi
+ :r3 if [ $# -ge 3 -a $# -lt 6 ]; then echo ok; fi
+:r2 ok
+--
+Při kterém volání skriptu
+<pre>#!/bin/bash
+if [ $# = 4 -a $1 != $2 ]; then echo ok; fi</pre>
+se předá na standardní výstup 'ok'?
+ :r1 <TT>./skript 'a' `echo a` a A</TT>
+ :r2 <TT>./skript 1 2 '' 3 4</TT>
+ :r3 <TT>./skript 1 2 '' 4</TT>
+ :r4 <TT>./skript a \a b \b</TT>
+:r3 ok
+--
+Který soubor nevypíše příkaz<PRE>ls x?[a-c]*</PRE>
+ :r1 žádný soubor, který by měl jméno delší než 4 znaky
+ :r2 soubor x1.c i když se v adresáři nachází
+ :r3 soubor xabc i když se v adresáři nachází
+ :r4 soubor x?abc* i když se v adresáři nachází
+:r2 ok
+--
+Jaká je správná syntaxe dotazu na existenci souboru?
+ :r1 if [ -f soubor ] then echo ano fi
+ :r2 if [ -f soubor ] then; echo ano fi;
+ :r3 if [ -f soubor ]; then echo ano; fi
+ :r4 if [ -f soubor; ]; then echo; ano; fi
+ :r5 if [ -f soubor; ]; then echo ano; fi;
+:r3 ok
+--
+Který příkaz je syntakticky správně a současně obsahuje co nejméně mezer?
+ :r1 [-d adresar]&&echo ano
+ :r2 [ -d adresar]&&echo ano
+ :r3 [ -d adresar ]&&echo ano
+ :r4 [ -d adresar ] &&echo ano
+ :r5 [ -d adresar ] && echo ano
+:r3 ok
+--
+Pokud proměnná A obsahuje číslo větší než 5, který příkaz podmínku <TT>A > 5</TT> korektně vyhodnotí a předá na standardní výstup 'ano'?
+ :r1 if [ $A > 5 ] then echo ano fi;
+ :r2 if [ $A > 5 ]; then echo ano; fi
+ :r3 if [ $A -gt 5 ] then echo ano; fi;
+ :r4 if [ $A -gt 5 ]; then echo ano; fi
+:r4 ok
+--
+Kterým/i znakem/znaky začínají v shellu komentáře?
+ :r1 #
+ :r2 //
+ :r3 !
+ :r4 %
+ :r5 /*
+:r1 ok
+--
+Kterým příkazem spustím skript v běžném shellu?
+ :r1 /skript
+ :r2 .skript
+ :r3 . skript
+ :r4 ! skript
+ :r5 žádná jiná odpověď není správná
+:r3 ok
+--
+Chci-li spustit skript příkazem <TT>./skript</TT>, musím mít na soubor se skriptem právo minimálně
+ :r1 spuštění
+ :r2 čtení a spuštění
+ :r3 čtení, zápis a spuštění
+ :r4 čtení
+ :r5 zápis a spuštění
+:r2 ok
+--
+Mějme skript
+<PRE>#!/bin/sh
+echo $4$1$3$2</PRE>
+Co předá na standardní výstup příkaz <TT>./skript a "" b f</TT>
+ :r1 f a b
+ :r2 fab
+ :r3 af b
+ :r4 afb
+ :r5 b a f
+:r2 ok
+--
+Co předá na standardní výstup příkaz "echo $2", jestliže byl předtím proveden příkaz "<TT>set -- a b c</TT>"?
+ :r1 <TT>--</TT>
+ :r2 a
+ :r3 b
+ :r4 c
+:r3 ok
+--
+Co předá na standardní výstup příkaz<PRE>(exit 1; exit 0); echo $?</PRE>
+ :r1 nic, shell se ukončí
+ :r2 0
+ :r3 1
+ :r4 ?
+:r3 ok
+--
+Pracovní soubor v adresáři /tmp s unikátním jménem (žádný jiný aktivní proces spuštěný z téhož skriptu nepoužije stejné jméno) vytvořím příkazem
+ :r1 touch /tmp/pomocny
+ :r2 touch /tmp/pomocny.$?
+ :r3 touch /tmp/pomocny.$$
+ :r4 touch /tmp/pomocny.$%
+ :r5 touch /tmp/pomocny.$!
+:r3 ok
+--
+Příkaz<PRE>ls ~</PRE>předá na standardní výstup položky z
+ :r1 běžného adresář
+ :r2 domovského adresáře
+ :r3 kořenového adresáře
+ :r4 adresáře /tmp
+ :r5 adresáře /bin
+:r2 ok
+--
+V běžném adresáři máte položky<BR><TT>a<BR>aa<BR>amanda<BR>am da</TT> (mezera ve jméně)<BR><TT>AMANDA</TT><BR>
+Která jména předá na standardní výstup příkaz <TT>ls a*a</TT>
+ :r1 aa  amanda  am da
+ :r2 aa  amanda
+ :r3 amanda
+ :r4 aa  amanda  am da  AMANDA
+ :r5 a  aa  amanda  am da  AMANDA
+:r1 ok
+--
+V běžném adresáři máte položky<BR><TT>a<BR>aa<BR>amanda<BR>am da</TT> (mezera ve jméně)<BR><TT>AMANDA</TT><BR>
+Která jména předá na standardní výstup příkaz <TT>echo [a-m][!0-9]</TT>
+ :r1 a
+ :r2 aa
+ :r3 amanda   am da
+ :r4 amanda am da  AMANDA
+ :r5 [a-m][!0-9]
+:r2 ok
+--
+Skript, který se spustí poté, co se přihlásím do systému, je uložen v souboru
+ :r1 /home/.profile
+ :r2 /home/profile
+ :r3 ~/.profile
+ :r4 ~/profile
+ :r5 /etc/login
+:r3 ok
+--
+Mám v běžném adresáři soubory .kshrc, dopis.txt, a.out, prog.c. Co předá na standardní výstup příkaz 'echo *' ?
+ :r1 *
+ :r2 .kshrc dopis.txt a.out prog.c
+ :r3 dopis.txt a.out prog.c .kshrc
+ :r4 .kshrc
+ :r5 a.out dopis.txt prog.c
+:r5 ok
+--
+Mám v běžném adresáři jména souborů a, a1, aa1, 1a
+Která jména souborů předá na standardní výstup příkaz 'ls a[a1]*'?
+ :r1 a a1 aa1
+ :r2 aa1  a1
+ :r3 1a a a1 aa1
+ :r4 aa1  a1 1a
+:r2 ok
+--
+Který příkaz předá na standardní výstup číslo 4?
+ :r1 echo 2+2
+ :r2 echo A:=2+2;
+ :r3 echo `(2+2)`
+ :r4 echo $[2+2]
+ :r5 echo $2+$2
+:r4 ok
+--
+Příkaz A=5;B=2;echo C=$A+$B předá na standardní výstup
+ :r1 7
+ :r2 C=7
+ :r3 C=5+2
+ :r4 C=A+B
+ :r5 nic
+:r3 ok
+--
+Který skript se spouští vždy při spuštění nového shellu bash?
+ :r1 ~/.profile
+ :r2 ~/.bashrc
+ :r3 /bash/bashrc
+ :r4 /bin/bash/profile
+:r2 ok
+--
+Jakým příkazem předám na standardní výstup hodnotu prvního pozičního parametru?
+ :r1 echo $1
+ :r2 cat $1
+ :r3 $1
+ :r4 set $1
+ :r5 cat '$1'
+:r1 ok
+--
+Vytvořte adresář zadaný prvním pozičním parametrem. Který příkaz jej nevytvoří?
+ :r1 if [ ! -d $1 ]; then mkdir $1; fi
+ :r2 test -d $1 || mkdir $1
+ :r3 [ ! -d $1 ] && mkdir $1
+ :r4 if test ! -d $1; then mkdir $1; fi
+ :r5 [ -d $1 ] && mkdir $1
+:r5 ok
+--
+Jakým příkazem spustíte skript v běžném adresáři a jako první poziční parametr mu předáte řetězec <TT>ahoj</TT>?
+ :r1 ./skript 1=ahoj
+ :r2 ./skript $1=ahoj
+ :r3 $1=ahoj; ./skript
+ :r4 ./skript;set -- ahoj
+ :r5 ./skript ahoj
+:r5 ok
+--
+Kterým příkazem smažu všechny soubory zadané pozičními parametry (pozičních parametrů může být libovolné množství)?
+ :r1 <TT>rm $*</TT>
+ :r2 <TT>rm `$*`</TT>
+ :r3 <TT>rm *</TT>
+ :r4 <TT>rm $1 $2 $3 $4 ...</TT>
+ :r5 <TT>rm `*`</TT>
+:r1 ok
+--
+Jak <B>ne</B>spustíme skript, abychom mu jako poziční parametry předali jména položek běžného adresáře začínající písmenem A?
+ :r1 ./skript `echo A*`
+ :r2 ./skript 'ls A*'
+ :r3 ./skript A*
+:r2 ok
+--
+Příkaz <TT>echo $$</TT> předá na standardní výstup
+ :r1 jméno spuštěného skriptu
+ :r2 číslo procesu shellu
+ :r3 počet pozičních parametrů předaných skriptu
+ :r4 všechny poziční parametry předané skriptu
+:r2 ok
+--
+Jaká minimální oprávnění jsou nutná pro spuštění shellového skriptu příkazem <TT>bash</TT> <I>skript</I>?
+ :r1 právo spuštění/provedení
+ :r2 právo čtení
+ :r3 právo spuštění/provedení a právo čtení
+ :r4 právo spuštění/provedení a právo zápisu
+ :r5 právo spuštění/provedení a právo čtení a právo zápisu
+:r2 ok
+--
+Jaká je správná syntaxe příkazu pro porovnání numerického obsahu dvou proměnných?
+ :r1 <TT>[ $A > $B ]</TT>
+ :r2 <TT>[ $A -gt $B ]</TT>
+ :r3 <TT>[ $A>$B ]</TT>
+ :r4 <TT>[ $A-gt$B ]</TT>
+:r2 ok
+--
+Příkaz <TT>touch knihovna; test -d knihovna</TT> na jinak prázdném adresáři vrátí návratový kód
+ :r1 prázdný
+ :r2 0
+ :r3 1
+:r3 ok
+--
+Příkazem <TT>PS1=ferda</TT> změníme
+ :r1 implicitní podpis v e-mailu
+ :r2 nastavení běžného adresáře
+ :r3 výzvu na terminálu uživatele
+ :r4 jméno mailboxu
+ :r5 primární aktivní proces
+:r3 ok
+--
+Příkazovou substituci uzavíráme do
+ :r1 <TT>'...'</TT>
+ :r2 <TT>"..."</TT>
+ :r3 <TT>`...`</TT>
+ :r4 <TT><...></TT>
+:r3 ok
+--
+Operátorem <TT>2></TT>
+ :r1 přesměrujeme standardní výstup
+ :r2 přesměrujeme standardní chybový výstup
+ :r3 přesměrujeme standardní vstup
+ :r4 zavřeme standardní výstup
+ :r5 zrušíme chybový výstup
+:r2 ok
+--
+Kterým příkazem vypíšeme na standardní výstup jména všech adresářových položek, které kdekoli ve svém jméně mají písmeno A?
+ :r1 echo .*A.*
+ :r2 ls '.*A*'
+ :r3 echo *A*
+ :r4 ls ".A.*"
+ :r5 ls *A.*
+:r3 ok
+--
+Jakým příkazem spojíme za sebe obsah souborů <TT>a</TT> a <TT>b</TT> a výsledek uložíme do souboru <TT>c</TT>?
+ :r1 cat < a < b > c
+ :r2 cat a b | c
+ :r3 cat a b > c
+ :r4 cat < a < b | c
+ :r5 a b | cat > c
+:r3 ok
+--
+Vytvořte adresář <TT>Mail</TT> v domovském adresáři uživatele, pokud tam již není. Jaký příkaz toto <B>ne</B>provede?
+ :r1 <TT>[ -d ~/Mail ] || mkdir ~/Mail</TT>
+ :r2 <TT>(cd; test -d Mail || mkdir Mail)</TT>
+ :r3 <TT>if [ ! -d $HOME/Mail ]; then mkdir $HOME/Mail; fi</TT>
+ :r4 <TT>(cd ~; mkdir Mail 2>/dev/null)</TT>
+ :r5 <TT>test -d ~/Mail && mkdir Mail 2>/dev/null</TT>
+:r5 ok
+--
+Jakým příkazem zkopírujete obsah souboru <TT>a</TT> do souborů <TT>b</TT>, <TT>c</TT>, <TT>d</TT> současně?
+ :r1 <TT>cat a > b > c > d</TT>
+ :r2 <TT>cp a b c d</TT>
+ :r3 <TT>tee < a > b > c > d</TT>
+ :r4 <TT>cat a | tee b c > d</TT>
+ :r5 <TT>tee a | cat b c d</TT>
+:r4 ok
+--
+Jakým příkazem přidáte za konec souboru <TT>x</TT> řádek obsahující <TT>xxx-konec-xxx</TT>?
+ :r1 <TT>echo xxx-konec-xxx >> x</TT>
+ :r2 <TT>cat x < xxx-konec-xxx</TT>
+ :r3 <TT>cat x|echo xxx-konec-xxx > x</TT>
+ :r4 <TT>cat xxx-konec-xxx << x</TT>
+:r1 ok
+--
+Jakým příkazem předáte na standardní výstup všechna jména souborů z běžného adresáře, jejichž přípona jména souboru končí na <TT>.txt</TT>? Všechna předaná jména souborů musí být nutně na jednom řádku oddělená vzájemně bílým místem.
+ :r1 <TT>for S in *.txt; do echo $S; done</TT>
+ :r2 <TT>cat *.txt</TT>
+ :r3 <TT>echo *.txt</TT>
+ :r4 <TT>ls -l *.txt</TT>
+:r3 ok
