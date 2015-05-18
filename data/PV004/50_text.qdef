@@ -1,0 +1,108 @@
+Jakým příkazem z proměnné PATH vyřadíme adresář /bin ? Pro jednoduchost předpokládejte, že není ani na začátku, ani na konci.
+ :r1 PATH=`echo $PATH|sed 's/:\/bin:/:/'`
+ :r2 PATH=echo $PATH|`sed 's/:\/bin:/:/'`
+ :r3 PATH=`sed 's/:\/bin:/:/'`
+:r1 ok
+--
+Zda soubor <TT>file</TT> obsahuje textový řetězec <TT>string</TT> zjistíme příkazem
+ :r1 find string file
+ :r2 fgrep string file
+ :r3 sed string file
+ :r4 string string file
+ :r5 search string file
+:r2 ok
+--
+Počet adresářových položek v běžném adresáři zjistíme příkazem
+ :r1 ls|wc -l
+ :r2 ls -l
+ :r3 count `ls`
+:r1 ok
+--
+Soubory obsahující v názvu podřetězec '_delete' v běžném adresáři a všech jeho podadresářích smažeme příkazem
+ :r1 for S in *_delete*; do rm $S; done
+ :r2 find . -name '*_delete*' -exec rm {} \;
+ :r3 rm *_delete*
+ :r4 for SO in `ls *_delete*`; do rm $SO; done
+ :r5 for SO in `ls _delete`; do rm $SO; done
+:r2 ok
+--
+Který příkaz ze všech souborů v běžném adresáři vyřadí řádky, které v prvním sloupci začínají znakem '#'?
+ :r1 grep -v \^\# *
+ :r2 for S in *; do grep -v \# $S > $S; done
+ :r3 for S in *; do grep -v '^#' $S > $S.s; mv -f $S.s $S; done
+ :r4 find ~ -type f -exec grep -v \^\# {} | dd of={} \;
+:r3 ok
+--
+Kterým příkazem smažeme (pouze) v běžném adresáři soubory obsahující ve svém jméně podřetězec 'tempor'
+ :r1 for S in *; do grep -q tempor $S && rm $S; done
+ :r2 find . -name '*tempor*' -exec rm {} \;
+ :r3 find . -type f -exec grep -q tempor {} \; -exec rm {} \;
+ :r4 rm *tempor*
+:r4 ok
+--
+Kterým příkazem předáme na standardní výstup cesty k souborům, které buď ve jméně souboru, nebo ve svém obsahu mají podřetězec 'brno'? Soubory hledejte ve svém domovském adresáři a ve všech jeho podadresářích.
+ :r1 find ~ -type f \( -name '*brno*' -or -exec grep -q brno {} \; \) -print
+ :r2 find ~ -type f -exec grep -q brno {} \; -name '*brno*' -print
+ :r3 find ~ -type f ( -name brno -or -exec grep -q '*brno*' {} \; ) -print
+ :r4 find ~ -type f \( -name '*brno*' -or -exec grep -q '*brno*' {} \; \) -print
+:r1 ok
+--
+Kterým příkazem předáme obsah souboru <TT>so</TT> na standardní výstup?
+ :r1 echo so
+ :r2 cat so
+ :r3 grep so
+ :r4 print so
+:r2 ok
+--
+Jakým příkazem předáme na standardní výstup řetězec <TT>ahoj</TT>?
+ :r1 echo ahoj
+ :r2 cat ahoj
+ :r3 grep ahoj
+ :r4 cat '*ahoj*'
+ :r5 echo [ahoj]
+:r1 ok
+--
+Jakým příkazem předáme na standardní výstup počet adresářových položek běžného adresáře zvýšený o 2?
+ :r1 cat $(`ls|wc -`+2)
+ :r2 $((`ls|wc -`+2))
+ :r3 wc -l $((`ls`+2))
+ :r4 echo $[`ls|wc -l`+2]
+ :r5 for SO in *; do echo 2;done|wc -l
+:r4 ok
+--
+Jakým příkazem zrušíme všechny podadresáře v běžném adresáři, které obsahují více než 10 položek?
+ :r1 for S in *; do [ -d $S -a `find $S -print|wc -l` -gt 10 ] && rm -rf $S; done
+ :r2 find . -type d -exec [ ls {}|wc -l ] > 10 \; -exec rm -rf {} \;
+ :r3 find . -type d -exec for S in {}; do [ ls -R|wc -l -gt 10 ]; done \; && rm -rf {} \;
+ :r4 for S in *; do test -d $S && test wc -l `ls -R` -gt 10 && rm -rf $S; done
+:r1 ok
+--
+Jakým příkazem přejmenujeme všechny soubory v běžném adresáři mající příponu <TT>.txt</TT> na příponu <TT>.tex</TT>?
+ :r1 mv *.txt *.tex
+ :r2 for S in *.txt; do N=`echo $S|sed 's/\.txt$/.tex/'`; mv $S $N; done
+ :r3 find . -type f -name '*.txt' -exec mv {}.txt {}.tex \;
+ :r4 find . -type f -name '*.txt' -exec mv {} ${%%.txt}.tex \;
+ :r5 rm *.txt *.tex
+:r2 ok
+--
+Do souboru <TT>b</TT> zkopírujte ty řádky ze souboru <TT>a</TT>, které obsahují symbol <TT>&gt;</TT> (větší než). Jakým příkazem provedete toto zadání?
+ :r1 cat a|sed s/>// > b
+ :r2 grep > a '>' b
+ :r3 grep '>' a > b
+ :r4 sed s/>// < a > b
+:r3 ok
+--
+Jakým příkazem předáte na standardní výstup jména všech souborů běžného adresáře, které ve svém těle obsahují textový řetězec <TT>Brno</TT>?
+ :r1 <TT>ls *Brno*</TT>
+ :r2 <TT>grep *Brno* *</TT>
+ :r3 <TT>grep Brno *</TT>
+ :r4 <TT>find . -type f -exec grep *Brno* {} /dev/null \;</TT>
+ :r5 <TT>echo *Brno*</TT>
+:r3 ok
+--
+Jakým příkazem <B>ne</B>porovnáme např. shodu dvou řetězců, chceme-li je zadat jako argumenty na příkazovém řádku?
+ :r1 <TT>[</TT>
+ :r2 <TT>cmp</TT>
+ :r3 <TT>test</TT>
+:r2 ok
+

@@ -1,0 +1,869 @@
+Za základní systém souborů považujeme, ten
+ :r1 který je nejrozšířenější z podporovaných
+ :r2 který je na hlavním disku systému
+ :r3 který je na disku C:
+ :r4 který obsahuje kořenový adresář systému
+:r4 ok
+--
+Mezi základní systémy souborů patří
+ :r1 iso8859-2, sysfs
+ :r2 nfs, iso9660
+ :r3 ext3, xfs
+ :r4 vfat, tmpfs
+:r3 ok
+--
+Při neřízeném vypnutí stroje (např. při výpadku napájení) může dojít ke ztrátě dat zapisovaných do systému souborů
+ :r1 plánovaných zapsat po výpadku
+ :r2 během výpadku a plánovaných zapsat po výpadku
+ :r3 před výpadkem, během výpadku a plánovaných zapsat po výpadku
+:r3 ok
+--
+Jméno souboru či adresáře smí být dlouhé nejvýše
+ :r1 8+3 znaků
+ :r2 16+3 znaků
+ :r3 128 znaků
+ :r4 255 znaků
+:r4 ok
+--
+Maximální délka souboru v unixu je
+ :r1 255 znaků
+ :r2 256 znaků
+ :r3 128 znaků
+ :r4 je omezena vlastnostmi konkrétního systému souborů
+:r4 ok
+--
+Soubory, jejichž jméno začíná tečkou
+ :r1 jsou přístupné pouze superuživateli
+ :r2 se nezahrnují do *-expanze
+ :r3 se nepoužívají
+ :r4 takové jméno souboru není možné
+:r2 ok
+--
+Příkaz <TT>ls -la</TT> <B>ne</B>vypíše
+ :r1 čas změny souboru
+ :r2 číslo i-uzlu, ve kterém je uložen příslušný soubor
+ :r3 velikost souboru
+ :r4 soubory, jejichž jméno začíná tečkou
+ :r5 adresářové položky . a ..
+:r2 ok
+--
+Který příkaz vypíše počet odkazů na jednotlivé soubory?
+ :r1 ls
+ :r2 ls -l
+ :r3 ls -a
+ :r4 ls -i
+:r2 ok
+--
+Relativní cesta k souboru nebo k adresáři začíná vždy
+ :r1 lomítkem
+ :r2 běžným adresářem
+ :r3 domovským adresářem
+ :r4 znakem ~
+:r2 ok
+--
+Rozdíl mezi absolutní a relativní cestou k souboru či adresáři je
+ :r1 absolutní cesta začíná vždy domovským adresářem
+ :r2 absolutní cesta začíná vždy běžným adresářem
+ :r3 absolutní cesta začíná vždy lomítkem
+:r3 ok
+--
+K oddělování adresářů a jména souboru v zápisu cesty se používá znak
+ :r1 \
+ :r2 /
+ :r3 |
+:r2 ok
+--
+V hierarchii adresářů stojí nejvýše adresář
+ :r1 /
+ :r2 C:/
+ :r3 C:/, D:/, E:/, ...
+ :r4 root
+ :r5 /root
+:r1 ok
+--
+Běžný adresář jako domovský si uživatel nastaví
+ :r1 příkazem cd
+ :r2 editací souboru /etc/passwd
+ :r3 příkazem pwd
+ :r4 nenastaví
+:r4 ok
+--
+Kterým příkazem se změní běžný adresář vždy na můj domovský adresář?
+ :r1 cd ~
+ :r2 cd -
+ :r3 cd .
+ :r4 cd /
+:r1 ok
+--
+Co se stane po provedení příkazu "<TT>cd -</TT>"?
+Bude nastaven
+ :r1 předchozí pracovní adresář
+ :r2 domovský adresář aktuálního uživatele
+ :r3 domovský adresář superuživatele
+ :r4 speciální adresář definovaný v /etc/passwd
+:r1 ok
+--
+Prázdný adresář je adresář
+ :r1 je adresář s nulovou velikostí
+ :r2 je adresář s prazdnou tabulkou adresáře
+ :r3 obsahující dvě konkrétní položky
+:r3 ok
+--
+Cestu k běžnému adresáři předá na standardní výstup příkaz
+ :r1 cd
+ :r2 pwd
+ :r3 pcd
+ :r4 wd
+ :r5 grep $LOGNAME /etc/passwd|cut -d: -f6
+:r2 ok
+--
+Jestliže v adresáři /home/user zadate příkaz <TT>cd ./..</TT> , potom váš běžný adresář bude
+ :r1 /home
+ :r2 /
+ :r3 nelze zadat více argumentů, vypíše se chyba
+ :r4 /home/user
+ :r5 domovský adresář
+:r1 ok
+--
+Po zadání příkazu <TT>cd /tmp/data</TT> v adresáři /home/user se změní běžný adresář na
+ :r1 /home/user/tmp/data
+ :r2 /home/tmp/data
+ :r3 /tmp/data
+ :r4 /tmp/data/home/user
+:r3 ok
+--
+Pracovní adresář je nastaven na /home/user/data. Jaký bude pracovní adresář po provedení příkazu <TT>cd ./../../.</TT>
+ :r1 /
+ :r2 /home
+ :r3 /home/user
+ :r4 /home/user/data
+:r2 ok
+--
+Vytvoření a smazání adresáře provedou příkazy
+ :r1 md a rd
+ :r2 mdir a rdir
+ :r3 mkdir a rmdir
+ :r4 make a remove
+:r3 ok
+--
+Nemám-li povoleno v proměnné PATH prohledávání běžného adresáře, spustím proveditelný soubor <tt>muj</tt> příkazem
+ :r1 run muj
+ :r2 ../muj
+ :r3 ./muj
+ :r4 muj
+:r3 ok
+--
+Adresář v systému souborů je uložen v souboru
+ :r1 adresář není uložen v souboru
+ :r2 obsahujícím čísla i-uzlu
+ :r3 obsahujícím jména souborů a čísla i-uzlu
+ :r4 obsahujícím cestu, jména souborů a čísla i-uzlu
+ :r5 obsahujícím identifikaci majitele, cestu, jména souborů a čísla i-uzlu
+:r3 ok
+--
+Kořenový adresář má číslo i-uzlu
+ :r1 0
+ :r2 1
+ :r3 2
+ :r4 3
+ :r5 -1
+:r3 ok
+--
+Kořenový adresář je v UNIXu označen
+ :r1 /root
+ :r2 \root
+ :r3 \
+ :r4 /
+ :r5 C:\
+:r4 ok
+--
+Položka '.' má v adresáři přiřazené číslo i-uzlu
+ :r1 0
+ :r2 1
+ :r3 2
+ :r4 shodné s číslem i-uzlu tohoto adresáře
+ :r5 shodné s číslem i-uzlu rodičovského adresáře
+:r4 ok
+--
+Pokud je ve výpisu obsahu adresáře u adresáře "." uvedeno číslo  i-uzlu 2 a u adresáře ".." 0, potom se jedná o
+ :r1 běžný (pracovní) adresář
+ :r2 nesmysl
+ :r3 adresář druhé úrovně např. /home
+ :r4 adresář třetí úrovně např. /home/user
+:r2 ok
+--
+Příkazem rmdir se typicky maže adresář obsahující 
+ :r1 0 položek
+ :r2 1 položku
+ :r3 2 položky
+ :r4 3 položky
+:r3 ok
+--
+i-uzel 
+ :r1 obsahuje adresu počítače v síti
+ :r2 obsahuje informace o směrování paketů v uzlech sítě
+ :r3 obsahuje informaci o jednom souboru či adresáři systému souborů
+ :r4 obsahuje informaci o jednom uzlu n-uzlového clusteru
+:r3 ok
+--
+Zdrojový soubor smaže příkaz
+ :r1 mv
+ :r2 cp
+ :r3 cat
+ :r4 ls
+:r1 ok
+--
+Soubory smažeme příkazem
+ :r1 mv
+ :r2 cp
+ :r3 rm
+ :r4 cat
+ :r5 del
+:r3 ok
+--
+Systém vždy fyzicky odstraní soubor z tabulky i-uzlů (tzn. soubor se smaže), když
+ :r1 provedu příkaz <tt>rm</tt>
+ :r2 počet odkazů na počítadle v i-uzlu klesne na 0
+ :r3 se uživatel odhlásí, poté co provedl příkaz <tt>rm</tt>
+ :r4 se vysype koš
+ :r5 fyzicky smažu i-uzel příkazem rmnode
+:r1 příkazem <tt>rm</tt> odstraníte jen jeden z odkazů, další ještě mohou existovat
+:r2 ok
+--
+Co se stane po provedení příkazu "<TT>rm -rf *</TT>"?
+Bude smazán obsah pracovního adresáře
+ :r1 vč. jmen začínajících tečkou a vč. podadresářů a bez všech varování
+ :r2 vč. jmen začínajících tečkou, ale bez podadresářů
+ :r3 bez jmen začínajících tečkou, vč. podadresářů a bez všech varování
+ :r4 bez jmen začínajících tečkou, bez podadresářů a bez všech varování
+ :r5 vč. jmen začínajících tečkou a vč. podadresářů s varováními
+:r3 ok
+--
+i-uzel obsahuje
+ :r1 všechny informace o souboru vyjma dat souboru
+ :r2 všechny informace o souboru vyjma cesty k souboru a dat
+ :r3 všechny informace o souboru vyjma jména souboru, cesty k souboru a dat
+ :r4 všechny informace o souboru vyjma identifikace majitele, jména souboru, cesty k souboru a dat
+ :r5 všechny informace o tomto uzlu v síti
+:r3 ok
+--
+Kořenový adresář má pro položky '.' a '..' 
+ :r1 čísla i-uzlu o jedničku větší
+ :r2 čísla i-uzlu o jedničku menší
+ :r3 čísla i-uzlu stejná
+ :r4 žádná z ostatních odpovědí není správná
+:r3 ok
+--
+Pokud příkazem <TT>mv</TT> přesouváte soubory v rámci jednoho systému souborů, pak se číslo i-uzlu přesouvaného souboru
+ :r1 změní
+ :r2 nezmění
+ :r3 zruší
+:r2 ok
+--
+Co provede příkaz <TT>ls -a</TT> (označte nejsprávnější odpověď):
+ :r1 vypíše seznam všech podadresářů
+ :r2 vypíše seznam všech souborů
+ :r3 vypíše seznam všech podadresářů a souborů a položek se jménem začínajícím tečkou
+ :r4 vypíše seznam všech položek se jménem začínajícím tečkou
+ :r5 provede totéž jako příkaz ls bez parametru
+:r3 ok
+--
+Kterým příkazem lze smazat neprázdný adresář?
+ :r1 rmdir
+ :r2 rm -r
+ :r3 rm -a
+ :r4 rm -f
+ :r5 neprázdný adresář nelze smazat
+:r2 ok
+--
+Příkazem <TT>pwd</TT>
+ :r1 změníme pracovní adresář
+ :r2 vypíšeme pracovní adresář
+ :r3 změníme domovský adresář
+ :r4 vypíšeme domovský adresář
+:r2 ok
+--
+Příkazem <TT>rmdir</TT>
+ :r1 vymažeme prázdný adresář
+ :r2 přesuneme prázdný nebo neprázdný adresář do koše
+ :r3 přesuneme prázdný adresář do koše
+ :r4 vyprázdníme koš
+ :r5 vymažeme skrytý adresář
+:r1 ok
+--
+Maximální počet i-uzlů v systému souborů
+ :r1 lze dle potřeby měnit příkazem ls -il
+ :r2 lze dle potřeby měnit příkazem mkfs
+ :r3 nelze měnit bez nového vytvoření systému souborů
+:r3 ok
+--
+Počet odkazů na soubor je uložen
+ :r1 v adresáři
+ :r2 v i-uzlu
+ :r3 v souboru
+ :r4 není uložen, vždy se při potřebě vypočítává
+:r2 ok
+--
+Na soubor vytvořený běžným způsobem textovým editorem
+ :r1 je nulový počet tvrdých odkazů
+ :r2 je jeden tvrdý odkaz
+ :r3 jsou dva tvrdé odkazy
+:r2 ok
+--
+Jakým příkazem vytvoříme tvrdý odkaz na soubor?
+ :r1 ln -t soubor odkaz
+ :r2 ln -h soubor odkaz
+ :r3 ln soubor odkaz
+ :r4 ln -s soubor odkaz
+:r3 ok
+--
+Po provedení posloupnosti příkazů
+<pre>touch a; ln a b; ln a c</pre>
+vzniknou následující počty tvrdých odkazů na jednotlivé soubory
+ :r1 a 1, b 2, c 3
+ :r2 a 3, b 2, c 1
+ :r3 a 2, b 2, c 2
+ :r4 a 3, b 3, c 3
+ :r5 příkaz je chybný
+:r4 ok
+--
+Kolik tvrdých odkazů ukazuje na soubor v následujícím výpisu příkazu <TT>ls -l</TT>?
+<PRE>-rw-r--r--  3 ja oni  2 Mar 1 04:05 cosi</PRE>
+ :r1 1
+ :r2 2
+ :r3 3
+ :r4 4
+ :r5 5
+:r3 ok
+--
+Po provedení příkazu <TT>ln aa bb</TT> přibude v běžném adresáři na výpise příkazu <TT>ls -l</TT> položka
+ :r1 <TT>lrw-r--r--  1 brandejs staff  6 dub  8 21:50 bb</TT>
+ :r2 <TT>-rw-r--r--  1 brandejs staff  6 dub  8 21:50 bb</TT>
+ :r3 <TT>lrw-r--r--  2 brandejs staff  6 dub  8 21:50 bb</TT>
+ :r4 <TT>-rw-r--r--  2 brandejs staff  6 dub  8 21:50 bb</TT>
+:r4 ok
+--
+Výpis příkazu <TT>ls -il</TT>:
+<PRE>539520038 -rw-r--r--  2 brandejs staff 0 bře 29 13:46 a
+539520038 -rw-r--r--  2 brandejs staff 0 bře 29 13:46 b</PRE>
+Který z odkazů vznikl dříve?
+ :r1 odkaz na soubor a
+ :r2 odkaz na soubor b
+ :r3 vznikly zároveň
+ :r4 nelze určit
+ :r5 výpis je nesmyslný
+:r4 ok
+--
+Výpis příkazu <TT>ls -il</TT>:
+<PRE>539520038 -rw-r--r--  2 brandejs staff 0 bře 29 13:46 a
+539520038 -rw-r--r--  2 brandejs staff 0 bře 29 13:46 b</PRE>
+Kdo vytvořil tvrdý odkaz 'a' na 'b' nebo 'b' na 'a'?
+ :r1 výhradně uživatel brandejs
+ :r2 výhradně uživatel staff
+ :r3 výhradně člen skupiny staff
+ :r4 výhradně člen skupiny brandejs
+ :r5 nelze určit
+:r5 ok
+--
+Který příkaz úspěšně skončí po provedení posloupnosti příkazů
+<PRE>touch a; mkdir b</PRE>
+ :r1 ln a c
+ :r2 ln b c
+ :r3 žádný z uvedených příkazů
+:r1 ok
+--
+Uživatel xnovak vytvořil příkazem <B>ln</B> tvrdý odkaz na soubor, který vlastní uživatel xpolak. Kdo bude ve výpise příkazu <TT>ls -l</TT> uveden jako vlastník odkazu?
+ :r1 xnovak
+ :r2 xpolak
+ :r3 oba
+ :r4 nikdo z nich
+:r2 ok
+--
+Kolik bude tvrdých odkazů na adresář a, provedete-li posloupnost příkazů
+<PRE>mkdir a; mkdir a/b; mkdir a/c; touch a/d</PRE>
+ :r1 2
+ :r2 3
+ :r3 4
+ :r4 5
+ :r5 posloupnost příkazů je nesmyslná
+:r3 ok
+--
+Kolik bude tvrdých odkazů na adresář a, provedete-li posloupnost příkazů
+<PRE>touch a; touch a/b; touch a/c; touch a/d</PRE>
+ :r1 2
+ :r2 3
+ :r3 4
+ :r4 5
+ :r5 posloupnost příkazů je nesmyslná
+:r5 ok
+--
+Kolik bude tvrdých odkazů na adresář b, provedete-li posloupnost příkazů
+<PRE>mkdir a; mkdir a/b; mkdir a/c; mkdir a/b/d; mkdir a/c/e</PRE>
+ :r1 2
+ :r2 3
+ :r3 4
+ :r4 5
+ :r5 posloupnost příkazů je nesmyslná
+:r2 ok
+--
+Kolik bude tvrdých odkazů na adresář b, provedete-li posloupnost příkazů
+<PRE>mkdir a; mkdir a/b; mkdir a/c; mkdir a/b/d; rmdir a/b/d</PRE>
+ :r1 2
+ :r2 3
+ :r3 4
+ :r4 5
+ :r5 posloupnost příkazů je nesmyslná
+:r1 ok
+--
+Po provedení posloupnosti příkazů
+<PRE>mkdir a; mkdir a/b; ls a; ls -d a</PRE>
+se na standardní výstup předají řádky obsahující
+ :r1 a<BR>b
+ :r2 b<BR>a
+ :r3 a<BR>a
+ :r4 b<BR>b
+ :r5 posloupnost příkazů je nesmyslná
+:r2 ok
+--
+Po provedení posloupnosti příkazů
+<PRE>touch a; mkdir b; touch b/a; ls a; ls b</PRE>
+se na standardní výstup předají řádky obsahující
+ :r1 a<BR>b
+ :r2 b<BR>a
+ :r3 a<BR>a
+ :r4 b<BR>b
+ :r5 posloupnost příkazů je nesmyslná
+:r3 ok
+--
+Z výpisu příkazu <TT>ls -l</TT>
+<PRE> -rwxr-xr-x  2 brandejs staff 6 bře 29 23:05 a
+ drwxr-xr-x  2 brandejs staff 6 bře 29 23:05 b
+ -rwxr-xr-x  2 brandejs staff 6 bře 29 23:05 c</PRE>
+vyplývá, že
+ :r1 a, c jsou soubory, b je speciální soubor
+ :r2 a, c jsou soubory, b je adresář
+ :r3 a, b jsou adresáře, c je soubor
+ :r4 a, c jsou adresáře, b je soubor
+ :r5 výpis je nesmyslný
+:r2 ok
+--
+Tvrdý odkaz se <B>ne</B>povolí udělat na
+ :r1 speciální soubor
+ :r2 symbolický odkaz
+ :r3 adresář
+ :r4 soubor
+:r3 ok
+--
+Symbolický odkaz se <B>ne</B>povolí udělat na
+ :r1 adresář
+ :r2 soubor v jiném systému souborů
+ :r3 kořenový adresář
+ :r4 speciální soubor /dev/null
+ :r5 i-uzel
+:r5 ok
+--
+Provedením příkazu ln (bez voleb) se počet odkazů na objekt typicky
+ :r1 zvyšuje
+ :r2 snižuje
+ :r3 nemění
+:r1 ok
+--
+Provedením příkazu rm se počet odkazů na objekt typicky
+ :r1 zvyšuje
+ :r2 snižuje
+ :r3 nemění
+:r2 ok
+--
+Provedením příkazu ln -s se počet odkazů na objekt typicky
+ :r1 zvyšuje
+ :r2 snižuje
+ :r3 nemění
+:r3 ok
+--
+Příznak, že objekt je symbolický odkaz, je uveden
+ :r1 v adresáři
+ :r2 v i-uzlu
+ :r3 v souboru
+ :r4 není uveden nikde
+:r2 ok
+--
+Z výpisu příkazu <TT>ls -l</TT>
+<PRE>-rw-r--r--  2 brandejs staff 0 bře 29 23:35 b
+lrwxrwxrwx  1 brandejs staff 1 bře 29 23:35 c -> a</PRE>
+vyplývá, že
+ :r1 a je symbolický odkaz, b je tvrdý odkaz
+ :r2 c je symbolický odkaz, b je tvrdý odkaz
+ :r3 b je symbolický odkaz, a je tvrdý odkaz
+ :r4 b je symbolický odkaz, c je tvrdý odkaz
+ :r5 výpis je nesmyslný
+:r2 ok
+--
+Jaká je velikost dat souboru se symbolickým odkazem ukazujícím na soubor <TT>mujprog.c</TT>
+ :r1 žádná data se k symbolickému odkazu neukládají
+ :r2 velikost dat je shodná s velikostí souboru <TT>mujprog.c</TT>
+ :r3 0 bajtů
+ :r4 9 bajtů
+:r4 ok
+--
+Co se předá na standardní výstup po provedení posloupnosti příkazů
+<PRE>touch a;ln -s a b;rm a;ls</PRE>
+ :r1 a
+ :r2 b
+ :r3 posloupnost příkazů je chybná, protože nelze smazat soubor, na který ukazuje symbolický odkaz
+:r2 ok
+--
+Dynamickou informaci o uzamknutí souboru (výlučný přístup) obsahuje
+ :r1 i-uzel na disku
+ :r2 paměťová kopie i-uzlu
+ :r3 je uložena mimo i-uzly
+:r2 ok
+--
+Informaci o přístupových právech souboru obsahuje
+ :r1 i-uzel na disku
+ :r2 výhradně paměťová kopie i-uzlu
+ :r3 je uložena mimo i-uzly
+:r1 ok
+--
+Superblok je
+ :r1 oblast pro uložení dat souborů
+ :r2 informační struktura o systému souborů
+ :r3 náhradní blok za vadné sektory na disku
+ :r4 blok dat se zašifrovanou informací
+:r2 ok
+--
+Speciální soubor je
+ :r1 totéž co soubor 'skrytý'
+ :r2 soubor přístupný pouze superuživateli
+ :r3 zpřístupnění v/v zařízení
+ :r4 zvláštní soubor jako adresář, symbolický odkaz apod.
+ :r5 soubor se speciálními právy
+:r3 ok
+--
+Speciální soubory jsou ve výpisu příkazu <TT>ls -l</TT> identifikovány v prvním sloupci znakem nebo znaky
+ :r1 k, l
+ :r2 s
+ :r3 x
+ :r4 b, c
+ :r5 -
+:r4 ok
+--
+Typickým příkladem speciálního souboru je
+ :r1 /
+ :r2 /etc/passwd
+ :r3 /var/mail/xnovak
+ :r4 /dev/null
+ :r5 /bin/ls
+:r4 ok
+--
+Blokový nebo znakový typicky je
+ :r1 adresář
+ :r2 přístupový kód
+ :r3 systém souborů
+ :r4 speciální soubor
+ :r5 superblok
+:r4 ok
+--
+Pojmenovaná roura
+ :r1 je způsob přenášení dat mezi dvěma počítači
+ :r2 je speciální soubor pro přenos dat mezi dvěma procesy
+ :r3 je prázdné zařízení, tzv. koš na bity
+ :r4 připojovací bod pro zpřístupnění připojeného systému souborů
+:r2 ok
+--
+Která posloupnost představuje korektní vytvoření a použití pojmenované roury?
+ :r1 mkdir roura p;cat /dev/null > roura & cat roura; rm roura
+ :r2 mknod roura p;cat /etc/passwd > roura & cat roura; rm roura
+ :r3 mknod roura p;cat /etc/passwd > roura & cat roura; rmnod roura
+ :r4 mknod roura p; cat roura > /etc/passwd & cat /etc/passwd; rmnod roura
+ :r5 cat roura > /etc/passwd & mknod roura p; cat /etc/passwd; rm roura
+:r2 ok
+--
+Speciální soubory pro zpřístupnění V/V zařízení se typicky ukládají do adresáře
+ :r1 /specf
+ :r2 /iofiles
+ :r3 /io
+ :r4 /dev
+ :r5 /devio
+:r4 ok
+--
+Jakou bude mít velikost soubor 'x' po provedení příkazů
+<TT>echo 'ahoj' > x; cp /dev/null x</TT>
+ :r1 nebude existovat
+ :r2 0
+ :r3 1
+ :r4 4
+ :r5 5
+:r2 ok
+--
+Přístupová práva k objektům systému souborů se určují zvlášť pro
+ :r1 vlastníka, členy skupiny, ostatní přihlášené uživatele
+ :r2 uživatele, členy skupiny, ostatní nepřihlášené uživatele
+ :r3 uživatele, členy skupiny, ostatní přihlášené uživatele
+ :r4 vlastníka, členy skupiny, ostatní nepřihlášené uživatele
+:r1 ok
+--
+Přístupová práva se nastavují v pořadí a s počátečními písmeny zkratky
+ :r1 owner, group, world
+ :r2 root, world, execute
+ :r3 user, root, others
+ :r4 user, group, others
+:r4 ok
+--
+Přístupová práva k souboru se určují zvlášť pro trojici operací
+ :r1 čtení, smazání, spuštění
+ :r2 provedení, smazání, kopírování
+ :r3 smazání, spuštění, editace
+ :r4 čtení, zápis, provedení
+ :r5 modifikace, zkrácení, spuštění
+:r4 ok
+--
+Přístupová práva k adresáři se definují zvlášť pro trojici operací
+ :r1 vytváření, smazání, spouštění
+ :r2 vstup do adresáře, smazání, vytvoření
+ :r3 čtení, zapisování, vstup do adresáře
+ :r4 čtení, vytváření, smazání
+ :r5 čtení, spouštění, vstup do adresáře
+:r3 ok
+--
+Co znamená přístupové právo "x" pro soubor?
+ :r1 ze souboru lze číst
+ :r2 do souboru lze zapisovat
+ :r3 soubor lze spustit
+ :r4 do souboru lze vstoupit
+:r3 ok
+--
+Co znamená přístupové právo "x" pro adresář?
+ :r1 adresář můžeme vypsat
+ :r2 do adresáře můžeme zapisovat
+ :r3 do adresáře je povoleno vstoupit
+ :r4 adresář je povoleno spustit
+:r3 ok
+--
+Přístupová práva k souboru či adresáři jsou uložena
+ :r1 v jednom bajtu
+ :r2 ve dvou bajtech
+ :r3 na devíti bitech
+ :r4 ve dvanácti bitech
+ :r5 ve 128 bajtech
+:r4 ok
+--
+Vytvořit nový soubor smím v adresáři, na který mám právo alespoň
+ :r1 čtení a zápisu
+ :r2 vytváření a vstupu
+ :r3 zápisu a vstupu
+ :r4 čtení a vytváření
+ :r5 čtení, zápisu a vstupu
+:r3 ok
+--
+Smazat soubor v adresáři smím, pokud mám alespoň
+ :r1 právo zápisu do souboru
+ :r2 právo zápisu do adresáře a zápisu do souboru
+ :r3 právo zápisu a vstupu do adresáře
+ :r4 právo zápisu a vstupu do adresáře, a právo zápisu do souboru
+ :r5 právo zápisu do souboru a jsem vlastníkem souboru
+:r3 ok
+--
+Jaké právo k adresáři musím alespoň mít, pokud chci vytvořit soubor v tomto adresáři?
+ :r1 -wx
+ :r2 rw-
+ :r3 r-x
+ :r4 -w-
+ :r5 rwx
+:r1 ok
+--
+V adresáři, který je na výpise příkazu <TT>ls -l</TT> označen <TT>drwxrwxrwx</TT>, smím
+ :r1 smazat libovolné soubory
+ :r2 smazat soubory, které vlastním
+ :r3 smazat soubory, ke kterým mám právo zápisu
+ :r4 nesmím smazat soubory
+ :r5 smazat soubory, které vlastním a ke kterým mám právo zápisu
+:r1 ok
+--
+V adresáři, který je na výpise příkazu <TT>ls -l</TT> označen <TT>drwxrwxrwt</TT>, smím
+ :r1 smazat libovolné soubory
+ :r2 smazat soubory, které vlastním
+ :r3 smazat soubory, ke kterým mám právo zápisu
+ :r4 nesmím smazat soubory
+ :r5 smazat soubory, které vlastním a ke kterým mám právo zápisu
+:r2 ok
+--
+V adresáři, který je na výpise příkazu <TT>ls -l</TT> označen <TT>d--x--x--x</TT>, smím
+provést operaci:
+ :r1 smazání souboru
+ :r2 vytvoření souboru
+ :r3 nastavení adresáře jako běžného
+ :r4 výpis jeho obsahu příkazem <TT>ls</TT>
+ :r5 žádná jiná odpověď není správná
+:r3 ok
+--
+Soubor mohu číst, pokud mám právo alespoň
+ :r1 čtení souboru
+ :r2 vstupu do adresáře a čtení souboru
+ :r3 čtení adresáře, vstupu do adresáře a čtení souboru
+ :r4 čtení adresáře, vstupu do adresáře a čtení souboru a vstupu do souboru
+:r2 ok
+--
+Do souboru mohu zapisovat, pokud mám právo alespoň
+ :r1 zapisovat do adresáře
+ :r2 zapisovat do souboru
+ :r3 vstupovat do adresáře a zapisovat do souboru
+ :r4 zapisovat a vstupovat do adresáře, zapisovat a číst soubor
+:r3 ok
+--
+Soubor (s proveditelným binárním kódem) smím spustit, pokud mám právo alespoň
+ :r1 na čtení souboru
+ :r2 čtení adresáře a spuštění souboru
+ :r3 vstup do adresáře a čtení souboru
+ :r4 vstup do adresáře a spuštění souboru
+ :r5 vstup do adresáře, spuštění souboru a čtení souboru
+:r4 ok
+--
+Proces, který spustím ze spustitelného souboru obsahujícího proveditelný binární kód a majícího nastavený SUID bit, poběží vždy pod identifikací (uživatelem)
+ :r1 uživatele, který vlastní soubor
+ :r2 uživatele, který proces spustil
+ :r3 superuživatele
+:r1 ok
+--
+Proces, který spustím ze spustitelného souboru obsahujícího proveditelný binární kód a <B>ne</B>majícího nastavený SUID bit, poběží vždy pod identifikací (uživatelem)
+ :r1 uživatele, který vlastní soubor
+ :r2 uživatele, který proces spustil
+ :r3 superuživatele
+:r2 ok
+--
+Který soubor lze spustit tak, že poběží pod identifikací vlastníka souboru (vypsána jsou přístupová práva z příkazu <TT>ls -l</TT>)
+ :r1 <TT>rwxr-Sr-x</TT>
+ :r2 <TT>rws--x--x</TT>
+ :r3 <TT>rwxr-sr-x</TT>
+:r2 ok
+--
+Který soubor lze spustit tak, že poběží pod identifikací uživatele, který jej spustil (vypsána jsou přístupová práva z příkazu <TT>ls -l</TT>)
+ :r1 <TT>-wS--S---</TT>
+ :r2 <TT>rws--x--x</TT>
+ :r3 <TT>rwxr-xr-x</TT>
+:r3 ok
+--
+Co znamená SUID bit?
+ :r1 příznak superuživatele v souboru /etc/passwd
+ :r2 příznak vlastníka adresáře systému souborů
+ :r3 příznak měnící identifikaci majitele procesu
+:r3 ok
+--
+Jsem-li vlastníkem souboru - s jakými přístupovými právy smím soubor spustit (jedná se o spustitelnou binárku; přístupová práva jsou zapsána osmičkově)?
+ :r1 0644
+ :r2 0766
+ :r3 2264
+ :r4 7666
+:r2 ok
+--
+Jsem-li členem skupiny souboru, ne jeho vlastníkem - s jakými přístupovými právy smím soubor spustit (jedná se o spustitelnou binárku; přístupová práva jsou zapsána osmičkově)?
+ :r1 0644
+ :r2 0766
+ :r3 2264
+ :r4 3656
+:r4 ok
+--
+Přístupová práva zapsaná osmičkově 4522 znamenají
+ :r1 <TT>r-s-w--w-</TT>
+ :r2 <TT>-wS--x--x</TT>
+ :r3 <TT>rw-r--r-t</TT>
+ :r4 <TT>rwx-ws-w-</TT>
+ :r5 <TT>r--r-x-w-</TT>
+:r1 ok
+--
+Přístupová práva zapsaná osmičkově 0731 znamenají
+ :r1 <TT>---rwx-wx</TT>
+ :r2 <TT>rwxrw-r--</TT>
+ :r3 <TT>rwx-wx--x</TT>
+ :r4 <TT>r-xrwx--r</TT>
+ :r5 <TT>--r-wxrwx</TT>
+:r3 ok
+--
+Symbol 't' v přístupových právech znamená
+ :r1 objekty v adresáři smí mazat jen vlastník objektu nebo vlastník adresáře
+ :r2 objekty v adresáři smí mazat jen vlastník objektu
+ :r3 objekty v adresáři vytvářet jen vlastník adresáře
+ :r4 vlastníkem nově vytvořeného objektu bude vlastník adresáře
+:r1 ok
+--
+Tzv. sticky bitem zapínáme následující chování
+ :r1 soubory v adresáři smí mazat pouze jejich vlastník
+ :r2 soubory v adresáři smí mazat pouze superuživatel
+ :r3 soubory v adresáři smí mazat pouze jejich vlastník a vlastník adresáře
+ :r4 soubory v adresáři smí vytvářet pouze vlastník adresáře
+ :r5 soubory v adresáři smí vytvářet pouze vlastník adresáře nebo superuživatel
+:r3 ok
+--
+Jaká podmínka je postačující k tomu, abych mohl měnit přístupová práva souboru?
+ :r1 jsem vlastníkem souboru a mám právo zápisu do souboru
+ :r2 mám právo zápisu do souboru
+ :r3 mám právo zápisu do souboru a zápisu do adresáře
+ :r4 jsem vlastníkem souboru
+ :r5 mám právo zápisu do adresáře
+:r4 ok
+--
+Jaká syntaxe příkazu chmod je chybná?
+ :r1 chmod go+rx
+ :r2 chmod go=o
+ :r3 chmod go+X
+ :r4 chmod u-s
+ :r5 chmod x+a
+:r5 ok
+--
+Kterým příkazem přidáme ke všem položkám běžného adresáře právo zápisu pro skupinu uživatelů? (Ostatní práva neměňte.)
+ :r1 chmod g+w *
+ :r2 chmod w+g *
+ :r3 chmod w=g *
+ :r4 chmod g=w *
+ :r5 chmod w+gx *
+:r1 ok
+--
+Kterým příkazem přidáme ke všem položkám běžného adresáře právo čtení pro (úplně) všechny uživatele? (Ostatní práva neměňte.)
+ :r1 chmod r=a *
+ :r2 chmod a+r *
+ :r3 chmod go+w *
+ :r4 chmod r+a *
+ :r5 chmod ugo+x *
+:r2 ok
+--
+Kterým příkazem přidáte všem spustitelným souborům a všem adresářům v běžném adresáři právo spuštění/vstupu pro všechny ostatní? (Práva jiných souborů a jiná práva neměňte.)
+ :r1 chmod o=x *
+ :r2 chmod o+x *
+ :r3 chmod o+X *
+ :r4 chmod g+x *
+ :r5 nelze udělat
+:r3 ok
+--
+Jakým příkazem nastavíme SUID bit?
+ :r1 chmod u+s
+ :r2 chmod g+s
+ :r3 chmod o+s
+ :r4 chmod x+s
+ :r5 chmod s+g
+:r1 ok
+--
+Jakým příkazem nastavíme přístupová práva ve tvaru <TT>rw-r--r--</TT>
+ :r1 chmod 640
+ :r2 chmod ugo=640
+ :r3 chmod a=rw,go-w
+:r3 ok
+--
+Jaká práva bude mít soubor, pokud provedu příkaz <TT>chmod 6755 soubor</TT>
+ :r1 rwsr-sr-x
+ :r2 rwsrwsr-x
+ :r3 rwsrw-rw-
+ :r4 rwxrwsr-x
+:r1 ok
+--
+K čemu slouží příkaz <TT>chmod g=u</TT>
+ :r1 nastaví stejné práva pro skupinu jako má vlastník
+ :r2 nastaví stejné práva pro vlastníka jako má skupina
+ :r3 zruší všechna práva u vlastníka a skupiny
+ :r4 žádná z uvedených odpovědí
+:r1 ok
+--
+Jsem členem více než jedné skupiny. Kdy má smysl, abych použil příkaz <B>newgrp</B>
+ :r1 chci-li vytvořit novou skupinu v systému
+ :r2 chci-li se dostat k souborům patřícím do jiné skupiny, než do které se chci přihlásit
+ :r3 chci-li při vytvoření nového souboru použít jinou skupinu, než do které jsem přihlášen
+ :r4 chci-li požádat administrátora o mé přihlášení do nové skupiny
+:r3 ok
