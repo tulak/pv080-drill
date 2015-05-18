@@ -2316,10 +2316,28 @@
         ]
     },
     {
-        "name": "Syst\u00e9m v\u017edy fyzicky odstran\u00ed soubor z tabulky i-uzl\u016f (tzn. soubor se sma\u017ee), kdy\u017e\n :r1 provedu p\u0159\u00edkaz <tt>rm<\/tt>\n :r2 po\u010det odkaz\u016f na po\u010d\u00edtadle v i-uzlu klesne na 0\n :r3 se u\u017eivatel odhl\u00e1s\u00ed, pot\u00e9 co provedl p\u0159\u00edkaz <tt>rm<\/tt>\n :r4 se vysype ko\u0161\n :r5 fyzicky sma\u017eu i-uzel p\u0159\u00edkazem rmnode\n:r1 p\u0159\u00edkazem <tt>rm<\/tt> odstran\u00edte jen jeden z odkaz\u016f, dal\u0161\u00ed je\u0161t\u011b mohou existovat",
+        "name": "Syst\u00e9m v\u017edy fyzicky odstran\u00ed soubor z tabulky i-uzl\u016f (tzn. soubor se sma\u017ee), kdy\u017e",
         "answers": [
             {
-                "right": true
+                "right": true,
+                "body": "po\u010det odkaz\u016f na po\u010d\u00edtadle v i-uzlu klesne na 0"
+            },
+            {
+                "right": true,
+                "comment": "p\u0159\u00edkazem <tt>rm<\/tt> odstran\u00edte jen jeden z odkaz\u016f, dal\u0161\u00ed je\u0161t\u011b mohou existovat",
+                "body": "provedu p\u0159\u00edkaz <tt>rm<\/tt>"
+            },
+            {
+                "body": "fyzicky sma\u017eu i-uzel p\u0159\u00edkazem rmnode",
+                "right": false
+            },
+            {
+                "body": "se vysype ko\u0161",
+                "right": false
+            },
+            {
+                "body": "se u\u017eivatel odhl\u00e1s\u00ed, pot\u00e9 co provedl p\u0159\u00edkaz <tt>rm<\/tt>",
+                "right": false
             }
         ]
     },
@@ -4338,10 +4356,24 @@
         ]
     },
     {
-        "name": "Znak \\ m\u00e1 n\u00e1sleduj\u00edc\u00ed v\u00fdznam:\n :r1 odd\u011blova\u010d adres\u00e1\u0159\u016f a jm\u00e9na souboru od adres\u00e1\u0159e v cest\u011b\n :r2 zapnut\u00ed pokra\u010dovac\u00edho \u0159\u00e1dku\n :r3 ozna\u010den\u00ed control znaku\n :r4 zru\u0161en\u00ed \u0159\u00eddic\u00edho charakteru n\u00e1sledkuj\u00edc\u00edho znaku\n:r2 pokra\u010dovac\u00ed \u0159\u00e1dek zap\u00edn\u00e1 kombinace \\ a nov\u00fd \u0159\u00e1dek",
+        "name": "Znak \\ m\u00e1 n\u00e1sleduj\u00edc\u00ed v\u00fdznam:",
         "answers": [
             {
-                "right": true
+                "right": true,
+                "body": "zru\u0161en\u00ed \u0159\u00eddic\u00edho charakteru n\u00e1sledkuj\u00edc\u00edho znaku"
+            },
+            {
+                "right": true,
+                "comment": "pokra\u010dovac\u00ed \u0159\u00e1dek zap\u00edn\u00e1 kombinace \\ a nov\u00fd \u0159\u00e1dek",
+                "body": "zapnut\u00ed pokra\u010dovac\u00edho \u0159\u00e1dku"
+            },
+            {
+                "body": "ozna\u010den\u00ed control znaku",
+                "right": false
+            },
+            {
+                "body": "odd\u011blova\u010d adres\u00e1\u0159\u016f a jm\u00e9na souboru od adres\u00e1\u0159e v cest\u011b",
+                "right": false
             }
         ]
     },
@@ -4635,6 +4667,7 @@
         "answers": [
             {
                 "right": true,
+                "comment": "ok proto\u017ee p\u0159i p\u0159esm\u011brov\u00e1n\u00ed v\u00fdstupu se soubor vypr\u00e1zdn\u00ed d\u0159\u00edve, ne\u017e se provede p\u0159\u00edkaz",
                 "body": "bude soubor 's' pr\u00e1zdn\u00fd"
             },
             {
