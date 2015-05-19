@@ -207,3 +207,11 @@ foreach (glob(__DIR__ . '/vb036/*.html') as $file) {
 	$vb036->addQuestions(ElearningPreviewParser::fromFile($file)->toArray());
 }
 $vb036->write(__DIR__ . '/../questions_VB036.json');
+unset($vb036);
+
+$vb035 = (new JsonQuestions());
+foreach (glob(__DIR__ . '/vb035/*.html') as $file) {
+	$vb035->addQuestions(ElearningPreviewParser::fromFile($file)->toArray());
+}
+$vb035->write(__DIR__ . '/../questions_VB035.json');
+unset($vb035);
