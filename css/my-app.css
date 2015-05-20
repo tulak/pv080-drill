@@ -1,5 +1,9 @@
 /* Your app custom files in this file */
 /* Tab bar icons */
+
+.pages {
+    background-color: #efeff4 !important;
+}
 i.tabbar-demo-icon-1 {
   width: 30px;
   height: 30px;

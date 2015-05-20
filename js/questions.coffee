@@ -1,7 +1,36 @@
+class Classes.QuestionList
+  constructor: (options)->
+    @list_container = options.list_container
+    @list_template = options.list_template
+    @containers_container = options.containers_container
+    @containers_template = options.containers_template
+    $.getJSON options.filename, (data)=>
+      setlist = data
+      @render(setlist)
+
+  render: (setlist)=>
+    html = @list_template {
+      list: setlist
+    }
+    @list_container.html(html)
+    html = @containers_template {
+      list: setlist
+    }
+    @containers_container.html(html)
+    for set in setlist
+      new Classes.Questions
+        dataset: set.dataset
+        container: $("#questions-" + set.id)
+        template: _.template($('.question').first().html())
+    $('.source-link').click ->
+      window.location.href = "https://github.com/fprochazka/fi-muni-drill"
+
+
 class Classes.Questions
   constructor: (options)->
     @container = options.container
     @template = options.template
+    @name = options.name
 
     @done_questions = []
     $.getJSON options.dataset, (data)=>
@@ -15,6 +44,7 @@ class Classes.Questions
       question: question
       question_index: @done_questions.length
       total_questions: @done_questions.length + @questions.length
+      dataset: @name
     }
     @container.html(html)
     @container.find('#submit-button').click @submit
@@ -38,7 +68,7 @@ class Classes.Questions
       li.removeClass "good"
       li.removeClass "missing"
       if answer.checked and $(answer).attr('value') == "false"
-       li.addClass "bad"
+        li.addClass "bad"
       if !answer.checked and $(answer).attr('value') == "true"
         li.addClass "missing"
       if answer.checked and $(answer).attr('value') == "true"

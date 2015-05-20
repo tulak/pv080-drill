@@ -4,14 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
     <title>FI MUNI Drill</title>
     <!-- Path to Framework7 Library CSS-->
-    <link rel="stylesheet" href="css/framework7.min.css">
+    <link href="css/framework7.min.css" rel="stylesheet">
     <!-- Path to your custom app styles-->
-    <link rel="stylesheet" href="css/my-app.css">
-
+    <link href="css/my-app.css" rel="stylesheet">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -23,238 +22,58 @@
 
     </script>
 </head>
+
 <body>
 <!-- Status bar overlay for fullscreen mode-->
-<div class="statusbar-overlay">
 
-</div>
+<div class="statusbar-overlay"></div>
 <!-- Panels overlay-->
 <div class="panel-overlay"></div>
 
 <div class="panel panel-left panel-reveal">
-    <div class="content-block">
-        <div class="content-block-title">Question Datasets</div>
-        <p><a href="#PV080-all" class="close-panel">PV080 - All</a></p>
+    <div class="content-block" id="question-list-block"></div>
+</div><!-- Views-->
 
-        <p><a href="#PV080-midterm" class="close-panel">PV080 - Midterm</a></p>
-
-        <p><a href="#PV119" class="close-panel">PV119</a></p>
-
-        <p><a href="#PB151" class="close-panel">PB151</a></p>
-
-        <p><a href="#PV157-all" class="close-panel">PV157 - All</a></p>
-
-        <p><a href="#PV157-midterm" class="close-panel">PV157 - Midterm</a></p>
-
-        <p><a href="#IB101" class="close-panel">IB101</a></p>
-
-        <p><a href="#PB071" class="close-panel">PB071</a></p>
-
-        <p><a href="#IB101_v2" class="close-panel">IB101 v2</a></p>
-
-        <p><a href="#VB035" class="close-panel">VB035</a></p>
-
-        <p><a href="#VB036" class="close-panel">VB036</a></p>
-
-        <p><a href="#PV004" class="close-panel">PV004</a></p>
-
-        <div class="content-block-title">About</div>
-        <p>
-            Datasets are parsed from materials from fi.muny.cz. If some question have wrong answers marked as right,
-            feel free to open pull request and start the discusion.
-        </p>
-
-        <p>
-            The app was made for my personal use, and then shared to others to make the world better place :D.
-        </p>
-
-        <p>
-            If you find it helpful you can buy me a beer.
-        </p>
-    </div>
-</div>
-<!-- Views-->
 <div class="views">
     <!-- Your main view, should have "view-main" class-->
+
     <div class="view view-main">
         <!-- Pages, because we need fixed-through navbar and toolbar, it has additional appropriate classes -->
-        <div class="pages navbar-fixed toolbar-fixed question-pages">
+
+        <div class="pages navbar-fixed toolbar-fixed question-pages" id="pages">
             <!-- Index Page-->
-            <div data-page="PV080-all" class="page">
-                  <span id="questions-all">
+        </div>
+    </div>
+</div><script class="left-panel" type="text/html">
+    <div class="content-block-title">Question Datasets</div>
+    <% _.each(list, function(q) { %>
+    <p><a href="#<%= q.id %>" class="close-panel"><%= q.name %></a></p>
+    <% }); %>
+    <div class="content-block-title">About</div>
+    <p>
+        The app was made for my personal use, and then shared to others to make the world better place :D.
+    </p>
+
+    <p>
+        If you find it helpful you can buy me a beer.
+    </p>
+</script> <script class="question-page" type="text/html">
+    <% _.each(list, function(q) { %>
+    <div data-page="<%= q.id %>" class="page">
+                  <span id="questions-<%= q.id %>">
 
                   </span>
 
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PV080 - All</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Index Page-->
-            <div data-page="PV080-midterm" class="page">
-                  <span id="questions-midterm">
-
-                  </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PV080 - Midterm</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Index Page-->
-            <div data-page="PV119" class="page">
-                  <span id="questions-PV119">
-
-                  </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PV119</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Index Page-->
-            <div data-page="PB151" class="page">
-                  <span id="questions-PB151">
-
-                  </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PB151</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="PV157-all" class="page">
-                <span id="questions-PV157-all">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PV157 - All</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="PV157-midterm" class="page">
-                <span id="questions-PV157-midterm">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PV157 - Midterm</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="IB101" class="page">
-                <span id="questions-IB101">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>IB101</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="IB101_v2" class="page">
-                <span id="questions-IB101_v2">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>IB101 v2</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="PV004" class="page">
-                <span id="questions-PV004">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PV004</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="VB035" class="page">
-                <span id="questions-VB035">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>VB035</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="VB036" class="page">
-                <span id="questions-VB036">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>VB036</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
-            </div>
-
-            <div data-page="PB071" class="page">
-                <span id="questions-PB071">
-
-                </span>
-
-                <div class="toolbar">
-                    <div class="toolbar-inner">
-                        <a href="#" data-panel="left" class="open-panel">Menu</a>
-                        <span>PB071</span>
-                        <a href="#" class="source-link">Source</a>
-                    </div>
-                </div>
+        <div class="toolbar">
+            <div class="toolbar-inner">
+                <a href="#" data-panel="left" class="open-panel">Menu</a>
+                <span><%= q.name %></span>
+                <a href="#" class="source-link">Source</a>
             </div>
         </div>
     </div>
-</div>
-
-<script type="text/html" class="question">
+    <% }); %>
+</script> <script class="question" type="text/html">
     <!-- Scrollable page content-->
     <div class="page-content questions-page-content">
         <div class="content-block-title question-name"><%= question.name %></div>
@@ -294,15 +113,15 @@
 
 </script>
 <!-- Path to Framework7 Library JS-->
-<script type="text/javascript" src="js/framework7.min.js"></script>
-<script type="text/javascript" src="js/jquery-2.1.1.js"></script>
-<script type="text/javascript" src="js/underscore.js"></script>
-<script type="text/javascript" src="js/coffee-script.js"></script>
+<script src="js/framework7.min.js" type="text/javascript"></script>
+<script src="js/jquery-2.1.1.js" type="text/javascript"></script>
+<script src="js/underscore.js" type="text/javascript"></script>
+<script src="js/coffee-script.js" type="text/javascript"></script>
 <script type="text/javascript">
     window.Classes = {};
 </script>
-<script type="text/coffeescript" src="js/questions.coffee"></script>
+<script src="js/questions.coffee" type="text/coffeescript"></script>
 <!-- Path to your app js-->
-<script type="text/coffeescript" src="js/my-app.coffee"></script>
+<script src="js/my-app.coffee" type="text/coffeescript"></script>
 </body>
 </html>

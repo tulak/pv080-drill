@@ -9,66 +9,9 @@ mainView = myApp.addView '.view-main', {
   domCache: true
 }
 
-$(document).ready ->
-  $('.source-link').click ->
-    window.location.href = "http://www.github.com/tulak/pv080-drill/"
-
-window.questions_all = new Classes.Questions
-  dataset: "questions.json"
-  container: $('#questions-all')
-  template: _.template($('.question').first().html())
-
-window.questions_midterm = new Classes.Questions
-  dataset: "questions_midterm.json"
-  container: $('#questions-midterm')
-  template: _.template($('.question').first().html())
-
-window.questions_PV119 = new Classes.Questions
-  dataset: "questions_PV119.json"
-  container: $('#questions-PV119')
-  template: _.template($('.question').first().html())
-
-window.questions_PB151 = new Classes.Questions
-  dataset: "questions_PB151.json"
-  container: $('#questions-PB151')
-  template: _.template($('.question').first().html())
-
-window.questions_PV157_all = new Classes.Questions
-  dataset: "questions_PV157.json"
-  container: $('#questions-PV157-all')
-  template: _.template($('.question').first().html())
-
-window.questions_PV157_midterm = new Classes.Questions
-  dataset: "questions_PV157_midterm.json"
-  container: $('#questions-PV157-midterm')
-  template: _.template($('.question').first().html())
-
-window.questions_IB101 = new Classes.Questions
-  dataset: "questions_IB101.json"
-  container: $('#questions-IB101')
-  template: _.template($('.question').first().html())
-
-window.questions_IB101_v2 = new Classes.Questions
-  dataset: "questions_IB101_v2.json"
-  container: $('#questions-IB101_v2')
-  template: _.template($('.question').first().html())
-
-window.questions_PV004 = new Classes.Questions
-  dataset: "questions_PV004.json"
-  container: $('#questions-PV004')
-  template: _.template($('.question').first().html())
-
-window.questions_VB035 = new Classes.Questions
-  dataset: "questions_VB035.json"
-  container: $('#questions-VB035')
-  template: _.template($('.question').first().html())
-
-window.questions_VB036 = new Classes.Questions
-  dataset: "questions_VB036.json"
-  container: $('#questions-VB036')
-  template: _.template($('.question').first().html())
-
-window.questions_PB071 = new Classes.Questions
-  dataset: "questions_PB071.json"
-  container: $('#questions-PB071')
-  template: _.template($('.question').first().html())
+window.start_list = new Classes.QuestionList
+  filename: "datasets.json"
+  list_container: $('#question-list-block')
+  list_template: _.template($('.left-panel').first().html())
+  containers_container: $('#pages')
+  containers_template: _.template($('.question-page').first().html())
