@@ -1,0 +1,2161 @@
+1."Degenerovaný" genetický kód znamená?
+-*Rovnaká aminokyselina môže byť kódovaná niekoľkými rôznymi kodónmi
+====
+2.% proteinu v chromatinu
+-*70% proteínov
+====
+3.16S podjednotka ribozomu ?
+-*Je súčasťou malej (30S) podjednotky prokaryotického ribozómu   
+====
+4.16S, 18S ?
+-*16S - súčasťou 30S malej podjednotky ribozómov u prokaryot (baktérii) a mitochondrií 
+-18S - súčasťou 40S malej podjednotky ribozómov u eukaryot
+====
+5.Aktivace fosfolipázy C ?
+-*Aktivovaná  vápenatými iónmi, môže byť aktivovaná aj tyrosinkinázou, tá aktivuje napríklad fosfolipázu Cgama. Činnosť   
+-môže byť spustená na popud nejakého receptora spojeného s G-proteínom
+====
+6.Aktivita proteinu p53?
+-*Aktivuje transkripciu génu kódujúceho proteín p21 a ten potom zastavuje bunkový cyklus
+====
+7.Aktivovaný Rb protein? 
+-*Rb protein bráni bunkovému deleniu, inaktivuje sa prítomnosťou rastových faktorov, pokiaľ je v ňom mutácia a  je 
+-fosforylovaný,  neviaže sa na regulačný proteín a bunka se nekontrolovateľne delí (transkripčným faktorom při delení 
+-buniek)
+====
+8.Alelická exkluze? 
+-*Behom vývoja B-bunky sú aktivované iba gény jedného z rodičov
+====
+9.Alfa podjednotka  G-proteinů –čím je deaktitována, možnosti beta
+-*Deaktivovaná beta a gama podjednotkou
+====
+10.Alipoproteiny vznik deaminací, regulacia DNA podla gRNA
+-*Cytidindeamináza deaminuje cytosín na uracyl a miesto zmysluplného kodónu sa syntetizuje stop kodón. Vznikne krátky    
+*alipoproteín a cholesterol sa nesyntetizuje. 
+====
+11.alternativní splicing?
+-*je jav, pri ktorom vďaka rôznym variantám splicingu z jedného génu vzniká viac bielkovinovýchproduktov. Po prepise DNA v jadre prechádza tzv. primárny transkript RNA úpravami, v ich rámci sa dlhé nekódujúce úseky (introny) vystrihujú a ostatné sekvencie (tzv. exony) je možné spojiť rôznymi zpôsobmi. Z výsledných niekoľko RNA vytvorených od jedného génu tak môžu byť syntetizované rôzne izoformy daného proteinu. To je práve zpôsob existencie alternativného splicingu.
+====
+12.Alu inzerce
+-*Sú to rozptýlené repetície, ktoré vznikajú v genóme človeka transpozíciou ako retrosekvencie
+====
+13.Aminoacyl-tRNA-syntetáza: její počet se rovná počtu standardních aminokyselin (=20)
+-*Enzým, ktorý katalyzuje nakladanie aminokyselín na tRNA. Ich počet sa rovná počtu štandardných aminokyselin (=20).
+====
+14.antenuace tryptofanového operonu 
+-*při transkripci, zastavení transkripce při nadbytku tryptofanu
+====
+15.antenuátor? 
+-*část leading DNA – předčasný terminátor transkripce
+====
+16.anti sense RNA je komplemetarni s/ma stejnou sekvenci jako...
+-*Komplementárna k mRNA, je zvyčajne kódovaná v DNA. Vznikne dsRNA a nemôže dôjsť k translácii.
+====
+17.Apoliprotein?
+-*Výmena C za U, vytvorenie terminačnej, ukončí sa
+-*U človeka, zmena funkcie produktu stratou C domény kratšieho produktu: Cytidindeamináza - C   
+====
+18.atenuace tryptofanoveho operonu (zastaveni transkripce pri nadbytku tryptofanu)
+-*Prebieha pri transkripcii, mRNA pre tryptofán môže zaujať dve konformácie. Pokiaľ je tryptofán prítomný (pripojený na  
+-*ribozome), tak vlásenka na konci slúži ako terminátor, pokiaľ nie je, z vlásenky je ochranná vlásenka - preemptor, časť 3 a 
+-*4 se nespáruje. Tryptofán u baktérií nemá cenu syntetizovať, pokiaľ je ho nadbytok, potom pôsobí ako korepresor a 
+-*represor jeho syntézu zastaví. 
+====
+19. Atenuátor ?
+-*Časť leading DNA (sekvencia génu bakteriálnych buniek), predčasný terminátor transkripcie operónu, transkripcia sa v nadbytku tryptofánu zastaví (atenuátor je sekvencia, v ktorej sa predčasne zastaví transkripcia v peebytku tryptofánu).
+====
+20. B lymfocyt tvoří…
+-*Tvorí iba jeden typ protilátky s dvoma väzbovými miestami pre antigén
+====
+21. bakteriofag lambda ?
+-*Konkatemer je viazaný kovalentnou väzbou
+====
+22.  bakteriofág lambda? 
+-*Je to virión obsahujúci dsDNA s koheznými koncami, má lyzogénny cyklus, môže sa začleňovat vo forme profága, k začleneniu a vyčleneniu používa miestne špecifickú rekombináciu.
+====
+23. báze v telomerách
+-*Obsahujú veľa G, u človeka (TTAGGG)n
+====
+24. Bromuracil  je analog?
+-*Tymínu
+====
+25. centrální dogma molekulární biologie
+-*Prenos genetickej informácie je možný z nukleovej kyseliny do nukleovej kyseliny, z nukleovej kyseliny do proteínu, ale nie z proteínu do proteínu alebo z proteínu do nukleovej kyseliny.
+====
+26. cim je specificke misto ori, (poc.replikace)
+-*Je počiatkom replikácie, obsahuje niekoľko konzervovaných repetícii: L, M, R – 13bp a 1,2,3,4 – 9 bp. Je to špecifická sekvencia DNA niekedy tiež nazývaná dnaA box.
+====
+27. cim zacina a konci transkripcni jednotka 
+-*Začína iniciačným kodónom a končí terminátorom (vrátane)
+====
+28. co aktivuje Crp
+-*Crp aktivuje zvýšenie hladiny cAMP, ktorý sa objaví napríklad pri nedostatku glukózy v bunke. Spoločne vytvoria dimér, který je schopný sa naviazať na DNA a spustiť transkripciu množstva operónov pre sacharidový metabolizmus.
+====
+29. Co dělá ss zlomy při homogenní rekombinaci
+-*RecA
+====
+30. co dělá topoizomeraza I
+-*Je zodpovedná za nadšrúbovicové vinutie, rozštiepi jedno vlákno, preloží ho a znovu spojí. Takto ubudne 1 závit (u dsDNA)
+====
+31. co dělá transkripční faktor TFIIH? 
+-*Navodí fosforyláciu RNA-polymerázy a tím ju aktivuje (nabudí k zahájeniu transkripcie). Je jeden z posledných, který sa viažu na TATA box u eukaryot.
+====
+32. co dela tRNA
+-*Prenáša aminokyseliny na ribozóm vo forme aminoacyl-tRNA. Podieľa sa na translácii, udáva sekvenciu antikodónu. Podieľa sa na presnosti reakcie – syntéza je špecifická. Prebieha tRNA + aminoacyladenylát.
+====
+33. co dělá zlom u homolgní rekombinace?
+-*RecBCD
+====
+34. Co dosyntetizovává sekvenci na konci chromozomu drosophyly po replikaci 
+-*Drosophyla nemá telomerázu, konce chromozómov sú dopĺňané transpozíciou. HeTA a TART
+====
+35. Co dosyntetizovává telomeráza a podle čeho 
+-*Dosyntetizováva komplementárne vlákno DNA podľa matrice. 
+====
+36. Co fosforyluje RNA-polymerázu ?
+-*TFIIH
+====
+37. co je  Alu inzerce (rozptylena repetice v genomu cloveka)
+-*Sú to rozptýlené repetície vzniknuté v genóme človeka transpozíciou ako retrosekvencie. 
+====
+38. Co je antikodon ?
+-*Sú to 3 nukleotidy na tRNA 
+====
+39. co je cAMP? 
+-*Pozitívny alosterický efektor, pozitívny regulátor
+====
+40.  co je CAP?
+-*Pozitívny regulačný proteín, pozitívny regulátor
+====
+41. Co je genom? 
+-*Súbor všetkých nukleových kyselín, ktoré sa replikujú a dedia na potomstvo
+====
+42. Co je HAT.
+-*HAT je koaktivátor transkripcie (spôsobuje acetyláciu a deacetyláciu histónov)
+====
+43. co je induktor? 
+-*Induktor môže inaktivovať represor, potom je pozitívny regulátor a negatívny alosterický efektor, alebo môže vytvoriť z nefunkčného aktivátoru funkčný a potom je pozitívny regulátor a pozitívny alosterický efektor.
+====
+44. co je intein
+-*Intein je sekvencia aminokyselín, ktorá je z proteínu vyštiepena proteázou (pre-proinzulín – proinzulín).
+====
+45. co je konkatemer? (několik po sobě následujících monomerů při replikaci bakteriofaga otáčející se kružnicí)
+-*Je to reťazec niekoľko po sebe nasledujúcich monomérov vzniknutých pri replikácii štýlom otáčajúcej sa kružnice u plazmidov spojených kovalentnou väzbou vzniknutých podľa negatívneho reťazca. Najprv je naštiepený v počiatkoch (Rep proteín na enzým), potom je spojený ligázou a rozštiepený endonukleázou. Negatívny reťazec sa dosyntetizuje pomocou Okazakiho fragmentov.  
+====
+46.  co je korepresor? 
+-*Pozitívny alosterický efektor, negatívny regulátor
+====
+47. co je nadsroubovnice 
+-*superhelix
+====
+48. co je onkogen..
+-*Onkogén je gén, ktorý kóduje informácie o raste bunky, jeho supresorový gén je antionkogén. Onkogén je už aktivovaný protoonkogén, jeho aktivácia vedie k nádorovému bujneniu (neoplatickej transformácií).
+====
+49. Co je onkogenu ?
+-*Protoonkogen vyvolávajúci neoplastickú transformáciu buniek
+====
+50. Co je operator? 
+-*Miesto, kam sa viaže represor
+====
+51. co je operon? 
+-*Ide o promotor, operátor a niekoľko štruktúrnych génov v jednom transkripte. (strukturní gen, operátor a promotor)
+====
+52. co je ori? 
+-*Počiatok replikácie, špecifická sekvencia na DNA (dnaA box)
+====
+53. co je orizom? 
+-*Súbor proteínov u kvasiniek zúčastňujúcich sa počiatku replikácie
+====
+54. Co je paradox hodnoty C
+-*Veľkosť genómu neodpovedá celkovej komplexite organismov, neplatí u baktérií. Vyvinuté organismy majú veľa nekódujúcich sekvencií (časté repetície), či sú ich genómy polyploidné ako napríklad u rastlín.
+====
+55. co je polygenní mRNA a kde se vyskytuje? 
+-*Je to mRNA, ktorá vzniká u prokaryot a obsahuje sekvencie génov – má promotórove usporiadanie
+====
+56. co je potreba na vznik vlasenky a co na vlasenky se smyckou
+-*Pre vznik vlásenky je treba obrátená repetícia, palindromatická sekvencia bez vloženej nepalindromatickej, pre vznik vlásenky so smyčkou je medzi ne treba vložit ešte nepalindromatickú sekvenciu.
+====
+57. Co je potřeba pro indukovatelnou transkripci ?
+-*Stačia indukovateľné špecifické TF faktory z vonkajšieho prostredia.
+====
+58. Co je považováno za odpad (na výběr transpozony, pseudogeny...)
+-*Retropozony
+====
+59. Co je premutagen
+-*Gén, ktorý sa premieňa na mutagén
+====
+60. co je preprotein? 
+-*Ide o proteín s N-terminálnym peptidom (polypeptid so signálnym peptidom na N konci)
+====
+61.  co je Pribnowův box ?
+-*Sekvence -10 proti směru transkripce je součást prokaryotního promotoru. 
+====
+62. co je protoonkogen
+-*Onkogén je gén, ktorý sa podieľa na regulácii procesov aktivujúcich alebo urýchľujúcich bunkový cyklus (delenie buniek). Abnormálna aktivácia týchto génov (ktoré sa v normálnom funkčnom režime označujú aj ako protoonkogény) - napr.mutáciou - spôsobí nepretržité a nekontrolované delenie bunky (onkogény v užšom zmysle slova).
+-*Protoonkogény kódujú napríklad rastové faktory, receptory rastových faktorov, regulačné prosteíny a podobne. Neustála nadprodukcia kódovanej bielkoviny naruší reguláciu bunkového delenia. Protoonkogén môže byť poškodený (bodovou mutáciou, včlenením DNA retrovírusu, translokáciou, rozmnožením kópii génu)
+====
+63. Co je pseudoreverze
+-*Vytvorí sa kodón pre AMK s podobnými bázami ako pôvodná AMK, čiastočne sa obnovuje funkcia mutagénu, nemá to vplyv na výsledný produkt  = (Zaradenie AMK s podobnými vlastnosťami ako bola pôvodná reverzná mutácia (napr. Arg - pôv. mutácia = Trp - reverzná mutácia = Lys).
+====
+64. co je RBS? 
+-*Ribosom binding side je sekvencia u prokaryot na mRNA po smere transkripcie umožňujúca väzbu na ribozóm – Shineova-Dalgarnova sekvencia.
+====
+65. co je reparace DNA, které geny? (velmi konzervativní, asi 100 genů)
+-*tiež oprava DNA, súbor bunkových mechanismov, ktorými sa môžu odstrániť nežiadúce zásahy do štruktúry DNA. Možno tak odstrániť náhodné chemické modifikácie bázy (napr. dimery pyrimidinových bázy vzniklé pôsobením UV žiarenia), odstrániť chybne pripojené bázy v priebehu replikácie alebo spojiť prerušené fosfodiesterové väzby v jednom alebo obou vláknech DNA
+====
+66.  co je represor? 
+-*Negatívny regulačný proteín, negatívny regulátor
+====
+67. Co je rychlejší u prokaryot?
+-*Replikace (až 500 b/s)
+====
+68. co je supresorová tRNA
+-*Jedná sa o tRNA, v ktorej došlo k mutácii, často číta napríklad po štvoriciach, či robí iné nezmysly.
+====
+69.  co je TATA box? 
+-*Tzv. Hognesov box u eukaryot (-26, -34) Nasadajú sem transkripčné faktory, je súčásťou eukaryotického promotoru.
+====
+70. co je terciární struktura DNA? 
+-*Je vytvorená kladným a záporným nadšrúbovicovým vinutím. Vzniká zvinutím DNA za pomoci topoizomeráz I a II. 
+====
+71. co je to spliceozom?
+-*Jedná se o útvar z RNA, který sa účastní zostrihu u eukaryot, obsahuje malé sRNA.
+====
+72. co je to zesilovač transkripce? 
+-*Jedná sa o miesto na DNA v značnej vzdialenosti od promotoru.
+====
+73. co je treba k prokaryoticke replikaci ?
+-*Polymeráza I a III, Ligáza, Primáza, Helikáza, SSB, NTP, proteiny: DnaB (helikáza), dnaG (primáza), dnaA, dnaC,  Topoizomeráza – gyráza, matrica, beta-svorka, gama-proteín, iniciátorové proteíny, ...
+====
+74. Co je twintron ?
+-*Intron vo vnútri iného intronu
+====
+75. Co je většinou iniciační kódón u bakterií
+-*AUG - Met
+====
+76. co jsou BT-rostliny
+-*Majú vnesený gén pre endotoxín z baktérie na rezistenciu proti hmytu, ďalej obsahujú gény na rezistenciu k herbicídom a ATB.
+====
+77. Co jsou chaperony
+-*Dříve nazvané HSP – existují HSP70, které se na vlákno nativního proteinu váží jednotlivě a HSP60, které vytváří soudkovité útvary, kterými je protein protažen. Vytvářejí terciální strukturu protein, spotřebovávájí ATP. Objevují se, je-li buňka vystavena vyšším teplotám.   1. Speciální skupina proteinů podílejících se na sbalování polypeptidů, zabraňují nesprávnému sbalení.         2. Proteiny, podílejícíc se na sestavě a úpravě. 3. Peptidy upravující jiné peptidy.
+====
+78. Co jsou těžké řetězce LVCJD
+====
+79. co má za následek zařazení báze v tautomerní formě? 
+-*Pri replikácii môže dôjsť k substitúcii - tautomerne báze sa rôzne párujú (mutácie)
+====
+80. Co musí obsahovat "něco", aby vznikla vlásenka se smyčkou (na výběr různé kombinace repetic)
+-*Pro vznik vlásenky je třeba obrácená repetice, palindromatická sekvence bez vložené nepalindromatické, pro vznik vlásenky se smyčkou je mězi ně třeba vložit ještě nepalindromatickou sekvenci. 
+====
+81. Co nepatří do posttranslačních úprav 
+-*možnosti: vyštěpení peptidů, hydroxylace, proteinový sestřih, připojení signální sekvence
+====
+82. Co obsahuje prokaryotická rRNA (geny pro 1 rRNA/1tRNA/obě....)
+-*prokaryotický obsahuje v malé podjednotce 16S  rRNA (1540 nukleotidů) a ve velké podjednotce 5S rRNA (120 nukleotidů) a23S rRNA (2900 nukleotidů)
+====
+83. Co obsahují složené transpozony– geny pro rezistenci k antibiotikům
+-*obsahují  2 IS sekvence, z nichž jedna kóduje fční transponázu; geny pro rezistenci k antibiotikům.
+====
+84. Co ovlivní sílu bakteriálního promotoru
+-*Zosilovaci transkripcie
+====
+85. co používá fág lambda k vyčleněnní a začlenění
+-*Místně specifickou rekombinaci, att místo
+====
+86. Co probíhá rychleji u prokaryot – Transkripce nebo replikace? 
+-*replikace – 500b/s
+====
+87. Co provádí posttranskripční úpravu tRNA u prokaryot, eukaryot? 
+-*U prokaryot je vyštěpena z mRNA, která nese informace pro mnoho tRNA endonukleázou či exonukleázami, důležitá je také nukleotidyl-tRNA-transferáza, které přenese na aminoacylové raménko ACC sekvenci, na kterou se váže AMK. U eukaryot jsou geny pro ně rozptýlené repetice a v mRNA by měla být vždy jedna, zase sekvence ACC
+====
+88. co přenášejí transpozony u eukaryot?
+-*onkogeny, rezistenci k ATB
+====
+89. co se děje když není glukóza a je laktóza
+-*allolaktóza (induktor) se váže na represor, dále vzniká CAP a cAMP ›  tvoří komplex › represor není přítomen › probíhá transkripce, tvoří se indukovatelné enzymy pro rozklad laktózy (s glukózou to nefunguje, pač vysoká koncentrace glukózy brání fci adenylátcykláze, která vytváří cAMP)
+====
+90. co se může v co přepisovat
+-*DNA – DNA, RNA – RNA, DNA – RNA, RNA – DNA, RNA – protein
+====
+91. co se oznacuje jako paraziticka DNA
+-*trnaspozomy,pseonodeny plazmidy v chromozomech
+====
+92. Co se podílí na sestřihu DNA? 
+-*spliceozom
+====
+93. co se podílí na sestřihu RNA? 
+-*U sn RNP částice a SR proteiny
+====
+94. co se podílí na sestřihu u prokaryot? 
+-*specifické endonukleázy
+====
+95. Co spojuje sousední histony 
+-*H1 histon
+====
+96. Co syntetizuje polymeráza II? 
+-*hnRNA
+====
+97. Co je induktor 
+-*Induktor může inaktivovat represor, pak je pozitivní regulátor a negativní alosterický efektor, nebo může vytvořit z nefunkčního aktivátoru funkční a pak je pozitivní regulátor a pozitivní alosterický efektor.
+====
+98. co je operator? 
+-*misto, kam se vaze represor
+====
+99. co je tercialni struktura DNA? 
+-*+ i - nadsroubovicove vinuti
+====
+100. Co jsou chaperony? 
+-*proteiny, které se podílí na sestavě sbalování monomerov do oligomerů..a a nestáva sa súčasťou struktury, Dříve nazvané HSP – existují HSP70, které se na vlákno nativního proteinu váží jednotlivě a HSP60, které vytváří soudkovité útvary, kterými je protein protažen. Vytvářejí terciální strukturu protein, spotřebovávájí ATP. Objevují se, je-li buňka vystavena vyšším teplotám.
+====
+101. Co tvoří odpadovou DNA
+-*inaktivované části po transpozicích. Neautonomní elementy (po RNA virech). Retropozony – LINE, SINE
+====
+102. Co umožňuje replikaci DNA 
+-*různé varianty, liší se v přidání RNA-polymerázy do výběru
+====
+103. Co váže na tRNA aminokys.
+-*aminoacyl-tRNA-syntetáza
+====
+104. Co většinou nesou transpozony prokaryot 
+-*rezistence Atb, tvorba Atb, transkripční faktory
+====
+105. Co všechno zajištuje korektorská aktivita DNA??polymerázy
+-*DNA-polymerázy, 3´--- 5´ exonukleázová aktivita
+====
+106. co vyštěpuje primery u prokaryot
+-*RNA-primery jsou odstraněny účinkem exonukleázové aktivity DNA-polymerázy I
+====
+107. Co vzniká alternativním sestřihem
+-*Dvě možné RNA
+====
+108. Co vzniká deaminací cytosinu?
+-*uracil
+====
+109. co vzniká přepisem strukturních genů (polypeptid)
+-*protein
+====
+110. co vznika spontanni mutaci A
+-*vznik AP míst, Hypoxantin
+====
+111. Co vzniká transkripcí z rRNA 
+-*více rRNA a 1 tRNA
+====
+112.  co zapříčiní rozklad Holliadayova spoje?
+-*resovázy RuvC enzym a RuvG
+====
+113. Co znamená synonymní mutace 
+-*nemění se smysl kodonu
+====
+114. Co způsobuje aminaci histonů
+-*HAT
+====
+115. co způsubuje p-b dimery
+-*UV-záření
+====
+116. co zvysuje teplotou tani DNA 
+-*CG páry
+====
+117. Část genomu člověka, která kóduje proteiny-1,5%, která je přepisována-30%?
+-*?
+====
+118. Čeho je analog bromuracil 
+-*tyminu
+====
+119. Četnost transpozic u člověka? = dnes už prý ne!!! (nechápu, ale takto mi to říkal Doškař)
+-*
+====
+120. Čím je aktivován kalmodulin? 
+-*Ca2+
+====
+121. Čím je aktivována fosfolipáza C 
+-*G-protein
+====
+122. čím je aktivována proteinkináza C
+-*Ca2+ a diacylglycerol
+====
+123. Čím je tvořen ori u E.coli (na výběr repetice, promotor, aktivator a ja nevím, jaké různé blbosti dále...) :)
+-*
+====
+124. Čím vzniká inverze
+-*nějakou EMS 
+====
+125. čím začíná a končí transkripční jednotka
+-*startovacím nukleotidem, termínatorem
+====
+126. definice onkogenu 
+-*varianta protoonkogenu způsobující neoplastickou transformaci buněk
+====
+127. definice telomerazy
+-*enzym pracující jako reverzní transkriptáza, prodlužuje konce chromozomů (telomery) na 3´-konci
+====
+128. degenerovaný genetický kód? 
+-*1 AMK může být kódována více kodony
+====
+129. DNA vazebné motivy proteinů?  
+-*HTH, homeodoména – vazba proteinu do velkého žlábku, zinkový prst a leucinový zip
+====
+130. DNA-polymeráza 
+-*opravná fce podjednotky epsilon
+====
+131. do ceho se preklada geneticka informace
+-*do pořadí aminokyselin v peptidovém řetězci, tj. do primární struktury bílkoviny
+====
+132. Dvoukomponentní regul.systém u prokaryot
+-*skládá se ze senzoru (kinázy), je třeba fosforylace
+====
+133. E.Coli + bakteriofág –jakým způsobem se dostává dovnitř nebo ven (vyjmenovány enzymy) 
+-*Rec BCD, Rec A, RuvC
+====
+134. E.coli
+-*více kružnicových chromozomů a plasmidů
+====
+135.  editace alipoprotenu u člověka?
+-*cytidindeamináza, C je deaminován na U › vznikne STOP kodon › nevznikne cholesterol, jde o měnu fce produktu ztrátou C domény kratšího proteinu
+====
+136. editace RNA? 
+-*zodpovídá Grna = guide RNA
+====
+137. enzym ucastnici se pri Hollidayove rekombinaci parovani homolog. sekvenci Rec BCD
+-*?
+====
+138. Etidiumbromid
+-*interkalační látka
+====
+139. eukaryotický chromozom? 
+-*80S › 60S + 40S (18S)
+====
+140. eukaryotní buňky rostlin mají?
+-*jadernou, mitochondriovou, chloroplastovou s vzácně plazmidovou DNA
+====
+141. Excize viru lambda z bakteriálního chromozomu
+-*enzymy
+====
+142. exonukleázovou aktivitu DNA polymerázy má?
+-*epsilon podjednotka
+====
+143. fáze vzniku pseudogenu
+-*je sekvence DNA, která je podobná genu, ale nedochází k jejímu přepisu do RNA (transkripci). Pseudogeny vznikají zpravidla určitou mutací, a to zejména v oblasti promotoru, regulační sekvence,nebo sice RNA vzniká, ale je následně degradována
+====
+144. fce polymerázy alfa? 
+-*syntéza okazakiho fragmentů a exonukleázová aktivita
+====
+145. fce polymerázy delta?
+-*exonukleázová aktivita + syntéza vedoucího vlákna
+====
+146. Fosfokináza
+-*enzym, který katalyzuje přenos fosfátových skupin z ATP nebo ADP na substrát
+====
+147. Fugu (lat.) 
+-*gen.model –  obratlovec
+====
+148. funkce mRNA čepičky
+-*Prostřednictvím této čepičky se mRNA váže na ribozom,  navíc čepička brání 5´-konec mRNA před hydrolysou buněčnými exonukleazami
+====
+149. Funkce RISC komplexu
+-*ribonkleoprotein (komplex několika bílkovin a molekuly RNA), který se komplementárně váže na cílovou molekulu mRNA a štěpí ji, případně alespoň blokuje její translaci 
+====
+150. galaktózový operon, co se děje, když je k dispozici allolaktóza a není glukóza?
+-*allolaktóza (induktor) se váže na represor, dále vzniká CAP a cAMP ›  tvoří komplex › represor není přítomen › probíhá transkripce, tvoří se indukovatelné enzymy pro rozklad laktózy (s glukózou to nefunguje, protože vysoká koncentrace glukózy brání fci adenylátcykláze, která vytváří cAMP)
+====
+151. DNA-polymeráza má více podjednotek než RNA-polymeráza-ptal se jestli vzniká více chyb při replikaci DNA nebo RNA a co je rychlejší.
+-*Více chyb u RNA-polymerázy – chyba asi 1000x častější.
+====
+152. gRNA-jesi nahrazuje jen jeden nebo víc nukleotidů najednou,nebo jestli to co bude vloženo pomocí gRNA je ovlivneno necim co je navazany na jeho 5’-konci.
+-*
+====
+153. HAT koaktivátor transkripce
+-*HAT = histone acetyl transferases = navozují acetylaci, HATkoaktivátor na DNA se váže nepřímo přes transkripční faktor
+====
+154. HAT, HDAT
+-*způsobují acetylaci a deacetylaci hisotnů
+====
+155. hnRNA vzniká pomocí
+-*katalýzy RNA polymerázy II.
+====
+156. Hodnota Tm, kdy je největší
+-*Když je vysoké procenti GC 
+====
+157. Hognesuv box
+-*
+====
+158. Homologní rekombinace 
+-*Homologní rekombinace (HR) je klíčový proces uplatňující se při opravě dvouřetězcových zlomů DNA, které vznikají působením některých chemických látek, ionizujícího záření, replikací poškozené DNA nebo při rozpadu replikační vidlice
+-Rec BCD
+====
+159. homologní rekombinace je? (recA závislá) viz výše
+-*
+====
+160. Chaperony -  jsou proteiny, které slouží ke sbalování proteinů
+-*
+====
+161. Imunoglobuliny 
+-*tezke a lehke retezce, sestrih subgenu  a premena IgM na IgD
+====
+162. indukovaná transkripce probíhá za účasti jakých faktorů
+-*vzniká po vystavení organismu/bunek mutagenum (které nemá v prezentaci, ani na netu sem nenasla tak bud sem debil ja nebo on :D)
+====
+163. iniciace transkripce u bakterií vazbou na co? 
+-*na promotor
+====
+164. iniciace transkripce u eukaryot? 
+-*+1 startovací nukleotid + Inr element = celé iniciátor – je to součást promotoru
+====
+165. iniciace transkripce?
+-*u prokaryot – vazbou RNA polymerázy na promotor
+====
+166. iniciace translace u prokaryot 
+-*metionin je po vazbě na fmet-tRNAi formylován – blokuje se aminoskupina- a ten je po začlenění deformylován na metionin, který může být z N konce polypeptidu odstraněn
+====
+167. Iniciační kodon u bakterií 
+-*AUG
+====
+168. Intein – sestřih kde 
+-*v proteinu, peptidická vazba
+====
+169. Intein, co to je? 
+-*Vnitřní sekvence proteinů, která je posttranslačně autokatalyticky vyštepována při sestřihu proteinu.
+====
+170. introny druhé skupiny? 
+-*vyžadují interní A nikoli externí G a proteiny
+====
+171. introny první skupiny? 
+-*vyžadují externí G, in vivo nutná účast maturázy
+====
+172. izotopická exkluze? 
+-*je aktivován pouze jeden z možných typů lehkých řetězců: kapa nebo lambda, vznik monospecifické protilátky
+====
+173. ja vzniká vlásenka
+-*Palindromatickou sekvencí
+====
+174. jak byla dokázána semikonzervativní replikace
+-*14N, 15N, ultracentrifugace v hustotním gradientu CsCl,… 1958
+====
+175. jak dochází k iniciaci translace? 
+-*prokaryota – IF faktory, vazba SD na 3‘ 16S rRNA – AUG se dostává do místa P – tedy iniciace přímo na iniciační kodon, eukaryota – na čepičku se vážou IF, je vyhledán kodón pro Met, uvolní se iniciační faktory a připojí se podjednotka 60S
+-*u prokaryot přímona iniciační kodon, ekaryota-naváže se na 5´konci a hledá iniciační kodon
+====
+176. Jak dochází k přeměně IgM z membránové na sekretovanou formu? 
+-*končí transkripce na 1. terminátoru › látka neobsahuje hydrofobní AMK a uvolňuje se z buňky na úrovni transkripce
+====
+177. Jak je čtena mRNA 
+-*Mediátorová RNA (messenger RNA) 
+====
+178. jak je ovlivňována síla promotoru? 
+-*zesilovači transkripce
+====
+179. Jak je průměrně velký bakteriální gen
+-*šest až osm tisíc genů (0.6-10Mb)
+====
+180. Jak je velký prokariotický gen (0.6-10Mb)
+-*
+====
+181. Jak může dojít k nějaké mutaci.
+-*Zmena primární struktury nukleové kyseliny
+inzerce, delece, 
+====
+182. jak může transpozon s(proto) onkogenem ovlinit buněčné dělení
+-*?
+====
+183. Jak můžou retroviry způsobit rakovinné bujení
+-*Transdukce onkogenu akutne transformujícími retroviry, Inzercní aktivace protoonkogenu pomalu transformujícími retroviry
+====
+184. Jak nasedne AK na tRNA 
+-*pomocí tRNA,  vzniká aminoacylsyntáza, aminoacyligáza,
+====
+185. jak probiha proteosynteza v organelach?
+-*z genu jak jadernych tak i organelovych
+====
+186. Jak působí onkovirus 
+-*U onkovirů se cizorodý úsek DNA začlení do genomu hostitelské buňky
+====
+187. jak působí p53
+-*Protein, který aktivuje oblast na DNA p21 – když se p53 aktivuje, tak se zastaví dělení.
+====
+188. Jak se přenáší transpozon Tn3
+-*Replikativní transpozicí.
+====
+189. jak vycleneni viru z hostitelskeho genomu 
+-*excizi
+====
+190. Jak vznika polygenni mRNA
+-*jedna její molekula vzniká přepisem vetšího počtu genu
+====
+191. jak vzniká vlásenka se smyčkou? 
+-*palindomatická sekvence, která má vloženou nepalindormatickou
+====
+192. jaká báze je nejčastěji v telomerách?
+-*G
+====
+193. jaka cast polIII je zodpovedna za reparaci DNA 
+-*epsilon
+====
+194. jaká DNA je v rostlinných buňkách
+-*plastidová
+====
+195. Jaká DNA se vyskytuje v mitochondriích a jak je velká? 
+-*kružnicová i lineární, 16kb, 37 genů
+====
+196. jaká je fce RNA polymerázy I? 
+-*syntéza pre-rRNA
+====
+197. jaká je fce RNA polymerázy III? 
+-*syntéza pre-tRNA a 5S-RNA
+====
+198. Jaká mutace se projeví po replikaci u potomstva, když se při replikaci vloží chybná baze kvůli tautomerii
+-*Genové (bodové) mutace
+====
+199. jaka polymeraza je u trnaskripce eukaryot
+-*DNA polymer,RNA pol I/II/III
+====
+200. jaké enzymy se účastní začlenění fágového genomu do chromozomu pomocí místně specifické rekombinace? 
+-*integrál, integrační faktor hostitele, excizionáza
+====
+201. jaké jsou eukaryotní geny
+-*složené
+====
+202. Jaké látky aktivují tyrozinkinázu
+-*Po navázání signální molekuly se vytvoří polypeptidový dimer a tím se aktivují tyrozinkinázové části receptoru
+====
+203. Jaké mají motivy regulační oblasti – proteiny 
+-*leucitový zip
+====
+204. Jaké pořádí nukleotidů(?) má antisense RNA 
+-*komplementární k té normální mRNA 
+====
+205. jaké proteiny se účastní počáteční fáze homolgní rekombinace? 
+-*RecBCD
+====
+206. jaké rna obsahují intorny 
+-*pre-mRNA
+====
+207. jaké sekvence ohraničují introny?
+-*(5‘ GU – AG 3‘)
+====
+208. jaké subgeny jsou u těžkého řetězce – 
+-*L, V,C,J,D
+====
+209. Jako aktivátor transkripce působí: 
+-*HAT, prostřednictvím transkripčních faktorů vázaných na DNA
+====
+210. jakou fci má cAMP – 
+-*tvorí kompex s CAP(induktor transkripce)
+====
+211. jakou fci má HAT? 
+-*(koaktivátor transkripce)
+====
+212. jakou fci má p53, kromě teho, že zastavuje buněčný cyklus? 
+-*(stimulace apoptózy, stimulace reparaceDNA) – iniciace transkripce
+====
+213. jakou fci ma sigma faktor. – 
+-*pomocí něho RNA polymeráza rozeznává promotory pro geny kódující proteiny (indukovatelné teplem)
+====
+214. Jakou roli má RISC při RNA interferenci
+-*rozštěpí cílové mRNA, způsobí rozdělení krátké dvoušroubovice siRNA
+====
+215. jaký enzym je u excizní bázové reparace – 
+-*DNA glykosyláza, 5´-AP endonukleáza, DNA polymeráza I/ß
+====
+216. Jaký enzym působí na rozklad Hollidayova spoje 
+-*(RuvC) – Rus-protein
+====
+217. Jaký enzym transkribuje tRNA
+-*?
+====
+218. Jaký enzym způsobuje vydělení fága lambda z genomu–
+-*excizionáza
+====
+219. jaký genom má HIV – 
+-*diploidní RNA
+====
+220. Jaký genom odpovídá Fugu rubripes (na výběr kytky, obratlovci...)
+-*?
+====
+221. Jaký je genom mitochondrií –
+-*37 genů, 16 569bp u člověka
+====
+222. Jaký je následek zařazení báze v nestabilní tautomerní formě (nebo tak nějak) (na výběr substituce, delece, inzerce...)
+-*?
+====
+223. Jaký je nejčastější konec... a teď nevím, jestli u telomer nebo transpozonů :) (na výběr různé druhy repetic, opakování bazí...)
+-*u telomer:TTAGGG T2A1G3 5´-GGGATT 3´ 
+====
+224. jaký je rozdíl mezi startovacím nukleotidem a iniciačním kodonem? 
+-*(iniciační kodon iniciuje translaci, startovací nukleotid transkripci)
+====
+225. Jaký je správný vzorec na výpočet L 
+-*(různé kombinace L=T+W, L=T/W....)
+====
+226. Jaký je začátek replikace u chromozomu oriC u E. coli – 
+-*délka 245bp, L,M,R jsou 13bp sekvence GATCTNTTNTTTTT, 1,2,3,4 jsou 9bp sekvence TTATNCANA
+====
+227. jaký typ NK má HIV? 
+-*(RNA pozitvní)
+====
+228. jak se reparují pyrimidinové dimery? 
+-*(fotoreaktivací)
+====
+229. ještě jednou: co probíhá u prokaryot rychleji? replikace bo transkripce?
+-*?
+====
+230. k cemu je Shine-Dalgarnova sekvence? 
+-*(k navazani mRNA na 3´ konec 16SRNA 30S podjednotky) – u bakterií k nalezení start kodonu
+====
+231. k čemu je čepička na 5‘ konci? 
+-*(ochrana před štěpením ribonukleázami + rozpoznání 5‘ mRNA pro translaci › čepička je rozpoznána proteinem › nasedne ribozom)?
+====
+232. k čemu je polyA konec? 
+-*(signalizuje, že je gen kompletně přepsán) , hotový 3´konec mRNA
+====
+233. k čemu je ró faktor? 
+-*(pohybuje se po mRNA, rozmotává hybridní DNA-RNA, připojuje se k sekvenci terminátoru – terminace transkripce a uvolnění RNA polymerázy i faktoru z mRNA)
+====
+234. k čemu je sigma faktor? 
+-*(váže se na RNA polymerázu, umožňuje její navázání na promotor) iniciace transkripce
+====
+235. k čemu se váže transkripční faktor TFIID + fce? 
+-*(TATA box = Hognesův box, obsahuje TBP protein a ten způsobuje ohyb DNA, je to důležité pro navázání RNA polymerázy II na promotor)
+====
+236. k jakým změnám signálu může dojít během jeho přenosu signální kaskádou
+-*?
+====
+237. k přeskupení subgenů dochází na úrovní  
+-*DNA?
+====
+238. K replikaci DNA se používá mimo jiné: 
+-*DNA-polymeráza, DNA-ligáza (v ostatních odpovědích i RNA-polymeráza=blbost)nukleáza
+====
+239. Kalmodulin –
+-*je aktivovan Ca inoty?
+====
+240. Kam patří HIV–
+-*retroviry
+====
+241. Kam se připojuje polyA – 
+-*3´poly(A) na mRNA 3´konec hnRNA
+====
+242. kam se vaze kortisol
+-*(primo na DNA) ?
+====
+243. kam se vaze TFIID, HAT, co ma HAT za funkci a kde
+-*(na  TATA box, koaktivator transkripce)
+====
+244. kam se vazi transkripcni faktory(maly /velky zlabek/3konec/5konec)
+-*?
+====
+245. Kam se váže FIIH (na výběr P.box, H. box, polymeráza I a III)
+-*polymeráza II
+====
+246. kde je nejrychlejší replikace
+-*?
+====
+247. kde probiha sestrih u E.C
+-*(jadro,jadermo cytoplasma,ER)
+====
+248. kde probíhá sestřih –
+-*po vazbě aktivátoru na RNA, primární transkript hnRNA eukaryota
+====
+249. kde receptory sprazene s G-proteiny 
+-*(transmembranove) ?
+====
+250. kde všude mají rostliny NK
+-*?
+====
+251. Kde vzniká polygenní mRNA – 
+-*u prokaryot
+====
+252. kde začíná a kde končí transkripční jednotka? 
+-*?
+====
+253. kdy byl poprvé komletne vyřešen genetický kód–
+-*1966
+====
+254. kdy byla popsána struktura DNA? 
+-*1953
+====
+255. Kdy bylo dokázáno, že DNA je nositelkou gen. Inf. – 
+-*1944? 
+====
+256. Kdy bylo experimentálně dokázáno, že přenos informace z R do S buněk zprostředkovává DNA–
+-*1944
+====
+257. Kdy dochází k atenuaci tryptofanového operonu? 
+-*Když se předčasně ukončí transkripce v nadbytku tryptofanu ?
+====
+258. Kdy je hodnota Tm nejvyšší?  
+-*(G-C 75%) ?
+====
+259. Kdy může dojít k nekontrolovatelnému dělení buněk 
+-*(Varianty s různou funkcí p53 a p21, pak něco s transkripcí...) ?
+====
+260. kdy se exemlarne dokazala strikturra dna
+-*(rozmezi let 1940-1950..)
+====
+261. kdy se váže sigma faktor na RNA polymerázu? 
+-*(na začátku – iniciace transkripce, po přepisu 5 nukleotidů se uvolní a paxe zase váže při terminaci)?
+====
+262. Kdy se vyštěpuje D a J , na jaké úrovni 
+-*(DNA) asi správně
+====
+263. Když je geneticky upravená rostlina označena jako RB: 
+-*(tak je odolná proti hmyzu, herbicidům, pleveli a něco…)?
+====
+264. Když je přítomná laktóza a nepřítomná glukóza, tak se bude transkribovat gen pro enzym zpracovávající laktózu protože: cAMP+CAP se váže na promotor a represor není přítomen asi
+-*
+====
+265. kedy bolo exp. dokazane, ze prenos gen. informacie je sprostredkovany DNA 
+-*40-te az 50te averyho testom)
+====
+266. Koaktivátor transkripce je? 
+-*(HAT; koaktivátor na DNA se váže nepřímo přes transkripční faktor)
+====
+267. Kód iniciačního kodonu
+-*(AUG)
+====
+268. kolik % genů je přepisováno
+-*?
+====
+269. Kolik % produktů gen.exprese připadá na proteiny? 
+-*40% asi
+====
+270. Kolik genů má člověk v mitochodrii
+-*37
+====
+271. Kolik genů má lidský genom – 
+-*26 500
+====
+272. Kolik hypervariabilních domén z kolika aminokys. je ve variabilní doméně lehkého řetězce – 
+-*5-10 AK
+====
+273. Kolik je % transkribujících se genů v geonomu člověka?  
+-*33%
+====
+274. Kolik je aa – tRNA syntetáz–
+-*20
+====
+275. Kolik je bifunkčních kodonů(1,2,3,64)
+-*UGA, UAG, AUG
+====
+276. Kolik je čtecích rámců u ssDNA : 
+-*(1, 3, 6, podle počtu bazí)
+====
+277. Kolik je mutací v mitochondriích vzhledem k jaderné DNA
+-*?
+====
+278. Kolik je řádově V-subgenů na lehkém řetězci (stovky - 150) – 
+-*30-70
+====
+279. kolik je STOP kodonů (2+1) – 
+-*UAA, UAG, AUG
+====
+280. kolik je terminacnich kodonu 
+-*2+1 to isté ako280.
+====
+281. Kolik je t-RNA v mitochondriich 
+-*(22)
+====
+282. Kolik kodonů bakterie 
+-*(64)
+====
+283. kolik kodonů je v mitichondriích
+-*(64), 
+====
+284. Kolik kodonu maji prokaryota 
+-*64
+====
+285. kolik má asi člověk genů
+-*25 000
+====
+286. jak vypada pocatek u E.C
+-*rovnaký počet počátků 1 replikon o velikosti 4200kb
+====
+287. kolik procent produktů genové exprese připadá na proteiny? 
+-*asi 40
+====
+288. kolik t-RNA je v buňce? 
+-*(tolik,  kolik je antikodonů) 22-45 molekulárních druhů (tj. antikodonů)
+====
+289. Kolísavé párování bází: 
+-*páruje se část antikodonu s některým písmenem kodonu podle pravidel o kolísavém párování bází
+====
+290.  kolísavé párování bází? 
+-*(je na 5‘ antikodonu = první báze antikodonu, tzn. část antikodonu se páruje s jinou bází dle pravidel kolísavého párování bází)
+====
+291. kolik je trasnestreifikací při sestřihu
+-*2
+====
+292. Konzervativní transpozice 
+-*vyštěpení transpozonu bez replikace a přenos jinam
+====
+293. Korektorkou aktivitu RNA-polymerázy má: 
+-*epsilon
+====
+294. Korektorská aktivita RNA-polymerázy je ve směru 
+-*3´-5´
+====
+295. korektorská aktivta DNA polymerázy u prokaryot?
+-*(epsilon podjednotka(monomer), 3-5 exonukleázová aktivita)
+====
+296. korektorskou aktivitu polymerazy III.ma – 
+-*epsilon podjednotka
+====
+297. kortizol se jako signální molekula váže? 
+-*(receptor v cytoplasmě, pač je to steriodní tedy lipofilní hormon)
+====
+298. která (podjednotka) DNA-polymerázy reparuje DNA? 
+-*(beta – syntetizuje krátké řetězce při reparaci)
+====
+299. která DNA polymeráza katalyzuje syntézu  nového řetězce a ok. fragm?
+-*(DNA polymeráza III – pozn. má gama a beta podjednotku)
+====
+300. Která podjednotka DNA-polymerázy reparuje DNA: 
+-*beta-podjednotka
+====
+301. která podjednotka katalyzuje replikaci u eukaryot? 
+-*(polymeráza alfa + primáza + polymeráza delta)
+====
+302. která podjednotka, resp. která polymeráza eukaryotické DNA polymerázy reparuje?
+-*(beta)
+====
+303. ktera polymeraza atalyzuje transkripci strukturnich genu
+-*?
+====
+304. která polymeráza katalyzuje odbourání primerů? 
+-*(DNA polymeráza I)
+====
+305. která polymeráza katalyzuje replikaci u prokaryot? 
+-*DNA pol III
+====
+306. která polymeráza katalyzuje transkripci strukturních genů? 
+-*(polymeráza II - eukaryota)
+====
+307. které části Ig řetězců jsou zodpovědné za vazbu antigenu?
+-*(VDJ) – hypervariabilní oblast ,lehký ř.
+====
+308. které enzymy se podílí na syntéze Okazakiho fragmentů
+-*DNA polymerázy, nukleázy, ligázy
+====
+309. které polymerázy mají exonukleázovou aktivitu? 
+-*(alfa a delta – obě mají 3-5exonukleázovou aktivitu)
+====
+310. ktere sekvence ohranicuji intron  
+-*(GU – AG)
+====
+311. ktere skupiny subgenu jsou soucasti tezkeho retezce Ig L-
+-*VDJC
+====
+312. které subgeny má těžký řetězec
+-*L-VJDC
+====
+313. ktere z nasledujicich sekvenci jsou palindromaticke?
+-*?
+====
+314. ktery enzym katalyzuje nakladani aa na tRNA
+-*?
+====
+315. který enzym katalyzuje nakládání AMK na tRNA?
+-*aminoacyltRNA syntetáza
+====
+316. Který je modelový org. vývojové biologie vzhledem ke známému počtu buněk
+-*?
+====
+317. který virus má segmentovaný genom?
+-*chřipka – je to něco jako několik malých chromozomů
+====
+318. laktózový operon
+-*?
+====
+319. Lehký řetězec imunoglobulinu
+-*chybí D,….
+====
+320. Mezi jaké regulátory patří cAMP : 
+-*cyklický regulátor adenosinmonofosfátu
+====
+321. Množství jaderných genů, které   regulují, prokazují?   genetickou aktivitu mitochondrií
+-*9, 90 asi, 900 nebo 235
+====
+322. mobilizovatelné plazmidy?
+-*lze přenos za přítomnosti konjugativnío plazmidu
+====
+323. Modelový organismus vývojová biologie : 
+-*C.elegans?
+====
+324. modelovým organismem pro genom obratlovců je
+-*?
+====
+325. motivy regulačních proteinů?
+-*HTH, HLH
+====
+326. mRNA je čtená od 
+-*5’-3’ po jednotlivých kodonech
+====
+327. Mutace na genech v mitochodrii
+-*a)mají stejnou/menší/větší četnost jako na genomu
+====
+328. Mutagenní vlastnosti analogů bází spočívají v: 
+-*začleňování do DNA při její replikaci
+====
+329. N terminální úseky histonů jsou modifikovány: 
+-*fosforylací, acetylací, metylací
+====
+330. Na co se váže protismyslná RNA
+-*?
+====
+331. Na co se váže TFIID:
+-*TATA?
+====
+332. Na čem závisí rychlost přepisu? 
+-*V odpovědích pouze vzdálenosti něčeho od něčeho - vybrat
+====
+333. Regulátor SOS odpovědi u E.coli: 
+-*represor LexA
+====
+334. na jakem retezci se syntetizuji Okazakiho fragmeny - 3-5 nebo 5-3?
+-*5´-3´
+====
+335. na jakém řetězci probíhají změny týkající se membránové bo sekretované formy
+====
+336. Na které úrovni dochází k vyštěpení V-D-J z ig řetězce?
+-*DNA
+====
+337. na kterem retezci probiha synteza m-RNA - poz./neg. od 3/5 konce?
+-*neg. od 3´
+====
+338. nadšroubovicové vinutí DNA vzniká
+-*?
+====
+339. Něco jako co způsobuje onkovirus po začlenění do hostit.b.
+-*
+====
+340. neco jako N- terminalni konec polypeptidu je upravovan ...a moznosti byly N-tenimalni peptidaza, N-iniciacni peptidaza a jeste dve ... to jsem nevedela
+====
+341. Něco o směru translace mRNA:
+-*od 5' ke 3' konci
+====
+342. něco s bakteriofágem lambda.. (viriony obsahují lineární dsDNA s kohezními konci, je oktaedrické symetrie)
+====
+343. neco s bakteriofagem-zda vznika konkatemer a jak vypada
+-*?
+====
+344. Něco s editací RNA
+-*?
+====
+345. Něco s galaktózovým operonem - co se děje když je allolaktóza a není k dispozici
+-*?
+====
+346. Něco s glukozou a b – galaktozou při mutaci represoru a operonu, něco s aktivací Crp
+-*?
+====
+347. Něco s receptory s tyrozinkinázovou aktivitou (Jsou tam rozepsané jednotky intra/trans/extra a co která dělá, máš určit správnou variantu)
+-*
+====
+348. Něco ve smyslu: Mějme mutaci genu lac-stále se transkribuje bez přítomnosti induktoru-a ptal se co je zmutovane-jestli ten represor ze se porad vaze na gen,nebo nevaze,nebo DNA polymeraza,nebo jeste neco 
+-*
+====
+349. Nějaká úprava histonů (acetylace, methylace, fosforylace,..)
+-*
+====
+350. Nějaký regulační protein – jestli se váže přímo nebo nepřímo
+-*
+====
+351. Nejrychlejší postup replikační vidlice
+-*bakterie
+====
+352. Nukleozomy 
+-*drží pohromadě pomocí H1
+====
+353. Obrácená repetice (vypsány varianty souborů nukleotidů – vybrat obr.repetici)
+====
+354. odbourávání primerů provádí?
+-*DNA polymeráza I
+====
+355. Onkogeny vznikají:
+-*mutací z protoonkogenů
+====
+356. Oprava špatné báze
+-*rozpoznání glykolázou
+====
+357. Označení BT rostliny znamená:
+-*že rostliny obsahují toxin z bakterií (dalšímožnosti: gen bakterií), který působí proti hmyzu (další možnost proti např.plevelu nebo nevím čemu...)
+====
+358. p53=protein, který aktivuje oblast na DNA p21 – 
+-*když se p21 aktivuje, tak se zastaví dělení
+====
+359. Paradox hodnoty C? u koho je a jak se projevuje
+-*
+====
+360. plazmidy schopné irreverzibilní integrace do hostitelského chromozomu
+-*
+====
+361. Plazmidy, kt.se mohou začlenovat
+-*epizomální
+====
+362. pocet hypervariabilnich oblasti o lehkeho rezetce 
+-*
+====
+363. pocet kodonu u prokaryot
+-*
+====
+364. počet aminoacyl-tRNA syntetáz?
+-*stejně jako počet standardních AMK, tedy 20
+====
+365. počet bifunkčních kodonů je?
+-*3 › jeden iniciační a dva terminační UAG, UGA
+====
+366. Počet genů a tRNA v mitochodriích člověka??
+-*22 a 37
+====
+367. počet genů člověka?
+-*úplná sekvence stanovena 2003- 26 500 genů
+====
+368. Počet hypervariabilních oblastí lehkého řetězce ig a jejich celkový počet aminokyselin2 a 30, 2 a 60, 3 a 30, 3 a 60
+-*
+====
+369. počet kodónů v mitochondriích?
+-*64, ale 4 z nich mají jiný smysl
+====
+370. počet terminačnich kodonu:
+-*3
+====
+371. počet tRNA mitochondrií
+-*22
+====
+372. počet V subgenů lehkých řetězcích je v řádu?
+-*stovek
+====
+373. počet V subgenů v těžkých řetězcích?
+-*1000
+====
+374. podle čeho se přepisuje hnRNA
+-*?
+====
+375. Podle kterého řetězce se kóduje a v kterém směru DNA – nebo mRNA 
+-*podľa 3´- 5´ , podla negativneho retazca
+====
+376. Pokud je více transpozonu tak co to muze vytvorit-
+-*jsou to stejne sekvence tak jsem zaskrt ze se oblast mezi nimi muze deletovat.
+====
+377. posttranslační úpravy?
+-*(kotranslační, posttranslační, sestavování, samosestavování)
+====
+378. Pri alternativnim sestrihu jak se rika jednotce ktera muze a nemusi byt prepsana-
+-*jeis alternativni exon,nebo alternativni intron a jine podivnosti
+====
+379. pri replikaci faga lambda vznika–
+-*konkatemer 
+====
+380. primáza?
+-*enzym, katalyzující syntézu RNA primerů bez potřeby 3OH konce
+====
+381. proč funguje samosestřih
+-*ribozymova aktivita
+====
+382. Proč vzniká přímá repetice po začlenění traspozonu
+====
+383. prokaryotický ribozom?
+-*70S › 50S (5S a 23S) + 30S (16S)
+====
+384. Promotorová oblast bakterií
+-*30 Hognesům, - 10 Priwbnovův
+====
+385. promutagen-
+-*je latka ktera pomaha premene na mutagen, se premenuje na mutagen=to je asi spravne...a jeste nejake dve nesmyslne odpovedi...
+====
+386. Protein p21 – funkce
+====
+387. Protenkináza, receptor když má zda je intracelulární, transmembránová, extracelulární?
+-*Extracelularni
+====
+388. Prozajištění fungování mitochodtií je vyžadováno:
+-*90genů lokaliz. v jad.genomu
+====
+389. prumerna velikost genomu prokaryot
+-*asi 1Mb
+====
+390. průměrná velikost genu u prokaryot
+-*asi 1 kb
+====
+391. přeskupení genů pomocí V-J somatické hybridizace?
+-*u lehkého řetězce, mezerníky 12/23, vznikají nepřesná spojení
+====
+392. přeskupování genů pro těžký řetězec?
+-*1. som. rek. D-J, 2. som. rekombinace V-DJ
+====
+393. Při alternativním sestřihu-jesi se sestřihuje jen gen jednoduchý,složený,oba...
+====
+394. Při izotypické exkluzi:
+-*je aktivován pouze jeden z lehkých řetězců kapa nebo lambda
+====
+395. Při pseudoreverzi:
+-*se částečně obnovuje funkce mutantního genu a na výsledný produkt to nemá vliv
+====
+396. při replikaci fága lambda vzniká?
+-*konkatemer?
+====
+397. Při replikaci otáčející se kružnicí–
+-*1 řetěz. zlom endonuklaázou
+====
+398. Při sestřihu mRNA se:
+-*váže guanin na 5 konci intronu s adeninem v místě sestřihu
+====
+399. přibližná délka bakteriálního genu
+-*1kb
+====
+400. Přibližná velikost prokar. genu
+-*1kb 
+====
+401. pseudogeny : 
+-*jsou bez exonů, jen introny, s promotorem. 
+====
+402. radove kolik je V oblasti lehkeho retezce kodovano v lidskem genomu
+-*(150)
+====
+403. Receptory G-proteinů –
+-*transmembranove, povrchove
+====
+404. Receptory spřažené s G-proteiny a jejich aktivace:
+-*Aktivace GTP
+====
+405. regulace laktózového operonu
+-*inducibilní operon regulovaný negativně, strukturní geny jsou přepisovány jan za přítomnosti laktózy a nepotomnosti glukózy
+====
+406. Regulační oblasti DNA obsahují:
+-*krátké sekvence obrácených opakování - palindromy
+====
+407. reparace pyrimidinovych dimeru (fotoreaktivaci)
+-*jedná se o mutaci indikovanou UV zářením..Zpusobuje tvorbu pyrimidinových dimeru( nejčastěji T-T, méně C-T nebo C-C). v rámci jednoho vlákna DNA vytvořením cyklobutanového kruhu -> změna 3D struktury DNA-> inhibice replikac a transkripce.
+-DNA fotolysa opravuje pyrimidinové dimery, energii získává z viditelné části světla
+-enzym poškozené místo pozná, opraví a poté disociuje
+====
+408. replikace plazmidů otáčející se kružnicí, který enzym je zodpovědný za syntézu primeru? (nedochází k syntéze primerů, ale v místě ori se přeruší řetězec Rep-proteinem a vznikne volný 3OH konec)
+-*
+====
+409. replikace probíhá nejrychleji u bakterií
+-*
+====
+410. represe Lac operonu
+-*(jak to vypadá když je v buňce laktóza a není glukóza tak transkripci prebieha, nenaviaže sa represor ale naviaže sa cAMP), 
+====
+411. RISC protein-
+-*při RNA interferenci degraduje jednovláknovou RNA
+====
+412. RNA-polymeráza
+– sigma faktor se podílí na iniciaci
+-RNA polymeráza (RNAP) je enzym, který katalyzuje syntézu RNA podle vzoru - příslušné části řetězce DNA (či vzácně podle jiné [RNA]). Díky tomuto enzymu vznikají mezi danými nukleosidtrifosfáty (ATP, CTP, GTP, UTP) fosfodiesterové vazby, čímž se spojují do řetězce několika tisíc nukleotidů. RNA polymeráza hraje klíčovou roli v procesu transkripce.[1]
+-*RNA polymeráza udělá chybu jednou za 104 nukleotidů, tedy asi 1 000× častěji, než DNA polymeráza (po proofreadingu). Regulaci transkripce zajišťují zejména tzv. transkripční faktory, které se mnohdy vážou na RNA polymerázu.
+====
+413.	Rozklad Hallidayovy struktury zprostředkovává 
+-*resolvázy RuvC a RuvG
+====
+414. rozpoznání místa ori?
+-*(dnaA proteiny)
+====
+415. Rychlost replikační vidlice
+-*nejvyšší bakterie
+====
+416. samosestřih
+-*autokatalytický proces nevyžadující proteiny in vitro, RNA schopná samosestřihu = RIBOZYM
+====
+417. sekvence antisense RNA
+-*Antisense RNA (aRNA) je RNA, která je komplementární k určitému řetězci mRNA. Znamená to, že místo adeninu má antisense RNA uracil, místo uracilu adenin, místo guaninucytosin a místo cytosinu guanin. Například k řetězci „AGUCAUG“ je komplementární řetězec „UCAGUAC“.
+====
+418. Sekvence ohraničující introny
+-*GU – AG
+====
+419. Sestrih u E.coli 
+-*pomoci spec. Endonukleazy..
+====
+420. Sestřih
+-*2-5, vazba A z větvícího se místa s G na 5‘ konci exonu, 2 transesterifikace
+====
+421. sigma podjednotka - kdy se vaze na zbytek jednotky
+====
+422. signalni kaskada 
+-*dojde k rozdeleni signalu na vice mist
+-*Postupný přenos signálu prostřednictvím řetězce proteinových molekul, realizovaný kupř. fosforylací a defosforylací
+====
+423. sílu promotoru závisí na
+-*zesilovači transkripce
+====
+424. slozene transpozony 
+-*obsahují dvě IS sekvence, z nichž jedna kóduje funkční transponázu (jedna může být nefunkční)
+====
+425. Složky u replikace – ne RNA polymeráza, DNA helikáza, nebo ligáza?
+====
+426. směr korektorské aktivity DNA pol. při replikaci
+-*3'-5'
+====
+427. součástí prokaryotické RNA polymerázy je:
+-*alfa, beta a sigma podjednotka – ta podmiňuje vazbu k promotoru a po rozpoznání počátku transkripce se odpojí
+====
+428. specificke transkripcni faktory – 
+-*Transkripční faktory (TF) jsou proteiny, které se spolupodílejí na iniciaci transkripce
+-*promotor – část DNA v blízkosti genu (RNA sekvence bazí, které mají specifické vazební body pro RNA-polymerázu), která se podílí na regulaci jeho exprese (např. TATA box, CAT box) 
+-*síla promotoru – schopnost promotoru iniciovat transkripci, spočívá v afinitě oblasti promotoru k RNA-polymeráze. Na síle promotoru závisí frekvence transkripce přilehlého genu. Silné promotory mají sekvence v oblasti –35 a –10 (Pribnow box) shodné s konvenční sekvencí, čím víc se od konvenční sekvence odlišují, tím je promotor slabší. 
+-*operátor – regulační oblast na DNA, která leží mezi promotorem a počátkem transkripce. Navázání aktivního represoru na operátor blokuje transkripci a tím i expresi strukturních genů. 
+-*enhancer – sekvence DNA, která váže aktivační faktory 
+-*silencer – sekvence DNA, která váže inhibiční faktory 
+====
+429. ss mRNA je stejná jako (na výběr -DNA, nepřekládaná DNA...)
+====
+430. Struktura DNA byla experimentálně dokázána? 
+-*1944, averyho testem
+====
+431. supresorsenzitivní mutace je?
+-*mutace, která může být „vynulována“ supresorovou mutací
+====
+432. Synonymni kodony
+-*jsou kodony které kodují jednu aminokyselinu. Často se liší jen ve třetí basi nukleotidového tripletu; některé druhy tRNA mohou rozpoznávat několik těchto kodonů
+====
+433. synonymní mutace znamená? 
+-*nemění smysl kodonu a nezpusobuje záměnu aminokyseliny
+====
+434. syntéza okazakiho fragmentů u prokaryot
+-*nakládání DNA polymerázy III na opožďující se řetězec,beta svorka stabilizuje a gama komplex nakládá beta svorku na alfa podjednotku
+====
+435. telomeráza doreplikovává? (3‘ konce matricového vlákna podle templátu, který je její součástí, poté se doreplikuje část vlákna nového – vznikne volná 3OH skupina  a dosyntetizuje se dceřinné vlákno › prodlužuje tedy 3‘ konce matrice aby se mohl dosyntetizovat 5‘ konec dceřinného s okazakiho frgmenty)
+====
+436. telomeráza? (reverzní transkriptáza – syntéza 3’konců DNA dle RNA)
+-*Telomeráza (TERT) je enzym pracující jako reverzní transkriptáza, který je schopen prodlužovat samotné konce eukaryotickýchchromozomů (tzv. telomery). Je to velký ribonukleoproteinový komplex (tzn. komplex složený z RNA a bílkovin) o molekulové hmotnosti kolem 500 kDa. 
+====
+437. terminace s ro faktorem
+-*Je to protein, určitá jehož koncentrace je třeba k zakončení transkripce na některých terminátorech. Tato pozorování zatím nebyla potvrzena in vivo.
+====
+438. TFIID – bazalny transkripcny faktor
+-*TATA box = Hognsův box, obsahuje TBP protein a ten způsobuje ohyb DNA, je to důležité pro navázání RNA polymerázy II na promotor
+====
+439. transesterifikace sestrihu-
+-*3´-OH exogenního G atakuje fosfodiesterovou vazbu v 5´-místě sestřihu; ta se štěpí, GMP se připojuje na  5´-konec intronu
+====
+440. transpozomy se dvema stejne orientovany repeticemi.zda u nich delece substituce ci inzerce)
+-*
+====
+441. Transpozon konstitutivni?Nebo tak nejak se jmenuje – jak se vyznacuje,nereplikuje se
+-*
+====
+442. tRNA rozpoznává
+-*jednotlivé AMK  
+====
+443. tyrosinproteinkinázy
+-*enzymovou aktivitu má intracelulární doména
+====
+444. u ceho probiha alternativni sestrih(strukturni geny/geny viru/geny viru a bakterii..)
+-*u eukaryotní RNA, vzniká mRNA
+====
+445. u kterých organismu potupuje relikacni vidlice nejrychleji –
+-*bakterie
+====
+446. U neregul.děj sav. buňky když 53 ……p21 (takovým způsobem hlídá děl.buňky )
+-*Protein p53 vyvolává transkripci genu proteinu p21 a ten zastavuje buněčný cyklus
+====
+447. upravené pseudogeny? 
+-*vznikají reverzní transkriptázou, nemají introny a ani promotor a obsahují poly A, pač vznikly přepisem mRNA
+====
+448. v jaké fázi dochází k přeskupení L-V subgenů s J
+-*(na úrovni DNA, před transkripcí)
+====
+449. Vazba proteinu na mRNA, zda se tím zvýší či sníží možnost degradace mRNA
+-*
+====
+450. vazbou regulačního proteinu na mRNA se rychlost degradace? 
+-*(zvýší)
+====
+451. Včlenění sekvence něčeho (asi retrovira nebo lambda) do DNA E coli… Jak se uskutečňuje- jakými enzymy a koho
+====
+452. velikost prokaryotickeho genu
+-*průměrná velikost genu je 1.25kb
+====
+453. Vyber iniciační kodon= start kodon
+sekvence,při kteréribozomzačnepřekládatsekvenceRNAdoaminokyselin. (AUG)
+====
+454. vyberte mutaci
+-*inzerce, delece, methylace, substituce,
+====
+455. vybrat z latinských názvů modelové org.?
+-*E. coli, Saccharomyces, Caenorhabditis, Drosophila, Fugu, Arabidopsis a Mus mutulu
+====
+456. vyčlenění viru z hostitelského genomu?
+-*excizí
+====
+457. Vyjmenované všechny histony, vybrat, který nepatří? nepochopila jsem otazku, ale v moznostech bylo H1(nepatří) ,H2A (patří), H3,H4
+-*Histony H2A, H2B, H3 a H4 tvoří vždy ve dvou kopiích oktamery, kolem nichž se obtáčí dvojšroubovicová DNA; tento útvar se nazývá nukleozom. Histon H1 je přítomen v menším množství než ostatní histony, a ačkoli je též vázán na DNA, není součástí nukleozomů. Histony se tak podílejí na uspořádání DNA v eukaryotickém chromozomu do vlákna vyššího řádu.
+====
+458. Vystřih E.coli. bakteriáfaga lambda, jakým enzymem, exicionáza………přednáška 9 z mutace, poslední
+-*
+====
+459. Vystřihávání intronů – lasovité struktury, co se kam váže?
+-*2´-5´ G-A …G je na 5´konci A v místě větvení
+====
+460. vznik membránové formy IgM
+-*transkripce končí na druhém terminátoru
+====
+461. Vznik pseudogenu
+-*dochází k sestřihu a polyadenylaci 
+====
+462. Vzorec pro celkové číslo vinutí
+-*L=T+W
+====
+463. Z čeho se skládá RNA-polymeráza
+-*ve všech variantách stejné podjednotky, jen rozdíly funkce u sigma jednotky
+====
+464. zesilovace transkripce-
+-*se váží na promotor
+====
+465. Zralá B-buňka vytváří: 
+-*pouze jeden typ protilátky
+====
+466. Operátor
+-*regulační oblast na DNA, k níž se váže reg. protein/represor
+====
+467. Epizomální plazmidy
+-*začleňují se 
+====
+468. ssDNA
+-*3 čtecí rámce
+====
+469. dsDNA –
+-*6 čtecích rámců
+====
+470. Fce komplexu RISC v rámci RNA interference – rozpoznání a degradace ssRNA (např.mRNA), jejichž sekvence je stejná jako u siRNA (ale tohle jsme na 100% nevěděli ?).. je to něco s siRNA
+-*
+====
+471. Geneticky modifikovaná rostlina BT obsahuje
+-*GEN kódující bakteriální toxin, který zabezpečuje osolnost proti hmyzu
+====
+472. Transkripční jednotka u bakt. je vymezena (???)– vlevo startovacím nt a vpravo terminátorem
+-*
+====
+473. Okazakiho fragmenty jsou – 
+jsou úseky nově replikované DNA, které se tvoří na tzv. opožděném řetězci, a posléze jsou po odstranění RNA primeru pospojovány pomocí DNA ligázy v kontinuální řetězec
+====
+474. Na koncích mobil. elementů (transpozonů) se obvykle nacházejí
+– obrácené repetice
+====
+475. Vlásenka 
+– obrácená repetice nepřerušená dalšími nt
+-Vlásenka je dvoušroubovicová struktura vzniklá párováním komplementárních nukleotidových sekvencí na témže DNA nebo RNA řetězci.
+-vlásenka se tvoří na jednořetězcové DNA (RNA
+====
+476. Var. obl. lehkého ř. protilátky obsahuje (???)– 3 hypervariabilní obl. dohromady tvořené asi 30 AMK
+====
+477. Sousední nukleozomy jsou vzájemně spojeny
+-*H1
+====
+478. Antisens RNA přepisovaná z konkrétního úseku dsDNA je komplementární k mRNA
+====
+479. Mezi mutace nepatří
+-*methylace bází v sekv. DNA
+====
+480. Alternativní sestřih
+-*složené geny
+====
+481. Alosterický efektor může navodit
+-*konformační změnu reg. proteinu
+====
+482. Alter. sestřih příslušného genu vede
+-*ke vznikku proteinů, kt. mají PODOBNÉ fce
+====
+483. Samosestřih: primární transkript 
+-*MÁ vlastnosti ribozymu a může probíhat BEZ účasti proteinového enzymu (takhle by to mělo být dobře)
+====
+484. Během iniciační fáze translace se – u bakt. inic. komplex tvoří přímo na sekvencích ohraničujících AUG
+====
+485. Supresorová tRNA
+-*má antikodon, kt. se páruje s terminačním kodonem
+====
+486. Induktor 
+-*negativní alosterický efektor a pozitivní regulátor
+====
+487. Kopresor –
+-*pozitivní aloster. efektor a negativní regulátor
+====
+488. cAMP
+-*pozit. alosterický efektor a pozit. regulátor
+====
+489. Represor
+-*neg. aloster. efektor, neg. regulátor
+====
+490. HIV- 
+-*obsahuje  RNA pozitivní nukleové kyseliny
+====
+491. Promutagen 
+-*měnící se na mutagen
+====
+492. HIV patří mezi
+-*retrotranspozony a jeho DNA!!! (to byl často chyták, ptže HIV je jinak z RNA, ale přepisuje se do DNA a poté se teprve začleňuje) se začleňuje do genomu hostitele
+====
+493. Proteosyntéza v organelách je zajištěna
+-*genom organel i jaderného genomu
+====
+494. Přesmyk imunoglobulinu z třídy M na D ???
+====
+495. Orizom 
+-*struktura počátku replikace u kvasinek, jedná se o soubor proteinů
+====
+496. Korekturská aktivita DNA polymerázy 
+-*ve směru 5–3, jednotka epsilon
+====
+497. Syntézu hnRNA katalyzuje
+-*RNA-pol II
+====
+498. Přímé repetice v cílovém místě po začlenění transpozonu
+-*jsou důsledkem působení reparačních mechanismů po začlenění transpozonu
+====
+499. Vyčlenění genomu fága lambda
+-*díky enzymu excizionáza
+====
+500. Nt sekvence mRNA vytvořená přepisem z urč. úseku genomové dsDNA je stejná jako (nehledě na T--U) 
+-*sekvence kódujícího ř. DNA tohoto úseku (s výjimkou úseku kódujícího signální sekvenci
+====
+501. Bakteriální chromozom se nachází
+-*vlevo (proti směru transkripce) od startovacího nt
+====
+502. Indukovatelná trankripce u eukaryot vyžaduje 
+-*obecné i indukovatelné specifické transkripční faktory
+====
+503. Rozvolnění komplexu DNA-histony během inic. transkripce ¨
+-*díky acetylaci histonů pomocí HAT
+====
+504. Paradox hodnoty C 
+-*u eukaryot množství genomové DNA neodpovídá celkové komplexitě organismů
+-*neplatí pro prokaryotu
+====
+505. Onkogenní retrovitry mohou vyvolat neregulovaný růst buněk např. 
+-*přenesením (proto)onkogenu z jedné buňky do jiné
+====
+506. L=T+W – jedná se o parametry nadšroubovice (celkové vinutí)
+-*L= celkové číslo vinutí, celkový počet závitu či překřížení jednoho řetězce druhým v nadšroubovici
+-*T= dvoušroubovicové číslo, počet závitu či překřížení jednoho řetězce druhým v dvoušroubovici.
+-*W= nadšroubovicové číslo, počet nadšroubovicových závitů či překřížení dvoušroubovice v nadšroubovici.
+-*T a L jsou kladná čísla, W je záporné když vyjadřuje počet záporných nadšroubovicových závitů, nebo kladné když vyjadřuje kladný počet nadšroubovicových závitů
+====
+507. Těžký Ig řetězec
+-*Subgeny pro těžký řetezec : L-VDJ-C
+-*Gen kódující těžký řetězec se nachází na 14. chromosomu. 
+-*5 typu těžkých řetězců: IgM, IgG, IgA, IgD, IgE
+-*Během vývoje B buněk dochází k první rekombinaci mezi jedním z D genů a jedním z J genů v lokusu pro těžký řetězec. Veškerá DNA mezi těmito geny je z genomu nenávratně vystřižena a odstraněna. Po této D-J rekombinaci následuje podobným způsobem připojení jednoho z V genů ke vzniklému DJ komplexu, čímž vzniká gen VDJ; veškeré geny mezi vybranými V a D geny jsou opět trvale odstraněny. Primární transkript (tj. nesestřižená RNA, dříve, než dochází ke splicingu) vždy obsahuje VDJ oblast a oba konstantní řetězce mí a delta (Cµ a C?; primární transkript tedy obsahuje segmenty V-D-J-Cµ-C?). Tato pre-mRNA je posttranskripčně modifikována přidáním poly (A) konce na 3'-konec mRNA a vystřižením sekvence mezi VDJ segmentem a Cµ řetězcem. Translace této mRNA pak vede k produkci těžkého řetězce imunoglobulinu M.
+====
+508. Konvenční sekvence na 5´ a 3´ konci – 
+-*GU a AG
+====
+509. Sekvence LTR jsou součástí – 
+-*Retrotranspozonů a nevirových retroelementů (LTR= dlouhá terminální repetice)
+====
+510. Homing retro-introny kódují – 
+-*reverzní transkiriptázu a specifickou endonukkleázu
+====
+511. Genet. kód je degenerovaný – 
+-*1 AMK může být kódována více kodony
+====
+512. Přítomnost dvou kopií transpozonu ve stejné orientaci – 
+-*delece úseků DNA mezi kopiemi transpozonů (při obrácené orientaci- inverze úseků)
+====
+513. Mitochondrie čl. mají – 
+-*37 genů
+====
+514. Iniciace transkripce – sigma faktor vs. terminace – NusA protein a Rho faktor (některé termináory jsou nezávislé na Rho faktoru)
+====
+515. V procesu homologní rekombinace vytváří ss zlomy v dsDNA – 
+-*RecBCD protein (má helikázovou a nukleázovou aktivitu, naváže se na konce DNA, pohybuje se po DNA a vyhledává specifické sekvence, vytváří ssDNA)  (rekombinace je proces vzniku nové kombinace genů)
+====
+516. Genom HIV začleněný do hostitelské b. se označuje jako – 
+-*Provirus
+====
+517. Transformace buněk R na S (Streptococcus pneumoniae) – 
+-*O.T. Avery, C. Mac Leod, M. McCarty, 1944
+====
+518. Rozklad Hollidayova spoje – 
+-*resolvázy RuvC a RuvG (Hollidayův spoj vzniká při homologní rekombinaci, dojde ke zlomům dsDNA a řetězce se vzájemně provlečou a překříží)
+====
+519. Modelový organismus vývojové biologie –
+-*Caenorhabditis elegans (jednoduchý mnohobuněčný orgs (hlístice, červ)
+====
+520. Modelový orgs. obratlovců – 
+-*Fugu rubripes (ryba)
+====
+521. Mitochondrie obsahují – 
+-*22 genů pro tRNA
+====
+522. Etidiumbromid je – 
+-*interkalační činidlo (vmezeří se mezi dva páry bazí, naruší 3D strukturu › jednonukleotidové inzerce nebo delece)
+====
+523. Počet genů člověka – 
+-*přibližně 20 000- 25 000
+====
+524. Zesilovač transkripce je – 
+-*regulační oblast na DNA v blízkosti promotoru, prostřednictvím vazby transkripčních faktorů aktivuje RNA-polymerázu, čímž zvyšuje účinnost transkripce
+====
+525. Terminační kodony – (=stop kodony, nesmyslné)
+-*UAA, UAG, UGA
+====
+526. Bifunkční kodony – 
+-*AUG,UGA, UAG
+====
+527. Synonymní kodony – 
+-*Odlišné kodony kodují stejnou AMK
+====
+528. Histonový oktamer –
+-*(lze si představit jako válec, kolem něhož se otáčí DNA)
+-*obsahuje po 2 molekulách H2a, H2b, H3, H4, (histon H1 není součástí oktameru, z vnější strany se napojuje na koncové oblasti úseku DNA obtáčející histonový oktamer)
+====
+529. Funkce Shineovy-Dalgarnovy sekvence– 
+-*pouze prokaryota!- navázání mRNA na ribozom (16S rRNA) + iniciační kodon AUG na mRNA se dostává na polypeptidové místo P
+====
+530. Co je regulon?  
+-*Regulon je skupina genů nebo operonů regulovaná stejným regulačním proteinem.
+====
+531. Galaktosový operon–
+-*co se děje když není glukóza a je laktóza: (allolaktóza (induktor) se váže na represor, dále vzniká CAP a cAMP ›  tvoří komplex › represor není přítomen › probíhá transkripce, tvoří se indukovatelné enzymy pro rozklad laktózy (s glukózou to nefunguje, protože vysoká koncentrace glukózy brání funkci adenylátcykláze, která vytváří cAMP))
+====
+532. Kdy probíhá trankripce u zmutovaného lac operonu? 
+-*V případě bodové mutace v genu pro lacI se neváže represor/v případě delece dojde k nadměrné expresi.
+====
+533. Regulace laktózového operonu?
+-*Inducibilní operon regulovaný negativně, strukturní geny jsou přepisovány jen za přítomnosti laktózy a nepřítomnosti glukózy.
+====
+534. Co je atenuátor? 
+-*Specifická oblast vedoucí sekvence DNA, jejíž určitý úsek funguje jako předčasný terminátor transkripce některých operonů. Vyskytuje se např. v tryptofanovém operonu E. coli. (jen prokaryota)
+====
+535. Tn3, jak probíhá transpozice/ přenos tranzpozomu Tn3? 
+-*Replikativní transpozicí. (během transpozice se replikují, u prokaryot)
+====
+536. Dle čeho se kóduje mRNA? 
+-*DNA
+====
+537. Co hlavně způsobuje dimerizaci bází/bp dimery? 
+-*UV záření.
+====
+538. Z čeho a jak vzniká onkogen? 
+-*Vzniká konverzí (mutací) z protoonkogenu a způsobuje neoplasickou transformaci.
+====
+539. Jaké podstupuje procesy pseudogen? 
+-*Je to forma genu, která se nepřepisuje a nepřekládá nebo nemá funkční prostor (chybí promotor), podstupuje sestřih i polyadenylaci (připojení polyA)
+====
+540. Co musí být, aby vznikla vlásenka se smyčkou? 
+-*Palindromatická sekvence (vlásenka) , která má vloženou nepalindromatickou (vlásenka se smyčkou) (=vlásenka se smyčkou vzniká spárováním komplementárních bází v rámci obrácené repetice přerušené jiným úsekem nukleotidového  řetězce)
+====
+541. Sekvence ohraničující introny? 
+-*5‘ GU – AG 3‘
+====
+542. Velikost genu PROKARYOT?
+-*1 gen = 1kbp
+====
+543. Polymeráza u transkripce PROKARYOT?
+-*DNA-dependentní RNA-polymeráza  (matricí je řetězec DNA).
+====
+544. Dvoukomponentní regulační systém PROKARYOT? 
+-*Senzor (kináza) +  fosforylace.
+====
+545. Jaké enzymy jsou přítomny při replikaci DNA u PROKARYOT? 
+-*DNA-polymeráza I+III, DNA-primáza, helikáza, ligáza, SSB-proteiny
+====
+546. Součástí promotoru PROKARYOT je? 
+-*Pribnowův box na -10bp 5´TATAAT3´ (nukleotidová sekvence v bakteriálním promotoru, nachází se v poloze –10 od startovacího nukleotidu.) A konvenční sekvence  5´ TTGACAT 3´
+====
+547. Jaké jsou EUKARYOTNí geny: 
+-*Strukturní složené- tvořené introny a exony
+====
+548. Co vyštěpuje primery u PROKARYOT: 
+-*RNA-primery jsou odstraněny účinkem exonukleázové aktivity DNA-polymerázy I
+====
+549. Transkripce některých PROKARYOTických  strukturních genů končí na terminátoru za účasti? 
+-*Rho faktor + NusA protein
+====
+550. Co se váže na Pribnowův box? 
+-*Sigma podjednotka RNA polymerázy. 
+====
+551. Okazakiho fragmenty se vyskytují? 
+-*Na opožďujícím se řetězci PRO i EU
+====
+552. Co je OF? 
+-*Primer (oligoribonukleotid) + oligodeoxyribonukleotid (spojené fosfodiesterovou vazbou)
+====
+553. Eukaryotické DNA-polymerázy –
+-*o replikaci se stará ?- syntéza Okazakiho fragmentů a ?- syntéza vedoucího řetězce a dokončení syntézy opožďujícího se řetězce, obě 3´-5´ exonukleázy
+====
+554. Orizom? 
+-*Struktura počátku replikace u kvasinek. (obdoba ori u kvasinek, počátek replikace= ori= specifická sekvence na DNA)
+====
+555. Na co nasedá antikodon? 
+-*Na kodon.
+====
+556. Počet terminačních a bifunkčích kodonů? 
+-*3,3
+====
+557. Jaká DNA je v mitochondriích? 
+-*Kruhová
+====
+558. Co provádí reparaci thiminového proteinu? 
+-*Fotoreaktivace (přímá reparace) + nukleotidová excizní reparace (nepřímá)
+====
+559. Podoba mitochondrie s bakterií/Nepřímý důkaz endosym. původu bakterií? 
+-*Přehrádečné dělení (bakt.typ), konformace DNA (kružnic.), podobný translační aparát (podobné sedimentační koeficienty ribozomů + podobnost sekvencí mt-rRNA s rRNA bakt.)
+====
+560. Co jsou chaperony?  
+-*Speciální skupina proteinů podílejících se na sbalování polypeptidů, zabraňují nesprávnému sbalení. (tvoří terc. strukturu) Hlavní rodiny chaperonů: proteiny hsp60 a hsp70      
+====
+561. Editace Apolipoproteinu? U člověka, změna fce produktu ztrátou C domény kratšího produktu: Cytidindeamináza - C deaminován na U › vznik STOP kodonu › nevznikne cholesterol.
+====
+562. Čtení mRNA?
+-*5´-3´
+====
+563. Lehké/Těžké řetězce na Ig? 
+-*Lehký: 220AK, 2 typy řetězců, geny  L-VJC, Těžký: 440AK, 5 typů řetězců, geny L-VDJC. Těžké řetězce spojené disulfidickými můstky v pantové oblasti. Variabilní oblasti obsahují hypervariabilní oblasti - lehký i těžký řetězec (na každém 3) - sekvence 5-10 AK účastnící se vazby antigenu, hypervariabilní oblasti se nacházejí na konci variabilních ramének.
+====
+564. Na jakém řetězci probíhají změny týkající se membránové nebo sekretované formy? 
+-*Přesmyk tříd= přechod Ig z jedné třídy do jiné- probíhá na úrovni těžkých řetězců. (jedná se o přesmyk na úrovni transkripce- přechod z IgM z membránového na sekretovaný)
+====
+565. Jaké subgeny jsou u těžkého řetězce (Ig?):  
+-*L-VDJ-C, (Subgeny= úseky genů pro Ig)
+====
+566. Počet V subgenů u lehkého řetězce: 
+-*Stovky. (250)
+====
+567. Zralý B lymfocyt produkuje/váže? 
+-*1 typ protilátek - dané somatickou rekombinací a izotypovým přesmykem /? 2 typy protilátek
+====
+568. Na koncích transpozomu? 
+-*Jsou přímé repetice. (což je důsledek mechanismu transpozice)
+====
+569. Jak funguje retroonkovir? 
+-*Při vyvolání bujení buněk modifikují protoonkogen - začleňují se do něj.
+-*(Inzerční aktivace protoonkogenu pomalu transformujícími retroviry, transdukce okogenu akutně transformujícími retroviry)
+====
+570. Začlěnění DNA bakteriofága  lambda do E. coli, enzymy? 
+-*(Bakteriofág lambda- virus rozmnožující se v bakteriích (E. coli)) Excizionáza, integráza a integrační faktor hostitele
+====
+571. Vzniká konkatemer u bakteriofága? 
+-*ano, konkatemer= několik po sobě následujících monomerů při replikaci otáčející se kružnicí.
+====
+572. TFIID? (transkripční faktor) 
+-*Je rozpoznán polymerázou II a váže se na TATA box (struktura promotorů –okolo -25 –30 TATATAATA)
+====
+573. Který transkripční faktor se váže na TATA BOX?  
+-*TFIID.
+====
+574. Co je pseudoreverze? 
+-*Zpětná mutace, která nevede ani k původnímu, ani synonymnímu kodonu, ale ke kodonu pro AK, jejíž zařazení do primární struktury příslušného genového produktu nenarušuje, nýbrž zachovává  jeho původní biologickou funkci.
+====
+575. Co je cAMP? 
+-*(Cyklický adenosinmonofosfát, derivát ATP)- pozitivní alosterický efektor= pozitivní regulátor.
+====
+576. Co aktivuje Crp? 
+-*cAMP – při nedostatku glukozy › zvýšení hladiny cAMP › aktivace Crp
+====
+577. Kde probíhá sestřih u E.Coli? 
+-*V cytoplasmě.
+====
+578. Kdy se exemplárně dokázala struktura DNA? 
+-*1940-1950. (1953 Watson a Crick)
+====
+579. Aktivovaný Rb protein? 
+-*inaktivuje transkripční aktivátory genů (za nepřítomnosti růstového faktoru), za přítomnosti růstového faktoru dojde k mutaci, je fosforylován a buňka se dělí
+====
+580. Co je parazitická DNA? 
+-*DNA transpozóny
+====
+581. Kam se váží transkripční faktory? 
+-*Vkládají se do velkého žlábku dvoušroubovice DNA, kde reagují aminokyseliny bílkoviny s bázemi DNA
+====
+582. U čeho probíhá alternativní sestřih? 
+-*(=jev, při němž díky různým variantám splicingu z jednoho genu vzniká více bílkovinnýchproduktů) Strukturní geny.
+====
+583. Kolik čtecích rámců je ssDNA? 
+-*3
+====
+584. % složení chromatinu? 
+-*70% proteinů, 30% NK, (chromatin= genetický materiál eukaryotické buňky, euchromatin-transkripčně aktivní, heterochromatin- inaktivní)
+====
+585. % transkribované lidské DNA? 
+-*33%
+====
+586. Denaturace? 
+-*Přechod dsDNA na ssDNA, dochází k ní zvyšováním teploty roztoku, nebo změnou pH prostředí, projevuje se zvýšením absorbance UV-světla, opačný pochod = renaturace
+-*Závisí na poměru bazí, čím více GC párů, tím vyšší Tm (=teplota tání, při které zdenaturovalo 50% molekul dsDNA)
+====
+587. Nejrychlejší replikační vidlice?  
+-*U bakterií.
+====
+588. Transesterifikace sestřihu? – 
+-*= přeměna jednoho fosfátového esteru v jiný, probíhající přenosem –OH skupiny bez hydrolýzy a za nepřítomnosti ATP ale GTP  (2’OH A provede nukleofilní atak v místě začátku intronu (před G), OH se naváže na konec exonu 1 a G se váže na A, vzniká lasovitá smyčka (=lasovitá RNA) navázaná na exon 2 -> OH na exonu 1 atakuje spojení intronu s exonem 2 -> vyštěpení intronu)
+====
+589. Co vzniká při spontánní mutaci? 
+-*Tautomerní přesmyky bazí, deaminace bazí (z A hypoxantin, z C › U), depurinace (= ztráta purinu z nukleotidu, vzniká AP místo)
+====
+590. Kolik je mutací v mitochondriích vzhledem k jaderné DNA? 
+-*10-100x více.
+====
+591. Oxidativní deaminací C vzniká? 
+-*Uracil
+====
+592. Spontánní deaminací A vzniká? 
+-*Hypoxantin
+====
+593. Co způsobuje inzerční mutace? 
+-*(=vložení 1 nebo 2 párů bází) Je způsobena sklouzáváním řetězců při replikaci. A způsobuje změnu čtecího rámce v genu od místa mutace.
+====
+594. Jaká mutace se projeví po replikaci u potomstva, když se při replikaci vloží chybná báze kvůli tautomerii? 
+-*Bodová
+====
+595. Jaký je začátek mutace u chromozomu ori E.Coli? Repetice.
+====
+596. E.Coli obsahuje? 
+-*Kružnicové chromozomy a kružnicové plasmidy.
+====
+597. Lasovitá RNA při vyštěpování intronů? 
+-*? vazba mezi A na intronu a G na 5' konci intronu
+====
+598. Který enzym štěpí N-konec proteinu po translaci? 
+-*Signální peptidáza.
+====
+599. Kdy dochází k přeskupování podjednotek v subgenu V? 
+-*Na úrovni DNA (somatické rekombinace) + somatické mutace na úrovni AK.
+====
+600. Vzorec pro výpočet vinutí DNA? 
+-*L = T + W, L= celkový počet vinutí, T= dvoušroubovicové číslo, W= nadšroubovicové č.
+====
+601. Vinutí DNA? 
+-*(=mnohonásobné otáčení jednoho řetězce kolem druhého) Levo (Z) a pravotočivé (A,B)
+====
+602. Počet různých kodonů u prokaryot? 
+-*64
+====
+603. Ústřední dogma MB? 
+-*1958 F.H.C. Crick, přenos gen. info je možný z NK do NK, z NK do proteinu, ale ne z proteinu do proteinu nebo proteinu do NK
+====
+604. Počet genů u prokaryot/eukaryot? 
+-*5000-10 000/10 000 - 40 000
+====
+605. Velikost intronu vzhledem k exonům?  
+-*Většinou větší a taky je jich více.
+====
+606. Které retroelementy nahrazují u drozofil telomerázy/Co dosysntetizovává sekvenci na konci chromozomu Drozophily po replikaci? 
+-*TART.
+====
+607. Co způsobuje mutace v genu pro p53? 
+-*Zastavení tvorby p21.
+====
+608. Jak působí p53?  
+-*p53 vyhledává na DNA poškozená místa a pokud takové najde, spustí transkripci genu p21, který zastaví dělení buňky, dokud není poškozené místo reparováno. Pokud to nelze, buňka apoptuje.
+====
+609. Který enzym působí při bázové excizní reparaci?
+-*Specifická glykozyláza.
+====
+610. Supresorové tRNA? 
+-*Rozpoznávají STOP kodony.
+====
+611. Kolísavé párování bazí? 
+-*páruje se část antikodonu s některým písmenem kodonu podle pravidel o kolísavém párování bazí, je na 5‘ antikodonu = 1. báze antikodonu, tzn. část antikodonu se páruje s jinou bazí dle pravidel KPB.
+====
+612. Která podjednotka Pol má korktorovou aktivitu? 
+-*korktorská aktivita = 3‘-5‘ exonukleázová aktivita epsilon
+====
+613. Který typ histonu není součástí Oktameru??
+-*H1 (spojuje nukleozomy) / součástí jsou: H2A,H2B,H3,H4
+====
+614. Který protein tvoří jednořetězcové zlomy dsDNA? 
+-*RecA
+====
+615. Genom lidských mitochondrií? 
+-*dsDNA kružnicová, 16 569 bp.
+====
+616. Operační reverze?? 
+-*Reverzní mutázou se vytvoří synonymní kodón, který kóduje stejnou AK, která byla připojená na kodón před původní matricí (Arg -Trp- Arg).
+====
+617. Místně specifická rekombinace u E.Coli, DNA - fága a chromozom E.Coli? 
+-*Integráza,integrační faktor hostitele, excizionáza.
+====
+618. Transkripce u některých stukturních genů PROKARYOT končí na terminátoru za účasti?
+-*Ró faktor(=rho-faktor)
+====
+619. Regulátor SOS odpovědi u E.coli? 
+-*Represor LexA.
+====
+620. Při vzniku upravených pseudogenů probíhá? 
+-*vznik reverzní transkriptázou, nemají introny ani promotor a obsahují polyA, vznikly přepisem mRNA
+====
+621. 2 kopie téhož transpozonu způsobí? 
+-*deleci při stejně orientovanými transpozony/inverzi při opačně orientovanými transpozony.
+====
+622. Kde najdeme sekvenci TLR? 
+-*Retroviry a retrotranspozony.
+====
+623. Kolik hypervar.domén z kolika AK je ve variab.doméně lehkého řetězce? 
+-*3,10
+====
+624. Paradox hodnoty C?
+-*velikost genomu organizmu není v korelaci s komplexitou organizmu 
+====
+625. Analogem Thyminu je? 
+-*Bromuracil
+====
+626. Baze převládající v telomerách?
+-*G,
+====
+627. Co dosyntetizovává telomeráza podle čeho? 
+-*3´konce matricového vlákna podle templátu, který je její součástí, poté se doreplikuje část nového vlákna – vznikne 3OH skupina a dosyntetizuje se dceřiné vlákno, prodlužuje se 3´ konec matrice, aby se mohl dosysntetizovat 5´ konec dceřiného vlákna s okazakiho fragmenty
+====
+628. Co způsobuje onkovirus po začlenění do hostitelské buňky? 
+-*Mutaci genů (inzerční inaktivace, polární mutace, změny exprese genů).
+====
+629. Jaké sekvence obsahují regulační oblasti?
+-*Krátké repetice.
+====
+630. Poznat opačnou repetici, když je dáno jen 1 vlákno? 
+-*Měla by se vytvořit vlásenka.
+====
+631. Co dělá tRNA? 
+-*transferová RNA je druh RNA v buňce, která se podílí na proteosyntéze tím, že připojuje specifickou aminokyselinu do rostoucího polypeptidového řetězce při translaci. Tím dochází k překladu sekvence nukleotidů v nukleových kyselinách do sekvence aminokyselin v proteinech. Každá aminokyselina má minimálně jednu tRNA. 
+====
+632. Plazmidy schopné irreverzibilního začlenění do hostitelské buňky? 
+-*Epizomální
+====
+633. Funkce bakteriálního promotoru? 
+-*Navázat RNA polymerázu.
+====
+634. Pro zajištění fungování mitochondrií je: 
+-*90 genů jaderného genomu.
+====
+635. Synonymní kodony kódují: 
+-*Stejné AMK
+====
+636. Fuga rubrides je model genomu: 
+-*Obratlovců.
+====
+637. Syntéza tRNA u eukaryot: 
+-*RNA - pol III
+====
+638. Kdy bylo experimentálně dokázáno, že přenos informace z S do R buněk zprostředkovává DNA? 
+-*1944 
+====
+639. Kdy bylo dokázáno, že DNA je nositelkou gen. Inf.? 
+-*1944
+====
+640. Kolik genů má lidský genom? 
+-*25 000.
+====
+641. Jak je průměrně velký bakteriální gen? 
+-*průměrná velikost genu je 1.25kb
+====
+642. Který je modelový org. vývojové biologie vzhledem ke známému počtu buněk? 
+-*Caenorhabditis elegans (hlístice, červ, 100Mb).
+====
+643. Kolik je mutací v mitochondriích vzhledem k jaderné DNA? 
+-*10-100x více.
+====
+644. Co dělá ss zlomy při homogenní rekombinaci? 
+-*RecA.
+====
+645. Jak se váže při traskripci HAT a HDAC? 
+-*Na jiné transkripční faktory (HAT koaktivátor, HDAC korepresor)
+====
+646. Co způsobuje aminaci histonů? 
+-*HAT
+====
+647. Kolik je (aminoacyl=)aa-tRNA syntezáz? 
+-*stejný jako počet standardních AMK – 20
+====
+648. Jaký enzym katalyzuje nakládání AK na tRNA? 
+-*Aminoacyl-tRNA-syntetáza.
+====
+649. Jaký enzym transkribuje tRNA? 
+-*RNA polymeráza III.
+====
+650. Co ovlivní sílu bakteriálního promotoru? 
+-*Zesilovači transkripce.
+====
+651. Pozitivní kontrola transkripce genu ?
+-*transkripce probiha po navazani aktivatoru na promotor
+====
+652. Při replikaci opožďujícího se řetězce jsou RNA primery odtraněny? 
+-*DNA pol-I u prokaryot.
+====
+653. Genom viru HIV začleněný do genomu hostitelské buňky je? 
+-*Provirus.
+====
+654. Jaký typ NK má HIV? 
+-*RNA pozitvní
+====
+655. Jaký genom má HIV RNA? 
+-*pozitivní  – retrovirus 
+====
+656. HIV kolik molekul RNA+? 
+-*2
+====
+657. Retroviry HIV? 
+-*HIV se začlení do genomu = provirus.
+====
+658. Co nepatří/patří do posttranslačních úprav?
+-*nepatří:připojení signální sekvence,patří:kotranslační: deformylace, hydroxylace atd., disulfid. můstky, připojení cukerných zbytků, posttranslační – vyštěpení peptidů, tvorba kvarterní struktury, posttranslační štěpení, proteinový sestřih, sestavování oligomerních proteinů a nadmolekulárních struktur, samosestavování
+====
+659. Co je většinou iniciační kódón u bakterií? 
+-*AUG  (jen někdy u E. Coli GUG)
+====
+660. Kam se připojuje polyA?
+-*vzniká na 3´ konci mRNA
+====
+661. Kde vzniká polygenní mRNA?
+-*U prokaryot, znamená to, že jedna její molekula vzniká přepisem vetšího počtu genu. Tento transkript se již dále neupravuje a vetšinou je ihned využit jako matrice (tedy mRNA) pro syntézu bílkoviny
+====
+662. Co vzniká alternativním sestřihem? 
+-*mRNA, z jednoho genu více produktů
+====
+663. Jakou roli má RISC při RNA interferenci? 
+-*degradace jednovláknové RNA
+====
+664. Sekvence antisense RNA? 
+-*komplementární s mediátorovou RNA
+====
+665. Báze v telomerách?
+-*člověk TTAGGG, nejčastější je G
+====
+666. Jaký enzym je u excizní bázové reparace?  
+-*helikázy, endonukleázy, ligázy (specifická glykozyláza?)
+====
+667. dost otázek na regulaci – 
+-*kam se váže induktor a represor? induktor na regulační oblast, represor na promotor
+====
+668. Kde probíhá sestřih: 
+-*na primárním transkriptu (preRNA, hnRNA)
+====
+669. Jaké RNA obsahují introny?
+-*pre-mRNA.
+====
+670. Alu inzerce? 
+-*Jsou to rozptýlené repetice v genomu člověka.
+====
+671. Co používá fág lambda k vyčleněnní a začlenění
+-*
+====
+672. Co obsahují složené transpozony:
+-*obsahují dvě IS sekvence, z nichž jedna kóduje funkční transponázu (jedna může být nefunkční)
+====
+673. Co vzniká přepisem strukturních genů? 
+-*polypeptid
+====
+674. Co je to intein?  
+-*část proteinů, která se umí sama vystřihnout a spojit zbývající části (exteiny) peptidovou vazbou
+====
+675. Jaká DNA je v rostlinných buňkách? 
+-*jadernou,mitochondriální, chloroplastovou, vzácně i plamzidovou DNA
+====
+676. Počet genů v mitochondriích?  
+-*13-218, člověk 37
+====
+677. Průměrná velikost genu u prokaryot: 
+-*průměrná velikost genu je 1.25kb
+====
+678. Jak byla dokázána semikonzervativní replikace: 
+-*Meselson a Stahl 1958, pěstovali E. Coli v médiu s izotopem dusíku 14N, pak je přemístili do média s těžkým izotopem 15N, kde sledovali 3 jejich generace, při centrifugaci vzniklých buněk E. coli měla první generace proužek lehkých izotopů, hybridních a těžkých, druhá generace jen proužek lehkých a těžkých (každý DNA řetězec nesl jeden), třetí generace dvakrát těžký
+====
+679. Co je to protoonkogen? 
+-*Normální gen regulující dělení, prodující proto onkoprotein, ve zdravé buňce existuje fční alela, která kóduje správně kódující gen.
+====
+680. Jak může transpozon s (proto)onkogenem ovlinit buněčné dělení?
+-*
+====
+681. Kolik je trasnestreifikací při sestřihu:
+-*2??
+====
+682. Co je to promutagen: 
+-*látka nevykazující mutagenní aktivitu, avšak při jejím metabolizování může být přeměněna na mutageny (metabolická konverze)
+====
+683. Jak se aktivuje translace? –
+====
+-*na f met-tRNAi se váže methionín a následně se formuluje
+====
+684. Proč vzniká přímá repetice po začlenění transpozomu?
+-*epivé konce při štěpení celkové sekvence.
+====
+685. Twintron je?
+-*Intron v dalším intronu.
+====
+686. Editaci řídí? 
+-*gRNA.
+====
+687. Kodony? 
+-*3 terminační kodony beze smyslu, 64 různých kodonů u eukaryot, 3 bifunkční, 61 smysluplných, kodony na mRNA, antikodony na tRNA, AK na 3‘ konci RNA.
+====
+688. 1 gen PROKARYOT má 
+-*1000 bazí.
+====
+689. PROKARYOTA? 
+-*Lineární chromozomy.
+====
+690. 1,6 Mb hranice, pod níž mohou žít jen vnitrob. Parazité.??
+-*
+====
+691. Generalisti –
+-*větší genomy, specialisti - menší.
+====
+692. Heterochrom.-
+-*trankr. aktivní
+====
+693. Telomera obsahuje většinu G –
+-*dokonč. lineár. řetězce.
+====
+694. Spojníková DNA? 
+-*Jediná, která může napadnout DNA.
+====
+695. Modifikace histonů? 
+-*acetylace, metylace (lys), fosfatace (ser), ubiqitace, fosforylace
+====
+696. Histon. kódy –
+-*změny struktury chromatinu.
+====
+697. LTR –
+-*dlouhé terminační repeaty, u EUKARYOT a retrovirů, sekvence LTR je součástí genomu retroviru
+====
+698. frakce CpG- 
+-*28 890
+====
+699. Pseudogeny? 
+-*jsou bez exonů, obsahují jen introny, s promotorem (nefunkční kopie genu)
+====
+700. Antiparalelní 5-3 (kodujici, neprepisuje se), 3-5 (negativní- rozhoduje?)
+-*
+====
+701. AK se váží na RNA na 3‘ konci tRNA.??
+-*
+====
+702. Celková velikost genomu?
+-*3,2 mld.
+====
+703. Počet dosud identif. genů? 
+-*U člověka 25 000
+====
+704. Transkribovaná část genomu? 
+-*33%
+====
+705. Mitochondrie bazí u lidí? 
+-*16-19 000 bazí
+====
+706. fce mitoch: 
+-*tvorba ATP oxidací cukrů a mastných kys.
+====
+707. 16S malá podjednotka u bakterií (prokaryota) i mitochindrií, 18S u EUKARYOT??
+-*
+====
+708. struktura mtDNA –
+-*kružnice (kvasinky, EU), lineární - prvoci a vyšší rostliny.
+====
+709. většina proteinů v org. je kódována jaderným genomem.??
+-*
+====
+710. Genom virů/DNA - lineární i kružnicovitá vs. RNA –
+-*jen lineární!!
+====
+711. semidiskontinuální syntéza od 5‘-3‘??
+-*
+====
+712. 3‘-5‘ mateřská (matrice, templát)??
+-*
+====
+713. 5‘-3‘ primer (nově synt. řetězec) - proč je synteza jen 5-3?? 
+-*Nebylo by možno využít makroergickou vazbu na 5‘ konci nově připojeného.
+====
+714. ori –
+-*počátek replikace, specifická sekvence na DNA (DNA box) u prokaryot a kvasinek
+====
+715. Struktura počátku replikace u E.Coli? 
+-*Hodně ripitů a mezi nimi neripitujici dekvence.
+

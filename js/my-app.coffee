@@ -51,5 +51,10 @@ window.questions_IB101 = new Classes.Questions
 window.questions_PB071 = new Classes.Questions
   dataset: "questions_PB071.json"
   container: $('#questions-PB071')
-  template: _.template($('.question').first().html())  
+  template: _.template($('.question').first().html())
+
+window.questions_Bi4020 = new Classes.Questions
+  dataset: "questions_Bi4020.json"
+  container: $('#questions-Bi4020')
+  template: _.template($('.question').first().html())
   

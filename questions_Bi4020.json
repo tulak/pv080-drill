@@ -1,0 +1,6432 @@
+[
+  {
+    "name": "1.\"Degenerovaný\" genetický kód znamená?",
+    "answers": [
+      {
+        "body": "Rovnaká aminokyselina môže byť kódovaná niekoľkými rôznymi kodónmi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "2.% proteinu v chromatinu",
+    "answers": [
+      {
+        "body": "70% proteínov",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "3.16S podjednotka ribozomu ?",
+    "answers": [
+      {
+        "body": "Je súčasťou malej (30S) podjednotky prokaryotického ribozómu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "4.16S, 18S ?",
+    "answers": [
+      {
+        "body": "16S - súčasťou 30S malej podjednotky ribozómov u prokaryot (baktérii) a mitochondrií",
+        "right": true
+      },
+      {
+        "body": "18S - súčasťou 40S malej podjednotky ribozómov u eukaryot",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "5.Aktivace fosfolipázy C ?",
+    "answers": [
+      {
+        "body": "Aktivovaná  vápenatými iónmi, môže byť aktivovaná aj tyrosinkinázou, tá aktivuje napríklad fosfolipázu Cgama. Činnosť",
+        "right": true
+      },
+      {
+        "body": "môže byť spustená na popud nejakého receptora spojeného s G-proteínom",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "6.Aktivita proteinu p53?",
+    "answers": [
+      {
+        "body": "Aktivuje transkripciu génu kódujúceho proteín p21 a ten potom zastavuje bunkový cyklus",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "7.Aktivovaný Rb protein? ",
+    "answers": [
+      {
+        "body": "Rb protein bráni bunkovému deleniu, inaktivuje sa prítomnosťou rastových faktorov, pokiaľ je v ňom mutácia a  je",
+        "right": true
+      },
+      {
+        "body": "fosforylovaný,  neviaže sa na regulačný proteín a bunka se nekontrolovateľne delí (transkripčným faktorom při delení",
+        "right": false
+      },
+      {
+        "body": "buniek)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "8.Alelická exkluze? ",
+    "answers": [
+      {
+        "body": "Behom vývoja B-bunky sú aktivované iba gény jedného z rodičov",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "9.Alfa podjednotka  G-proteinů –čím je deaktitována, možnosti beta",
+    "answers": [
+      {
+        "body": "Deaktivovaná beta a gama podjednotkou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "10.Alipoproteiny vznik deaminací, regulacia DNA podla gRNA",
+    "answers": [
+      {
+        "body": "Cytidindeamináza deaminuje cytosín na uracyl a miesto zmysluplného kodónu sa syntetizuje stop kodón. Vznikne krátky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "11.alternativní splicing?",
+    "answers": [
+      {
+        "body": "je jav, pri ktorom vďaka rôznym variantám splicingu z jedného génu vzniká viac bielkovinovýchproduktov. Po prepise DNA v jadre prechádza tzv. primárny transkript RNA úpravami, v ich rámci sa dlhé nekódujúce úseky (introny) vystrihujú a ostatné sekvencie (tzv. exony) je možné spojiť rôznymi zpôsobmi. Z výsledných niekoľko RNA vytvorených od jedného génu tak môžu byť syntetizované rôzne izoformy daného proteinu. To je práve zpôsob existencie alternativného splicingu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "12.Alu inzerce",
+    "answers": [
+      {
+        "body": "Sú to rozptýlené repetície, ktoré vznikajú v genóme človeka transpozíciou ako retrosekvencie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "13.Aminoacyl-tRNA-syntetáza: její počet se rovná počtu standardních aminokyselin (=20)",
+    "answers": [
+      {
+        "body": "Enzým, ktorý katalyzuje nakladanie aminokyselín na tRNA. Ich počet sa rovná počtu štandardných aminokyselin (=20).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "14.antenuace tryptofanového operonu ",
+    "answers": [
+      {
+        "body": "při transkripci, zastavení transkripce při nadbytku tryptofanu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "15.antenuátor? ",
+    "answers": [
+      {
+        "body": "část leading DNA – předčasný terminátor transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "16.anti sense RNA je komplemetarni s/ma stejnou sekvenci jako...",
+    "answers": [
+      {
+        "body": "Komplementárna k mRNA, je zvyčajne kódovaná v DNA. Vznikne dsRNA a nemôže dôjsť k translácii.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "17.Apoliprotein?",
+    "answers": [
+      {
+        "body": "Výmena C za U, vytvorenie terminačnej, ukončí sa",
+        "right": true
+      },
+      {
+        "body": "U človeka, zmena funkcie produktu stratou C domény kratšieho produktu: Cytidindeamináza - C",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "18.atenuace tryptofanoveho operonu (zastaveni transkripce pri nadbytku tryptofanu)",
+    "answers": [
+      {
+        "body": "Prebieha pri transkripcii, mRNA pre tryptofán môže zaujať dve konformácie. Pokiaľ je tryptofán prítomný (pripojený na",
+        "right": true
+      },
+      {
+        "body": "ribozome), tak vlásenka na konci slúži ako terminátor, pokiaľ nie je, z vlásenky je ochranná vlásenka - preemptor, časť 3 a",
+        "right": true
+      },
+      {
+        "body": "4 se nespáruje. Tryptofán u baktérií nemá cenu syntetizovať, pokiaľ je ho nadbytok, potom pôsobí ako korepresor a",
+        "right": true
+      },
+      {
+        "body": "represor jeho syntézu zastaví.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "19. Atenuátor ?",
+    "answers": [
+      {
+        "body": "Časť leading DNA (sekvencia génu bakteriálnych buniek), predčasný terminátor transkripcie operónu, transkripcia sa v nadbytku tryptofánu zastaví (atenuátor je sekvencia, v ktorej sa predčasne zastaví transkripcia v peebytku tryptofánu).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "20. B lymfocyt tvoří…",
+    "answers": [
+      {
+        "body": "Tvorí iba jeden typ protilátky s dvoma väzbovými miestami pre antigén",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "21. bakteriofag lambda ?",
+    "answers": [
+      {
+        "body": "Konkatemer je viazaný kovalentnou väzbou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "22.  bakteriofág lambda? ",
+    "answers": [
+      {
+        "body": "Je to virión obsahujúci dsDNA s koheznými koncami, má lyzogénny cyklus, môže sa začleňovat vo forme profága, k začleneniu a vyčleneniu používa miestne špecifickú rekombináciu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "23. báze v telomerách",
+    "answers": [
+      {
+        "body": "Obsahujú veľa G, u človeka (TTAGGG)n",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "24. Bromuracil  je analog?",
+    "answers": [
+      {
+        "body": "Tymínu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "25. centrální dogma molekulární biologie",
+    "answers": [
+      {
+        "body": "Prenos genetickej informácie je možný z nukleovej kyseliny do nukleovej kyseliny, z nukleovej kyseliny do proteínu, ale nie z proteínu do proteínu alebo z proteínu do nukleovej kyseliny.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "26. cim je specificke misto ori, (poc.replikace)",
+    "answers": [
+      {
+        "body": "Je počiatkom replikácie, obsahuje niekoľko konzervovaných repetícii: L, M, R – 13bp a 1,2,3,4 – 9 bp. Je to špecifická sekvencia DNA niekedy tiež nazývaná dnaA box.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "27. cim zacina a konci transkripcni jednotka ",
+    "answers": [
+      {
+        "body": "Začína iniciačným kodónom a končí terminátorom (vrátane)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "28. co aktivuje Crp",
+    "answers": [
+      {
+        "body": "Crp aktivuje zvýšenie hladiny cAMP, ktorý sa objaví napríklad pri nedostatku glukózy v bunke. Spoločne vytvoria dimér, který je schopný sa naviazať na DNA a spustiť transkripciu množstva operónov pre sacharidový metabolizmus.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "29. Co dělá ss zlomy při homogenní rekombinaci",
+    "answers": [
+      {
+        "body": "RecA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "30. co dělá topoizomeraza I",
+    "answers": [
+      {
+        "body": "Je zodpovedná za nadšrúbovicové vinutie, rozštiepi jedno vlákno, preloží ho a znovu spojí. Takto ubudne 1 závit (u dsDNA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "31. co dělá transkripční faktor TFIIH? ",
+    "answers": [
+      {
+        "body": "Navodí fosforyláciu RNA-polymerázy a tím ju aktivuje (nabudí k zahájeniu transkripcie). Je jeden z posledných, který sa viažu na TATA box u eukaryot.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "32. co dela tRNA",
+    "answers": [
+      {
+        "body": "Prenáša aminokyseliny na ribozóm vo forme aminoacyl-tRNA. Podieľa sa na translácii, udáva sekvenciu antikodónu. Podieľa sa na presnosti reakcie – syntéza je špecifická. Prebieha tRNA + aminoacyladenylát.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "33. co dělá zlom u homolgní rekombinace?",
+    "answers": [
+      {
+        "body": "RecBCD",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "34. Co dosyntetizovává sekvenci na konci chromozomu drosophyly po replikaci ",
+    "answers": [
+      {
+        "body": "Drosophyla nemá telomerázu, konce chromozómov sú dopĺňané transpozíciou. HeTA a TART",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "35. Co dosyntetizovává telomeráza a podle čeho ",
+    "answers": [
+      {
+        "body": "Dosyntetizováva komplementárne vlákno DNA podľa matrice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "36. Co fosforyluje RNA-polymerázu ?",
+    "answers": [
+      {
+        "body": "TFIIH",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "37. co je  Alu inzerce (rozptylena repetice v genomu cloveka)",
+    "answers": [
+      {
+        "body": "Sú to rozptýlené repetície vzniknuté v genóme človeka transpozíciou ako retrosekvencie.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "38. Co je antikodon ?",
+    "answers": [
+      {
+        "body": "Sú to 3 nukleotidy na tRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "39. co je cAMP? ",
+    "answers": [
+      {
+        "body": "Pozitívny alosterický efektor, pozitívny regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "40.  co je CAP?",
+    "answers": [
+      {
+        "body": "Pozitívny regulačný proteín, pozitívny regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "41. Co je genom? ",
+    "answers": [
+      {
+        "body": "Súbor všetkých nukleových kyselín, ktoré sa replikujú a dedia na potomstvo",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "42. Co je HAT.",
+    "answers": [
+      {
+        "body": "HAT je koaktivátor transkripcie (spôsobuje acetyláciu a deacetyláciu histónov)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "43. co je induktor? ",
+    "answers": [
+      {
+        "body": "Induktor môže inaktivovať represor, potom je pozitívny regulátor a negatívny alosterický efektor, alebo môže vytvoriť z nefunkčného aktivátoru funkčný a potom je pozitívny regulátor a pozitívny alosterický efektor.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "44. co je intein",
+    "answers": [
+      {
+        "body": "Intein je sekvencia aminokyselín, ktorá je z proteínu vyštiepena proteázou (pre-proinzulín – proinzulín).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "45. co je konkatemer? (několik po sobě následujících monomerů při replikaci bakteriofaga otáčející se kružnicí)",
+    "answers": [
+      {
+        "body": "Je to reťazec niekoľko po sebe nasledujúcich monomérov vzniknutých pri replikácii štýlom otáčajúcej sa kružnice u plazmidov spojených kovalentnou väzbou vzniknutých podľa negatívneho reťazca. Najprv je naštiepený v počiatkoch (Rep proteín na enzým), potom je spojený ligázou a rozštiepený endonukleázou. Negatívny reťazec sa dosyntetizuje pomocou Okazakiho fragmentov.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "46.  co je korepresor? ",
+    "answers": [
+      {
+        "body": "Pozitívny alosterický efektor, negatívny regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "47. co je nadsroubovnice ",
+    "answers": [
+      {
+        "body": "superhelix",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "48. co je onkogen..",
+    "answers": [
+      {
+        "body": "Onkogén je gén, ktorý kóduje informácie o raste bunky, jeho supresorový gén je antionkogén. Onkogén je už aktivovaný protoonkogén, jeho aktivácia vedie k nádorovému bujneniu (neoplatickej transformácií).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "49. Co je onkogenu ?",
+    "answers": [
+      {
+        "body": "Protoonkogen vyvolávajúci neoplastickú transformáciu buniek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "50. Co je operator? ",
+    "answers": [
+      {
+        "body": "Miesto, kam sa viaže represor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "51. co je operon? ",
+    "answers": [
+      {
+        "body": "Ide o promotor, operátor a niekoľko štruktúrnych génov v jednom transkripte. (strukturní gen, operátor a promotor)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "52. co je ori? ",
+    "answers": [
+      {
+        "body": "Počiatok replikácie, špecifická sekvencia na DNA (dnaA box)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "53. co je orizom? ",
+    "answers": [
+      {
+        "body": "Súbor proteínov u kvasiniek zúčastňujúcich sa počiatku replikácie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "54. Co je paradox hodnoty C",
+    "answers": [
+      {
+        "body": "Veľkosť genómu neodpovedá celkovej komplexite organismov, neplatí u baktérií. Vyvinuté organismy majú veľa nekódujúcich sekvencií (časté repetície), či sú ich genómy polyploidné ako napríklad u rastlín.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "55. co je polygenní mRNA a kde se vyskytuje? ",
+    "answers": [
+      {
+        "body": "Je to mRNA, ktorá vzniká u prokaryot a obsahuje sekvencie génov – má promotórove usporiadanie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "56. co je potreba na vznik vlasenky a co na vlasenky se smyckou",
+    "answers": [
+      {
+        "body": "Pre vznik vlásenky je treba obrátená repetícia, palindromatická sekvencia bez vloženej nepalindromatickej, pre vznik vlásenky so smyčkou je medzi ne treba vložit ešte nepalindromatickú sekvenciu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "57. Co je potřeba pro indukovatelnou transkripci ?",
+    "answers": [
+      {
+        "body": "Stačia indukovateľné špecifické TF faktory z vonkajšieho prostredia.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "58. Co je považováno za odpad (na výběr transpozony, pseudogeny...)",
+    "answers": [
+      {
+        "body": "Retropozony",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "59. Co je premutagen",
+    "answers": [
+      {
+        "body": "Gén, ktorý sa premieňa na mutagén",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "60. co je preprotein? ",
+    "answers": [
+      {
+        "body": "Ide o proteín s N-terminálnym peptidom (polypeptid so signálnym peptidom na N konci)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "61.  co je Pribnowův box ?",
+    "answers": [
+      {
+        "body": "Sekvence -10 proti směru transkripce je součást prokaryotního promotoru.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "62. co je protoonkogen",
+    "answers": [
+      {
+        "body": "Onkogén je gén, ktorý sa podieľa na regulácii procesov aktivujúcich alebo urýchľujúcich bunkový cyklus (delenie buniek). Abnormálna aktivácia týchto génov (ktoré sa v normálnom funkčnom režime označujú aj ako protoonkogény) - napr.mutáciou - spôsobí nepretržité a nekontrolované delenie bunky (onkogény v užšom zmysle slova).",
+        "right": true
+      },
+      {
+        "body": "Protoonkogény kódujú napríklad rastové faktory, receptory rastových faktorov, regulačné prosteíny a podobne. Neustála nadprodukcia kódovanej bielkoviny naruší reguláciu bunkového delenia. Protoonkogén môže byť poškodený (bodovou mutáciou, včlenením DNA retrovírusu, translokáciou, rozmnožením kópii génu)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "63. Co je pseudoreverze",
+    "answers": [
+      {
+        "body": "Vytvorí sa kodón pre AMK s podobnými bázami ako pôvodná AMK, čiastočne sa obnovuje funkcia mutagénu, nemá to vplyv na výsledný produkt  = (Zaradenie AMK s podobnými vlastnosťami ako bola pôvodná reverzná mutácia (napr. Arg - pôv. mutácia = Trp - reverzná mutácia = Lys).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "64. co je RBS? ",
+    "answers": [
+      {
+        "body": "Ribosom binding side je sekvencia u prokaryot na mRNA po smere transkripcie umožňujúca väzbu na ribozóm – Shineova-Dalgarnova sekvencia.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "65. co je reparace DNA, které geny? (velmi konzervativní, asi 100 genů)",
+    "answers": [
+      {
+        "body": "tiež oprava DNA, súbor bunkových mechanismov, ktorými sa môžu odstrániť nežiadúce zásahy do štruktúry DNA. Možno tak odstrániť náhodné chemické modifikácie bázy (napr. dimery pyrimidinových bázy vzniklé pôsobením UV žiarenia), odstrániť chybne pripojené bázy v priebehu replikácie alebo spojiť prerušené fosfodiesterové väzby v jednom alebo obou vláknech DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "66.  co je represor? ",
+    "answers": [
+      {
+        "body": "Negatívny regulačný proteín, negatívny regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "67. Co je rychlejší u prokaryot?",
+    "answers": [
+      {
+        "body": "Replikace (až 500 b/s)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "68. co je supresorová tRNA",
+    "answers": [
+      {
+        "body": "Jedná sa o tRNA, v ktorej došlo k mutácii, často číta napríklad po štvoriciach, či robí iné nezmysly.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "69.  co je TATA box? ",
+    "answers": [
+      {
+        "body": "Tzv. Hognesov box u eukaryot (-26, -34) Nasadajú sem transkripčné faktory, je súčásťou eukaryotického promotoru.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "70. co je terciární struktura DNA? ",
+    "answers": [
+      {
+        "body": "Je vytvorená kladným a záporným nadšrúbovicovým vinutím. Vzniká zvinutím DNA za pomoci topoizomeráz I a II.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "71. co je to spliceozom?",
+    "answers": [
+      {
+        "body": "Jedná se o útvar z RNA, který sa účastní zostrihu u eukaryot, obsahuje malé sRNA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "72. co je to zesilovač transkripce? ",
+    "answers": [
+      {
+        "body": "Jedná sa o miesto na DNA v značnej vzdialenosti od promotoru.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "73. co je treba k prokaryoticke replikaci ?",
+    "answers": [
+      {
+        "body": "Polymeráza I a III, Ligáza, Primáza, Helikáza, SSB, NTP, proteiny: DnaB (helikáza), dnaG (primáza), dnaA, dnaC,  Topoizomeráza – gyráza, matrica, beta-svorka, gama-proteín, iniciátorové proteíny, ...",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "74. Co je twintron ?",
+    "answers": [
+      {
+        "body": "Intron vo vnútri iného intronu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "75. Co je většinou iniciační kódón u bakterií",
+    "answers": [
+      {
+        "body": "AUG - Met",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "76. co jsou BT-rostliny",
+    "answers": [
+      {
+        "body": "Majú vnesený gén pre endotoxín z baktérie na rezistenciu proti hmytu, ďalej obsahujú gény na rezistenciu k herbicídom a ATB.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "77. Co jsou chaperony",
+    "answers": [
+      {
+        "body": "Dříve nazvané HSP – existují HSP70, které se na vlákno nativního proteinu váží jednotlivě a HSP60, které vytváří soudkovité útvary, kterými je protein protažen. Vytvářejí terciální strukturu protein, spotřebovávájí ATP. Objevují se, je-li buňka vystavena vyšším teplotám.   1. Speciální skupina proteinů podílejících se na sbalování polypeptidů, zabraňují nesprávnému sbalení.         2. Proteiny, podílejícíc se na sestavě a úpravě. 3. Peptidy upravující jiné peptidy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "78. Co jsou těžké řetězce LVCJD",
+    "answers": []
+  },
+  {
+    "name": "79. co má za následek zařazení báze v tautomerní formě? ",
+    "answers": [
+      {
+        "body": "Pri replikácii môže dôjsť k substitúcii - tautomerne báze sa rôzne párujú (mutácie)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "80. Co musí obsahovat \"něco\", aby vznikla vlásenka se smyčkou (na výběr různé kombinace repetic)",
+    "answers": [
+      {
+        "body": "Pro vznik vlásenky je třeba obrácená repetice, palindromatická sekvence bez vložené nepalindromatické, pro vznik vlásenky se smyčkou je mězi ně třeba vložit ještě nepalindromatickou sekvenci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "81. Co nepatří do posttranslačních úprav ",
+    "answers": [
+      {
+        "body": "možnosti: vyštěpení peptidů, hydroxylace, proteinový sestřih, připojení signální sekvence",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "82. Co obsahuje prokaryotická rRNA (geny pro 1 rRNA/1tRNA/obě....)",
+    "answers": [
+      {
+        "body": "prokaryotický obsahuje v malé podjednotce 16S  rRNA (1540 nukleotidů) a ve velké podjednotce 5S rRNA (120 nukleotidů) a23S rRNA (2900 nukleotidů)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "83. Co obsahují složené transpozony– geny pro rezistenci k antibiotikům",
+    "answers": [
+      {
+        "body": "obsahují  2 IS sekvence, z nichž jedna kóduje fční transponázu; geny pro rezistenci k antibiotikům.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "84. Co ovlivní sílu bakteriálního promotoru",
+    "answers": [
+      {
+        "body": "Zosilovaci transkripcie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "85. co používá fág lambda k vyčleněnní a začlenění",
+    "answers": [
+      {
+        "body": "Místně specifickou rekombinaci, att místo",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "86. Co probíhá rychleji u prokaryot – Transkripce nebo replikace? ",
+    "answers": [
+      {
+        "body": "replikace – 500b/s",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "87. Co provádí posttranskripční úpravu tRNA u prokaryot, eukaryot? ",
+    "answers": [
+      {
+        "body": "U prokaryot je vyštěpena z mRNA, která nese informace pro mnoho tRNA endonukleázou či exonukleázami, důležitá je také nukleotidyl-tRNA-transferáza, které přenese na aminoacylové raménko ACC sekvenci, na kterou se váže AMK. U eukaryot jsou geny pro ně rozptýlené repetice a v mRNA by měla být vždy jedna, zase sekvence ACC",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "88. co přenášejí transpozony u eukaryot?",
+    "answers": [
+      {
+        "body": "onkogeny, rezistenci k ATB",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "89. co se děje když není glukóza a je laktóza",
+    "answers": [
+      {
+        "body": "allolaktóza (induktor) se váže na represor, dále vzniká CAP a cAMP ›  tvoří komplex › represor není přítomen › probíhá transkripce, tvoří se indukovatelné enzymy pro rozklad laktózy (s glukózou to nefunguje, pač vysoká koncentrace glukózy brání fci adenylátcykláze, která vytváří cAMP)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "90. co se může v co přepisovat",
+    "answers": [
+      {
+        "body": "DNA – DNA, RNA – RNA, DNA – RNA, RNA – DNA, RNA – protein",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "91. co se oznacuje jako paraziticka DNA",
+    "answers": [
+      {
+        "body": "trnaspozomy,pseonodeny plazmidy v chromozomech",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "92. Co se podílí na sestřihu DNA? ",
+    "answers": [
+      {
+        "body": "spliceozom",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "93. co se podílí na sestřihu RNA? ",
+    "answers": [
+      {
+        "body": "U sn RNP částice a SR proteiny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "94. co se podílí na sestřihu u prokaryot? ",
+    "answers": [
+      {
+        "body": "specifické endonukleázy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "95. Co spojuje sousední histony ",
+    "answers": [
+      {
+        "body": "H1 histon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "96. Co syntetizuje polymeráza II? ",
+    "answers": [
+      {
+        "body": "hnRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "97. Co je induktor ",
+    "answers": [
+      {
+        "body": "Induktor může inaktivovat represor, pak je pozitivní regulátor a negativní alosterický efektor, nebo může vytvořit z nefunkčního aktivátoru funkční a pak je pozitivní regulátor a pozitivní alosterický efektor.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "98. co je operator? ",
+    "answers": [
+      {
+        "body": "misto, kam se vaze represor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "99. co je tercialni struktura DNA? ",
+    "answers": [
+      {
+        "body": "+ i - nadsroubovicove vinuti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "100. Co jsou chaperony? ",
+    "answers": [
+      {
+        "body": "proteiny, které se podílí na sestavě sbalování monomerov do oligomerů..a a nestáva sa súčasťou struktury, Dříve nazvané HSP – existují HSP70, které se na vlákno nativního proteinu váží jednotlivě a HSP60, které vytváří soudkovité útvary, kterými je protein protažen. Vytvářejí terciální strukturu protein, spotřebovávájí ATP. Objevují se, je-li buňka vystavena vyšším teplotám.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "101. Co tvoří odpadovou DNA",
+    "answers": [
+      {
+        "body": "inaktivované části po transpozicích. Neautonomní elementy (po RNA virech). Retropozony – LINE, SINE",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "102. Co umožňuje replikaci DNA ",
+    "answers": [
+      {
+        "body": "různé varianty, liší se v přidání RNA-polymerázy do výběru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "103. Co váže na tRNA aminokys.",
+    "answers": [
+      {
+        "body": "aminoacyl-tRNA-syntetáza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "104. Co většinou nesou transpozony prokaryot ",
+    "answers": [
+      {
+        "body": "rezistence Atb, tvorba Atb, transkripční faktory",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "105. Co všechno zajištuje korektorská aktivita DNA??polymerázy",
+    "answers": [
+      {
+        "body": "DNA-polymerázy, 3´--- 5´ exonukleázová aktivita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "106. co vyštěpuje primery u prokaryot",
+    "answers": [
+      {
+        "body": "RNA-primery jsou odstraněny účinkem exonukleázové aktivity DNA-polymerázy I",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "107. Co vzniká alternativním sestřihem",
+    "answers": [
+      {
+        "body": "Dvě možné RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "108. Co vzniká deaminací cytosinu?",
+    "answers": [
+      {
+        "body": "uracil",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "109. co vzniká přepisem strukturních genů (polypeptid)",
+    "answers": [
+      {
+        "body": "protein",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "110. co vznika spontanni mutaci A",
+    "answers": [
+      {
+        "body": "vznik AP míst, Hypoxantin",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "111. Co vzniká transkripcí z rRNA ",
+    "answers": [
+      {
+        "body": "více rRNA a 1 tRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "112.  co zapříčiní rozklad Holliadayova spoje?",
+    "answers": [
+      {
+        "body": "resovázy RuvC enzym a RuvG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "113. Co znamená synonymní mutace ",
+    "answers": [
+      {
+        "body": "nemění se smysl kodonu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "114. Co způsobuje aminaci histonů",
+    "answers": [
+      {
+        "body": "HAT",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "115. co způsubuje p-b dimery",
+    "answers": [
+      {
+        "body": "UV-záření",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "116. co zvysuje teplotou tani DNA ",
+    "answers": [
+      {
+        "body": "CG páry",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "117. Část genomu člověka, která kóduje proteiny-1,5%, která je přepisována-30%?",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "118. Čeho je analog bromuracil ",
+    "answers": [
+      {
+        "body": "tyminu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "119. Četnost transpozic u člověka? = dnes už prý ne!!! (nechápu, ale takto mi to říkal Doškař)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "120. Čím je aktivován kalmodulin? ",
+    "answers": [
+      {
+        "body": "Ca2+",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "121. Čím je aktivována fosfolipáza C ",
+    "answers": [
+      {
+        "body": "G-protein",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "122. čím je aktivována proteinkináza C",
+    "answers": [
+      {
+        "body": "Ca2+ a diacylglycerol",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "123. Čím je tvořen ori u E.coli (na výběr repetice, promotor, aktivator a ja nevím, jaké různé blbosti dále...) :)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "124. Čím vzniká inverze",
+    "answers": [
+      {
+        "body": "nějakou EMS",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "125. čím začíná a končí transkripční jednotka",
+    "answers": [
+      {
+        "body": "startovacím nukleotidem, termínatorem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "126. definice onkogenu ",
+    "answers": [
+      {
+        "body": "varianta protoonkogenu způsobující neoplastickou transformaci buněk",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "127. definice telomerazy",
+    "answers": [
+      {
+        "body": "enzym pracující jako reverzní transkriptáza, prodlužuje konce chromozomů (telomery) na 3´-konci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "128. degenerovaný genetický kód? ",
+    "answers": [
+      {
+        "body": "1 AMK může být kódována více kodony",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "129. DNA vazebné motivy proteinů?  ",
+    "answers": [
+      {
+        "body": "HTH, homeodoména – vazba proteinu do velkého žlábku, zinkový prst a leucinový zip",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "130. DNA-polymeráza ",
+    "answers": [
+      {
+        "body": "opravná fce podjednotky epsilon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "131. do ceho se preklada geneticka informace",
+    "answers": [
+      {
+        "body": "do pořadí aminokyselin v peptidovém řetězci, tj. do primární struktury bílkoviny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "132. Dvoukomponentní regul.systém u prokaryot",
+    "answers": [
+      {
+        "body": "skládá se ze senzoru (kinázy), je třeba fosforylace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "133. E.Coli + bakteriofág –jakým způsobem se dostává dovnitř nebo ven (vyjmenovány enzymy) ",
+    "answers": [
+      {
+        "body": "Rec BCD, Rec A, RuvC",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "134. E.coli",
+    "answers": [
+      {
+        "body": "více kružnicových chromozomů a plasmidů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "135.  editace alipoprotenu u člověka?",
+    "answers": [
+      {
+        "body": "cytidindeamináza, C je deaminován na U › vznikne STOP kodon › nevznikne cholesterol, jde o měnu fce produktu ztrátou C domény kratšího proteinu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "136. editace RNA? ",
+    "answers": [
+      {
+        "body": "zodpovídá Grna = guide RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "137. enzym ucastnici se pri Hollidayove rekombinaci parovani homolog. sekvenci Rec BCD",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "138. Etidiumbromid",
+    "answers": [
+      {
+        "body": "interkalační látka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "139. eukaryotický chromozom? ",
+    "answers": [
+      {
+        "body": "80S › 60S + 40S (18S)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "140. eukaryotní buňky rostlin mají?",
+    "answers": [
+      {
+        "body": "jadernou, mitochondriovou, chloroplastovou s vzácně plazmidovou DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "141. Excize viru lambda z bakteriálního chromozomu",
+    "answers": [
+      {
+        "body": "enzymy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "142. exonukleázovou aktivitu DNA polymerázy má?",
+    "answers": [
+      {
+        "body": "epsilon podjednotka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "143. fáze vzniku pseudogenu",
+    "answers": [
+      {
+        "body": "je sekvence DNA, která je podobná genu, ale nedochází k jejímu přepisu do RNA (transkripci). Pseudogeny vznikají zpravidla určitou mutací, a to zejména v oblasti promotoru, regulační sekvence,nebo sice RNA vzniká, ale je následně degradována",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "144. fce polymerázy alfa? ",
+    "answers": [
+      {
+        "body": "syntéza okazakiho fragmentů a exonukleázová aktivita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "145. fce polymerázy delta?",
+    "answers": [
+      {
+        "body": "exonukleázová aktivita + syntéza vedoucího vlákna",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "146. Fosfokináza",
+    "answers": [
+      {
+        "body": "enzym, který katalyzuje přenos fosfátových skupin z ATP nebo ADP na substrát",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "147. Fugu (lat.) ",
+    "answers": [
+      {
+        "body": "gen.model –  obratlovec",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "148. funkce mRNA čepičky",
+    "answers": [
+      {
+        "body": "Prostřednictvím této čepičky se mRNA váže na ribozom,  navíc čepička brání 5´-konec mRNA před hydrolysou buněčnými exonukleazami",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "149. Funkce RISC komplexu",
+    "answers": [
+      {
+        "body": "ribonkleoprotein (komplex několika bílkovin a molekuly RNA), který se komplementárně váže na cílovou molekulu mRNA a štěpí ji, případně alespoň blokuje její translaci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "150. galaktózový operon, co se děje, když je k dispozici allolaktóza a není glukóza?",
+    "answers": [
+      {
+        "body": "allolaktóza (induktor) se váže na represor, dále vzniká CAP a cAMP ›  tvoří komplex › represor není přítomen › probíhá transkripce, tvoří se indukovatelné enzymy pro rozklad laktózy (s glukózou to nefunguje, protože vysoká koncentrace glukózy brání fci adenylátcykláze, která vytváří cAMP)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "151. DNA-polymeráza má více podjednotek než RNA-polymeráza-ptal se jestli vzniká více chyb při replikaci DNA nebo RNA a co je rychlejší.",
+    "answers": [
+      {
+        "body": "Více chyb u RNA-polymerázy – chyba asi 1000x častější.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "152. gRNA-jesi nahrazuje jen jeden nebo víc nukleotidů najednou,nebo jestli to co bude vloženo pomocí gRNA je ovlivneno necim co je navazany na jeho 5’-konci.",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "153. HAT koaktivátor transkripce",
+    "answers": [
+      {
+        "body": "HAT = histone acetyl transferases = navozují acetylaci, HATkoaktivátor na DNA se váže nepřímo přes transkripční faktor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "154. HAT, HDAT",
+    "answers": [
+      {
+        "body": "způsobují acetylaci a deacetylaci hisotnů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "155. hnRNA vzniká pomocí",
+    "answers": [
+      {
+        "body": "katalýzy RNA polymerázy II.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "156. Hodnota Tm, kdy je největší",
+    "answers": [
+      {
+        "body": "Když je vysoké procenti GC",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "157. Hognesuv box",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "158. Homologní rekombinace ",
+    "answers": [
+      {
+        "body": "Homologní rekombinace (HR) je klíčový proces uplatňující se při opravě dvouřetězcových zlomů DNA, které vznikají působením některých chemických látek, ionizujícího záření, replikací poškozené DNA nebo při rozpadu replikační vidlice",
+        "right": true
+      },
+      {
+        "body": "Rec BCD",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "159. homologní rekombinace je? (recA závislá) viz výše",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "160. Chaperony -  jsou proteiny, které slouží ke sbalování proteinů",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "161. Imunoglobuliny ",
+    "answers": [
+      {
+        "body": "tezke a lehke retezce, sestrih subgenu  a premena IgM na IgD",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "162. indukovaná transkripce probíhá za účasti jakých faktorů",
+    "answers": [
+      {
+        "body": "vzniká po vystavení organismu/bunek mutagenum (které nemá v prezentaci, ani na netu sem nenasla tak bud sem debil ja nebo on :D)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "163. iniciace transkripce u bakterií vazbou na co? ",
+    "answers": [
+      {
+        "body": "na promotor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "164. iniciace transkripce u eukaryot? ",
+    "answers": [
+      {
+        "body": "+1 startovací nukleotid + Inr element = celé iniciátor – je to součást promotoru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "165. iniciace transkripce?",
+    "answers": [
+      {
+        "body": "u prokaryot – vazbou RNA polymerázy na promotor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "166. iniciace translace u prokaryot ",
+    "answers": [
+      {
+        "body": "metionin je po vazbě na fmet-tRNAi formylován – blokuje se aminoskupina- a ten je po začlenění deformylován na metionin, který může být z N konce polypeptidu odstraněn",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "167. Iniciační kodon u bakterií ",
+    "answers": [
+      {
+        "body": "AUG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "168. Intein – sestřih kde ",
+    "answers": [
+      {
+        "body": "v proteinu, peptidická vazba",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "169. Intein, co to je? ",
+    "answers": [
+      {
+        "body": "Vnitřní sekvence proteinů, která je posttranslačně autokatalyticky vyštepována při sestřihu proteinu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "170. introny druhé skupiny? ",
+    "answers": [
+      {
+        "body": "vyžadují interní A nikoli externí G a proteiny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "171. introny první skupiny? ",
+    "answers": [
+      {
+        "body": "vyžadují externí G, in vivo nutná účast maturázy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "172. izotopická exkluze? ",
+    "answers": [
+      {
+        "body": "je aktivován pouze jeden z možných typů lehkých řetězců: kapa nebo lambda, vznik monospecifické protilátky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "173. ja vzniká vlásenka",
+    "answers": [
+      {
+        "body": "Palindromatickou sekvencí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "174. jak byla dokázána semikonzervativní replikace",
+    "answers": [
+      {
+        "body": "14N, 15N, ultracentrifugace v hustotním gradientu CsCl,… 1958",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "175. jak dochází k iniciaci translace? ",
+    "answers": [
+      {
+        "body": "prokaryota – IF faktory, vazba SD na 3‘ 16S rRNA – AUG se dostává do místa P – tedy iniciace přímo na iniciační kodon, eukaryota – na čepičku se vážou IF, je vyhledán kodón pro Met, uvolní se iniciační faktory a připojí se podjednotka 60S",
+        "right": true
+      },
+      {
+        "body": "u prokaryot přímona iniciační kodon, ekaryota-naváže se na 5´konci a hledá iniciační kodon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "176. Jak dochází k přeměně IgM z membránové na sekretovanou formu? ",
+    "answers": [
+      {
+        "body": "končí transkripce na 1. terminátoru › látka neobsahuje hydrofobní AMK a uvolňuje se z buňky na úrovni transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "177. Jak je čtena mRNA ",
+    "answers": [
+      {
+        "body": "Mediátorová RNA (messenger RNA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "178. jak je ovlivňována síla promotoru? ",
+    "answers": [
+      {
+        "body": "zesilovači transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "179. Jak je průměrně velký bakteriální gen",
+    "answers": [
+      {
+        "body": "šest až osm tisíc genů (0.6-10Mb)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "180. Jak je velký prokariotický gen (0.6-10Mb)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "181. Jak může dojít k nějaké mutaci.",
+    "answers": [
+      {
+        "body": "Zmena primární struktury nukleové kyseliny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "182. jak může transpozon s(proto) onkogenem ovlinit buněčné dělení",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "183. Jak můžou retroviry způsobit rakovinné bujení",
+    "answers": [
+      {
+        "body": "Transdukce onkogenu akutne transformujícími retroviry, Inzercní aktivace protoonkogenu pomalu transformujícími retroviry",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "184. Jak nasedne AK na tRNA ",
+    "answers": [
+      {
+        "body": "pomocí tRNA,  vzniká aminoacylsyntáza, aminoacyligáza,",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "185. jak probiha proteosynteza v organelach?",
+    "answers": [
+      {
+        "body": "z genu jak jadernych tak i organelovych",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "186. Jak působí onkovirus ",
+    "answers": [
+      {
+        "body": "U onkovirů se cizorodý úsek DNA začlení do genomu hostitelské buňky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "187. jak působí p53",
+    "answers": [
+      {
+        "body": "Protein, který aktivuje oblast na DNA p21 – když se p53 aktivuje, tak se zastaví dělení.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "188. Jak se přenáší transpozon Tn3",
+    "answers": [
+      {
+        "body": "Replikativní transpozicí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "189. jak vycleneni viru z hostitelskeho genomu ",
+    "answers": [
+      {
+        "body": "excizi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "190. Jak vznika polygenni mRNA",
+    "answers": [
+      {
+        "body": "jedna její molekula vzniká přepisem vetšího počtu genu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "191. jak vzniká vlásenka se smyčkou? ",
+    "answers": [
+      {
+        "body": "palindomatická sekvence, která má vloženou nepalindormatickou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "192. jaká báze je nejčastěji v telomerách?",
+    "answers": [
+      {
+        "body": "G",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "193. jaka cast polIII je zodpovedna za reparaci DNA ",
+    "answers": [
+      {
+        "body": "epsilon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "194. jaká DNA je v rostlinných buňkách",
+    "answers": [
+      {
+        "body": "plastidová",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "195. Jaká DNA se vyskytuje v mitochondriích a jak je velká? ",
+    "answers": [
+      {
+        "body": "kružnicová i lineární, 16kb, 37 genů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "196. jaká je fce RNA polymerázy I? ",
+    "answers": [
+      {
+        "body": "syntéza pre-rRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "197. jaká je fce RNA polymerázy III? ",
+    "answers": [
+      {
+        "body": "syntéza pre-tRNA a 5S-RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "198. Jaká mutace se projeví po replikaci u potomstva, když se při replikaci vloží chybná baze kvůli tautomerii",
+    "answers": [
+      {
+        "body": "Genové (bodové) mutace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "199. jaka polymeraza je u trnaskripce eukaryot",
+    "answers": [
+      {
+        "body": "DNA polymer,RNA pol I/II/III",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "200. jaké enzymy se účastní začlenění fágového genomu do chromozomu pomocí místně specifické rekombinace? ",
+    "answers": [
+      {
+        "body": "integrál, integrační faktor hostitele, excizionáza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "201. jaké jsou eukaryotní geny",
+    "answers": [
+      {
+        "body": "složené",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "202. Jaké látky aktivují tyrozinkinázu",
+    "answers": [
+      {
+        "body": "Po navázání signální molekuly se vytvoří polypeptidový dimer a tím se aktivují tyrozinkinázové části receptoru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "203. Jaké mají motivy regulační oblasti – proteiny ",
+    "answers": [
+      {
+        "body": "leucitový zip",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "204. Jaké pořádí nukleotidů(?) má antisense RNA ",
+    "answers": [
+      {
+        "body": "komplementární k té normální mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "205. jaké proteiny se účastní počáteční fáze homolgní rekombinace? ",
+    "answers": [
+      {
+        "body": "RecBCD",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "206. jaké rna obsahují intorny ",
+    "answers": [
+      {
+        "body": "pre-mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "207. jaké sekvence ohraničují introny?",
+    "answers": [
+      {
+        "body": "(5‘ GU – AG 3‘)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "208. jaké subgeny jsou u těžkého řetězce – ",
+    "answers": [
+      {
+        "body": "L, V,C,J,D",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "209. Jako aktivátor transkripce působí: ",
+    "answers": [
+      {
+        "body": "HAT, prostřednictvím transkripčních faktorů vázaných na DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "210. jakou fci má cAMP – ",
+    "answers": [
+      {
+        "body": "tvorí kompex s CAP(induktor transkripce)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "211. jakou fci má HAT? ",
+    "answers": [
+      {
+        "body": "(koaktivátor transkripce)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "212. jakou fci má p53, kromě teho, že zastavuje buněčný cyklus? ",
+    "answers": [
+      {
+        "body": "(stimulace apoptózy, stimulace reparaceDNA) – iniciace transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "213. jakou fci ma sigma faktor. – ",
+    "answers": [
+      {
+        "body": "pomocí něho RNA polymeráza rozeznává promotory pro geny kódující proteiny (indukovatelné teplem)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "214. Jakou roli má RISC při RNA interferenci",
+    "answers": [
+      {
+        "body": "rozštěpí cílové mRNA, způsobí rozdělení krátké dvoušroubovice siRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "215. jaký enzym je u excizní bázové reparace – ",
+    "answers": [
+      {
+        "body": "DNA glykosyláza, 5´-AP endonukleáza, DNA polymeráza I/ß",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "216. Jaký enzym působí na rozklad Hollidayova spoje ",
+    "answers": [
+      {
+        "body": "(RuvC) – Rus-protein",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "217. Jaký enzym transkribuje tRNA",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "218. Jaký enzym způsobuje vydělení fága lambda z genomu–",
+    "answers": [
+      {
+        "body": "excizionáza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "219. jaký genom má HIV – ",
+    "answers": [
+      {
+        "body": "diploidní RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "220. Jaký genom odpovídá Fugu rubripes (na výběr kytky, obratlovci...)",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "221. Jaký je genom mitochondrií –",
+    "answers": [
+      {
+        "body": "37 genů, 16 569bp u člověka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "222. Jaký je následek zařazení báze v nestabilní tautomerní formě (nebo tak nějak) (na výběr substituce, delece, inzerce...)",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "223. Jaký je nejčastější konec... a teď nevím, jestli u telomer nebo transpozonů :) (na výběr různé druhy repetic, opakování bazí...)",
+    "answers": [
+      {
+        "body": "u telomer:TTAGGG T2A1G3 5´-GGGATT 3´",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "224. jaký je rozdíl mezi startovacím nukleotidem a iniciačním kodonem? ",
+    "answers": [
+      {
+        "body": "(iniciační kodon iniciuje translaci, startovací nukleotid transkripci)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "225. Jaký je správný vzorec na výpočet L ",
+    "answers": [
+      {
+        "body": "(různé kombinace L=T+W, L=T/W....)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "226. Jaký je začátek replikace u chromozomu oriC u E. coli – ",
+    "answers": [
+      {
+        "body": "délka 245bp, L,M,R jsou 13bp sekvence GATCTNTTNTTTTT, 1,2,3,4 jsou 9bp sekvence TTATNCANA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "227. jaký typ NK má HIV? ",
+    "answers": [
+      {
+        "body": "(RNA pozitvní)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "228. jak se reparují pyrimidinové dimery? ",
+    "answers": [
+      {
+        "body": "(fotoreaktivací)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "229. ještě jednou: co probíhá u prokaryot rychleji? replikace bo transkripce?",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "230. k cemu je Shine-Dalgarnova sekvence? ",
+    "answers": [
+      {
+        "body": "(k navazani mRNA na 3´ konec 16SRNA 30S podjednotky) – u bakterií k nalezení start kodonu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "231. k čemu je čepička na 5‘ konci? ",
+    "answers": [
+      {
+        "body": "(ochrana před štěpením ribonukleázami + rozpoznání 5‘ mRNA pro translaci › čepička je rozpoznána proteinem › nasedne ribozom)?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "232. k čemu je polyA konec? ",
+    "answers": [
+      {
+        "body": "(signalizuje, že je gen kompletně přepsán) , hotový 3´konec mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "233. k čemu je ró faktor? ",
+    "answers": [
+      {
+        "body": "(pohybuje se po mRNA, rozmotává hybridní DNA-RNA, připojuje se k sekvenci terminátoru – terminace transkripce a uvolnění RNA polymerázy i faktoru z mRNA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "234. k čemu je sigma faktor? ",
+    "answers": [
+      {
+        "body": "(váže se na RNA polymerázu, umožňuje její navázání na promotor) iniciace transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "235. k čemu se váže transkripční faktor TFIID + fce? ",
+    "answers": [
+      {
+        "body": "(TATA box = Hognesův box, obsahuje TBP protein a ten způsobuje ohyb DNA, je to důležité pro navázání RNA polymerázy II na promotor)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "236. k jakým změnám signálu může dojít během jeho přenosu signální kaskádou",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "237. k přeskupení subgenů dochází na úrovní  ",
+    "answers": [
+      {
+        "body": "DNA?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "238. K replikaci DNA se používá mimo jiné: ",
+    "answers": [
+      {
+        "body": "DNA-polymeráza, DNA-ligáza (v ostatních odpovědích i RNA-polymeráza=blbost)nukleáza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "239. Kalmodulin –",
+    "answers": [
+      {
+        "body": "je aktivovan Ca inoty?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "240. Kam patří HIV–",
+    "answers": [
+      {
+        "body": "retroviry",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "241. Kam se připojuje polyA – ",
+    "answers": [
+      {
+        "body": "3´poly(A) na mRNA 3´konec hnRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "242. kam se vaze kortisol",
+    "answers": [
+      {
+        "body": "(primo na DNA) ?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "243. kam se vaze TFIID, HAT, co ma HAT za funkci a kde",
+    "answers": [
+      {
+        "body": "(na  TATA box, koaktivator transkripce)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "244. kam se vazi transkripcni faktory(maly /velky zlabek/3konec/5konec)",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "245. Kam se váže FIIH (na výběr P.box, H. box, polymeráza I a III)",
+    "answers": [
+      {
+        "body": "polymeráza II",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "246. kde je nejrychlejší replikace",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "247. kde probiha sestrih u E.C",
+    "answers": [
+      {
+        "body": "(jadro,jadermo cytoplasma,ER)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "248. kde probíhá sestřih –",
+    "answers": [
+      {
+        "body": "po vazbě aktivátoru na RNA, primární transkript hnRNA eukaryota",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "249. kde receptory sprazene s G-proteiny ",
+    "answers": [
+      {
+        "body": "(transmembranove) ?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "250. kde všude mají rostliny NK",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "251. Kde vzniká polygenní mRNA – ",
+    "answers": [
+      {
+        "body": "u prokaryot",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "252. kde začíná a kde končí transkripční jednotka? ",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "253. kdy byl poprvé komletne vyřešen genetický kód–",
+    "answers": [
+      {
+        "body": "1966",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "254. kdy byla popsána struktura DNA? ",
+    "answers": [
+      {
+        "body": "1953",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "255. Kdy bylo dokázáno, že DNA je nositelkou gen. Inf. – ",
+    "answers": [
+      {
+        "body": "1944?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "256. Kdy bylo experimentálně dokázáno, že přenos informace z R do S buněk zprostředkovává DNA–",
+    "answers": [
+      {
+        "body": "1944",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "257. Kdy dochází k atenuaci tryptofanového operonu? ",
+    "answers": [
+      {
+        "body": "Když se předčasně ukončí transkripce v nadbytku tryptofanu ?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "258. Kdy je hodnota Tm nejvyšší?  ",
+    "answers": [
+      {
+        "body": "(G-C 75%) ?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "259. Kdy může dojít k nekontrolovatelnému dělení buněk ",
+    "answers": [
+      {
+        "body": "(Varianty s různou funkcí p53 a p21, pak něco s transkripcí...) ?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "260. kdy se exemlarne dokazala strikturra dna",
+    "answers": [
+      {
+        "body": "(rozmezi let 1940-1950..)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "261. kdy se váže sigma faktor na RNA polymerázu? ",
+    "answers": [
+      {
+        "body": "(na začátku – iniciace transkripce, po přepisu 5 nukleotidů se uvolní a paxe zase váže při terminaci)?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "262. Kdy se vyštěpuje D a J , na jaké úrovni ",
+    "answers": [
+      {
+        "body": "(DNA) asi správně",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "263. Když je geneticky upravená rostlina označena jako RB: ",
+    "answers": [
+      {
+        "body": "(tak je odolná proti hmyzu, herbicidům, pleveli a něco…)?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "264. Když je přítomná laktóza a nepřítomná glukóza, tak se bude transkribovat gen pro enzym zpracovávající laktózu protože: cAMP+CAP se váže na promotor a represor není přítomen asi",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "265. kedy bolo exp. dokazane, ze prenos gen. informacie je sprostredkovany DNA ",
+    "answers": [
+      {
+        "body": "40-te az 50te averyho testom)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "266. Koaktivátor transkripce je? ",
+    "answers": [
+      {
+        "body": "(HAT; koaktivátor na DNA se váže nepřímo přes transkripční faktor)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "267. Kód iniciačního kodonu",
+    "answers": [
+      {
+        "body": "(AUG)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "268. kolik % genů je přepisováno",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "269. Kolik % produktů gen.exprese připadá na proteiny? ",
+    "answers": [
+      {
+        "body": "40% asi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "270. Kolik genů má člověk v mitochodrii",
+    "answers": [
+      {
+        "body": "37",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "271. Kolik genů má lidský genom – ",
+    "answers": [
+      {
+        "body": "26 500",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "272. Kolik hypervariabilních domén z kolika aminokys. je ve variabilní doméně lehkého řetězce – ",
+    "answers": [
+      {
+        "body": "5-10 AK",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "273. Kolik je % transkribujících se genů v geonomu člověka?  ",
+    "answers": [
+      {
+        "body": "33%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "274. Kolik je aa – tRNA syntetáz–",
+    "answers": [
+      {
+        "body": "20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "275. Kolik je bifunkčních kodonů(1,2,3,64)",
+    "answers": [
+      {
+        "body": "UGA, UAG, AUG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "276. Kolik je čtecích rámců u ssDNA : ",
+    "answers": [
+      {
+        "body": "(1, 3, 6, podle počtu bazí)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "277. Kolik je mutací v mitochondriích vzhledem k jaderné DNA",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "278. Kolik je řádově V-subgenů na lehkém řetězci (stovky - 150) – ",
+    "answers": [
+      {
+        "body": "30-70",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "279. kolik je STOP kodonů (2+1) – ",
+    "answers": [
+      {
+        "body": "UAA, UAG, AUG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "280. kolik je terminacnich kodonu ",
+    "answers": [
+      {
+        "body": "2+1 to isté ako280.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "281. Kolik je t-RNA v mitochondriich ",
+    "answers": [
+      {
+        "body": "(22)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "282. Kolik kodonů bakterie ",
+    "answers": [
+      {
+        "body": "(64)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "283. kolik kodonů je v mitichondriích",
+    "answers": [
+      {
+        "body": "(64),",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "284. Kolik kodonu maji prokaryota ",
+    "answers": [
+      {
+        "body": "64",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "285. kolik má asi člověk genů",
+    "answers": [
+      {
+        "body": "25 000",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "286. jak vypada pocatek u E.C",
+    "answers": [
+      {
+        "body": "rovnaký počet počátků 1 replikon o velikosti 4200kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "287. kolik procent produktů genové exprese připadá na proteiny? ",
+    "answers": [
+      {
+        "body": "asi 40",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "288. kolik t-RNA je v buňce? ",
+    "answers": [
+      {
+        "body": "(tolik,  kolik je antikodonů) 22-45 molekulárních druhů (tj. antikodonů)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "289. Kolísavé párování bází: ",
+    "answers": [
+      {
+        "body": "páruje se část antikodonu s některým písmenem kodonu podle pravidel o kolísavém párování bází",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "290.  kolísavé párování bází? ",
+    "answers": [
+      {
+        "body": "(je na 5‘ antikodonu = první báze antikodonu, tzn. část antikodonu se páruje s jinou bází dle pravidel kolísavého párování bází)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "291. kolik je trasnestreifikací při sestřihu",
+    "answers": [
+      {
+        "body": "2",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "292. Konzervativní transpozice ",
+    "answers": [
+      {
+        "body": "vyštěpení transpozonu bez replikace a přenos jinam",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "293. Korektorkou aktivitu RNA-polymerázy má: ",
+    "answers": [
+      {
+        "body": "epsilon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "294. Korektorská aktivita RNA-polymerázy je ve směru ",
+    "answers": [
+      {
+        "body": "3´-5´",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "295. korektorská aktivta DNA polymerázy u prokaryot?",
+    "answers": [
+      {
+        "body": "(epsilon podjednotka(monomer), 3-5 exonukleázová aktivita)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "296. korektorskou aktivitu polymerazy III.ma – ",
+    "answers": [
+      {
+        "body": "epsilon podjednotka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "297. kortizol se jako signální molekula váže? ",
+    "answers": [
+      {
+        "body": "(receptor v cytoplasmě, pač je to steriodní tedy lipofilní hormon)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "298. která (podjednotka) DNA-polymerázy reparuje DNA? ",
+    "answers": [
+      {
+        "body": "(beta – syntetizuje krátké řetězce při reparaci)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "299. která DNA polymeráza katalyzuje syntézu  nového řetězce a ok. fragm?",
+    "answers": [
+      {
+        "body": "(DNA polymeráza III – pozn. má gama a beta podjednotku)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "300. Která podjednotka DNA-polymerázy reparuje DNA: ",
+    "answers": [
+      {
+        "body": "beta-podjednotka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "301. která podjednotka katalyzuje replikaci u eukaryot? ",
+    "answers": [
+      {
+        "body": "(polymeráza alfa + primáza + polymeráza delta)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "302. která podjednotka, resp. která polymeráza eukaryotické DNA polymerázy reparuje?",
+    "answers": [
+      {
+        "body": "(beta)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "303. ktera polymeraza atalyzuje transkripci strukturnich genu",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "304. která polymeráza katalyzuje odbourání primerů? ",
+    "answers": [
+      {
+        "body": "(DNA polymeráza I)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "305. která polymeráza katalyzuje replikaci u prokaryot? ",
+    "answers": [
+      {
+        "body": "DNA pol III",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "306. která polymeráza katalyzuje transkripci strukturních genů? ",
+    "answers": [
+      {
+        "body": "(polymeráza II - eukaryota)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "307. které části Ig řetězců jsou zodpovědné za vazbu antigenu?",
+    "answers": [
+      {
+        "body": "(VDJ) – hypervariabilní oblast ,lehký ř.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "308. které enzymy se podílí na syntéze Okazakiho fragmentů",
+    "answers": [
+      {
+        "body": "DNA polymerázy, nukleázy, ligázy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "309. které polymerázy mají exonukleázovou aktivitu? ",
+    "answers": [
+      {
+        "body": "(alfa a delta – obě mají 3-5exonukleázovou aktivitu)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "310. ktere sekvence ohranicuji intron  ",
+    "answers": [
+      {
+        "body": "(GU – AG)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "311. ktere skupiny subgenu jsou soucasti tezkeho retezce Ig L-",
+    "answers": [
+      {
+        "body": "VDJC",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "312. které subgeny má těžký řetězec",
+    "answers": [
+      {
+        "body": "L-VJDC",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "313. ktere z nasledujicich sekvenci jsou palindromaticke?",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "314. ktery enzym katalyzuje nakladani aa na tRNA",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "315. který enzym katalyzuje nakládání AMK na tRNA?",
+    "answers": [
+      {
+        "body": "aminoacyltRNA syntetáza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "316. Který je modelový org. vývojové biologie vzhledem ke známému počtu buněk",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "317. který virus má segmentovaný genom?",
+    "answers": [
+      {
+        "body": "chřipka – je to něco jako několik malých chromozomů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "318. laktózový operon",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "319. Lehký řetězec imunoglobulinu",
+    "answers": [
+      {
+        "body": "chybí D,….",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "320. Mezi jaké regulátory patří cAMP : ",
+    "answers": [
+      {
+        "body": "cyklický regulátor adenosinmonofosfátu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "321. Množství jaderných genů, které   regulují, prokazují?   genetickou aktivitu mitochondrií",
+    "answers": [
+      {
+        "body": "9, 90 asi, 900 nebo 235",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "322. mobilizovatelné plazmidy?",
+    "answers": [
+      {
+        "body": "lze přenos za přítomnosti konjugativnío plazmidu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "323. Modelový organismus vývojová biologie : ",
+    "answers": [
+      {
+        "body": "C.elegans?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "324. modelovým organismem pro genom obratlovců je",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "325. motivy regulačních proteinů?",
+    "answers": [
+      {
+        "body": "HTH, HLH",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "326. mRNA je čtená od ",
+    "answers": [
+      {
+        "body": "5’-3’ po jednotlivých kodonech",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "327. Mutace na genech v mitochodrii",
+    "answers": [
+      {
+        "body": "a)mají stejnou/menší/větší četnost jako na genomu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "328. Mutagenní vlastnosti analogů bází spočívají v: ",
+    "answers": [
+      {
+        "body": "začleňování do DNA při její replikaci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "329. N terminální úseky histonů jsou modifikovány: ",
+    "answers": [
+      {
+        "body": "fosforylací, acetylací, metylací",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "330. Na co se váže protismyslná RNA",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "331. Na co se váže TFIID:",
+    "answers": [
+      {
+        "body": "TATA?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "332. Na čem závisí rychlost přepisu? ",
+    "answers": [
+      {
+        "body": "V odpovědích pouze vzdálenosti něčeho od něčeho - vybrat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "333. Regulátor SOS odpovědi u E.coli: ",
+    "answers": [
+      {
+        "body": "represor LexA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "334. na jakem retezci se syntetizuji Okazakiho fragmeny - 3-5 nebo 5-3?",
+    "answers": [
+      {
+        "body": "5´-3´",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "335. na jakém řetězci probíhají změny týkající se membránové bo sekretované formy",
+    "answers": []
+  },
+  {
+    "name": "336. Na které úrovni dochází k vyštěpení V-D-J z ig řetězce?",
+    "answers": [
+      {
+        "body": "DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "337. na kterem retezci probiha synteza m-RNA - poz./neg. od 3/5 konce?",
+    "answers": [
+      {
+        "body": "neg. od 3´",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "338. nadšroubovicové vinutí DNA vzniká",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "339. Něco jako co způsobuje onkovirus po začlenění do hostit.b.",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "340. neco jako N- terminalni konec polypeptidu je upravovan ...a moznosti byly N-tenimalni peptidaza, N-iniciacni peptidaza a jeste dve ... to jsem nevedela",
+    "answers": []
+  },
+  {
+    "name": "341. Něco o směru translace mRNA:",
+    "answers": [
+      {
+        "body": "od 5' ke 3' konci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "342. něco s bakteriofágem lambda.. (viriony obsahují lineární dsDNA s kohezními konci, je oktaedrické symetrie)",
+    "answers": []
+  },
+  {
+    "name": "343. neco s bakteriofagem-zda vznika konkatemer a jak vypada",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "344. Něco s editací RNA",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "345. Něco s galaktózovým operonem - co se děje když je allolaktóza a není k dispozici",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "346. Něco s glukozou a b – galaktozou při mutaci represoru a operonu, něco s aktivací Crp",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "347. Něco s receptory s tyrozinkinázovou aktivitou (Jsou tam rozepsané jednotky intra/trans/extra a co která dělá, máš určit správnou variantu)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "348. Něco ve smyslu: Mějme mutaci genu lac-stále se transkribuje bez přítomnosti induktoru-a ptal se co je zmutovane-jestli ten represor ze se porad vaze na gen,nebo nevaze,nebo DNA polymeraza,nebo jeste neco ",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "349. Nějaká úprava histonů (acetylace, methylace, fosforylace,..)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "350. Nějaký regulační protein – jestli se váže přímo nebo nepřímo",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "351. Nejrychlejší postup replikační vidlice",
+    "answers": [
+      {
+        "body": "bakterie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "352. Nukleozomy ",
+    "answers": [
+      {
+        "body": "drží pohromadě pomocí H1",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "353. Obrácená repetice (vypsány varianty souborů nukleotidů – vybrat obr.repetici)",
+    "answers": []
+  },
+  {
+    "name": "354. odbourávání primerů provádí?",
+    "answers": [
+      {
+        "body": "DNA polymeráza I",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "355. Onkogeny vznikají:",
+    "answers": [
+      {
+        "body": "mutací z protoonkogenů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "356. Oprava špatné báze",
+    "answers": [
+      {
+        "body": "rozpoznání glykolázou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "357. Označení BT rostliny znamená:",
+    "answers": [
+      {
+        "body": "že rostliny obsahují toxin z bakterií (dalšímožnosti: gen bakterií), který působí proti hmyzu (další možnost proti např.plevelu nebo nevím čemu...)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "358. p53=protein, který aktivuje oblast na DNA p21 – ",
+    "answers": [
+      {
+        "body": "když se p21 aktivuje, tak se zastaví dělení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "359. Paradox hodnoty C? u koho je a jak se projevuje",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "360. plazmidy schopné irreverzibilní integrace do hostitelského chromozomu",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "361. Plazmidy, kt.se mohou začlenovat",
+    "answers": [
+      {
+        "body": "epizomální",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "362. pocet hypervariabilnich oblasti o lehkeho rezetce ",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "363. pocet kodonu u prokaryot",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "364. počet aminoacyl-tRNA syntetáz?",
+    "answers": [
+      {
+        "body": "stejně jako počet standardních AMK, tedy 20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "365. počet bifunkčních kodonů je?",
+    "answers": [
+      {
+        "body": "3 › jeden iniciační a dva terminační UAG, UGA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "366. Počet genů a tRNA v mitochodriích člověka??",
+    "answers": [
+      {
+        "body": "22 a 37",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "367. počet genů člověka?",
+    "answers": [
+      {
+        "body": "úplná sekvence stanovena 2003- 26 500 genů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "368. Počet hypervariabilních oblastí lehkého řetězce ig a jejich celkový počet aminokyselin2 a 30, 2 a 60, 3 a 30, 3 a 60",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "369. počet kodónů v mitochondriích?",
+    "answers": [
+      {
+        "body": "64, ale 4 z nich mají jiný smysl",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "370. počet terminačnich kodonu:",
+    "answers": [
+      {
+        "body": "3",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "371. počet tRNA mitochondrií",
+    "answers": [
+      {
+        "body": "22",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "372. počet V subgenů lehkých řetězcích je v řádu?",
+    "answers": [
+      {
+        "body": "stovek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "373. počet V subgenů v těžkých řetězcích?",
+    "answers": [
+      {
+        "body": "1000",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "374. podle čeho se přepisuje hnRNA",
+    "answers": [
+      {
+        "body": "?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "375. Podle kterého řetězce se kóduje a v kterém směru DNA – nebo mRNA ",
+    "answers": [
+      {
+        "body": "podľa 3´- 5´ , podla negativneho retazca",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "376. Pokud je více transpozonu tak co to muze vytvorit-",
+    "answers": [
+      {
+        "body": "jsou to stejne sekvence tak jsem zaskrt ze se oblast mezi nimi muze deletovat.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "377. posttranslační úpravy?",
+    "answers": [
+      {
+        "body": "(kotranslační, posttranslační, sestavování, samosestavování)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "378. Pri alternativnim sestrihu jak se rika jednotce ktera muze a nemusi byt prepsana-",
+    "answers": [
+      {
+        "body": "jeis alternativni exon,nebo alternativni intron a jine podivnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "379. pri replikaci faga lambda vznika–",
+    "answers": [
+      {
+        "body": "konkatemer",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "380. primáza?",
+    "answers": [
+      {
+        "body": "enzym, katalyzující syntézu RNA primerů bez potřeby 3OH konce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "381. proč funguje samosestřih",
+    "answers": [
+      {
+        "body": "ribozymova aktivita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "382. Proč vzniká přímá repetice po začlenění traspozonu",
+    "answers": []
+  },
+  {
+    "name": "383. prokaryotický ribozom?",
+    "answers": [
+      {
+        "body": "70S › 50S (5S a 23S) + 30S (16S)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "384. Promotorová oblast bakterií",
+    "answers": [
+      {
+        "body": "30 Hognesům, - 10 Priwbnovův",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "385. promutagen-",
+    "answers": [
+      {
+        "body": "je latka ktera pomaha premene na mutagen, se premenuje na mutagen=to je asi spravne...a jeste nejake dve nesmyslne odpovedi...",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "386. Protein p21 – funkce",
+    "answers": []
+  },
+  {
+    "name": "387. Protenkináza, receptor když má zda je intracelulární, transmembránová, extracelulární?",
+    "answers": [
+      {
+        "body": "Extracelularni",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "388. Prozajištění fungování mitochodtií je vyžadováno:",
+    "answers": [
+      {
+        "body": "90genů lokaliz. v jad.genomu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "389. prumerna velikost genomu prokaryot",
+    "answers": [
+      {
+        "body": "asi 1Mb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "390. průměrná velikost genu u prokaryot",
+    "answers": [
+      {
+        "body": "asi 1 kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "391. přeskupení genů pomocí V-J somatické hybridizace?",
+    "answers": [
+      {
+        "body": "u lehkého řetězce, mezerníky 12/23, vznikají nepřesná spojení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "392. přeskupování genů pro těžký řetězec?",
+    "answers": [
+      {
+        "body": "1. som. rek. D-J, 2. som. rekombinace V-DJ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "393. Při alternativním sestřihu-jesi se sestřihuje jen gen jednoduchý,složený,oba...",
+    "answers": []
+  },
+  {
+    "name": "394. Při izotypické exkluzi:",
+    "answers": [
+      {
+        "body": "je aktivován pouze jeden z lehkých řetězců kapa nebo lambda",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "395. Při pseudoreverzi:",
+    "answers": [
+      {
+        "body": "se částečně obnovuje funkce mutantního genu a na výsledný produkt to nemá vliv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "396. při replikaci fága lambda vzniká?",
+    "answers": [
+      {
+        "body": "konkatemer?",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "397. Při replikaci otáčející se kružnicí–",
+    "answers": [
+      {
+        "body": "1 řetěz. zlom endonuklaázou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "398. Při sestřihu mRNA se:",
+    "answers": [
+      {
+        "body": "váže guanin na 5 konci intronu s adeninem v místě sestřihu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "399. přibližná délka bakteriálního genu",
+    "answers": [
+      {
+        "body": "1kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "400. Přibližná velikost prokar. genu",
+    "answers": [
+      {
+        "body": "1kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "401. pseudogeny : ",
+    "answers": [
+      {
+        "body": "jsou bez exonů, jen introny, s promotorem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "402. radove kolik je V oblasti lehkeho retezce kodovano v lidskem genomu",
+    "answers": [
+      {
+        "body": "(150)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "403. Receptory G-proteinů –",
+    "answers": [
+      {
+        "body": "transmembranove, povrchove",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "404. Receptory spřažené s G-proteiny a jejich aktivace:",
+    "answers": [
+      {
+        "body": "Aktivace GTP",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "405. regulace laktózového operonu",
+    "answers": [
+      {
+        "body": "inducibilní operon regulovaný negativně, strukturní geny jsou přepisovány jan za přítomnosti laktózy a nepotomnosti glukózy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "406. Regulační oblasti DNA obsahují:",
+    "answers": [
+      {
+        "body": "krátké sekvence obrácených opakování - palindromy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "407. reparace pyrimidinovych dimeru (fotoreaktivaci)",
+    "answers": [
+      {
+        "body": "jedná se o mutaci indikovanou UV zářením..Zpusobuje tvorbu pyrimidinových dimeru( nejčastěji T-T, méně C-T nebo C-C). v rámci jednoho vlákna DNA vytvořením cyklobutanového kruhu -\u003e změna 3D struktury DNA-\u003e inhibice replikac a transkripce.",
+        "right": true
+      },
+      {
+        "body": "DNA fotolysa opravuje pyrimidinové dimery, energii získává z viditelné části světla",
+        "right": false
+      },
+      {
+        "body": "enzym poškozené místo pozná, opraví a poté disociuje",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "408. replikace plazmidů otáčející se kružnicí, který enzym je zodpovědný za syntézu primeru? (nedochází k syntéze primerů, ale v místě ori se přeruší řetězec Rep-proteinem a vznikne volný 3OH konec)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "409. replikace probíhá nejrychleji u bakterií",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "410. represe Lac operonu",
+    "answers": [
+      {
+        "body": "(jak to vypadá když je v buňce laktóza a není glukóza tak transkripci prebieha, nenaviaže sa represor ale naviaže sa cAMP),",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "411. RISC protein-",
+    "answers": [
+      {
+        "body": "při RNA interferenci degraduje jednovláknovou RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "412. RNA-polymeráza",
+    "answers": []
+  },
+  {
+    "name": "413.\tRozklad Hallidayovy struktury zprostředkovává ",
+    "answers": [
+      {
+        "body": "resolvázy RuvC a RuvG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "414. rozpoznání místa ori?",
+    "answers": [
+      {
+        "body": "(dnaA proteiny)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "415. Rychlost replikační vidlice",
+    "answers": [
+      {
+        "body": "nejvyšší bakterie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "416. samosestřih",
+    "answers": [
+      {
+        "body": "autokatalytický proces nevyžadující proteiny in vitro, RNA schopná samosestřihu = RIBOZYM",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "417. sekvence antisense RNA",
+    "answers": [
+      {
+        "body": "Antisense RNA (aRNA) je RNA, která je komplementární k určitému řetězci mRNA. Znamená to, že místo adeninu má antisense RNA uracil, místo uracilu adenin, místo guaninucytosin a místo cytosinu guanin. Například k řetězci „AGUCAUG“ je komplementární řetězec „UCAGUAC“.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "418. Sekvence ohraničující introny",
+    "answers": [
+      {
+        "body": "GU – AG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "419. Sestrih u E.coli ",
+    "answers": [
+      {
+        "body": "pomoci spec. Endonukleazy..",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "420. Sestřih",
+    "answers": [
+      {
+        "body": "2-5, vazba A z větvícího se místa s G na 5‘ konci exonu, 2 transesterifikace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "421. sigma podjednotka - kdy se vaze na zbytek jednotky",
+    "answers": []
+  },
+  {
+    "name": "422. signalni kaskada ",
+    "answers": [
+      {
+        "body": "dojde k rozdeleni signalu na vice mist",
+        "right": true
+      },
+      {
+        "body": "Postupný přenos signálu prostřednictvím řetězce proteinových molekul, realizovaný kupř. fosforylací a defosforylací",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "423. sílu promotoru závisí na",
+    "answers": [
+      {
+        "body": "zesilovači transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "424. slozene transpozony ",
+    "answers": [
+      {
+        "body": "obsahují dvě IS sekvence, z nichž jedna kóduje funkční transponázu (jedna může být nefunkční)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "425. Složky u replikace – ne RNA polymeráza, DNA helikáza, nebo ligáza?",
+    "answers": []
+  },
+  {
+    "name": "426. směr korektorské aktivity DNA pol. při replikaci",
+    "answers": [
+      {
+        "body": "3'-5'",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "427. součástí prokaryotické RNA polymerázy je:",
+    "answers": [
+      {
+        "body": "alfa, beta a sigma podjednotka – ta podmiňuje vazbu k promotoru a po rozpoznání počátku transkripce se odpojí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "428. specificke transkripcni faktory – ",
+    "answers": [
+      {
+        "body": "Transkripční faktory (TF) jsou proteiny, které se spolupodílejí na iniciaci transkripce",
+        "right": true
+      },
+      {
+        "body": "promotor – část DNA v blízkosti genu (RNA sekvence bazí, které mají specifické vazební body pro RNA-polymerázu), která se podílí na regulaci jeho exprese (např. TATA box, CAT box)",
+        "right": true
+      },
+      {
+        "body": "síla promotoru – schopnost promotoru iniciovat transkripci, spočívá v afinitě oblasti promotoru k RNA-polymeráze. Na síle promotoru závisí frekvence transkripce přilehlého genu. Silné promotory mají sekvence v oblasti –35 a –10 (Pribnow box) shodné s konvenční sekvencí, čím víc se od konvenční sekvence odlišují, tím je promotor slabší.",
+        "right": true
+      },
+      {
+        "body": "operátor – regulační oblast na DNA, která leží mezi promotorem a počátkem transkripce. Navázání aktivního represoru na operátor blokuje transkripci a tím i expresi strukturních genů.",
+        "right": true
+      },
+      {
+        "body": "enhancer – sekvence DNA, která váže aktivační faktory",
+        "right": true
+      },
+      {
+        "body": "silencer – sekvence DNA, která váže inhibiční faktory",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "429. ss mRNA je stejná jako (na výběr -DNA, nepřekládaná DNA...)",
+    "answers": []
+  },
+  {
+    "name": "430. Struktura DNA byla experimentálně dokázána? ",
+    "answers": [
+      {
+        "body": "1944, averyho testem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "431. supresorsenzitivní mutace je?",
+    "answers": [
+      {
+        "body": "mutace, která může být „vynulována“ supresorovou mutací",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "432. Synonymni kodony",
+    "answers": [
+      {
+        "body": "jsou kodony které kodují jednu aminokyselinu. Často se liší jen ve třetí basi nukleotidového tripletu; některé druhy tRNA mohou rozpoznávat několik těchto kodonů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "433. synonymní mutace znamená? ",
+    "answers": [
+      {
+        "body": "nemění smysl kodonu a nezpusobuje záměnu aminokyseliny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "434. syntéza okazakiho fragmentů u prokaryot",
+    "answers": [
+      {
+        "body": "nakládání DNA polymerázy III na opožďující se řetězec,beta svorka stabilizuje a gama komplex nakládá beta svorku na alfa podjednotku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "435. telomeráza doreplikovává? (3‘ konce matricového vlákna podle templátu, který je její součástí, poté se doreplikuje část vlákna nového – vznikne volná 3OH skupina  a dosyntetizuje se dceřinné vlákno › prodlužuje tedy 3‘ konce matrice aby se mohl dosyntetizovat 5‘ konec dceřinného s okazakiho frgmenty)",
+    "answers": []
+  },
+  {
+    "name": "436. telomeráza? (reverzní transkriptáza – syntéza 3’konců DNA dle RNA)",
+    "answers": [
+      {
+        "body": "Telomeráza (TERT) je enzym pracující jako reverzní transkriptáza, který je schopen prodlužovat samotné konce eukaryotickýchchromozomů (tzv. telomery). Je to velký ribonukleoproteinový komplex (tzn. komplex složený z RNA a bílkovin) o molekulové hmotnosti kolem 500 kDa.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "437. terminace s ro faktorem",
+    "answers": [
+      {
+        "body": "Je to protein, určitá jehož koncentrace je třeba k zakončení transkripce na některých terminátorech. Tato pozorování zatím nebyla potvrzena in vivo.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "438. TFIID – bazalny transkripcny faktor",
+    "answers": [
+      {
+        "body": "TATA box = Hognsův box, obsahuje TBP protein a ten způsobuje ohyb DNA, je to důležité pro navázání RNA polymerázy II na promotor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "439. transesterifikace sestrihu-",
+    "answers": [
+      {
+        "body": "3´-OH exogenního G atakuje fosfodiesterovou vazbu v 5´-místě sestřihu; ta se štěpí, GMP se připojuje na  5´-konec intronu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "440. transpozomy se dvema stejne orientovany repeticemi.zda u nich delece substituce ci inzerce)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "441. Transpozon konstitutivni?Nebo tak nejak se jmenuje – jak se vyznacuje,nereplikuje se",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "442. tRNA rozpoznává",
+    "answers": [
+      {
+        "body": "jednotlivé AMK",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "443. tyrosinproteinkinázy",
+    "answers": [
+      {
+        "body": "enzymovou aktivitu má intracelulární doména",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "444. u ceho probiha alternativni sestrih(strukturni geny/geny viru/geny viru a bakterii..)",
+    "answers": [
+      {
+        "body": "u eukaryotní RNA, vzniká mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "445. u kterých organismu potupuje relikacni vidlice nejrychleji –",
+    "answers": [
+      {
+        "body": "bakterie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "446. U neregul.děj sav. buňky když 53 ……p21 (takovým způsobem hlídá děl.buňky )",
+    "answers": [
+      {
+        "body": "Protein p53 vyvolává transkripci genu proteinu p21 a ten zastavuje buněčný cyklus",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "447. upravené pseudogeny? ",
+    "answers": [
+      {
+        "body": "vznikají reverzní transkriptázou, nemají introny a ani promotor a obsahují poly A, pač vznikly přepisem mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "448. v jaké fázi dochází k přeskupení L-V subgenů s J",
+    "answers": [
+      {
+        "body": "(na úrovni DNA, před transkripcí)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "449. Vazba proteinu na mRNA, zda se tím zvýší či sníží možnost degradace mRNA",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "450. vazbou regulačního proteinu na mRNA se rychlost degradace? ",
+    "answers": [
+      {
+        "body": "(zvýší)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "451. Včlenění sekvence něčeho (asi retrovira nebo lambda) do DNA E coli… Jak se uskutečňuje- jakými enzymy a koho",
+    "answers": []
+  },
+  {
+    "name": "452. velikost prokaryotickeho genu",
+    "answers": [
+      {
+        "body": "průměrná velikost genu je 1.25kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "453. Vyber iniciační kodon= start kodon",
+    "answers": []
+  },
+  {
+    "name": "454. vyberte mutaci",
+    "answers": [
+      {
+        "body": "inzerce, delece, methylace, substituce,",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "455. vybrat z latinských názvů modelové org.?",
+    "answers": [
+      {
+        "body": "E. coli, Saccharomyces, Caenorhabditis, Drosophila, Fugu, Arabidopsis a Mus mutulu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "456. vyčlenění viru z hostitelského genomu?",
+    "answers": [
+      {
+        "body": "excizí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "457. Vyjmenované všechny histony, vybrat, který nepatří? nepochopila jsem otazku, ale v moznostech bylo H1(nepatří) ,H2A (patří), H3,H4",
+    "answers": [
+      {
+        "body": "Histony H2A, H2B, H3 a H4 tvoří vždy ve dvou kopiích oktamery, kolem nichž se obtáčí dvojšroubovicová DNA; tento útvar se nazývá nukleozom. Histon H1 je přítomen v menším množství než ostatní histony, a ačkoli je též vázán na DNA, není součástí nukleozomů. Histony se tak podílejí na uspořádání DNA v eukaryotickém chromozomu do vlákna vyššího řádu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "458. Vystřih E.coli. bakteriáfaga lambda, jakým enzymem, exicionáza………přednáška 9 z mutace, poslední",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "459. Vystřihávání intronů – lasovité struktury, co se kam váže?",
+    "answers": [
+      {
+        "body": "2´-5´ G-A …G je na 5´konci A v místě větvení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "460. vznik membránové formy IgM",
+    "answers": [
+      {
+        "body": "transkripce končí na druhém terminátoru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "461. Vznik pseudogenu",
+    "answers": [
+      {
+        "body": "dochází k sestřihu a polyadenylaci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "462. Vzorec pro celkové číslo vinutí",
+    "answers": [
+      {
+        "body": "L=T+W",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "463. Z čeho se skládá RNA-polymeráza",
+    "answers": [
+      {
+        "body": "ve všech variantách stejné podjednotky, jen rozdíly funkce u sigma jednotky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "464. zesilovace transkripce-",
+    "answers": [
+      {
+        "body": "se váží na promotor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "465. Zralá B-buňka vytváří: ",
+    "answers": [
+      {
+        "body": "pouze jeden typ protilátky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "466. Operátor",
+    "answers": [
+      {
+        "body": "regulační oblast na DNA, k níž se váže reg. protein/represor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "467. Epizomální plazmidy",
+    "answers": [
+      {
+        "body": "začleňují se",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "468. ssDNA",
+    "answers": [
+      {
+        "body": "3 čtecí rámce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "469. dsDNA –",
+    "answers": [
+      {
+        "body": "6 čtecích rámců",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "470. Fce komplexu RISC v rámci RNA interference – rozpoznání a degradace ssRNA (např.mRNA), jejichž sekvence je stejná jako u siRNA (ale tohle jsme na 100% nevěděli ?).. je to něco s siRNA",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "471. Geneticky modifikovaná rostlina BT obsahuje",
+    "answers": [
+      {
+        "body": "GEN kódující bakteriální toxin, který zabezpečuje osolnost proti hmyzu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "472. Transkripční jednotka u bakt. je vymezena (???)– vlevo startovacím nt a vpravo terminátorem",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "473. Okazakiho fragmenty jsou – ",
+    "answers": []
+  },
+  {
+    "name": "474. Na koncích mobil. elementů (transpozonů) se obvykle nacházejí",
+    "answers": []
+  },
+  {
+    "name": "475. Vlásenka ",
+    "answers": []
+  },
+  {
+    "name": "476. Var. obl. lehkého ř. protilátky obsahuje (???)– 3 hypervariabilní obl. dohromady tvořené asi 30 AMK",
+    "answers": []
+  },
+  {
+    "name": "477. Sousední nukleozomy jsou vzájemně spojeny",
+    "answers": [
+      {
+        "body": "H1",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "478. Antisens RNA přepisovaná z konkrétního úseku dsDNA je komplementární k mRNA",
+    "answers": []
+  },
+  {
+    "name": "479. Mezi mutace nepatří",
+    "answers": [
+      {
+        "body": "methylace bází v sekv. DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "480. Alternativní sestřih",
+    "answers": [
+      {
+        "body": "složené geny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "481. Alosterický efektor může navodit",
+    "answers": [
+      {
+        "body": "konformační změnu reg. proteinu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "482. Alter. sestřih příslušného genu vede",
+    "answers": [
+      {
+        "body": "ke vznikku proteinů, kt. mají PODOBNÉ fce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "483. Samosestřih: primární transkript ",
+    "answers": [
+      {
+        "body": "MÁ vlastnosti ribozymu a může probíhat BEZ účasti proteinového enzymu (takhle by to mělo být dobře)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "484. Během iniciační fáze translace se – u bakt. inic. komplex tvoří přímo na sekvencích ohraničujících AUG",
+    "answers": []
+  },
+  {
+    "name": "485. Supresorová tRNA",
+    "answers": [
+      {
+        "body": "má antikodon, kt. se páruje s terminačním kodonem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "486. Induktor ",
+    "answers": [
+      {
+        "body": "negativní alosterický efektor a pozitivní regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "487. Kopresor –",
+    "answers": [
+      {
+        "body": "pozitivní aloster. efektor a negativní regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "488. cAMP",
+    "answers": [
+      {
+        "body": "pozit. alosterický efektor a pozit. regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "489. Represor",
+    "answers": [
+      {
+        "body": "neg. aloster. efektor, neg. regulátor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "490. HIV- ",
+    "answers": [
+      {
+        "body": "obsahuje  RNA pozitivní nukleové kyseliny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "491. Promutagen ",
+    "answers": [
+      {
+        "body": "měnící se na mutagen",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "492. HIV patří mezi",
+    "answers": [
+      {
+        "body": "retrotranspozony a jeho DNA!!! (to byl často chyták, ptže HIV je jinak z RNA, ale přepisuje se do DNA a poté se teprve začleňuje) se začleňuje do genomu hostitele",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "493. Proteosyntéza v organelách je zajištěna",
+    "answers": [
+      {
+        "body": "genom organel i jaderného genomu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "494. Přesmyk imunoglobulinu z třídy M na D ???",
+    "answers": []
+  },
+  {
+    "name": "495. Orizom ",
+    "answers": [
+      {
+        "body": "struktura počátku replikace u kvasinek, jedná se o soubor proteinů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "496. Korekturská aktivita DNA polymerázy ",
+    "answers": [
+      {
+        "body": "ve směru 5–3, jednotka epsilon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "497. Syntézu hnRNA katalyzuje",
+    "answers": [
+      {
+        "body": "RNA-pol II",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "498. Přímé repetice v cílovém místě po začlenění transpozonu",
+    "answers": [
+      {
+        "body": "jsou důsledkem působení reparačních mechanismů po začlenění transpozonu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "499. Vyčlenění genomu fága lambda",
+    "answers": [
+      {
+        "body": "díky enzymu excizionáza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "500. Nt sekvence mRNA vytvořená přepisem z urč. úseku genomové dsDNA je stejná jako (nehledě na T--U) ",
+    "answers": [
+      {
+        "body": "sekvence kódujícího ř. DNA tohoto úseku (s výjimkou úseku kódujícího signální sekvenci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "501. Bakteriální chromozom se nachází",
+    "answers": [
+      {
+        "body": "vlevo (proti směru transkripce) od startovacího nt",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "502. Indukovatelná trankripce u eukaryot vyžaduje ",
+    "answers": [
+      {
+        "body": "obecné i indukovatelné specifické transkripční faktory",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "503. Rozvolnění komplexu DNA-histony během inic. transkripce ¨",
+    "answers": [
+      {
+        "body": "díky acetylaci histonů pomocí HAT",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "504. Paradox hodnoty C ",
+    "answers": [
+      {
+        "body": "u eukaryot množství genomové DNA neodpovídá celkové komplexitě organismů",
+        "right": true
+      },
+      {
+        "body": "neplatí pro prokaryotu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "505. Onkogenní retrovitry mohou vyvolat neregulovaný růst buněk např. ",
+    "answers": [
+      {
+        "body": "přenesením (proto)onkogenu z jedné buňky do jiné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "506. L=T+W – jedná se o parametry nadšroubovice (celkové vinutí)",
+    "answers": [
+      {
+        "body": "L= celkové číslo vinutí, celkový počet závitu či překřížení jednoho řetězce druhým v nadšroubovici",
+        "right": true
+      },
+      {
+        "body": "T= dvoušroubovicové číslo, počet závitu či překřížení jednoho řetězce druhým v dvoušroubovici.",
+        "right": true
+      },
+      {
+        "body": "W= nadšroubovicové číslo, počet nadšroubovicových závitů či překřížení dvoušroubovice v nadšroubovici.",
+        "right": true
+      },
+      {
+        "body": "T a L jsou kladná čísla, W je záporné když vyjadřuje počet záporných nadšroubovicových závitů, nebo kladné když vyjadřuje kladný počet nadšroubovicových závitů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "507. Těžký Ig řetězec",
+    "answers": [
+      {
+        "body": "Subgeny pro těžký řetezec : L-VDJ-C",
+        "right": true
+      },
+      {
+        "body": "Gen kódující těžký řetězec se nachází na 14. chromosomu.",
+        "right": true
+      },
+      {
+        "body": "5 typu těžkých řetězců: IgM, IgG, IgA, IgD, IgE",
+        "right": true
+      },
+      {
+        "body": "Během vývoje B buněk dochází k první rekombinaci mezi jedním z D genů a jedním z J genů v lokusu pro těžký řetězec. Veškerá DNA mezi těmito geny je z genomu nenávratně vystřižena a odstraněna. Po této D-J rekombinaci následuje podobným způsobem připojení jednoho z V genů ke vzniklému DJ komplexu, čímž vzniká gen VDJ; veškeré geny mezi vybranými V a D geny jsou opět trvale odstraněny. Primární transkript (tj. nesestřižená RNA, dříve, než dochází ke splicingu) vždy obsahuje VDJ oblast a oba konstantní řetězce mí a delta (Cµ a C?; primární transkript tedy obsahuje segmenty V-D-J-Cµ-C?). Tato pre-mRNA je posttranskripčně modifikována přidáním poly (A) konce na 3'-konec mRNA a vystřižením sekvence mezi VDJ segmentem a Cµ řetězcem. Translace této mRNA pak vede k produkci těžkého řetězce imunoglobulinu M.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "508. Konvenční sekvence na 5´ a 3´ konci – ",
+    "answers": [
+      {
+        "body": "GU a AG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "509. Sekvence LTR jsou součástí – ",
+    "answers": [
+      {
+        "body": "Retrotranspozonů a nevirových retroelementů (LTR= dlouhá terminální repetice)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "510. Homing retro-introny kódují – ",
+    "answers": [
+      {
+        "body": "reverzní transkiriptázu a specifickou endonukkleázu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "511. Genet. kód je degenerovaný – ",
+    "answers": [
+      {
+        "body": "1 AMK může být kódována více kodony",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "512. Přítomnost dvou kopií transpozonu ve stejné orientaci – ",
+    "answers": [
+      {
+        "body": "delece úseků DNA mezi kopiemi transpozonů (při obrácené orientaci- inverze úseků)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "513. Mitochondrie čl. mají – ",
+    "answers": [
+      {
+        "body": "37 genů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "514. Iniciace transkripce – sigma faktor vs. terminace – NusA protein a Rho faktor (některé termináory jsou nezávislé na Rho faktoru)",
+    "answers": []
+  },
+  {
+    "name": "515. V procesu homologní rekombinace vytváří ss zlomy v dsDNA – ",
+    "answers": [
+      {
+        "body": "RecBCD protein (má helikázovou a nukleázovou aktivitu, naváže se na konce DNA, pohybuje se po DNA a vyhledává specifické sekvence, vytváří ssDNA)  (rekombinace je proces vzniku nové kombinace genů)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "516. Genom HIV začleněný do hostitelské b. se označuje jako – ",
+    "answers": [
+      {
+        "body": "Provirus",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "517. Transformace buněk R na S (Streptococcus pneumoniae) – ",
+    "answers": [
+      {
+        "body": "O.T. Avery, C. Mac Leod, M. McCarty, 1944",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "518. Rozklad Hollidayova spoje – ",
+    "answers": [
+      {
+        "body": "resolvázy RuvC a RuvG (Hollidayův spoj vzniká při homologní rekombinaci, dojde ke zlomům dsDNA a řetězce se vzájemně provlečou a překříží)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "519. Modelový organismus vývojové biologie –",
+    "answers": [
+      {
+        "body": "Caenorhabditis elegans (jednoduchý mnohobuněčný orgs (hlístice, červ)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "520. Modelový orgs. obratlovců – ",
+    "answers": [
+      {
+        "body": "Fugu rubripes (ryba)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "521. Mitochondrie obsahují – ",
+    "answers": [
+      {
+        "body": "22 genů pro tRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "522. Etidiumbromid je – ",
+    "answers": [
+      {
+        "body": "interkalační činidlo (vmezeří se mezi dva páry bazí, naruší 3D strukturu › jednonukleotidové inzerce nebo delece)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "523. Počet genů člověka – ",
+    "answers": [
+      {
+        "body": "přibližně 20 000- 25 000",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "524. Zesilovač transkripce je – ",
+    "answers": [
+      {
+        "body": "regulační oblast na DNA v blízkosti promotoru, prostřednictvím vazby transkripčních faktorů aktivuje RNA-polymerázu, čímž zvyšuje účinnost transkripce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "525. Terminační kodony – (=stop kodony, nesmyslné)",
+    "answers": [
+      {
+        "body": "UAA, UAG, UGA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "526. Bifunkční kodony – ",
+    "answers": [
+      {
+        "body": "AUG,UGA, UAG",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "527. Synonymní kodony – ",
+    "answers": [
+      {
+        "body": "Odlišné kodony kodují stejnou AMK",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "528. Histonový oktamer –",
+    "answers": [
+      {
+        "body": "(lze si představit jako válec, kolem něhož se otáčí DNA)",
+        "right": true
+      },
+      {
+        "body": "obsahuje po 2 molekulách H2a, H2b, H3, H4, (histon H1 není součástí oktameru, z vnější strany se napojuje na koncové oblasti úseku DNA obtáčející histonový oktamer)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "529. Funkce Shineovy-Dalgarnovy sekvence– ",
+    "answers": [
+      {
+        "body": "pouze prokaryota!- navázání mRNA na ribozom (16S rRNA) + iniciační kodon AUG na mRNA se dostává na polypeptidové místo P",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "530. Co je regulon?  ",
+    "answers": [
+      {
+        "body": "Regulon je skupina genů nebo operonů regulovaná stejným regulačním proteinem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "531. Galaktosový operon–",
+    "answers": [
+      {
+        "body": "co se děje když není glukóza a je laktóza: (allolaktóza (induktor) se váže na represor, dále vzniká CAP a cAMP ›  tvoří komplex › represor není přítomen › probíhá transkripce, tvoří se indukovatelné enzymy pro rozklad laktózy (s glukózou to nefunguje, protože vysoká koncentrace glukózy brání funkci adenylátcykláze, která vytváří cAMP))",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "532. Kdy probíhá trankripce u zmutovaného lac operonu? ",
+    "answers": [
+      {
+        "body": "V případě bodové mutace v genu pro lacI se neváže represor/v případě delece dojde k nadměrné expresi.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "533. Regulace laktózového operonu?",
+    "answers": [
+      {
+        "body": "Inducibilní operon regulovaný negativně, strukturní geny jsou přepisovány jen za přítomnosti laktózy a nepřítomnosti glukózy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "534. Co je atenuátor? ",
+    "answers": [
+      {
+        "body": "Specifická oblast vedoucí sekvence DNA, jejíž určitý úsek funguje jako předčasný terminátor transkripce některých operonů. Vyskytuje se např. v tryptofanovém operonu E. coli. (jen prokaryota)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "535. Tn3, jak probíhá transpozice/ přenos tranzpozomu Tn3? ",
+    "answers": [
+      {
+        "body": "Replikativní transpozicí. (během transpozice se replikují, u prokaryot)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "536. Dle čeho se kóduje mRNA? ",
+    "answers": [
+      {
+        "body": "DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "537. Co hlavně způsobuje dimerizaci bází/bp dimery? ",
+    "answers": [
+      {
+        "body": "UV záření.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "538. Z čeho a jak vzniká onkogen? ",
+    "answers": [
+      {
+        "body": "Vzniká konverzí (mutací) z protoonkogenu a způsobuje neoplasickou transformaci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "539. Jaké podstupuje procesy pseudogen? ",
+    "answers": [
+      {
+        "body": "Je to forma genu, která se nepřepisuje a nepřekládá nebo nemá funkční prostor (chybí promotor), podstupuje sestřih i polyadenylaci (připojení polyA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "540. Co musí být, aby vznikla vlásenka se smyčkou? ",
+    "answers": [
+      {
+        "body": "Palindromatická sekvence (vlásenka) , která má vloženou nepalindromatickou (vlásenka se smyčkou) (=vlásenka se smyčkou vzniká spárováním komplementárních bází v rámci obrácené repetice přerušené jiným úsekem nukleotidového  řetězce)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "541. Sekvence ohraničující introny? ",
+    "answers": [
+      {
+        "body": "5‘ GU – AG 3‘",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "542. Velikost genu PROKARYOT?",
+    "answers": [
+      {
+        "body": "1 gen = 1kbp",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "543. Polymeráza u transkripce PROKARYOT?",
+    "answers": [
+      {
+        "body": "DNA-dependentní RNA-polymeráza  (matricí je řetězec DNA).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "544. Dvoukomponentní regulační systém PROKARYOT? ",
+    "answers": [
+      {
+        "body": "Senzor (kináza) +  fosforylace.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "545. Jaké enzymy jsou přítomny při replikaci DNA u PROKARYOT? ",
+    "answers": [
+      {
+        "body": "DNA-polymeráza I+III, DNA-primáza, helikáza, ligáza, SSB-proteiny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "546. Součástí promotoru PROKARYOT je? ",
+    "answers": [
+      {
+        "body": "Pribnowův box na -10bp 5´TATAAT3´ (nukleotidová sekvence v bakteriálním promotoru, nachází se v poloze –10 od startovacího nukleotidu.) A konvenční sekvence  5´ TTGACAT 3´",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "547. Jaké jsou EUKARYOTNí geny: ",
+    "answers": [
+      {
+        "body": "Strukturní složené- tvořené introny a exony",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "548. Co vyštěpuje primery u PROKARYOT: ",
+    "answers": [
+      {
+        "body": "RNA-primery jsou odstraněny účinkem exonukleázové aktivity DNA-polymerázy I",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "549. Transkripce některých PROKARYOTických  strukturních genů končí na terminátoru za účasti? ",
+    "answers": [
+      {
+        "body": "Rho faktor + NusA protein",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "550. Co se váže na Pribnowův box? ",
+    "answers": [
+      {
+        "body": "Sigma podjednotka RNA polymerázy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "551. Okazakiho fragmenty se vyskytují? ",
+    "answers": [
+      {
+        "body": "Na opožďujícím se řetězci PRO i EU",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "552. Co je OF? ",
+    "answers": [
+      {
+        "body": "Primer (oligoribonukleotid) + oligodeoxyribonukleotid (spojené fosfodiesterovou vazbou)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "553. Eukaryotické DNA-polymerázy –",
+    "answers": [
+      {
+        "body": "o replikaci se stará ?- syntéza Okazakiho fragmentů a ?- syntéza vedoucího řetězce a dokončení syntézy opožďujícího se řetězce, obě 3´-5´ exonukleázy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "554. Orizom? ",
+    "answers": [
+      {
+        "body": "Struktura počátku replikace u kvasinek. (obdoba ori u kvasinek, počátek replikace= ori= specifická sekvence na DNA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "555. Na co nasedá antikodon? ",
+    "answers": [
+      {
+        "body": "Na kodon.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "556. Počet terminačních a bifunkčích kodonů? ",
+    "answers": [
+      {
+        "body": "3,3",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "557. Jaká DNA je v mitochondriích? ",
+    "answers": [
+      {
+        "body": "Kruhová",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "558. Co provádí reparaci thiminového proteinu? ",
+    "answers": [
+      {
+        "body": "Fotoreaktivace (přímá reparace) + nukleotidová excizní reparace (nepřímá)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "559. Podoba mitochondrie s bakterií/Nepřímý důkaz endosym. původu bakterií? ",
+    "answers": [
+      {
+        "body": "Přehrádečné dělení (bakt.typ), konformace DNA (kružnic.), podobný translační aparát (podobné sedimentační koeficienty ribozomů + podobnost sekvencí mt-rRNA s rRNA bakt.)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "560. Co jsou chaperony?  ",
+    "answers": [
+      {
+        "body": "Speciální skupina proteinů podílejících se na sbalování polypeptidů, zabraňují nesprávnému sbalení. (tvoří terc. strukturu) Hlavní rodiny chaperonů: proteiny hsp60 a hsp70",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "561. Editace Apolipoproteinu? U člověka, změna fce produktu ztrátou C domény kratšího produktu: Cytidindeamináza - C deaminován na U › vznik STOP kodonu › nevznikne cholesterol.",
+    "answers": []
+  },
+  {
+    "name": "562. Čtení mRNA?",
+    "answers": [
+      {
+        "body": "5´-3´",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "563. Lehké/Těžké řetězce na Ig? ",
+    "answers": [
+      {
+        "body": "Lehký: 220AK, 2 typy řetězců, geny  L-VJC, Těžký: 440AK, 5 typů řetězců, geny L-VDJC. Těžké řetězce spojené disulfidickými můstky v pantové oblasti. Variabilní oblasti obsahují hypervariabilní oblasti - lehký i těžký řetězec (na každém 3) - sekvence 5-10 AK účastnící se vazby antigenu, hypervariabilní oblasti se nacházejí na konci variabilních ramének.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "564. Na jakém řetězci probíhají změny týkající se membránové nebo sekretované formy? ",
+    "answers": [
+      {
+        "body": "Přesmyk tříd= přechod Ig z jedné třídy do jiné- probíhá na úrovni těžkých řetězců. (jedná se o přesmyk na úrovni transkripce- přechod z IgM z membránového na sekretovaný)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "565. Jaké subgeny jsou u těžkého řetězce (Ig?):  ",
+    "answers": [
+      {
+        "body": "L-VDJ-C, (Subgeny= úseky genů pro Ig)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "566. Počet V subgenů u lehkého řetězce: ",
+    "answers": [
+      {
+        "body": "Stovky. (250)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "567. Zralý B lymfocyt produkuje/váže? ",
+    "answers": [
+      {
+        "body": "1 typ protilátek - dané somatickou rekombinací a izotypovým přesmykem /? 2 typy protilátek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "568. Na koncích transpozomu? ",
+    "answers": [
+      {
+        "body": "Jsou přímé repetice. (což je důsledek mechanismu transpozice)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "569. Jak funguje retroonkovir? ",
+    "answers": [
+      {
+        "body": "Při vyvolání bujení buněk modifikují protoonkogen - začleňují se do něj.",
+        "right": true
+      },
+      {
+        "body": "(Inzerční aktivace protoonkogenu pomalu transformujícími retroviry, transdukce okogenu akutně transformujícími retroviry)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "570. Začlěnění DNA bakteriofága  lambda do E. coli, enzymy? ",
+    "answers": [
+      {
+        "body": "(Bakteriofág lambda- virus rozmnožující se v bakteriích (E. coli)) Excizionáza, integráza a integrační faktor hostitele",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "571. Vzniká konkatemer u bakteriofága? ",
+    "answers": [
+      {
+        "body": "ano, konkatemer= několik po sobě následujících monomerů při replikaci otáčející se kružnicí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "572. TFIID? (transkripční faktor) ",
+    "answers": [
+      {
+        "body": "Je rozpoznán polymerázou II a váže se na TATA box (struktura promotorů –okolo -25 –30 TATATAATA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "573. Který transkripční faktor se váže na TATA BOX?  ",
+    "answers": [
+      {
+        "body": "TFIID.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "574. Co je pseudoreverze? ",
+    "answers": [
+      {
+        "body": "Zpětná mutace, která nevede ani k původnímu, ani synonymnímu kodonu, ale ke kodonu pro AK, jejíž zařazení do primární struktury příslušného genového produktu nenarušuje, nýbrž zachovává  jeho původní biologickou funkci.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "575. Co je cAMP? ",
+    "answers": [
+      {
+        "body": "(Cyklický adenosinmonofosfát, derivát ATP)- pozitivní alosterický efektor= pozitivní regulátor.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "576. Co aktivuje Crp? ",
+    "answers": [
+      {
+        "body": "cAMP – při nedostatku glukozy › zvýšení hladiny cAMP › aktivace Crp",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "577. Kde probíhá sestřih u E.Coli? ",
+    "answers": [
+      {
+        "body": "V cytoplasmě.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "578. Kdy se exemplárně dokázala struktura DNA? ",
+    "answers": [
+      {
+        "body": "1940-1950. (1953 Watson a Crick)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "579. Aktivovaný Rb protein? ",
+    "answers": [
+      {
+        "body": "inaktivuje transkripční aktivátory genů (za nepřítomnosti růstového faktoru), za přítomnosti růstového faktoru dojde k mutaci, je fosforylován a buňka se dělí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "580. Co je parazitická DNA? ",
+    "answers": [
+      {
+        "body": "DNA transpozóny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "581. Kam se váží transkripční faktory? ",
+    "answers": [
+      {
+        "body": "Vkládají se do velkého žlábku dvoušroubovice DNA, kde reagují aminokyseliny bílkoviny s bázemi DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "582. U čeho probíhá alternativní sestřih? ",
+    "answers": [
+      {
+        "body": "(=jev, při němž díky různým variantám splicingu z jednoho genu vzniká více bílkovinnýchproduktů) Strukturní geny.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "583. Kolik čtecích rámců je ssDNA? ",
+    "answers": [
+      {
+        "body": "3",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "584. % složení chromatinu? ",
+    "answers": [
+      {
+        "body": "70% proteinů, 30% NK, (chromatin= genetický materiál eukaryotické buňky, euchromatin-transkripčně aktivní, heterochromatin- inaktivní)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "585. % transkribované lidské DNA? ",
+    "answers": [
+      {
+        "body": "33%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "586. Denaturace? ",
+    "answers": [
+      {
+        "body": "Přechod dsDNA na ssDNA, dochází k ní zvyšováním teploty roztoku, nebo změnou pH prostředí, projevuje se zvýšením absorbance UV-světla, opačný pochod = renaturace",
+        "right": true
+      },
+      {
+        "body": "Závisí na poměru bazí, čím více GC párů, tím vyšší Tm (=teplota tání, při které zdenaturovalo 50% molekul dsDNA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "587. Nejrychlejší replikační vidlice?  ",
+    "answers": [
+      {
+        "body": "U bakterií.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "588. Transesterifikace sestřihu? – ",
+    "answers": [
+      {
+        "body": "= přeměna jednoho fosfátového esteru v jiný, probíhající přenosem –OH skupiny bez hydrolýzy a za nepřítomnosti ATP ale GTP  (2’OH A provede nukleofilní atak v místě začátku intronu (před G), OH se naváže na konec exonu 1 a G se váže na A, vzniká lasovitá smyčka (=lasovitá RNA) navázaná na exon 2 -\u003e OH na exonu 1 atakuje spojení intronu s exonem 2 -\u003e vyštěpení intronu)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "589. Co vzniká při spontánní mutaci? ",
+    "answers": [
+      {
+        "body": "Tautomerní přesmyky bazí, deaminace bazí (z A hypoxantin, z C › U), depurinace (= ztráta purinu z nukleotidu, vzniká AP místo)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "590. Kolik je mutací v mitochondriích vzhledem k jaderné DNA? ",
+    "answers": [
+      {
+        "body": "10-100x více.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "591. Oxidativní deaminací C vzniká? ",
+    "answers": [
+      {
+        "body": "Uracil",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "592. Spontánní deaminací A vzniká? ",
+    "answers": [
+      {
+        "body": "Hypoxantin",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "593. Co způsobuje inzerční mutace? ",
+    "answers": [
+      {
+        "body": "(=vložení 1 nebo 2 párů bází) Je způsobena sklouzáváním řetězců při replikaci. A způsobuje změnu čtecího rámce v genu od místa mutace.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "594. Jaká mutace se projeví po replikaci u potomstva, když se při replikaci vloží chybná báze kvůli tautomerii? ",
+    "answers": [
+      {
+        "body": "Bodová",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "595. Jaký je začátek mutace u chromozomu ori E.Coli? Repetice.",
+    "answers": []
+  },
+  {
+    "name": "596. E.Coli obsahuje? ",
+    "answers": [
+      {
+        "body": "Kružnicové chromozomy a kružnicové plasmidy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "597. Lasovitá RNA při vyštěpování intronů? ",
+    "answers": [
+      {
+        "body": "? vazba mezi A na intronu a G na 5' konci intronu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "598. Který enzym štěpí N-konec proteinu po translaci? ",
+    "answers": [
+      {
+        "body": "Signální peptidáza.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "599. Kdy dochází k přeskupování podjednotek v subgenu V? ",
+    "answers": [
+      {
+        "body": "Na úrovni DNA (somatické rekombinace) + somatické mutace na úrovni AK.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "600. Vzorec pro výpočet vinutí DNA? ",
+    "answers": [
+      {
+        "body": "L = T + W, L= celkový počet vinutí, T= dvoušroubovicové číslo, W= nadšroubovicové č.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "601. Vinutí DNA? ",
+    "answers": [
+      {
+        "body": "(=mnohonásobné otáčení jednoho řetězce kolem druhého) Levo (Z) a pravotočivé (A,B)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "602. Počet různých kodonů u prokaryot? ",
+    "answers": [
+      {
+        "body": "64",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "603. Ústřední dogma MB? ",
+    "answers": [
+      {
+        "body": "1958 F.H.C. Crick, přenos gen. info je možný z NK do NK, z NK do proteinu, ale ne z proteinu do proteinu nebo proteinu do NK",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "604. Počet genů u prokaryot/eukaryot? ",
+    "answers": [
+      {
+        "body": "5000-10 000/10 000 - 40 000",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "605. Velikost intronu vzhledem k exonům?  ",
+    "answers": [
+      {
+        "body": "Většinou větší a taky je jich více.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "606. Které retroelementy nahrazují u drozofil telomerázy/Co dosysntetizovává sekvenci na konci chromozomu Drozophily po replikaci? ",
+    "answers": [
+      {
+        "body": "TART.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "607. Co způsobuje mutace v genu pro p53? ",
+    "answers": [
+      {
+        "body": "Zastavení tvorby p21.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "608. Jak působí p53?  ",
+    "answers": [
+      {
+        "body": "p53 vyhledává na DNA poškozená místa a pokud takové najde, spustí transkripci genu p21, který zastaví dělení buňky, dokud není poškozené místo reparováno. Pokud to nelze, buňka apoptuje.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "609. Který enzym působí při bázové excizní reparaci?",
+    "answers": [
+      {
+        "body": "Specifická glykozyláza.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "610. Supresorové tRNA? ",
+    "answers": [
+      {
+        "body": "Rozpoznávají STOP kodony.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "611. Kolísavé párování bazí? ",
+    "answers": [
+      {
+        "body": "páruje se část antikodonu s některým písmenem kodonu podle pravidel o kolísavém párování bazí, je na 5‘ antikodonu = 1. báze antikodonu, tzn. část antikodonu se páruje s jinou bazí dle pravidel KPB.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "612. Která podjednotka Pol má korktorovou aktivitu? ",
+    "answers": [
+      {
+        "body": "korktorská aktivita = 3‘-5‘ exonukleázová aktivita epsilon",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "613. Který typ histonu není součástí Oktameru??",
+    "answers": [
+      {
+        "body": "H1 (spojuje nukleozomy) / součástí jsou: H2A,H2B,H3,H4",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "614. Který protein tvoří jednořetězcové zlomy dsDNA? ",
+    "answers": [
+      {
+        "body": "RecA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "615. Genom lidských mitochondrií? ",
+    "answers": [
+      {
+        "body": "dsDNA kružnicová, 16 569 bp.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "616. Operační reverze?? ",
+    "answers": [
+      {
+        "body": "Reverzní mutázou se vytvoří synonymní kodón, který kóduje stejnou AK, která byla připojená na kodón před původní matricí (Arg -Trp- Arg).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "617. Místně specifická rekombinace u E.Coli, DNA - fága a chromozom E.Coli? ",
+    "answers": [
+      {
+        "body": "Integráza,integrační faktor hostitele, excizionáza.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "618. Transkripce u některých stukturních genů PROKARYOT končí na terminátoru za účasti?",
+    "answers": [
+      {
+        "body": "Ró faktor(=rho-faktor)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "619. Regulátor SOS odpovědi u E.coli? ",
+    "answers": [
+      {
+        "body": "Represor LexA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "620. Při vzniku upravených pseudogenů probíhá? ",
+    "answers": [
+      {
+        "body": "vznik reverzní transkriptázou, nemají introny ani promotor a obsahují polyA, vznikly přepisem mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "621. 2 kopie téhož transpozonu způsobí? ",
+    "answers": [
+      {
+        "body": "deleci při stejně orientovanými transpozony/inverzi při opačně orientovanými transpozony.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "622. Kde najdeme sekvenci TLR? ",
+    "answers": [
+      {
+        "body": "Retroviry a retrotranspozony.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "623. Kolik hypervar.domén z kolika AK je ve variab.doméně lehkého řetězce? ",
+    "answers": [
+      {
+        "body": "3,10",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "624. Paradox hodnoty C?",
+    "answers": [
+      {
+        "body": "velikost genomu organizmu není v korelaci s komplexitou organizmu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "625. Analogem Thyminu je? ",
+    "answers": [
+      {
+        "body": "Bromuracil",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "626. Baze převládající v telomerách?",
+    "answers": [
+      {
+        "body": "G,",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "627. Co dosyntetizovává telomeráza podle čeho? ",
+    "answers": [
+      {
+        "body": "3´konce matricového vlákna podle templátu, který je její součástí, poté se doreplikuje část nového vlákna – vznikne 3OH skupina a dosyntetizuje se dceřiné vlákno, prodlužuje se 3´ konec matrice, aby se mohl dosysntetizovat 5´ konec dceřiného vlákna s okazakiho fragmenty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "628. Co způsobuje onkovirus po začlenění do hostitelské buňky? ",
+    "answers": [
+      {
+        "body": "Mutaci genů (inzerční inaktivace, polární mutace, změny exprese genů).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "629. Jaké sekvence obsahují regulační oblasti?",
+    "answers": [
+      {
+        "body": "Krátké repetice.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "630. Poznat opačnou repetici, když je dáno jen 1 vlákno? ",
+    "answers": [
+      {
+        "body": "Měla by se vytvořit vlásenka.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "631. Co dělá tRNA? ",
+    "answers": [
+      {
+        "body": "transferová RNA je druh RNA v buňce, která se podílí na proteosyntéze tím, že připojuje specifickou aminokyselinu do rostoucího polypeptidového řetězce při translaci. Tím dochází k překladu sekvence nukleotidů v nukleových kyselinách do sekvence aminokyselin v proteinech. Každá aminokyselina má minimálně jednu tRNA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "632. Plazmidy schopné irreverzibilního začlenění do hostitelské buňky? ",
+    "answers": [
+      {
+        "body": "Epizomální",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "633. Funkce bakteriálního promotoru? ",
+    "answers": [
+      {
+        "body": "Navázat RNA polymerázu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "634. Pro zajištění fungování mitochondrií je: ",
+    "answers": [
+      {
+        "body": "90 genů jaderného genomu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "635. Synonymní kodony kódují: ",
+    "answers": [
+      {
+        "body": "Stejné AMK",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "636. Fuga rubrides je model genomu: ",
+    "answers": [
+      {
+        "body": "Obratlovců.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "637. Syntéza tRNA u eukaryot: ",
+    "answers": [
+      {
+        "body": "RNA - pol III",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "638. Kdy bylo experimentálně dokázáno, že přenos informace z S do R buněk zprostředkovává DNA? ",
+    "answers": [
+      {
+        "body": "1944",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "639. Kdy bylo dokázáno, že DNA je nositelkou gen. Inf.? ",
+    "answers": [
+      {
+        "body": "1944",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "640. Kolik genů má lidský genom? ",
+    "answers": [
+      {
+        "body": "25 000.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "641. Jak je průměrně velký bakteriální gen? ",
+    "answers": [
+      {
+        "body": "průměrná velikost genu je 1.25kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "642. Který je modelový org. vývojové biologie vzhledem ke známému počtu buněk? ",
+    "answers": [
+      {
+        "body": "Caenorhabditis elegans (hlístice, červ, 100Mb).",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "643. Kolik je mutací v mitochondriích vzhledem k jaderné DNA? ",
+    "answers": [
+      {
+        "body": "10-100x více.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "644. Co dělá ss zlomy při homogenní rekombinaci? ",
+    "answers": [
+      {
+        "body": "RecA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "645. Jak se váže při traskripci HAT a HDAC? ",
+    "answers": [
+      {
+        "body": "Na jiné transkripční faktory (HAT koaktivátor, HDAC korepresor)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "646. Co způsobuje aminaci histonů? ",
+    "answers": [
+      {
+        "body": "HAT",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "647. Kolik je (aminoacyl=)aa-tRNA syntezáz? ",
+    "answers": [
+      {
+        "body": "stejný jako počet standardních AMK – 20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "648. Jaký enzym katalyzuje nakládání AK na tRNA? ",
+    "answers": [
+      {
+        "body": "Aminoacyl-tRNA-syntetáza.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "649. Jaký enzym transkribuje tRNA? ",
+    "answers": [
+      {
+        "body": "RNA polymeráza III.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "650. Co ovlivní sílu bakteriálního promotoru? ",
+    "answers": [
+      {
+        "body": "Zesilovači transkripce.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "651. Pozitivní kontrola transkripce genu ?",
+    "answers": [
+      {
+        "body": "transkripce probiha po navazani aktivatoru na promotor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "652. Při replikaci opožďujícího se řetězce jsou RNA primery odtraněny? ",
+    "answers": [
+      {
+        "body": "DNA pol-I u prokaryot.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "653. Genom viru HIV začleněný do genomu hostitelské buňky je? ",
+    "answers": [
+      {
+        "body": "Provirus.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "654. Jaký typ NK má HIV? ",
+    "answers": [
+      {
+        "body": "RNA pozitvní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "655. Jaký genom má HIV RNA? ",
+    "answers": [
+      {
+        "body": "pozitivní  – retrovirus",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "656. HIV kolik molekul RNA+? ",
+    "answers": [
+      {
+        "body": "2",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "657. Retroviry HIV? ",
+    "answers": [
+      {
+        "body": "HIV se začlení do genomu = provirus.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "658. Co nepatří/patří do posttranslačních úprav?",
+    "answers": [
+      {
+        "body": "nepatří:připojení signální sekvence,patří:kotranslační: deformylace, hydroxylace atd., disulfid. můstky, připojení cukerných zbytků, posttranslační – vyštěpení peptidů, tvorba kvarterní struktury, posttranslační štěpení, proteinový sestřih, sestavování oligomerních proteinů a nadmolekulárních struktur, samosestavování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "659. Co je většinou iniciační kódón u bakterií? ",
+    "answers": [
+      {
+        "body": "AUG  (jen někdy u E. Coli GUG)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "660. Kam se připojuje polyA?",
+    "answers": [
+      {
+        "body": "vzniká na 3´ konci mRNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "661. Kde vzniká polygenní mRNA?",
+    "answers": [
+      {
+        "body": "U prokaryot, znamená to, že jedna její molekula vzniká přepisem vetšího počtu genu. Tento transkript se již dále neupravuje a vetšinou je ihned využit jako matrice (tedy mRNA) pro syntézu bílkoviny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "662. Co vzniká alternativním sestřihem? ",
+    "answers": [
+      {
+        "body": "mRNA, z jednoho genu více produktů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "663. Jakou roli má RISC při RNA interferenci? ",
+    "answers": [
+      {
+        "body": "degradace jednovláknové RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "664. Sekvence antisense RNA? ",
+    "answers": [
+      {
+        "body": "komplementární s mediátorovou RNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "665. Báze v telomerách?",
+    "answers": [
+      {
+        "body": "člověk TTAGGG, nejčastější je G",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "666. Jaký enzym je u excizní bázové reparace?  ",
+    "answers": [
+      {
+        "body": "helikázy, endonukleázy, ligázy (specifická glykozyláza?)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "667. dost otázek na regulaci – ",
+    "answers": [
+      {
+        "body": "kam se váže induktor a represor? induktor na regulační oblast, represor na promotor",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "668. Kde probíhá sestřih: ",
+    "answers": [
+      {
+        "body": "na primárním transkriptu (preRNA, hnRNA)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "669. Jaké RNA obsahují introny?",
+    "answers": [
+      {
+        "body": "pre-mRNA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "670. Alu inzerce? ",
+    "answers": [
+      {
+        "body": "Jsou to rozptýlené repetice v genomu člověka.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "671. Co používá fág lambda k vyčleněnní a začlenění",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "672. Co obsahují složené transpozony:",
+    "answers": [
+      {
+        "body": "obsahují dvě IS sekvence, z nichž jedna kóduje funkční transponázu (jedna může být nefunkční)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "673. Co vzniká přepisem strukturních genů? ",
+    "answers": [
+      {
+        "body": "polypeptid",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "674. Co je to intein?  ",
+    "answers": [
+      {
+        "body": "část proteinů, která se umí sama vystřihnout a spojit zbývající části (exteiny) peptidovou vazbou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "675. Jaká DNA je v rostlinných buňkách? ",
+    "answers": [
+      {
+        "body": "jadernou,mitochondriální, chloroplastovou, vzácně i plamzidovou DNA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "676. Počet genů v mitochondriích?  ",
+    "answers": [
+      {
+        "body": "13-218, člověk 37",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "677. Průměrná velikost genu u prokaryot: ",
+    "answers": [
+      {
+        "body": "průměrná velikost genu je 1.25kb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "678. Jak byla dokázána semikonzervativní replikace: ",
+    "answers": [
+      {
+        "body": "Meselson a Stahl 1958, pěstovali E. Coli v médiu s izotopem dusíku 14N, pak je přemístili do média s těžkým izotopem 15N, kde sledovali 3 jejich generace, při centrifugaci vzniklých buněk E. coli měla první generace proužek lehkých izotopů, hybridních a těžkých, druhá generace jen proužek lehkých a těžkých (každý DNA řetězec nesl jeden), třetí generace dvakrát těžký",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "679. Co je to protoonkogen? ",
+    "answers": [
+      {
+        "body": "Normální gen regulující dělení, prodující proto onkoprotein, ve zdravé buňce existuje fční alela, která kóduje správně kódující gen.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "680. Jak může transpozon s (proto)onkogenem ovlinit buněčné dělení?",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "681. Kolik je trasnestreifikací při sestřihu:",
+    "answers": [
+      {
+        "body": "2??",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "682. Co je to promutagen: ",
+    "answers": [
+      {
+        "body": "látka nevykazující mutagenní aktivitu, avšak při jejím metabolizování může být přeměněna na mutageny (metabolická konverze)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "683. Jak se aktivuje translace? –",
+    "answers": []
+  },
+  {
+    "name": null,
+    "answers": [
+      {
+        "body": "na f met-tRNAi se váže methionín a následně se formuluje",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "684. Proč vzniká přímá repetice po začlenění transpozomu?",
+    "answers": [
+      {
+        "body": "epivé konce při štěpení celkové sekvence.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "685. Twintron je?",
+    "answers": [
+      {
+        "body": "Intron v dalším intronu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "686. Editaci řídí? ",
+    "answers": [
+      {
+        "body": "gRNA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "687. Kodony? ",
+    "answers": [
+      {
+        "body": "3 terminační kodony beze smyslu, 64 různých kodonů u eukaryot, 3 bifunkční, 61 smysluplných, kodony na mRNA, antikodony na tRNA, AK na 3‘ konci RNA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "688. 1 gen PROKARYOT má ",
+    "answers": [
+      {
+        "body": "1000 bazí.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "689. PROKARYOTA? ",
+    "answers": [
+      {
+        "body": "Lineární chromozomy.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "690. 1,6 Mb hranice, pod níž mohou žít jen vnitrob. Parazité.??",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "691. Generalisti –",
+    "answers": [
+      {
+        "body": "větší genomy, specialisti - menší.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "692. Heterochrom.-",
+    "answers": [
+      {
+        "body": "trankr. aktivní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "693. Telomera obsahuje většinu G –",
+    "answers": [
+      {
+        "body": "dokonč. lineár. řetězce.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "694. Spojníková DNA? ",
+    "answers": [
+      {
+        "body": "Jediná, která může napadnout DNA.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "695. Modifikace histonů? ",
+    "answers": [
+      {
+        "body": "acetylace, metylace (lys), fosfatace (ser), ubiqitace, fosforylace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "696. Histon. kódy –",
+    "answers": [
+      {
+        "body": "změny struktury chromatinu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "697. LTR –",
+    "answers": [
+      {
+        "body": "dlouhé terminační repeaty, u EUKARYOT a retrovirů, sekvence LTR je součástí genomu retroviru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "698. frakce CpG- ",
+    "answers": [
+      {
+        "body": "28 890",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "699. Pseudogeny? ",
+    "answers": [
+      {
+        "body": "jsou bez exonů, obsahují jen introny, s promotorem (nefunkční kopie genu)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "700. Antiparalelní 5-3 (kodujici, neprepisuje se), 3-5 (negativní- rozhoduje?)",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "701. AK se váží na RNA na 3‘ konci tRNA.??",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "702. Celková velikost genomu?",
+    "answers": [
+      {
+        "body": "3,2 mld.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "703. Počet dosud identif. genů? ",
+    "answers": [
+      {
+        "body": "U člověka 25 000",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "704. Transkribovaná část genomu? ",
+    "answers": [
+      {
+        "body": "33%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "705. Mitochondrie bazí u lidí? ",
+    "answers": [
+      {
+        "body": "16-19 000 bazí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "706. fce mitoch: ",
+    "answers": [
+      {
+        "body": "tvorba ATP oxidací cukrů a mastných kys.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "707. 16S malá podjednotka u bakterií (prokaryota) i mitochindrií, 18S u EUKARYOT??",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "708. struktura mtDNA –",
+    "answers": [
+      {
+        "body": "kružnice (kvasinky, EU), lineární - prvoci a vyšší rostliny.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "709. většina proteinů v org. je kódována jaderným genomem.??",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "710. Genom virů/DNA - lineární i kružnicovitá vs. RNA –",
+    "answers": [
+      {
+        "body": "jen lineární!!",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "711. semidiskontinuální syntéza od 5‘-3‘??",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "712. 3‘-5‘ mateřská (matrice, templát)??",
+    "answers": [
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "713. 5‘-3‘ primer (nově synt. řetězec) - proč je synteza jen 5-3?? ",
+    "answers": [
+      {
+        "body": "Nebylo by možno využít makroergickou vazbu na 5‘ konci nově připojeného.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "714. ori –",
+    "answers": [
+      {
+        "body": "počátek replikace, specifická sekvence na DNA (DNA box) u prokaryot a kvasinek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "715. Struktura počátku replikace u E.Coli? ",
+    "answers": [
+      {
+        "body": "Hodně ripitů a mezi nimi neripitujici dekvence.",
+        "right": true
+      }
+    ]
+  }
+]
