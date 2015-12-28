@@ -1806,7 +1806,7 @@
       },
       {
         "body": "Proces identifikace je náročnější než proces verifikace.",
-        "right": false
+        "right": true
       }
     ]
   },
