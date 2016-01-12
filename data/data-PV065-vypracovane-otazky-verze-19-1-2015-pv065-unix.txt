@@ -286,7 +286,7 @@ Funkce realloc() může?
   nikdy nepřemisťuje původní data. nemá-li na příslušném místě dostatek prostoru, vrátí 	chybu.
   může přemístit původní data jen při požadovaném zmenšení alokovaného prostoru.
 
-	Souborový systém FFS/UFS neobsahuje?
+Souborový systém FFS/UFS neobsahuje?
   tabulku i-uzlů
   volné datové bloky
   bitmapu volných datových bloků

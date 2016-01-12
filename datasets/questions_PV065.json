@@ -903,6 +903,27 @@
         ]
     },
     {
+        "name": "Souborov\u00fd syst\u00e9m FFS\/UFS neobsahuje?",
+        "answers": [
+            {
+                "body": "tabulku i-uzl\u016f",
+                "right": false
+            },
+            {
+                "body": "voln\u00e9 datov\u00e9 bloky",
+                "right": false
+            },
+            {
+                "body": "bitmapu voln\u00fdch datov\u00fdch blok\u016f",
+                "right": false
+            },
+            {
+                "body": "bitmapu voln\u00fdch i-uzl\u016f",
+                "right": true
+            }
+        ]
+    },
+    {
         "name": "UNIXov\u00e9 syst\u00e9my obvykle proces\u016fm poskytuj\u00ed pam\u011b\u0165ov\u00fd model?",
         "answers": [
             {
