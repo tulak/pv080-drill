@@ -198,7 +198,7 @@ Jak přečíst posledních 10b ze souboru?
 
 
 Co se stane když spustíte link(old, new) a old a new jsou každý na jiném svazku?
-vytvoří link
+  vytvoří link
 * skončí chybou
 
 Co se musí udělat, aby readdir() vracel i soubory začínající tečkou?

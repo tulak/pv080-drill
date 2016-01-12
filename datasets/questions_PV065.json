@@ -656,8 +656,12 @@
         "answers": []
     },
     {
-        "name": "Co se stane kdy\u017e spust\u00edte link(old, new) a old a new jsou ka\u017ed\u00fd na jin\u00e9m svazku? vytvo\u0159\u00ed link",
+        "name": "Co se stane kdy\u017e spust\u00edte link(old, new) a old a new jsou ka\u017ed\u00fd na jin\u00e9m svazku?",
         "answers": [
+            {
+                "body": "vytvo\u0159\u00ed link",
+                "right": false
+            },
             {
                 "body": "skon\u010d\u00ed chybou",
                 "right": true
@@ -2611,6 +2615,31 @@
             {
                 "body": "pathconf()",
                 "right": true
+            }
+        ]
+    },
+    {
+        "name": "Chce-li proces zablokovat doru\u010dov\u00e1n\u00ed n\u011bkter\u00fdch sign\u00e1l\u016f b\u011bhem vykon\u00e1v\u00e1n\u00ed ovlada\u010de ur\u010dit\u00e9ho sign\u00e1lu, m\u016f\u017ee to specifikovat pomoc\u00ed slu\u017eby?",
+        "answers": [
+            {
+                "body": "sigaction()",
+                "right": true
+            },
+            {
+                "body": "signal()",
+                "right": false
+            },
+            {
+                "body": "sigsetmask()",
+                "right": false
+            },
+            {
+                "body": "sigsuspend()",
+                "right": false
+            },
+            {
+                "body": "sigpending()",
+                "right": false
             }
         ]
     }
