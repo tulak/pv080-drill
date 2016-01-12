@@ -1,5 +1,10 @@
 {
   "require": {
 	"atrox/matcher": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Drill\\": "src"
+    }
   }
 }
