@@ -56,7 +56,9 @@ class TxtParser
             }
         }
 
-        return array_filter($questions);
+        return array_filter($questions, function ($q) {
+            return !empty($q['name']) && !empty($q['answers']);
+        });
     }
 
 

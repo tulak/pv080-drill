@@ -92,10 +92,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Nov\u011b vytvo\u0159en\u00e9 vl\u00e1kno po pthread_create() za\u010d\u00edn\u00e1 vykon\u00e1vat instrukce od adresy?",
         "answers": [
             {
@@ -222,10 +218,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Proces m\u016f\u017ee zabr\u00e1nit z\u00e1pisu potenci\u00e1ln\u011b citliv\u00fdch dat na odkl\u00e1dac\u00ed prostor pomoc\u00ed operace?",
         "answers": [
             {
@@ -251,10 +243,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Jak\u00e1 funkce do\u010dasn\u011b nahrad\u00ed masku p\u0159eru\u0161en\u00ed a z\u00e1rove\u0148 usp\u00ed proces \u010dek\u00e1n\u00edm na jeden z t\u011bchto sign\u00e1l\u016f (atomicky)?",
         "answers": [
             {
@@ -270,10 +258,6 @@
                 "right": true
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "Vykon\u00e1n\u00ed vlastn\u00edho k\u00f3du v p\u0159\u00edpad\u011b, \u017ee je v programu zavol\u00e1na slu\u017eba j\u00e1dra _exit(), lze zajistit pomoc\u00ed funkce?",
@@ -523,10 +507,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Advisory locking znamen\u00e1, \u017ee?",
         "answers": [
             {
@@ -594,10 +574,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Spot\u0159ebovan\u00fd \u010das procesu a jeho potomk\u016f lze zjistit slu\u017ebou j\u00e1dra?",
         "answers": [
             {
@@ -652,10 +628,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Co se stane kdy\u017e spust\u00edte link(old, new) a old a new jsou ka\u017ed\u00fd na jin\u00e9m svazku?",
         "answers": [
             {
@@ -703,10 +675,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Zm\u011bnit skupinu souboru lze slu\u017ebou j\u00e1dra?",
         "answers": [
             {
@@ -745,10 +713,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Kolik existuje odkaz\u016f na adres\u00e1\u0159?",
         "answers": [
             {
@@ -781,14 +745,6 @@
                 "right": false
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "Slu\u017eba j\u00e1dra stat() neumo\u017e\u0148uje zjistit?",
@@ -837,10 +793,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "K \u010demu se pou\u017e\u00edv\u00e1 semafor?",
         "answers": [
             {
@@ -865,10 +817,6 @@
                 "right": true
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "P\u0159i vol\u00e1n\u00ed open(\"file\", O_WRONLY|O_CREAT, 0666) se?",
@@ -951,31 +899,6 @@
             {
                 "body": "m\u016f\u017ee p\u0159em\u00edstit p\u016fvodn\u00ed data jen p\u0159i po\u017eadovan\u00e9m zmen\u0161en\u00ed alokovan\u00e9ho prostoru.",
                 "right": false
-            }
-        ]
-    },
-    {
-        "name": "",
-        "answers": [
-            {
-                "body": "Souborov\u00fd syst\u00e9m FFS\/UFS neobsahuje?",
-                "right": false
-            },
-            {
-                "body": "tabulku i-uzl\u016f",
-                "right": false
-            },
-            {
-                "body": "voln\u00e9 datov\u00e9 bloky",
-                "right": false
-            },
-            {
-                "body": "bitmapu voln\u00fdch datov\u00fdch blok\u016f",
-                "right": false
-            },
-            {
-                "body": "bitmapu voln\u00fdch i-uzl\u016f",
-                "right": true
             }
         ]
     },
@@ -1164,10 +1087,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Co d\u011bl\u00e1 funkce dlopen?",
         "answers": [
             {
@@ -1236,10 +1155,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "P\u0159i zavol\u00e1n\u00ed vfork dostane slovo prvn\u00ed kdo a co se pozastav\u00ed?",
         "answers": [
             {
@@ -1261,10 +1176,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Kdy m\u00e1te pr\u00e1vo vytvo\u0159it nov\u00fd podadres\u00e1\u0159 v adres\u00e1\u0159i?",
         "answers": [
             {
@@ -1284,10 +1195,6 @@
                 "right": false
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "Jak spolu komunikuje ovlada\u010d a j\u00e1dro mikrokernelu?",
@@ -1565,10 +1472,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Jak se jmenuje architektura, ve kter\u00e9 jsou v\u0161echny procesory a pam\u011b\u0165ov\u00e9 bloky na stejn\u00e9 sb\u011brnici?",
         "answers": [
             {
@@ -1661,10 +1564,6 @@
                 "right": false
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "M\u00e1?li proces re\u00e1ln\u00e9 a efektivn\u00ed UID rovno 1 a ulo\u017een\u00e9 UID rovno 2, pak po spu\u0161t\u011bn\u00ed",
@@ -1817,10 +1716,6 @@
                 "right": false
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "Koho\/co p\u0159eb\u00edj\u00ed LANG?",
@@ -2092,10 +1987,6 @@
         ]
     },
     {
-        "name": "",
-        "answers": []
-    },
-    {
         "name": "Po chyb\u011b slu\u017eby j\u00e1dra je hodnota errno platn\u00e1?",
         "answers": [
             {
@@ -2115,10 +2006,6 @@
                 "right": true
             }
         ]
-    },
-    {
-        "name": "",
-        "answers": []
     },
     {
         "name": "Zm\u011bnit \u010das posledn\u00ed modifikace souboru je mo\u017eno slu\u017ebou j\u00e1dra?",
