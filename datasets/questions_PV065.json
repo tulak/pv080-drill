@@ -1,0 +1,2617 @@
+[
+    {
+        "name": "V p\u0159\u00edpad\u011b modul\u00e1rn\u00edho j\u00e1dra je komunikace mezi ovlada\u010di za\u0159\u00edzen\u00ed a zbytkem j\u00e1dra zaji\u0161t\u011bna mechanismem?",
+        "answers": [
+            {
+                "body": "carrier pigeon",
+                "right": false
+            },
+            {
+                "body": "nepojmenovan\u00e1 roura",
+                "right": false
+            },
+            {
+                "body": "zas\u00edl\u00e1n\u00ed zpr\u00e1v",
+                "right": false
+            },
+            {
+                "body": "vol\u00e1n\u00ed funkc\u00ed",
+                "right": true
+            },
+            {
+                "body": "zas\u00edl\u00e1n\u00ed p\u0159eru\u0161en\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Adresa, kterou pou\u017e\u00edvaj\u00ed instrukce procesoru pro \u010dten\u00ed nebo z\u00e1pis do pam\u011bti, se naz\u00fdv\u00e1?",
+        "answers": [
+            {
+                "body": "virtu\u00e1ln\u00ed adresa",
+                "right": true
+            },
+            {
+                "body": "sb\u011brnicov\u00e1 adresa",
+                "right": false
+            },
+            {
+                "body": "fyzick\u00e1 adresa",
+                "right": false
+            },
+            {
+                "body": "IP adresa",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00fd sign\u00e1l dostane proces p\u0159i pou\u017eit\u00ed neplatn\u00e9 adresy?",
+        "answers": [
+            {
+                "body": "SIGPAGE",
+                "right": false
+            },
+            {
+                "body": "SIGSEGV",
+                "right": true
+            },
+            {
+                "body": "SIGKILL",
+                "right": false
+            },
+            {
+                "body": "SIGMEM",
+                "right": false
+            },
+            {
+                "body": "SIGBUS",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Nepodm\u00edn\u011bn\u00e9 pozastaven\u00ed procesu je sign\u00e1l?",
+        "answers": [
+            {
+                "body": "SIGKILL",
+                "right": false
+            },
+            {
+                "body": "SIGSTOP",
+                "right": true
+            },
+            {
+                "body": "SIGALRM",
+                "right": false
+            },
+            {
+                "body": "SIGABRT",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Nov\u011b vytvo\u0159en\u00e9 vl\u00e1kno po pthread_create() za\u010d\u00edn\u00e1 vykon\u00e1vat instrukce od adresy?",
+        "answers": [
+            {
+                "body": "0x00000000",
+                "right": false
+            },
+            {
+                "body": "stejn\u00e9 jako volaj\u00edc\u00ed vl\u00e1kno; d\u00e1le se rozhoduje podle n\u00e1vratov\u00e9 hodnoty pthread_create()",
+                "right": false
+            },
+            {
+                "body": "0xdeadbeef",
+                "right": false
+            },
+            {
+                "body": "specifikovan\u00e9 explicitn\u011b p\u0159i vytvo\u0159en\u00ed vl\u00e1kna",
+                "right": true
+            },
+            {
+                "body": "specifikovan\u00e9 p\u0159edem p\u0159i deklaraci struktury vl\u00e1kna",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "P\u0159i zavol\u00e1n\u00ed slu\u017eby j\u00e1dra se stane co?",
+        "answers": [
+            {
+                "body": "vytvo\u0159\u00ed se nov\u00fd proces",
+                "right": false
+            },
+            {
+                "body": "p\u0159epne se kontext do j\u00e1dra",
+                "right": false
+            },
+            {
+                "body": "kontext procesu se nep\u0159ep\u00edn\u00e1. V mikroj\u00e1dru se p\u0159epne kontext do mikroj\u00e1dra a do serveru.",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Pod pojmem str\u00e1nkov\u00e1n\u00ed na \u017e\u00e1dost (demand paging) rozum\u00edme?",
+        "answers": [
+            {
+                "body": "na\u010d\u00edt\u00e1n\u00ed nap\u0159. textu procesu do pam\u011bti a\u017e v p\u0159\u00edpad\u011b prvn\u00edho p\u0159\u00edstupu",
+                "right": true
+            },
+            {
+                "body": "\u0159e\u0161en\u00ed k\u0159\u00ed\u017eov\u00fdch odkaz\u016f ve sd\u00edlen\u00fdch knihovn\u00e1ch a\u017e p\u0159i prvn\u00edm pou\u017eit\u00ed",
+                "right": false
+            },
+            {
+                "body": "na\u010d\u00edt\u00e1n\u00ed cel\u00e9ho souboru crt1.o p\u0159i startu procesu",
+                "right": false
+            },
+            {
+                "body": "na\u010d\u00edt\u00e1n\u00ed cel\u00e9ho textu procesu do pam\u011bti hned p\u0159i startu procesu",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak se vyp\u00ed\u0161e seznam symbol\u016f nebo sekc\u00ed v ELF bin\u00e1rn\u00edm form\u00e1tu?",
+        "answers": [
+            {
+                "body": "p\u0159\u00edkaz size",
+                "right": false
+            },
+            {
+                "body": "p\u0159\u00edkaz objdump",
+                "right": true
+            },
+            {
+                "body": "p\u0159\u00edkaz mn",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Nepodm\u00edn\u011bn\u00e9 ukon\u010den\u00ed procesu je v\u00fdznam sign\u00e1lu?",
+        "answers": [
+            {
+                "body": "SIGTERM",
+                "right": false
+            },
+            {
+                "body": "SIGQUIT",
+                "right": false
+            },
+            {
+                "body": "SIGKILL",
+                "right": true
+            },
+            {
+                "body": "SIGSTOP",
+                "right": false
+            },
+            {
+                "body": "SIGHUP",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Pojmenovanou rouru otev\u0159eme p\u0159\u00edkazem?",
+        "answers": [
+            {
+                "body": "pojmenovan\u00e1 roura v Unixu v\u016fbec neexistuje",
+                "right": false
+            },
+            {
+                "body": "mknod(), otev\u0159eme slu\u017ebou open().",
+                "right": true
+            },
+            {
+                "body": "create()",
+                "right": false
+            },
+            {
+                "body": "mkpipe()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Proces m\u016f\u017ee zabr\u00e1nit z\u00e1pisu potenci\u00e1ln\u011b citliv\u00fdch dat na odkl\u00e1dac\u00ed prostor pomoc\u00ed operace?",
+        "answers": [
+            {
+                "body": "fsync()",
+                "right": false
+            },
+            {
+                "body": "mprotect()",
+                "right": false
+            },
+            {
+                "body": "fcntl()",
+                "right": false
+            },
+            {
+                "body": "mlock(), mlockall()",
+                "right": true
+            },
+            {
+                "body": "flock()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Jak\u00e1 funkce do\u010dasn\u011b nahrad\u00ed masku p\u0159eru\u0161en\u00ed a z\u00e1rove\u0148 usp\u00ed proces \u010dek\u00e1n\u00edm na jeden z t\u011bchto sign\u00e1l\u016f (atomicky)?",
+        "answers": [
+            {
+                "body": "sigaction()",
+                "right": false
+            },
+            {
+                "body": "sigabort()",
+                "right": false
+            },
+            {
+                "body": "sigsuspend()",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Vykon\u00e1n\u00ed vlastn\u00edho k\u00f3du v p\u0159\u00edpad\u011b, \u017ee je v programu zavol\u00e1na slu\u017eba j\u00e1dra _exit(), lze zajistit pomoc\u00ed funkce?",
+        "answers": [
+            {
+                "body": "call_my_code()",
+                "right": false
+            },
+            {
+                "body": "abort()",
+                "right": false
+            },
+            {
+                "body": "atexit()",
+                "right": false
+            },
+            {
+                "body": "\u017e\u00e1dn\u00e9 z uveden\u00fdch",
+                "right": true
+            },
+            {
+                "body": "signal()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "M\u011bjme program: static int prm[100]={1,2,3}; int main(){ int prm[200]; return 0;} Kolik bude BSS takov\u00e9hoto programu nepo\u010d\u00edt\u00e1me p\u0159idan\u00e9 dynamick\u00e9 knihovny?",
+        "answers": [
+            {
+                "body": "100B",
+                "right": false
+            },
+            {
+                "body": "200B",
+                "right": false
+            },
+            {
+                "body": "0B",
+                "right": true
+            },
+            {
+                "body": "100* sizeof(int)B",
+                "right": false
+            },
+            {
+                "body": "200* sizeof(int)B",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "M\u011bjme program: static int pole[100]; main() { int pole1[200]; return 0;} } Tento program bude m\u00edt po zkompilov\u00e1n\u00ed sekci BSS velkou p\u0159ibli\u017en\u011b?",
+        "answers": [
+            {
+                "body": "0 bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "200 bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "200* sizeof(int) bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "100 bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "100* sizeof(int) bajt\u016f",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Ko\u0159enov\u00fd adres\u00e1\u0159 je nastaven pro?",
+        "answers": [
+            {
+                "body": "proces",
+                "right": true
+            },
+            {
+                "body": "thread",
+                "right": false
+            },
+            {
+                "body": "syst\u00e9m",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co prov\u00e1d\u00ed program cc?",
+        "answers": [
+            {
+                "body": "prov\u00e1d\u00ed preprocessing",
+                "right": false
+            },
+            {
+                "body": "prov\u00e1d\u00ed cel\u00fd proces kompilace programu v C",
+                "right": true
+            },
+            {
+                "body": "zpracov\u00e1v\u00e1 pouze zdrojov\u00e9 k\u00f3dy v C++",
+                "right": false
+            },
+            {
+                "body": "prov\u00e1d\u00ed pouze p\u0159eklad do strojov\u00e9ho k\u00f3du",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "\u010c\u00edm se zjist\u00ed pracovn\u00ed adres\u00e1\u0159 procesu?",
+        "answers": [
+            {
+                "body": "pwd",
+                "right": false
+            },
+            {
+                "body": "wtf()",
+                "right": false
+            },
+            {
+                "body": "getcwd()",
+                "right": true
+            },
+            {
+                "body": "directory()",
+                "right": false
+            },
+            {
+                "body": "whereami()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak se zjist\u00ed hodnota ukazov\u00e1tka pozice v souboru?",
+        "answers": [
+            {
+                "body": "nelze",
+                "right": false
+            },
+            {
+                "body": "tell()",
+                "right": false
+            },
+            {
+                "body": "fcntl()",
+                "right": false
+            },
+            {
+                "body": "lseek()",
+                "right": true
+            },
+            {
+                "body": "open()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00e1 architektura paraleln\u00edch po\u010d\u00edta\u010d\u016f neumo\u017e\u0148uje p\u0159\u00edm\u00fd p\u0159\u00edstup v\u0161em procesor\u016fm do v\u0161ech pam\u011bt\u00ed syst\u00e9mu?",
+        "answers": [
+            {
+                "body": "NUMA",
+                "right": false
+            },
+            {
+                "body": "Cluster",
+                "right": true
+            },
+            {
+                "body": "SMP",
+                "right": false
+            },
+            {
+                "body": "cc-NUMA",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Proces m\u00e1 tyto GID?",
+        "answers": [
+            {
+                "body": "ulo\u017een\u00e9, efektivn\u00ed, re\u00e1ln\u00e9",
+                "right": false
+            },
+            {
+                "body": "ulo\u017een\u00e9, efektivn\u00ed, re\u00e1ln\u00e9, dopl\u0148kov\u00e9",
+                "right": false
+            },
+            {
+                "body": "ulo\u017een\u00e9, efektivn\u00ed, re\u00e1ln\u00e9, seznam dopl\u0148kov\u00fdch",
+                "right": true
+            },
+            {
+                "body": "ulo\u017een\u00e9, efektivn\u00ed, dopl\u0148kov\u00e9",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "M\u011bjme program: static int odpoved = 42; int main(){ int prm[200]; return 0;} Kde bude ulo\u017een\u00e1 prom\u011bnn\u00e1 \u201codpoved\u201d?",
+        "answers": [
+            {
+                "body": "BSS",
+                "right": false
+            },
+            {
+                "body": "nikde",
+                "right": false
+            },
+            {
+                "body": "DATA",
+                "right": true
+            },
+            {
+                "body": "z\u00e1sobn\u00edk",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00e1 funkce \u010dte data z nesouvisl\u00e9ho datov\u00e9ho prostoru?",
+        "answers": [
+            {
+                "body": "read()",
+                "right": false
+            },
+            {
+                "body": "readv()",
+                "right": true
+            },
+            {
+                "body": "readf()",
+                "right": false
+            },
+            {
+                "body": "getv()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Advisory locking znamen\u00e1, \u017ee?",
+        "answers": [
+            {
+                "body": "existence z\u00e1mku nebr\u00e1n\u00ed operaci \u010dten\u00ed nebo z\u00e1pisu",
+                "right": true
+            },
+            {
+                "body": "soubor m\u016f\u017ee zamknout jen jeho vlastn\u00edk",
+                "right": false
+            },
+            {
+                "body": "lze zamykat v\u017edy jen cel\u00fd soubor",
+                "right": false
+            },
+            {
+                "body": "dva procesy nemohou vytvo\u0159it z\u00e1mek nad stejn\u00fdm souborem",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Pokud nepojmenovanou rouru nem\u00e1 nikdo otev\u0159enou pro \u010dten\u00ed, pak?",
+        "answers": [
+            {
+                "body": "se proces p\u0159i otev\u0159en\u00ed roury pro z\u00e1pis zablokuje",
+                "right": false
+            },
+            {
+                "body": "z\u00e1pis do roury projde, ale pouze do velikosti bufferu roury.",
+                "right": false
+            },
+            {
+                "body": "z\u00e1pis do roury skon\u010d\u00ed s chybou ESPIPE.",
+                "right": false
+            },
+            {
+                "body": "proces p\u0159i pokusu o z\u00e1pis do roury dostane sign\u00e1l SIGPIPE.",
+                "right": true
+            },
+            {
+                "body": "proces p\u0159i otev\u0159en\u00ed roury pro z\u00e1pis dostane sign\u00e1l SIGPIPE.",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kde jsou ulo\u017een\u00e9 prom\u011bnn\u00e9 prost\u0159ed\u00ed?",
+        "answers": [
+            {
+                "body": "kernel space, ka\u017ed\u00fd proces zvl\u00e1\u0161\u0165",
+                "right": false
+            },
+            {
+                "body": "kernel space, glob\u00e1ln\u011b",
+                "right": false
+            },
+            {
+                "body": "user space, ka\u017ed\u00fd proces zvl\u00e1\u0161\u0165",
+                "right": true
+            },
+            {
+                "body": "user space, glob\u00e1ln\u011b",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Spot\u0159ebovan\u00fd \u010das procesu a jeho potomk\u016f lze zjistit slu\u017ebou j\u00e1dra?",
+        "answers": [
+            {
+                "body": "sysconf()",
+                "right": false
+            },
+            {
+                "body": "times(), getrusage()",
+                "right": true
+            },
+            {
+                "body": "time()",
+                "right": false
+            },
+            {
+                "body": "wait()",
+                "right": false
+            },
+            {
+                "body": "getresources()",
+                "right": false
+            },
+            {
+                "body": "getrlimit()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak p\u0159e\u010d\u00edst posledn\u00edch 10b ze souboru?",
+        "answers": [
+            {
+                "body": "read(fd,10,SEEK_END);",
+                "right": false
+            },
+            {
+                "body": "read(fd,-10,SEEK_END);",
+                "right": true
+            },
+            {
+                "body": "read(fd,-10,SEEK_LAST);",
+                "right": false
+            },
+            {
+                "body": "read(fd,10,SEEK_SET);",
+                "right": false
+            },
+            {
+                "body": "read(fd,-10,SEEK_SET);",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Co se stane kdy\u017e spust\u00edte link(old, new) a old a new jsou ka\u017ed\u00fd na jin\u00e9m svazku? vytvo\u0159\u00ed link",
+        "answers": [
+            {
+                "body": "skon\u010d\u00ed chybou",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Co se mus\u00ed ud\u011blat, aby readdir() vracel i soubory za\u010d\u00ednaj\u00edc\u00ed te\u010dkou?",
+        "answers": [
+            {
+                "body": "nic",
+                "right": true
+            },
+            {
+                "body": "nastavit n\u011bjakou prom\u011bnnou prost\u0159ed\u00ed",
+                "right": false
+            },
+            {
+                "body": "zadat parametr readdiru",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co se ned\u00e1 ud\u011blat pomoc\u00ed fcntl?",
+        "answers": [
+            {
+                "body": "zamknout soubor",
+                "right": false
+            },
+            {
+                "body": "vytvo\u0159it duplik\u00e1t deskriptoru",
+                "right": false
+            },
+            {
+                "body": "pohybovat se po souboru",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Zm\u011bnit skupinu souboru lze slu\u017ebou j\u00e1dra?",
+        "answers": [
+            {
+                "body": "chown()",
+                "right": true
+            },
+            {
+                "body": "setgid()",
+                "right": false
+            },
+            {
+                "body": "chgrp()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Funkce fsync provede co?",
+        "answers": [
+            {
+                "body": "synchronizuje dva adres\u00e1\u0159e",
+                "right": false
+            },
+            {
+                "body": "synchronizuje \u010das syst\u00e9mu",
+                "right": false
+            },
+            {
+                "body": "zap\u00ed\u0161e v\u0161echny modifikovan\u00e9 \u010d\u00e1sti souboru na disk",
+                "right": true
+            },
+            {
+                "body": "oprav\u00ed koherenci cash mezi procesory",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Kolik existuje odkaz\u016f na adres\u00e1\u0159?",
+        "answers": [
+            {
+                "body": "jeden odkaz",
+                "right": false
+            },
+            {
+                "body": "p\u0159esn\u011b dva odkazy",
+                "right": false
+            },
+            {
+                "body": "minim\u00e1ln\u011b dva odkazy (s\u00e1m na sebe a na nad\u0159azen\u00fd adres\u00e1\u0159)",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Jak lze zjistit po\u010det odkaz\u016f na i-uzel?",
+        "answers": [
+            {
+                "body": "stat()",
+                "right": true
+            },
+            {
+                "body": "inode()",
+                "right": false
+            },
+            {
+                "body": "objdump()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Slu\u017eba j\u00e1dra stat() neumo\u017e\u0148uje zjistit?",
+        "answers": [
+            {
+                "body": "po\u010det odkaz\u016f na soubor",
+                "right": false
+            },
+            {
+                "body": "seznam blok\u016f, ve kter\u00fdch je soubor ulo\u017een",
+                "right": true
+            },
+            {
+                "body": "\u010d\u00edslo i-uzlu dan\u00e9ho souboru.",
+                "right": false
+            },
+            {
+                "body": "za\u0159\u00edzen\u00ed, na kter\u00e9m je soubor ulo\u017een",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Po sekvenci vol\u00e1n\u00ed umask(022); open(\"file\", O_WRONLY|O_CREAT, 0774); vznikne soubor s pr\u00e1vy?",
+        "answers": [
+            {
+                "body": "rwxr-x---",
+                "right": false
+            },
+            {
+                "body": "rw-rw-r--",
+                "right": false
+            },
+            {
+                "body": "rwxr-xr--",
+                "right": true
+            },
+            {
+                "body": "rwxrwxr-",
+                "right": false
+            },
+            {
+                "body": "rw-r--r--",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "K \u010demu se pou\u017e\u00edv\u00e1 semafor?",
+        "answers": [
+            {
+                "body": "dlouhodob\u00e9 \u010dek\u00e1n\u00ed",
+                "right": true
+            },
+            {
+                "body": "kr\u00e1tkodob\u00e9 \u010dek\u00e1n\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak se jmenuje priorita, kterou si proces m\u016f\u017ee nastavit s\u00e1m?",
+        "answers": [
+            {
+                "body": "dispe\u010dersk\u00e1 nice",
+                "right": false
+            },
+            {
+                "body": "u\u017eivatelsk\u00e1 nice",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "P\u0159i vol\u00e1n\u00ed open(\"file\", O_WRONLY|O_CREAT, 0666) se?",
+        "answers": [
+            {
+                "body": "vr\u00e1t\u00ed chyba, pokud soubor file neexistuje.",
+                "right": false
+            },
+            {
+                "body": "vr\u00e1t\u00ed chyba, pokud soubor file m\u00e1 ji\u017e n\u011bkdo otev\u0159en\u00fd pro z\u00e1pis.",
+                "right": false
+            },
+            {
+                "body": "vr\u00e1t\u00ed chyba, pokud soubor file ji\u017e existuje.",
+                "right": false
+            },
+            {
+                "body": "nep\u0159ep\u00ed\u0161e p\u016fvodn\u00ed obsah souboru file.",
+                "right": true
+            },
+            {
+                "body": "soubor file zarovn\u00e1 na nulovou d\u00e9lku.",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "K \u010demu se pou\u017e\u00edv\u00e1 spinlock?",
+        "answers": [
+            {
+                "body": "dlouhodob\u00e9 \u010dek\u00e1n\u00ed",
+                "right": false
+            },
+            {
+                "body": "kr\u00e1tkodob\u00e9 \u010dek\u00e1n\u00ed (nezablokuje proces, \u010dek\u00e1 ve smy\u010dce)",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "\u010c\u00edm vyp\u00ed\u0161eme posledn\u00ed hl\u00e1\u0161en\u00ed z j\u00e1dra (nap\u0159\u00edklad startu)?",
+        "answers": [
+            {
+                "body": "dmesg",
+                "right": true
+            },
+            {
+                "body": "mesg",
+                "right": false
+            },
+            {
+                "body": "kmessage",
+                "right": false
+            },
+            {
+                "body": "boot",
+                "right": false
+            },
+            {
+                "body": "reboot",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Funkce realloc() m\u016f\u017ee?",
+        "answers": [
+            {
+                "body": "m\u016f\u017ee p\u0159em\u00edstit p\u016fvodn\u00ed data jen p\u0159i po\u017eadovan\u00e9m zv\u011bt\u0161en\u00ed alokovan\u00e9ho prostoru",
+                "right": false
+            },
+            {
+                "body": "m\u016f\u017ee p\u0159em\u00edstit p\u016fvodn\u00ed data p\u0159i po\u017eadovan\u00e9m zmen\u0161en\u00ed i zv\u011bt\u0161en\u00ed alokovan\u00e9ho prostoru.",
+                "right": true
+            },
+            {
+                "body": "nikdy nep\u0159emis\u0165uje p\u016fvodn\u00ed data. nem\u00e1-li na p\u0159\u00edslu\u0161n\u00e9m m\u00edst\u011b dostatek prostoru, vr\u00e1t\u00ed \tchybu.",
+                "right": false
+            },
+            {
+                "body": "m\u016f\u017ee p\u0159em\u00edstit p\u016fvodn\u00ed data jen p\u0159i po\u017eadovan\u00e9m zmen\u0161en\u00ed alokovan\u00e9ho prostoru.",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": [
+            {
+                "body": "Souborov\u00fd syst\u00e9m FFS\/UFS neobsahuje?",
+                "right": false
+            },
+            {
+                "body": "tabulku i-uzl\u016f",
+                "right": false
+            },
+            {
+                "body": "voln\u00e9 datov\u00e9 bloky",
+                "right": false
+            },
+            {
+                "body": "bitmapu voln\u00fdch datov\u00fdch blok\u016f",
+                "right": false
+            },
+            {
+                "body": "bitmapu voln\u00fdch i-uzl\u016f",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "UNIXov\u00e9 syst\u00e9my obvykle proces\u016fm poskytuj\u00ed pam\u011b\u0165ov\u00fd model?",
+        "answers": [
+            {
+                "body": "spole\u010dn\u00e1 pam\u011b\u0165 pro v\u0161echny procesy",
+                "right": false
+            },
+            {
+                "body": "line\u00e1rn\u011b adresovan\u00e1 pam\u011b\u0165",
+                "right": true
+            },
+            {
+                "body": "segmentovan\u00e1 pam\u011b\u0165",
+                "right": false
+            },
+            {
+                "body": "distribuovan\u00e1 pam\u011b\u0165",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Pokud proces pr\u00e1v\u011b ukon\u010dil vykon\u00e1v\u00e1n\u00ed slu\u017eby j\u00e1dra, p\u0159ejde do stavu?",
+        "answers": [
+            {
+                "body": "p\u0159eru\u0161iteln\u011b \u010dekaj\u00edc\u00ed",
+                "right": false
+            },
+            {
+                "body": "b\u011b\u017e\u00edc\u00ed v u\u017eivatelsk\u00e9m prostoru",
+                "right": true
+            },
+            {
+                "body": "b\u011b\u017e\u00edc\u00ed v re\u017eimu j\u00e1dra",
+                "right": false
+            },
+            {
+                "body": "zombie",
+                "right": false
+            },
+            {
+                "body": "nep\u0159eru\u0161iteln\u011b \u010dekaj\u00edc\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "P\u0159i zablokov\u00e1n\u00ed procesu se j\u00e1dro se p\u0159i v\u00fdb\u011bru procesu kter\u00e9mu bude d\u00e1le p\u0159id\u011blen procesor \u0159\u00edd\u00ed atributem?",
+        "answers": [
+            {
+                "body": "velikost obsazen\u00e9 pam\u011bti procesu",
+                "right": false
+            },
+            {
+                "body": "prioritou dan\u00e9ho u\u017eivatele",
+                "right": false
+            },
+            {
+                "body": "p\u0159edpokl\u00e1danou d\u00e9lkou b\u011bhu procesu",
+                "right": false
+            },
+            {
+                "body": "dispe\u010dersk\u00e1 priorita procesu",
+                "right": true
+            },
+            {
+                "body": "u\u017eivatelsk\u00e1 priorita procesu",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Podle jak\u00e9 konstanty LOCALEs se ur\u010duje p\u0159evod mal\u00fdch a velk\u00fdch p\u00edsmen aktu\u00e1ln\u00ed znakov\u00e9 sady?",
+        "answers": [
+            {
+                "body": "LC_COLLATE",
+                "right": false
+            },
+            {
+                "body": "LC_CTYPE",
+                "right": true
+            },
+            {
+                "body": "LC_MESSAGES",
+                "right": false
+            },
+            {
+                "body": "LC_UPPER",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Pro efektivn\u00ed naprogramov\u00e1n\u00ed lokalizovan\u00e9ho t\u0159\u00edd\u011bn\u00ed je t\u0159eba t\u0159\u00edd\u011bn\u00e9 \u0159et\u011bzce p\u0159edzpracovat funkc\u00ed?",
+        "answers": [
+            {
+                "body": "strcmp()",
+                "right": false
+            },
+            {
+                "body": "strxfrm()",
+                "right": true
+            },
+            {
+                "body": "strcoll()",
+                "right": false
+            },
+            {
+                "body": "setlocale()",
+                "right": false
+            },
+            {
+                "body": "bzero()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "P\u0159i statick\u00e9m linkov\u00e1n\u00ed objektov\u00fdch modul\u016f s knihovnou se do v\u00fdsledn\u00e9ho programu p\u0159id\u00e1?",
+        "answers": [
+            {
+                "body": "cel\u00fd obsah linkovan\u00e9 knihovny",
+                "right": false
+            },
+            {
+                "body": "jen odkazy na pevn\u00e9 (statick\u00e9) adresy symbol\u016f z knihovny",
+                "right": false
+            },
+            {
+                "body": "jen jm\u00e9na pou\u017eit\u00fdch symbol\u016f z knihovny",
+                "right": false
+            },
+            {
+                "body": "\u010d\u00e1st obsahu linkovan\u00e9 knihovny",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Co vrac\u00ed malloc?",
+        "answers": [
+            {
+                "body": "p\u0159i ne\u00fasp\u011bchu -1",
+                "right": false
+            },
+            {
+                "body": "ukazatel na pam\u011b\u0165 zarovnanou na 4B",
+                "right": false
+            },
+            {
+                "body": "ukazatel na blok pam\u011bti zarovnan\u00fd pro jak\u00fdkoli datov\u00fd typ, velikost minim\u00e1ln\u011b parametru \tsize",
+                "right": true
+            },
+            {
+                "body": "ukazatel na pam\u011b\u0165 vypln\u011bnou nulov\u00fdmi bajty",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co vrac\u00ed calloc?",
+        "answers": [
+            {
+                "body": "p\u0159i ne\u00fasp\u011bchu -1",
+                "right": false
+            },
+            {
+                "body": "ukazatel na pam\u011b\u0165 zarovnanou na 4B",
+                "right": false
+            },
+            {
+                "body": "ukazatel na pam\u011b\u0165 vypln\u011bnou nulov\u00fdmi bajty",
+                "right": false
+            },
+            {
+                "body": "m\u00edsto pro zadan\u00fd po\u010det objekt\u016f velikosti size, inicializovan\u00e9 nulami.",
+                "right": true
+            },
+            {
+                "body": "ukazatel na blok pam\u011bti zarovnan\u00fd pro jak\u00fdkoli datov\u00fd typ, velikost minim\u00e1ln\u011b parametru \tsize",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Co d\u011bl\u00e1 funkce dlopen?",
+        "answers": [
+            {
+                "body": "otev\u0159e knihovnu pro \u010dten\u00ed",
+                "right": false
+            },
+            {
+                "body": "p\u0159id\u00e1 dynamick\u00fd objekt k procesu. Vy\u0159e\u0161\u00ed k\u0159\u00ed\u017eov\u00e9 odkazy, zavol\u00e1 symbol _init",
+                "right": true
+            },
+            {
+                "body": "(konstruktory).",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00e9 dv\u011b funkce zastav\u00ed proces, aby \u010dekal na p\u0159\u00edchod sign\u00e1lu?",
+        "answers": [
+            {
+                "body": "fctntl(), sigsuspend()",
+                "right": false
+            },
+            {
+                "body": "fork(), exec()",
+                "right": false
+            },
+            {
+                "body": "pause(), wait(), sigsuspend(), sigprocmask(), ...",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Co vytvo\u0159\u00ed program ld?",
+        "answers": [
+            {
+                "body": "spustiteln\u00fd program",
+                "right": true
+            },
+            {
+                "body": "statickou knihovnu",
+                "right": false
+            },
+            {
+                "body": "zdrojov\u00fd k\u00f3d v C",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00fd program vytvo\u0159\u00ed statickou knihovnu?",
+        "answers": [
+            {
+                "body": "tar",
+                "right": false
+            },
+            {
+                "body": "ar",
+                "right": true
+            },
+            {
+                "body": "ranlib",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "P\u0159i zavol\u00e1n\u00ed vfork dostane slovo prvn\u00ed kdo a co se pozastav\u00ed?",
+        "answers": [
+            {
+                "body": "potomek",
+                "right": false
+            },
+            {
+                "body": "rodi\u010d je pozastaven, potomek b\u011b\u017e\u00ed do zavol\u00e1n\u00ed exec nebo _exit",
+                "right": true
+            },
+            {
+                "body": "potomek je pozastaven, dokud ho rodi\u010d nespust\u00ed",
+                "right": false
+            },
+            {
+                "body": "nen\u00ed stanoveno",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Kdy m\u00e1te pr\u00e1vo vytvo\u0159it nov\u00fd podadres\u00e1\u0159 v adres\u00e1\u0159i?",
+        "answers": [
+            {
+                "body": "jste-li vlastn\u00edk",
+                "right": false
+            },
+            {
+                "body": "mate-li pr\u00e1vo z\u00e1pisu do adres\u00e1\u0159e",
+                "right": false
+            },
+            {
+                "body": "m\u00e1te-li pr\u00e1vo vstupu a z\u00e1pisu do adres\u00e1\u0159e",
+                "right": true
+            },
+            {
+                "body": "je nastaven sticky bit",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Jak spolu komunikuje ovlada\u010d a j\u00e1dro mikrokernelu?",
+        "answers": [
+            {
+                "body": "pomoc\u00ed p\u0159eru\u0161en\u00ed",
+                "right": false
+            },
+            {
+                "body": "zas\u00edl\u00e1n\u00edm zpr\u00e1v",
+                "right": true
+            },
+            {
+                "body": "vol\u00e1n\u00edm funkc\u00ed",
+                "right": false
+            },
+            {
+                "body": "sd\u00edlenou pam\u011bt\u00ed",
+                "right": false
+            },
+            {
+                "body": "pomoci roury",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Z adres\u00e1\u0159e sm\u00ed vlastn\u00edk smazat soubor pokud?",
+        "answers": [
+            {
+                "body": "m\u00e1 pr\u00e1vo w a x (z\u00e1pis a vstup) do adres\u00e1\u0159e",
+                "right": true
+            },
+            {
+                "body": "v\u017edy",
+                "right": false
+            },
+            {
+                "body": "m\u00e1-li adres\u00e1\u0159 nastaven\u00fd sticky bit",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Funkce longjmp vrac\u00ed jak\u00fd ukazatel\/hodnotu?",
+        "answers": [
+            {
+                "body": "nevrac\u00ed \u017e\u00e1dnou hodnotu (Napln\u00ed strukturu jmp_buf, kter\u00e1 obsahuje n\u00e1vratovou adresu a \tvrchol \tz\u00e1sobn\u00edku.) Longjump obsahuje parametr n\u00e1vratov\u00e9 hodnoty, kterou po zavol\u00e1n\u00ed \tlongjump a vr\u00e1cen\u00ed se na m\u00edsto zavol\u00e1n\u00ed setjmp, funkce setjmp vr\u00e1t\u00ed.",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Program ld zpracov\u00e1v\u00e1?",
+        "answers": [
+            {
+                "body": "zdrojov\u00e9 texty C",
+                "right": false
+            },
+            {
+                "body": "objektov\u00e9 soubory jazyka c s p\u0159\u00edponou .o a knihovny .a",
+                "right": true
+            },
+            {
+                "body": "hlavi\u010dkov\u00e9 soubory",
+                "right": false
+            },
+            {
+                "body": "programy v assembleru",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co d\u011bl\u00e1 program as?",
+        "answers": [
+            {
+                "body": "porovn\u00e1v\u00e1 dva \u0159et\u011bzce",
+                "right": false
+            },
+            {
+                "body": "kompilaci knihovny",
+                "right": false
+            },
+            {
+                "body": "vytv\u00e1\u0159\u00ed objektov\u00fd soubor ze zdrojov\u00e9ho souboru v assembleru.",
+                "right": true
+            },
+            {
+                "body": "vytv\u00e1\u0159\u00ed zdrojov\u00fd soubor C",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jakou funkc\u00ed si nadefunuji, co se zavol\u00e1 za funkce p\u0159i p\u0159\u00edkazu exit?",
+        "answers": [
+            {
+                "body": "exit()",
+                "right": false
+            },
+            {
+                "body": "_exit()",
+                "right": false
+            },
+            {
+                "body": "atexit()",
+                "right": true
+            },
+            {
+                "body": "doexit()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co d\u011bl\u00e1 funkce getopt, getopt_long?",
+        "answers": [
+            {
+                "body": "z\u00edsk\u00e1 optim\u00e1ln\u00ed hodnotu pam\u011bti pot\u0159ebn\u00e9 pro proces",
+                "right": false
+            },
+            {
+                "body": "zpracov\u00e1n\u00ed p\u0159ep\u00edna\u010d\u016f",
+                "right": true
+            },
+            {
+                "body": "z\u00edsk\u00e1 nastaven\u00ed prom\u011bnn\u00fdch prost\u0159ed\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co d\u011bl\u00e1 funkce abort()?",
+        "answers": [
+            {
+                "body": "zru\u0161\u00ed prob\u00edhaj\u00edc\u00ed transakci",
+                "right": false
+            },
+            {
+                "body": "p\u0159eru\u0161\u00ed proces zasl\u00e1n\u00edm sign\u00e1lu SIGABRT",
+                "right": false
+            },
+            {
+                "body": "n\u00e1siln\u011b ukon\u010d\u00ed proces zasl\u00e1n\u00edm sign\u00e1lu SIGABRT a ulo\u017e\u00ed obraz adresov\u00e9ho prostoru \tprocesu do souboru core",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00e9 sign\u00e1ly vyvol\u00e1vaj\u00ed vytvo\u0159en\u00ed souboru core?",
+        "answers": [
+            {
+                "body": "SIGQUIT",
+                "right": true
+            },
+            {
+                "body": "SIGABRT",
+                "right": true
+            },
+            {
+                "body": "SIGKILL",
+                "right": true
+            },
+            {
+                "body": "SIGSEGV",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00e1 funkce odstran\u00ed tabulku symbolu?",
+        "answers": [
+            {
+                "body": "objdump()",
+                "right": false
+            },
+            {
+                "body": "nm()",
+                "right": false
+            },
+            {
+                "body": "strip()",
+                "right": true
+            },
+            {
+                "body": "cut()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00e1 funkce vyp\u00edp\u0161e tabulku symbolu?",
+        "answers": [
+            {
+                "body": "symtable()",
+                "right": false
+            },
+            {
+                "body": "strip()",
+                "right": false
+            },
+            {
+                "body": "nm()",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Co prov\u00e1d\u00ed program ldd?",
+        "answers": [
+            {
+                "body": "vytv\u00e1\u0159\u00ed knihovnu dll",
+                "right": false
+            },
+            {
+                "body": "nahraje dynamick\u00fd soubor do pam\u011bti",
+                "right": false
+            },
+            {
+                "body": "provede dopln\u011bn\u00ed k\u0159\u00ed\u017eov\u00fdch odkaz\u016f a ohl\u00e1s\u00ed chyb\u011bj\u00edc\u00ed funkce",
+                "right": true
+            },
+            {
+                "body": "kompiluje knihovnu",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co vypisuje funkce size?",
+        "answers": [
+            {
+                "body": "velikosti typ\u016f prom\u011bnn\u00fdch",
+                "right": false
+            },
+            {
+                "body": "velikost objektov\u00e9ho souboru (text, data, bss)",
+                "right": true
+            },
+            {
+                "body": "velikost pojmenovan\u00e9 roury",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak se zjisti velikost objektov\u00e9ho souboru?",
+        "answers": [
+            {
+                "body": "objdump, nm, size",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Jak zjistit form\u00e1t souboru?",
+        "answers": [
+            {
+                "body": "p\u0159\u00edkaz size",
+                "right": false
+            },
+            {
+                "body": "p\u0159\u00edkaz file",
+                "right": true
+            },
+            {
+                "body": "p\u0159\u00edkaz objdump",
+                "right": false
+            },
+            {
+                "body": "p\u0159\u00edkaz magic",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Jak se jmenuje architektura, ve kter\u00e9 jsou v\u0161echny procesory a pam\u011b\u0165ov\u00e9 bloky na stejn\u00e9 sb\u011brnici?",
+        "answers": [
+            {
+                "body": "NUMA",
+                "right": false
+            },
+            {
+                "body": "SMP",
+                "right": true
+            },
+            {
+                "body": "CLUSTER",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kolik fyzick\u00e9 pam\u011bti m\u016f\u017ee obslou\u017eit 32bitov\u00fd linuxov\u00e9 j\u00e1dro, kter\u00e9 um\u00ed akor\u00e1t mapovat fyzickou pam\u011b\u0165 1:1 do j\u00e1dra a 128MB m\u00e1 vyhrazeno pro virtu\u00e1ln\u00ed alokace uvnit\u0159 j\u00e1dra?",
+        "answers": [
+            {
+                "body": "1GB virtu\u00e1ln\u00ed alokace se rozprost\u00edr\u00e1",
+                "right": false
+            },
+            {
+                "body": "896MB z p\u0159i\u0159azen\u00e9 pam\u011bti j\u00e1dra se 128MB ode\u010dte",
+                "right": true
+            },
+            {
+                "body": "4GB",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00fd v\u00fdznam m\u00e1 sticky-bit?",
+        "answers": [
+            {
+                "body": "Sticky bit na adres\u00e1\u0159i zaru\u010duje, \u017ee pouze vlastn\u00edk soubor\u016f v n\u011bm, vlastn\u00edk adres\u00e1\u0159e a root, \tm\u016f\u017ee tyto soubory mazat, p\u0159ejmenov\u00e1vat. Bez sticky bitu, by mohl kdokoli s pr\u00e1vy z\u00e1pisu a \tspu\u0161t\u011bn\u00ed na adres\u00e1\u0159i cokoli v n\u011bm mazat nebo p\u0159ejmenov\u00e1vat.",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Jak se jmenuje n\u00e1stroj j\u00e1dra, kter\u00fd p\u0159ekl\u00e1d\u00e1 virtu\u00e1ln\u00ed adresy (s nimi\u017e pracuje procesor) na fyzick\u00e9 adresy?",
+        "answers": [
+            {
+                "body": "z\u00e1sobn\u00edk",
+                "right": false
+            },
+            {
+                "body": "registr",
+                "right": false
+            },
+            {
+                "body": "str\u00e1nkov\u00e1 tabulka",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Jak se jmenuje program, kter\u00fd se za\u010dne prov\u00e1d\u011bt po zapnut\u00ed po\u010d\u00edta\u010de?",
+        "answers": [
+            {
+                "body": "OS",
+                "right": false
+            },
+            {
+                "body": "BIOS, UEFI",
+                "right": true
+            },
+            {
+                "body": "AVG",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jakou funkc\u00ed m\u016f\u017ee proces zm\u011bnit sv\u00e9 efektivn\u00ed a re\u00e1ln\u00e9 UID?",
+        "answers": [
+            {
+                "body": "setuser()",
+                "right": false
+            },
+            {
+                "body": "setuid()",
+                "right": true
+            },
+            {
+                "body": "seteuid()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "M\u00e1?li proces re\u00e1ln\u00e9 a efektivn\u00ed UID rovno 1 a ulo\u017een\u00e9 UID rovno 2, pak po spu\u0161t\u011bn\u00ed",
+        "answers": [
+            {
+                "body": "(exec* ()) programu bez set?UID bitu vlastn\u011bn\u00e9ho u\u017eivatelem 3 bude m\u00edt proces tyto\thodnoty re\u00e1ln\u00e9ho, efektivn\u00edho a ulo\u017een\u00e9ho UID (v tomto po\u0159ad\u00ed)?",
+                "right": false
+            },
+            {
+                "body": "1, 1, 2",
+                "right": false
+            },
+            {
+                "body": "1, 3, 3",
+                "right": false
+            },
+            {
+                "body": "1, 2, 2",
+                "right": false
+            },
+            {
+                "body": "1, 3, 2",
+                "right": false
+            },
+            {
+                "body": "1, 1, 1",
+                "right": true
+            },
+            {
+                "body": "3, 1, 2",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "fork() - jaka je n\u00e1vratov\u00e1 hodnota?",
+        "answers": [
+            {
+                "body": "v\u017edy 0",
+                "right": false
+            },
+            {
+                "body": "0, -1, kladn\u00e9 \u010d\u00edslo. Vr\u00e1t\u00ed 0 potomkovi, rodi\u010di \u010d\u00edslo potomka, -1 chyba)",
+                "right": true
+            },
+            {
+                "body": "\u010d\u00edslo potomka vr\u00e1t\u00ed rodi\u010di, 0 potomkovi",
+                "right": false
+            },
+            {
+                "body": "0 rodi\u010di, \u010d\u00edslo potomka potomkovi",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "\u010c\u00edm se vyzna\u010duje proces \u010d\u00edslo 0 (idle)?",
+        "answers": [
+            {
+                "body": "nesm\u00ed b\u00fdt zablokov\u00e1n uvnit\u0159 \u010dekac\u00ed rutiny",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "struktura stat - kde je ulo\u017eeno o jak\u00fd typ souboru jde?",
+        "answers": [
+            {
+                "body": "st_dev",
+                "right": false
+            },
+            {
+                "body": "st_mode",
+                "right": true
+            },
+            {
+                "body": "st_ino",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00e1 je n\u00e1vratov\u00e1 hodnota fuknce exec() p\u0159i \u00fasp\u011bchu?",
+        "answers": [
+            {
+                "body": "\u017e\u00e1dn\u00e1, program volaj\u00edc\u00ed exec p\u0159estane existovat",
+                "right": true
+            },
+            {
+                "body": "v\u017edy 1",
+                "right": false
+            },
+            {
+                "body": "0, proces pokra\u010duje dal\u0161\u00edm programem",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "RCU - co vyu\u017e\u00edv\u00e1?",
+        "answers": [
+            {
+                "body": "semafor",
+                "right": false
+            },
+            {
+                "body": "spinlock",
+                "right": false
+            },
+            {
+                "body": "pam\u011b\u0165ovou bari\u00e9ru",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Proces kter\u00fd po\u017eadoval str\u00e1nku, ale ta nebyla dostupn\u00e1, se dostal do stavu?",
+        "answers": [
+            {
+                "body": "p\u0159eru\u0161iteln\u00e9ho \u010dek\u00e1n\u00ed",
+                "right": false
+            },
+            {
+                "body": "nep\u0159eru\u0161iteln\u00e9ho \u010dek\u00e1n\u00ed",
+                "right": true
+            },
+            {
+                "body": "b\u011b\u017e\u00edc\u00ed v re\u017eimu j\u00e1dra",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "\u010c\u00edm se zjist\u00ed maxim\u00e1ln\u00ed d\u00e9lka souboru?",
+        "answers": [
+            {
+                "body": "size()",
+                "right": false
+            },
+            {
+                "body": "pathconf()",
+                "right": true
+            },
+            {
+                "body": "sysconf()",
+                "right": false
+            },
+            {
+                "body": "fcntl()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Koho\/co p\u0159eb\u00edj\u00ed LANG?",
+        "answers": [
+            {
+                "body": "v\u0161echny prom\u011bnn\u00e9 prost\u0159ed\u00ed",
+                "right": false
+            },
+            {
+                "body": "nastaven\u00ed konkr\u00e9tn\u00edch kategorii lokalizace",
+                "right": true
+            },
+            {
+                "body": "v\u0161echny nastaven\u00ed lokalizace",
+                "right": false
+            },
+            {
+                "body": "pouze nastaven\u00ed jazyka zpr\u00e1v",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Ud\u00e1lostn\u011b \u0159\u00edzen\u00e9 programov\u00e1n\u00ed vyu\u017e\u00edv\u00e1?",
+        "answers": [
+            {
+                "body": "fork(), exec()",
+                "right": false
+            },
+            {
+                "body": "poll(), select()",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Jak se zak\u00e1\u017ee p\u0159eru\u0161en\u00ed na CPU?",
+        "answers": [
+            {
+                "body": "zak\u00e1zat p\u0159eru\u0161en\u00ed nelze",
+                "right": false
+            },
+            {
+                "body": "funkce cli a sti",
+                "right": true
+            },
+            {
+                "body": "nointerrupt()",
+                "right": false
+            },
+            {
+                "body": "interrupt()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Hodnoty CHILD_MAX, LINK_MAX a dal\u0161\u00ed pat\u0159\u00ed mezi?",
+        "answers": [
+            {
+                "body": "syst\u00e9mov\u00e9 limity procesu",
+                "right": false
+            },
+            {
+                "body": "POSIX.1 compile-time limity",
+                "right": true
+            },
+            {
+                "body": "run-time limity",
+                "right": false
+            },
+            {
+                "body": "glob\u00e1ln\u00ed prom\u011bnn\u00e9",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Proces m\u00e1 n\u00e1sleduj\u00edc\u00ed UID?",
+        "answers": [
+            {
+                "body": "re\u00e1ln\u00e9, efektivn\u00ed, ulo\u017een\u00e9 a seznam dopl\u0148kov\u00fdch",
+                "right": false
+            },
+            {
+                "body": "re\u00e1ln\u00e9, ulo\u017een\u00e9 a seznam dopl\u0148kov\u00fdch",
+                "right": false
+            },
+            {
+                "body": "re\u00e1ln\u00e9, efektivn\u00ed a ulo\u017een\u00e9",
+                "right": true
+            },
+            {
+                "body": "re\u00e1ln\u00e9, efektivn\u00ed a seznam dopl\u0148kov\u00fdch",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Konstruktory statick\u00fdch objekt\u016f v C++ se volaj\u00ed?",
+        "answers": [
+            {
+                "body": "v pr\u016fb\u011bhu statick\u00e9ho linkov\u00e1n\u00ed programu",
+                "right": false
+            },
+            {
+                "body": "p\u0159ed vstupem do funkce main()",
+                "right": true
+            },
+            {
+                "body": "po n\u00e1vratu z funkce __main()",
+                "right": false
+            },
+            {
+                "body": "po zpracov\u00e1n\u00ed argument\u016f p\u0159\u00edkazov\u00e9 \u0159\u00e1dky nap\u0159\u00edklad pomoc\u00ed getopt()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Chceme-li kop\u00edrovat data z jednoho deskriptoru do druh\u00e9ho a naopak (bez zablokov\u00e1n\u00ed p\u0159enosu jedn\u00edm sm\u011brem \u010dek\u00e1n\u00edm na p\u0159ipravenost k p\u0159enosu druh\u00fdm sm\u011brem), je nejl\u00e9pe?",
+        "answers": [
+            {
+                "body": "pou\u017e\u00edt samostatn\u00fd proces pro ka\u017ed\u00fd sm\u011br",
+                "right": false
+            },
+            {
+                "body": "slu\u017ebu select() nebo poll()",
+                "right": true
+            },
+            {
+                "body": "neblokuj\u00edc\u00ed \u010dten\u00ed\/z\u00e1pis O_NDELAY",
+                "right": false
+            },
+            {
+                "body": "samostatn\u00e9 vl\u00e1kno pro ka\u017ed\u00fd sm\u011br",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "M\u011bjme program: static int pole[100]; main() { int pole1[200]; } Tento program bude m\u00edt po zkompilov\u00e1n\u00ed sekci DATA velkou p\u0159ibli\u017en\u011b (nepo\u010d\u00edt\u00e1m to, co p\u0159id\u00e1 standardn\u00ed knihovna)?",
+        "answers": [
+            {
+                "body": "0 bajt\u016f",
+                "right": true
+            },
+            {
+                "body": "100* sizeof(int) bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "100 bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "200* sizeof(int) bajt\u016f",
+                "right": false
+            },
+            {
+                "body": "200 bajt\u016f",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "\u00dasp\u011b\u0161n\u00e9 vol\u00e1n\u00ed lseek(fd, -10, SEEK_CUR) nastav\u00ed ukazov\u00e1tko pozice v souboru?",
+        "answers": [
+            {
+                "body": "deset bajt\u016f p\u0159ed konec souboru",
+                "right": false
+            },
+            {
+                "body": "do p\u016fvodn\u00ed pozice (nezm\u011bn\u00ed pozici)",
+                "right": false
+            },
+            {
+                "body": "na za\u010d\u00e1tek souboru",
+                "right": false
+            },
+            {
+                "body": "o deset bajt\u016f zp\u011bt",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Vol\u00e1n\u00ed lseek(fd, 0, SEEK_SET) nastav\u00ed ukazov\u00e1tko pozice v souboru?",
+        "answers": [
+            {
+                "body": "na za\u010d\u00e1tek souboru",
+                "right": true
+            },
+            {
+                "body": "do p\u016fvodn\u00ed pozice (nezm\u011bn\u00ed pozici)",
+                "right": false
+            },
+            {
+                "body": "na konec souboru",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Logical Volume Manager (lvm) umo\u017e\u0148uje?",
+        "answers": [
+            {
+                "body": "zmen\u0161en\u00ed\/zv\u011bt\u0161en\u00ed logical volume, ani\u017e by bylo nutno informovat o zm\u011bn\u011b nad\u0159azen\u00fd \tsouborov\u00fd syst\u00e9m.",
+                "right": false
+            },
+            {
+                "body": "p\u0159esun dat z jednoho physical volume na jin\u00fd za b\u011bhu.",
+                "right": true
+            },
+            {
+                "body": "p\u0159esun logical volume na jinou volume group za b\u011bhu.",
+                "right": false
+            },
+            {
+                "body": "p\u0159esun physical extentu na jin\u00fd physical volume za b\u011bhu.",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Po vykon\u00e1n\u00ed slu\u017eby fork() zd\u011bd\u00ed potomek od rodi\u010dovsk\u00e9ho procesu?",
+        "answers": [
+            {
+                "body": "\u010dekaj\u00edc\u00ed sign\u00e1ly",
+                "right": false
+            },
+            {
+                "body": "\u010d\u00edslo procesu",
+                "right": false
+            },
+            {
+                "body": "hodnotu ukazatele vrcholu z\u00e1sobn\u00edku",
+                "right": true
+            },
+            {
+                "body": "deskriptory krom\u011b t\u011bch s flagem FD_CLOEXEC",
+                "right": false
+            },
+            {
+                "body": "z\u00e1mky na souborech",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Pou\u017eit\u00edm prom\u011bnn\u00e9 LD_PRELOAD lze p\u0159edefinovat funkci p\u016fvodn\u011b definovanou v knihovn\u011b jen v p\u0159\u00edpad\u011b, \u017ee?",
+        "answers": [
+            {
+                "body": "se jedn\u00e1 o funkci s verzovan\u00fdmi symboly",
+                "right": false
+            },
+            {
+                "body": "se jedn\u00e1 o knihovnu linkovanou v dob\u011b b\u011bhu (nap\u0159. Linux ELF)",
+                "right": true
+            },
+            {
+                "body": "se jedn\u00e1 o knihovnu linkovanou v dob\u011b kompilace (nap\u0159. Linux a.out)",
+                "right": false
+            },
+            {
+                "body": "se jedn\u00e1 o statickou knihovnu",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Po chyb\u011b slu\u017eby j\u00e1dra je hodnota errno platn\u00e1?",
+        "answers": [
+            {
+                "body": "do p\u0159\u00ed\u0161t\u00ed chyby slu\u017eby j\u00e1dra v cel\u00e9m syst\u00e9mu",
+                "right": false
+            },
+            {
+                "body": "trvale, chceme-li zji\u0161\u0165ovat dal\u0161\u00ed chybu slu\u017eby j\u00e1dra, je t\u0159eba p\u0159ed vol\u00e1n\u00edm nastavit errno na 0",
+                "right": false
+            },
+            {
+                "body": "do p\u0159e\u010dten\u00ed t\u00e9to prom\u011bnn\u00e9",
+                "right": false
+            },
+            {
+                "body": "do p\u0159\u00ed\u0161t\u00ed chyby slu\u017eby j\u00e1dra v tomt\u00e9\u017e procesu\/vl\u00e1kn\u011b",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "",
+        "answers": []
+    },
+    {
+        "name": "Zm\u011bnit \u010das posledn\u00ed modifikace souboru je mo\u017eno slu\u017ebou j\u00e1dra?",
+        "answers": [
+            {
+                "body": "time()",
+                "right": false
+            },
+            {
+                "body": "getrusage()",
+                "right": false
+            },
+            {
+                "body": "link()",
+                "right": false
+            },
+            {
+                "body": "truncate()",
+                "right": true
+            },
+            {
+                "body": "stat()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Proces se m\u016f\u017ee prohl\u00e1sit za vedouc\u00ed proces skupiny vol\u00e1n\u00edm slu\u017eby j\u00e1dra?",
+        "answers": [
+            {
+                "body": "leader()",
+                "right": false
+            },
+            {
+                "body": "initgroups()",
+                "right": false
+            },
+            {
+                "body": "setpgrp()",
+                "right": true
+            },
+            {
+                "body": "setegid()",
+                "right": false
+            },
+            {
+                "body": "setgid()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak lze z\u00edskat text chyby slu\u017eby j\u00e1dra?",
+        "answers": [
+            {
+                "body": "txterror()",
+                "right": false
+            },
+            {
+                "body": "strerror()",
+                "right": true
+            },
+            {
+                "body": "exception()",
+                "right": false
+            },
+            {
+                "body": "message()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "P\u0159evody \u0159et\u011bzc\u016f mezi r\u016fzn\u00fdmi znakov\u00fdmi sadami lze programov\u011b realizovat",
+        "answers": [
+            {
+                "body": "knihovn\u00ed funkc\u00ed?",
+                "right": false
+            },
+            {
+                "body": "strxfrm()",
+                "right": false
+            },
+            {
+                "body": "setlocale()",
+                "right": false
+            },
+            {
+                "body": "iconv()",
+                "right": true
+            },
+            {
+                "body": "to_charset()",
+                "right": false
+            },
+            {
+                "body": "nl_langinfo()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Vytvo\u0159it novou verzi souboru s t\u00edm, \u017ee po p\u0159\u00edpadn\u00e9 hav\u00e1rii syst\u00e9mu je garantov\u00e1no, \u017ee soubor m\u00e1 bu\u010fto cel\u00fd p\u016fvodn\u00ed obsah nebo cel\u00fd nov\u00fd obsah lze sekvenc\u00ed vol\u00e1n\u00ed?",
+        "answers": [
+            {
+                "body": "open(), write() a rename() (\u017e\u00e1dn\u00e9 dal\u0161\u00ed potvrzov\u00e1n\u00ed zde nen\u00ed nutn\u00e9)",
+                "right": false
+            },
+            {
+                "body": "open() s parametrem O_EXCL, write() a rename()",
+                "right": false
+            },
+            {
+                "body": "open(), write(), fsync() a rename()",
+                "right": true
+            },
+            {
+                "body": "open() s parametrem O_PONIES, write() a rename()",
+                "right": false
+            },
+            {
+                "body": "open(), write() a rename() s parametrem FS_COMMIT",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "M\u00e1?li i?uzel 32?bitov\u00e9 ukazatele na blok, 10 p\u0159\u00edm\u00fdch odkaz\u016f, 1 blok nep\u0159\u00edm\u00fdch odkaz\u016f, 1 blok nep\u0159\u00edm\u00fdch odkaz\u016f druh\u00e9 \u00farovn\u011b a 1 blok nep\u0159\u00edm\u00fdch odkaz\u016f t\u0159et\u00ed \u00farovn\u011b (jak bylo pops\u00e1no na p\u0159edn\u00e1\u0161ce), pak souborov\u00fd syst\u00e9m se 4KB bloky m\u016f\u017ee b\u00fdt velk\u00fd maxim\u00e1ln\u011b?",
+        "answers": [
+            {
+                "body": "4GB",
+                "right": false
+            },
+            {
+                "body": "4TB",
+                "right": false
+            },
+            {
+                "body": "16TB",
+                "right": true
+            },
+            {
+                "body": "16GB",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "\u00dasp\u011b\u0161n\u00e9 vol\u00e1n\u00ed open(\"file\", O _WRONLY | O_CREAT | O_EXCL, 0640) vytvo\u0159\u00ed v\u017edy soubor s pr\u00e1vy?",
+        "answers": [
+            {
+                "body": "r-x------",
+                "right": false
+            },
+            {
+                "body": "rwxr-xr-x",
+                "right": false
+            },
+            {
+                "body": "\u017e\u00e1dn\u00e1 z ostatn\u00edch mo\u017enost\u00ed obecn\u011b neplat\u00ed",
+                "right": true
+            },
+            {
+                "body": "rw-r-----",
+                "right": false
+            },
+            {
+                "body": "rw-r--r--",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co nemaj\u00ed spole\u010dn\u00e9ho vl\u00e1kna jednoho procesu?",
+        "answers": [
+            {
+                "body": "z\u00e1sobn\u00edk",
+                "right": true
+            },
+            {
+                "body": "p\u0159\u00edstup k mutex\u016fm procesu",
+                "right": false
+            },
+            {
+                "body": "text programu, nad kter\u00fdm b\u011b\u017e\u00ed",
+                "right": false
+            },
+            {
+                "body": "tabulku otev\u0159en\u00fdch soubor\u016f",
+                "right": false
+            },
+            {
+                "body": "virtu\u00e1ln\u00ed pam\u011b\u0165",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "P\u0159i posloupnosti vol\u00e1n\u00ed: fd1 = open(soubor,O_WRONLY) fd2 = open(soubor,O_WRONLY) write(fd1,\"blabla\") write(fd2,\"blabla\") Co bude v souboru zaps\u00e1no?",
+        "answers": [
+            {
+                "body": "blablablabla",
+                "right": false
+            },
+            {
+                "body": "blabla",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Knihovn\u00ed funkce system() vyu\u017e\u00edv\u00e1 t\u011bchto slu\u017eeb j\u00e1dra?",
+        "answers": [
+            {
+                "body": "sysconf() a pathconf()",
+                "right": false
+            },
+            {
+                "body": "jen fork() a exec()",
+                "right": false
+            },
+            {
+                "body": "fork(), exec() a wait()",
+                "right": true
+            },
+            {
+                "body": "sysctl() a setuid()",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "M\u00e1-li syst\u00e9m monolitick\u00e9 j\u00e1dro, odpov\u00edd\u00e1 ovlada\u010d kl\u00e1vesnice p\u0159ibli\u017en\u011b kter\u00e9 \u010d\u00e1sti programu?",
+        "answers": [
+            {
+                "body": "objektov\u00e9mu modelu",
+                "right": true
+            },
+            {
+                "body": "hlavi\u010dkov\u00e9mu souboru",
+                "right": false
+            },
+            {
+                "body": "vl\u00e1knu",
+                "right": false
+            },
+            {
+                "body": "procesu",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00e9 z n\u00e1sleduj\u00edc\u00edch tvrzen\u00ed je pravdiv\u00e9?",
+        "answers": [
+            {
+                "body": "vedouc\u00ed proces skupiny je v\u017edy z\u00e1rove\u0148 vedouc\u00edm procesem session",
+                "right": false
+            },
+            {
+                "body": "jedna session reprezentuje procesy na pop\u0159ed\u00ed na jednom termin\u00e1lu",
+                "right": false
+            },
+            {
+                "body": "v r\u00e1mci session existuje jedna nebo v\u00edce skupin proces\u016f",
+                "right": true
+            },
+            {
+                "body": "v r\u00e1mci skupiny proces\u016f existuje jedna nebo v\u00edce sessions",
+                "right": false
+            },
+            {
+                "body": "proces m\u016f\u017ee b\u00fdt obecn\u011b ve v\u00edce ne\u017e jedn\u00e9 session",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "K zadan\u00e9mu deskriptoru nelze prost\u0159edky POSIXu zjistit?",
+        "answers": [
+            {
+                "body": "preferovanou velikost bloku pro I\/O operace",
+                "right": false
+            },
+            {
+                "body": "velikost souboru",
+                "right": false
+            },
+            {
+                "body": "typ souboru (b\u011b\u017en\u00fd, roura, speci\u00e1ln\u00ed, atd.)",
+                "right": false
+            },
+            {
+                "body": "jm\u00e9no souboru",
+                "right": true
+            },
+            {
+                "body": "aktu\u00e1ln\u00ed pozici v souboru",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kontext v syst\u00e9mu je?",
+        "answers": [
+            {
+                "body": "okol\u00ed, ve kter\u00e9m se proces nach\u00e1z\u00ed",
+                "right": false
+            },
+            {
+                "body": "text programu, kter\u00fd je um\u00edst\u011bn v j\u00e1d\u0159e syst\u00e9mu",
+                "right": false
+            },
+            {
+                "body": "stav procesoru, p\u0159\u00edslu\u0161n\u00fd b\u011bhu jednoho procesu nebo vl\u00e1kna",
+                "right": true
+            },
+            {
+                "body": "popisova\u010d sd\u00edlen\u00e9ho modulu, z\u00edskan\u00fd pomoc\u00ed dlopen.",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Jak\u00e1 p\u0159\u00edstupov\u00e1 pr\u00e1va m\u00e1 proces b\u011b\u017e\u00edc\u00ed pod UID C a GID D k souboru vlastn\u011bn\u00e9mu u\u017eivatelem A a skupinou B s n\u00e1sleduj\u00edc\u00edm ACL: u::rwx,g::rw-,o:--x,u:C:rw-,g:D:-wx,m::r-x?",
+        "answers": [
+            {
+                "body": "jen \u010dten\u00ed",
+                "right": true
+            },
+            {
+                "body": "\u010dten\u00ed a z\u00e1pis",
+                "right": false
+            },
+            {
+                "body": "\u010dten\u00ed a prov\u00e1d\u011bn\u00ed",
+                "right": false
+            },
+            {
+                "body": "jen prov\u00e1d\u011bn\u00ed",
+                "right": false
+            },
+            {
+                "body": "\u010dten\u00ed, z\u00e1pis, prov\u00e1d\u011bn\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Vol\u00e1n\u00ed rename(old, new) v p\u0159\u00edpad\u011b, \u017ee soubory old a new nele\u017e\u00ed na stejn\u00e9m svazku?",
+        "answers": [
+            {
+                "body": "funguje stejn\u011b, jako kdyby tyto soubory le\u017eely na stejn\u00e9m svazku",
+                "right": false
+            },
+            {
+                "body": "vr\u00e1t\u00ed chybu",
+                "right": true
+            },
+            {
+                "body": "zaru\u010duje atomick\u00fd p\u0159esun dat, ne v\u0161ak metadat",
+                "right": false
+            },
+            {
+                "body": "nezaru\u010duje atomick\u00e9 p\u0159ejmenov\u00e1n\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Co nastane p\u0159i vytvo\u0159en\u00ed hard linku na symbolick\u00fd link?",
+        "answers": [
+            {
+                "body": "skon\u010d\u00ed chybou",
+                "right": false
+            },
+            {
+                "body": "vytvo\u0159\u00ed se hard link na p\u016fvodn\u00ed soubor",
+                "right": false
+            },
+            {
+                "body": "vytvo\u0159\u00ed se symbolick\u00fd link na p\u016fvodn\u00ed soubor",
+                "right": true
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00fd filesyst\u00e9m dok\u00e1\u017ee ukl\u00e1dat kr\u00e1tk\u00e9 symlinky p\u0159\u00edmo do i-nod\u016f?",
+        "answers": [
+            {
+                "body": "UFS",
+                "right": false
+            },
+            {
+                "body": "XFS",
+                "right": false
+            },
+            {
+                "body": "Ext2FS",
+                "right": true
+            },
+            {
+                "body": "ReiserFS",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Pokud chceme, aby se po p\u00e1du syst\u00e9mu neobjevila v souborech data z jin\u00fdch (d\u0159\u00edve smazan\u00fdch) soubor\u016f, je t\u0159eba?",
+        "answers": [
+            {
+                "body": "zapisovat data d\u0159\u00edve ne\u017e metadata",
+                "right": true
+            },
+            {
+                "body": "\u017eurn\u00e1lovat zm\u011bny v metadatech",
+                "right": false
+            },
+            {
+                "body": "zapisovat metadata d\u0159\u00edve ne\u017e data",
+                "right": false
+            },
+            {
+                "body": "volat fdatasync() po ka\u017ed\u00e9m z\u00e1pisu",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Alok\u00e1tor pam\u011bti ve standardn\u00ed knihovn\u011b (malloc() a dal\u0161\u00ed) z\u00edsk\u00e1v\u00e1 pam\u011b\u0165?",
+        "answers": [
+            {
+                "body": "od jin\u00fdch proces\u016f, jejich\u017e pam\u011b\u0165 je t\u0159eba nejprve odswapovat",
+                "right": false
+            },
+            {
+                "body": "ze z\u00e1sobn\u00edku procesu",
+                "right": false
+            },
+            {
+                "body": "od j\u00e1dra po bloc\u00edch velikosti n\u00e1sobku velikosti str\u00e1nky",
+                "right": true
+            },
+            {
+                "body": "z oblasti vytvo\u0159en\u00e9 staticky p\u0159i startu procesu",
+                "right": false
+            },
+            {
+                "body": "od j\u00e1dra po bloc\u00edch kter\u00e9 specifikuje volaj\u00edc\u00ed",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Kter\u00fd ze syst\u00e9mov\u00fdch limit\u016f definovan\u00fdch normou nen\u00ed obvykle v syst\u00e9mu implementov\u00e1n z d\u016fvodu p\u0159\u00edli\u0161n\u00e9 re\u017eie a nejist\u00e9ho v\u00fdsledku aplikace tohoto limitu?",
+        "answers": [
+            {
+                "body": "limit na po\u010det proces\u016f dan\u00e9ho u\u017eivatele",
+                "right": false
+            },
+            {
+                "body": "limit na velikost virtu\u00e1ln\u00ed pam\u011bti",
+                "right": false
+            },
+            {
+                "body": "limit na resident set size",
+                "right": true
+            },
+            {
+                "body": "limit na strojov\u00fd \u010das (probl\u00e9mem je zde v\u00edce procesor\u016f)",
+                "right": false
+            },
+            {
+                "body": "limit na velikost z\u00e1sobn\u00edku",
+                "right": false
+            }
+        ]
+    },
+    {
+        "name": "Velikost bufferu roury lze zjistit pomoc\u00ed slu\u017eby j\u00e1dra?",
+        "answers": [
+            {
+                "body": "pipe()",
+                "right": false
+            },
+            {
+                "body": "sysconf()",
+                "right": false
+            },
+            {
+                "body": "mknod()",
+                "right": false
+            },
+            {
+                "body": "pathconf()",
+                "right": true
+            }
+        ]
+    }
+]
