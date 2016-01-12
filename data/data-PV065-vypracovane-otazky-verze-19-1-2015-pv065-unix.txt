@@ -1,17 +1,17 @@
-V případě modulárního jádra je komunikace mezi ovladači zařízení a zbytkem	jádra zajištěna mechanismem?	 
-  carrier pigeon	 
-  nepojmenovaná roura	 
-  zasílání zpráv	 
-* volání funkcí	 
-  zasílání přerušení	
+V případě modulárního jádra je komunikace mezi ovladači zařízení a zbytkem	jádra zajištěna mechanismem?
+  carrier pigeon
+  nepojmenovaná roura
+  zasílání zpráv
+* volání funkcí
+  zasílání přerušení
 
-Adresa, kterou používají instrukce procesoru pro čtení nebo zápis do paměti, se 	nazývá? 
-* virtuální adresa 	 
-  sběrnicová adresa	 
-  fyzická adresa	 
-  IP adresa	 
+Adresa, kterou používají instrukce procesoru pro čtení nebo zápis do paměti, se 	nazývá?
+* virtuální adresa
+  sběrnicová adresa
+  fyzická adresa
+  IP adresa
 
-Jaký signál dostane proces při použití neplatné adresy? 
+Jaký signál dostane proces při použití neplatné adresy?
   SIGPAGE
 * SIGSEGV
   SIGKILL
@@ -25,86 +25,86 @@ Nepodmíněné pozastavení procesu je signál?
   SIGABRT
 
 
-Nově vytvořené vlákno po pthread_create() začíná vykonávat instrukce od adresy?	 
-  0x00000000	 
-  stejné jako volající vlákno; dále se rozhoduje podle návratové hodnoty pthread_create()	 
-  0xdeadbeef	 
-* specifikované explicitně při vytvoření vlákna	 
-  specifikované předem při deklaraci struktury vlákna	
+Nově vytvořené vlákno po pthread_create() začíná vykonávat instrukce od adresy?
+  0x00000000
+  stejné jako volající vlákno; dále se rozhoduje podle návratové hodnoty pthread_create()
+  0xdeadbeef
+* specifikované explicitně při vytvoření vlákna
+  specifikované předem při deklaraci struktury vlákna
 
 Při zavolání služby jádra se stane co?
   vytvoří se nový proces
   přepne se kontext do jádra
-* kontext procesu se nepřepíná. V mikrojádru se přepne kontext do mikrojádra a do serveru.  
+* kontext procesu se nepřepíná. V mikrojádru se přepne kontext do mikrojádra a do serveru.
 
-Pod pojmem stránkování na žádost (demand paging) rozumíme?	 
-* načítání např. textu procesu do paměti až v případě prvního přístupu	 
-  řešení křížových odkazů ve sdílených knihovnách až při prvním použití	 
-  načítání celého souboru crt1.o při startu procesu	 
-  načítání celého textu procesu do paměti hned při startu procesu	 
-    
-Jak se vypíše seznam symbolů nebo sekcí v ELF binárním formátu? 
+Pod pojmem stránkování na žádost (demand paging) rozumíme?
+* načítání např. textu procesu do paměti až v případě prvního přístupu
+  řešení křížových odkazů ve sdílených knihovnách až při prvním použití
+  načítání celého souboru crt1.o při startu procesu
+  načítání celého textu procesu do paměti hned při startu procesu
+
+Jak se vypíše seznam symbolů nebo sekcí v ELF binárním formátu?
   příkaz size
 * příkaz objdump
   příkaz mn
 
-Nepodmíněné  ukončení procesu je význam signálu? 
-  SIGTERM	 
-  SIGQUIT	 
-* SIGKILL	
-  SIGSTOP	 
+Nepodmíněné  ukončení procesu je význam signálu?
+  SIGTERM
+  SIGQUIT
+* SIGKILL
+  SIGSTOP
   SIGHUP
 
-Pojmenovanou rouru otevřeme příkazem? 
+Pojmenovanou rouru otevřeme příkazem?
   pojmenovaná roura v Unixu vůbec neexistuje
 * mknod(), otevřeme službou open().
   create()
   mkpipe()
 
 
-Proces	 může zabránit zápisu potenciálně citlivých dat na odkládací prostor pomocí 	operace?	 
-  fsync()	 
-  mprotect()	 
-  fcntl()	 
-* mlock(), mlockall()	
-  flock()	 
+Proces	 může zabránit zápisu potenciálně citlivých dat na odkládací prostor pomocí 	operace?
+  fsync()
+  mprotect()
+  fcntl()
+* mlock(), mlockall()
+  flock()
 
 
-Jaká funkce dočasně nahradí masku přerušení a zároveň uspí proces čekáním na jeden 	z těchto signálů (atomicky)? 
+Jaká funkce dočasně nahradí masku přerušení a zároveň uspí proces čekáním na jeden 	z těchto signálů (atomicky)?
   sigaction()
   sigabort()
-* sigsuspend()	
+* sigsuspend()
 
 
-Vykonání vlastního kódu v případě, že je v programu zavolána služba jádra _exit(), lze 	zajistit	pomocí funkce?	 
-  call_my_code()	 
-  abort()	 
-  atexit()	 
+Vykonání vlastního kódu v případě, že je v programu zavolána služba jádra _exit(), lze 	zajistit	pomocí funkce?
+  call_my_code()
+  abort()
+  atexit()
 * žádné z uvedených
-  signal()	  
+  signal()
 
-Mějme program: 
-static int prm[100]={1,2,3}; 
-int main(){ 
-int prm[200]; 
-return 0;} 
+Mějme program:
+static int prm[100]={1,2,3};
+int main(){
+int prm[200];
+return 0;}
 Kolik bude BSS takovéhoto programu nepočítáme přidané dynamické knihovny?
-  100B 
-  200B 
-* 0B	
-  100* sizeof(int)B 
-  200* sizeof(int)B 
+  100B
+  200B
+* 0B
+  100* sizeof(int)B
+  200* sizeof(int)B
 
-Mějme program:  
-static int pole[100];	 
-main() { int pole1[200]; 
-return 0;} }	 
-Tento program bude mít po zkompilování sekci BSS velkou přibližně? 
-  0 bajtů	 
-  200 bajtů	 
-  200* sizeof(int) bajtů	 
-  100 bajtů	 
-* 100* sizeof(int) bajtů	 
+Mějme program:
+static int pole[100];
+main() { int pole1[200];
+return 0;} }
+Tento program bude mít po zkompilování sekci BSS velkou přibližně?
+  0 bajtů
+  200 bajtů
+  200* sizeof(int) bajtů
+  100 bajtů
+* 100* sizeof(int) bajtů
 
 Kořenový adresář je nastaven pro?
 * proces
@@ -122,7 +122,7 @@ Co provádí program cc?
   wtf()
 * getcwd()
   directory()
-  whereami()	
+  whereami()
 
 Jak se zjistí hodnota ukazovátka pozice v souboru?
   nelze
@@ -144,17 +144,17 @@ Proces má tyto GID?
   uložené, efektivní, doplňkové
 
 Mějme program:
-static int odpoved = 42; 
-int main(){ 
-int prm[200]; 
-return 0;} 
+static int odpoved = 42;
+int main(){
+int prm[200];
+return 0;}
 Kde bude uložená proměnná “odpoved”?
   BSS
   nikde
 * DATA
   zásobník
 
-Která funkce čte data z nesouvislého datového prostoru? 
+Která funkce čte data z nesouvislého datového prostoru?
   read()
 * readv()
   readf()
@@ -162,241 +162,241 @@ Která funkce čte data z nesouvislého datového prostoru?
 
 
 Advisory locking znamená, že?
-* existence zámku nebrání operaci čtení nebo zápisu	 
-  soubor může zamknout jen jeho vlastník	 
-  lze zamykat vždy jen celý soubor	 
-  dva procesy nemohou vytvořit zámek nad stejným souborem	 
-  
-Pokud nepojmenovanou rouru nemá nikdo otevřenou pro čtení, pak?	
-  se proces při otevření roury pro zápis zablokuje 
-  zápis do roury projde, ale pouze do velikosti bufferu roury. 
-  zápis do roury skončí s chybou ESPIPE. 
-* proces při pokusu o zápis do roury dostane signál SIGPIPE. 
-  proces při otevření roury pro zápis dostane signál SIGPIPE. 
+* existence zámku nebrání operaci čtení nebo zápisu
+  soubor může zamknout jen jeho vlastník
+  lze zamykat vždy jen celý soubor
+  dva procesy nemohou vytvořit zámek nad stejným souborem
 
-Kde jsou uložené proměnné prostředí? 
-  kernel space, každý proces zvlášť 
-  kernel space, globálně 
-* user space, každý proces zvlášť 
-  user space, globálně 
+Pokud nepojmenovanou rouru nemá nikdo otevřenou pro čtení, pak?
+  se proces při otevření roury pro zápis zablokuje
+  zápis do roury projde, ale pouze do velikosti bufferu roury.
+  zápis do roury skončí s chybou ESPIPE.
+* proces při pokusu o zápis do roury dostane signál SIGPIPE.
+  proces při otevření roury pro zápis dostane signál SIGPIPE.
+
+Kde jsou uložené proměnné prostředí?
+  kernel space, každý proces zvlášť
+  kernel space, globálně
+* user space, každý proces zvlášť
+  user space, globálně
 
 
-Spotřebovaný čas procesu a jeho potomků lze zjistit službou jádra?	 
-  sysconf()	
+Spotřebovaný čas procesu a jeho potomků lze zjistit službou jádra?
+  sysconf()
 * times(), getrusage()
-  time()	 
-  wait()	 
-  getresources()	 
-  getrlimit()	 
+  time()
+  wait()
+  getresources()
+  getrlimit()
 
-Jak přečíst posledních 10b ze souboru? 
-  read(fd,10,SEEK_END); 
-* read(fd,-10,SEEK_END); 
-  read(fd,-10,SEEK_LAST); 
-  read(fd,10,SEEK_SET); 
-  read(fd,-10,SEEK_SET); 
+Jak přečíst posledních 10b ze souboru?
+  read(fd,10,SEEK_END);
+* read(fd,-10,SEEK_END);
+  read(fd,-10,SEEK_LAST);
+  read(fd,10,SEEK_SET);
+  read(fd,-10,SEEK_SET);
 
 
 Co se stane když spustíte link(old, new) a old a new jsou každý na jiném svazku?
-vytvoří link 
-* skončí chybou 
+vytvoří link
+* skončí chybou
 
-Co se musí udělat, aby readdir() vracel i soubory začínající tečkou? 
-* nic 
-  nastavit nějakou proměnnou prostředí 
-  zadat parametr readdiru 
+Co se musí udělat, aby readdir() vracel i soubory začínající tečkou?
+* nic
+  nastavit nějakou proměnnou prostředí
+  zadat parametr readdiru
 
-Co se nedá udělat pomocí fcntl? 
+Co se nedá udělat pomocí fcntl?
   zamknout soubor
   vytvořit duplikát deskriptoru
-* pohybovat se po souboru 
+* pohybovat se po souboru
 
 
-Změnit skupinu souboru lze službou jádra?	 
+Změnit skupinu souboru lze službou jádra?
 * chown()
   setgid()
   chgrp()
 
-Funkce fsync provede co? 
+Funkce fsync provede co?
   synchronizuje dva adresáře
   synchronizuje čas systému
 * zapíše všechny modifikované části souboru na disk
   opraví koherenci cash mezi procesory
 
 
-Kolik existuje odkazů na adresář? 
+Kolik existuje odkazů na adresář?
   jeden odkaz
   přesně dva odkazy
 * minimálně dva odkazy (sám na sebe a na nadřazený adresář)
 
 Jak lze zjistit počet odkazů na i-uzel?
-* stat() 
+* stat()
   inode()
   objdump()
 
 
 
-Služba	jádra stat() neumožňuje zjistit?	 
-  počet odkazů na soubor	 
-* seznam bloků, ve kterých je soubor uložen	 
-  číslo i-uzlu daného souboru.	 
-  zařízení, na kterém je soubor uložen	 
+Služba	jádra stat() neumožňuje zjistit?
+  počet odkazů na soubor
+* seznam bloků, ve kterých je soubor uložen
+  číslo i-uzlu daného souboru.
+  zařízení, na kterém je soubor uložen
 
-Po sekvenci volání 
-umask(022);	 
-open("file", O_WRONLY|O_CREAT,  0774);	 
-vznikne soubor s právy?	 
-  rwxr-x---	 
-  rw-rw-r--	 
-* rwxr-xr--	 
-  rwxrwxr-	 
-  rw-r--r--	
-  
+Po sekvenci volání
+umask(022);
+open("file", O_WRONLY|O_CREAT,  0774);
+vznikne soubor s právy?
+  rwxr-x---
+  rw-rw-r--
+* rwxr-xr--
+  rwxrwxr-
+  rw-r--r--
 
-K čemu se používá semafor? 
-* dlouhodobé čekání 
-  krátkodobé čekání 
 
-Jak se jmenuje priorita, kterou si proces může nastavit sám? 
+K čemu se používá semafor?
+* dlouhodobé čekání
+  krátkodobé čekání
+
+Jak se jmenuje priorita, kterou si proces může nastavit sám?
   dispečerská nice
-* uživatelská nice 
+* uživatelská nice
 
 
-Při volání open("file", O_WRONLY|O_CREAT, 0666) se?	 
-  vrátí chyba, pokud soubor file neexistuje.	 
-  vrátí chyba, pokud soubor file má již někdo otevřený pro zápis.	 
-  vrátí chyba, pokud soubor file již existuje.	 
-* nepřepíše původní obsah souboru file.	 
-  soubor file zarovná na nulovou délku.	 
+Při volání open("file", O_WRONLY|O_CREAT, 0666) se?
+  vrátí chyba, pokud soubor file neexistuje.
+  vrátí chyba, pokud soubor file má již někdo otevřený pro zápis.
+  vrátí chyba, pokud soubor file již existuje.
+* nepřepíše původní obsah souboru file.
+  soubor file zarovná na nulovou délku.
 
-K čemu se používá spinlock? 
-  dlouhodobé čekání 
+K čemu se používá spinlock?
+  dlouhodobé čekání
 * krátkodobé čekání (nezablokuje proces, čeká ve smyčce)
 
-Čím vypíšeme poslední hlášení z jádra (například startu)? 
-* dmesg 
-  mesg 
-  kmessage 
-  boot 
-  reboot 
+Čím vypíšeme poslední hlášení z jádra (například startu)?
+* dmesg
+  mesg
+  kmessage
+  boot
+  reboot
 
 Funkce realloc() může?
-  může přemístit původní data jen při požadovaném zvětšení alokovaného prostoru 
+  může přemístit původní data jen při požadovaném zvětšení alokovaného prostoru
 * může přemístit původní data při požadovaném zmenšení i zvětšení alokovaného prostoru.
-  nikdy nepřemisťuje původní data. nemá-li na příslušném místě dostatek prostoru, vrátí 	chybu.  	 
-  může přemístit původní data jen při požadovaném zmenšení alokovaného prostoru.	 
+  nikdy nepřemisťuje původní data. nemá-li na příslušném místě dostatek prostoru, vrátí 	chybu.
+  může přemístit původní data jen při požadovaném zmenšení alokovaného prostoru.
 
 	Souborový systém FFS/UFS neobsahuje?
-  tabulku i-uzlů	 
-  volné datové bloky	 
-  bitmapu volných datových bloků	 
-* bitmapu volných i-uzlů	 
+  tabulku i-uzlů
+  volné datové bloky
+  bitmapu volných datových bloků
+* bitmapu volných i-uzlů
 
-UNIXové systémy obvykle procesům poskytují paměťový model? 
-  společná paměť pro všechny procesy	 
-* lineárně adresovaná paměť 
-  segmentovaná paměť 	 
-  distribuovaná paměť	 
+UNIXové systémy obvykle procesům poskytují paměťový model?
+  společná paměť pro všechny procesy
+* lineárně adresovaná paměť
+  segmentovaná paměť
+  distribuovaná paměť
 
-Pokud proces právě ukončil vykonávání služby jádra, přejde do stavu? 
-  přerušitelně čekající	 
-* běžící v uživatelském prostoru	 
-  běžící v režimu jádra	 
-  zombie	 
-  nepřerušitelně čekající	 
+Pokud proces právě ukončil vykonávání služby jádra, přejde do stavu?
+  přerušitelně čekající
+* běžící v uživatelském prostoru
+  běžící v režimu jádra
+  zombie
+  nepřerušitelně čekající
 
-Při zablokování procesu se jádro se při výběru procesu kterému bude dále přidělen 	procesor řídí atributem? 
-  velikost obsazené paměti procesu	 
-  prioritou daného uživatele 	 
-  předpokládanou délkou běhu procesu	 
-* dispečerská priorita procesu 
-  uživatelská priorita procesu	 
+Při zablokování procesu se jádro se při výběru procesu kterému bude dále přidělen 	procesor řídí atributem?
+  velikost obsazené paměti procesu
+  prioritou daného uživatele
+  předpokládanou délkou běhu procesu
+* dispečerská priorita procesu
+  uživatelská priorita procesu
 
-Podle jaké konstanty LOCALEs se určuje převod malých a velkých písmen aktuální 	znakové sady? 
-  LC_COLLATE 
-* LC_CTYPE 
-  LC_MESSAGES 
-  LC_UPPER 
+Podle jaké konstanty LOCALEs se určuje převod malých a velkých písmen aktuální 	znakové sady?
+  LC_COLLATE
+* LC_CTYPE
+  LC_MESSAGES
+  LC_UPPER
 
 Pro efektivní naprogramování lokalizovaného třídění je třeba tříděné řetězce 	předzpracovat funkcí?
-  strcmp()	 
+  strcmp()
 * strxfrm()
-  strcoll()	 
-  setlocale()	 
-  bzero()	 
+  strcoll()
+  setlocale()
+  bzero()
 
 Při statickém linkování objektových modulů s knihovnou se do výsledného programu 	přidá?
-  celý obsah linkované knihovny	 
-  jen odkazy na pevné (statické) adresy symbolů z knihovny	 
-  jen jména použitých symbolů z knihovny 
+  celý obsah linkované knihovny
+  jen odkazy na pevné (statické) adresy symbolů z knihovny
+  jen jména použitých symbolů z knihovny
 * část obsahu linkované knihovny
 
 Co vrací malloc?
-  při neúspěchu -1 
-  ukazatel na paměť zarovnanou na 4B 
-* ukazatel na blok paměti zarovnaný pro jakýkoli datový typ, velikost minimálně parametru 	size 
-  ukazatel na paměť vyplněnou nulovými bajty 
+  při neúspěchu -1
+  ukazatel na paměť zarovnanou na 4B
+* ukazatel na blok paměti zarovnaný pro jakýkoli datový typ, velikost minimálně parametru 	size
+  ukazatel na paměť vyplněnou nulovými bajty
 
-Co vrací calloc? 
-  při neúspěchu -1 
-  ukazatel na paměť zarovnanou na 4B 
-  ukazatel na paměť vyplněnou nulovými bajty 
-* místo pro zadaný počet objektů velikosti size, inicializované nulami. 
-  ukazatel na blok paměti zarovnaný pro jakýkoli datový typ, velikost minimálně parametru 	size 
+Co vrací calloc?
+  při neúspěchu -1
+  ukazatel na paměť zarovnanou na 4B
+  ukazatel na paměť vyplněnou nulovými bajty
+* místo pro zadaný počet objektů velikosti size, inicializované nulami.
+  ukazatel na blok paměti zarovnaný pro jakýkoli datový typ, velikost minimálně parametru 	size
 
 
-Co dělá funkce dlopen? 
+Co dělá funkce dlopen?
   otevře knihovnu pro čtení
 * přidá dynamický objekt k procesu. Vyřeší křížové odkazy, zavolá symbol _init
-  (konstruktory). 
+  (konstruktory).
 
-Jaké dvě funkce zastaví proces, aby čekal na příchod signálu? 
+Jaké dvě funkce zastaví proces, aby čekal na příchod signálu?
   fctntl(), sigsuspend()
   fork(), exec()
 * pause(), wait(), sigsuspend(), sigprocmask(), ...
 
-Co vytvoří program ld? 
-* spustitelný program 
-  statickou knihovnu 
-  zdrojový kód v C 
+Co vytvoří program ld?
+* spustitelný program
+  statickou knihovnu
+  zdrojový kód v C
 
-Který program vytvoří statickou knihovnu? 
-  tar 
+Který program vytvoří statickou knihovnu?
+  tar
 * ar
-  ranlib 
+  ranlib
 
 
-Při zavolání vfork dostane slovo první kdo a co se pozastaví? 
-  potomek 
+Při zavolání vfork dostane slovo první kdo a co se pozastaví?
+  potomek
 * rodič je pozastaven, potomek běží do zavolání exec nebo _exit
   potomek je pozastaven, dokud ho rodič nespustí
-  není stanoveno 
+  není stanoveno
 
 
-Kdy máte právo vytvořit nový podadresář v adresáři? 
-  jste-li vlastník 
-  mate-li právo zápisu do adresáře 
+Kdy máte právo vytvořit nový podadresář v adresáři?
+  jste-li vlastník
+  mate-li právo zápisu do adresáře
 * máte-li právo vstupu a zápisu do adresáře
-  je nastaven sticky bit 
+  je nastaven sticky bit
 
 
 Jak spolu komunikuje ovladač a jádro mikrokernelu?
-  pomocí přerušení 
-* zasíláním zpráv 
-  voláním funkcí 
-  sdílenou pamětí 
-  pomoci roury 
+  pomocí přerušení
+* zasíláním zpráv
+  voláním funkcí
+  sdílenou pamětí
+  pomoci roury
 
-Z adresáře smí vlastník smazat soubor pokud? 
+Z adresáře smí vlastník smazat soubor pokud?
 * má právo w a x (zápis a vstup) do adresáře
   vždy
   má-li adresář nastavený sticky bit
 
-Funkce longjmp vrací jaký ukazatel/hodnotu? 
+Funkce longjmp vrací jaký ukazatel/hodnotu?
 * nevrací žádnou hodnotu (Naplní strukturu jmp_buf, která obsahuje návratovou adresu a 	vrchol 	zásobníku.) Longjump obsahuje parametr návratové hodnoty, kterou po zavolání 	longjump a vrácení se na místo zavolání setjmp, funkce setjmp vrátí.
 
 Program ld zpracovává?
-  zdrojové texty C 
+  zdrojové texty C
 * objektové soubory jazyka c s příponou .o a knihovny .a
   hlavičkové soubory
   programy v assembleru
@@ -407,18 +407,18 @@ Co dělá program as?
 * vytváří objektový soubor ze zdrojového souboru v assembleru.
   vytváří zdrojový soubor C
 
-Jakou funkcí si nadefunuji, co se zavolá za funkce při příkazu exit? 
+Jakou funkcí si nadefunuji, co se zavolá za funkce při příkazu exit?
   exit()
   _exit()
-* atexit()	
+* atexit()
   doexit()
 
-Co dělá funkce getopt, getopt_long? 
+Co dělá funkce getopt, getopt_long?
   získá optimální hodnotu paměti potřebné pro proces
 * zpracování přepínačů
   získá nastavení proměnných prostředí
 
-Co dělá funkce abort()? 
+Co dělá funkce abort()?
   zruší probíhající transakci
   přeruší proces zasláním signálu SIGABRT
 * násilně ukončí proces zasláním signálu SIGABRT a uloží obraz adresového prostoru 	procesu do souboru core
@@ -429,49 +429,49 @@ Které signály vyvolávají vytvoření souboru core?
 * SIGKILL
 * SIGSEGV
 
-Jaká funkce odstraní tabulku symbolu? 
+Jaká funkce odstraní tabulku symbolu?
   objdump()
   nm()
 * strip()
-  cut() 
+  cut()
 
-Jaká funkce vypípše tabulku symbolu? 
+Jaká funkce vypípše tabulku symbolu?
   symtable()
   strip()
-* nm() 
+* nm()
 
-Co provádí program ldd? 
+Co provádí program ldd?
   vytváří knihovnu dll
   nahraje dynamický soubor do paměti
 * provede doplnění křížových odkazů a ohlásí chybějící funkce
   kompiluje knihovnu
 
-Co vypisuje funkce size? 
+Co vypisuje funkce size?
   velikosti typů proměnných
-* velikost objektového souboru (text, data, bss) 
-  velikost pojmenované roury	
+* velikost objektového souboru (text, data, bss)
+  velikost pojmenované roury
 
-Jak se zjisti velikost objektového souboru?	 
-* objdump, nm, size 
+Jak se zjisti velikost objektového souboru?
+* objdump, nm, size
 
 Jak zjistit formát souboru?
   příkaz size
-* příkaz file 
+* příkaz file
   příkaz objdump
   příkaz magic
 
 
-Jak se jmenuje architektura, ve které jsou všechny procesory a paměťové bloky na 	stejné 	sběrnici? 
+Jak se jmenuje architektura, ve které jsou všechny procesory a paměťové bloky na 	stejné 	sběrnici?
   NUMA
-* SMP 
-  CLUSTER 
+* SMP
+  CLUSTER
 
 Kolik fyzické paměti může obsloužit 32bitový linuxové jádro, které umí akorát 	mapovat fyzickou paměť 1:1 do jádra a 128MB má vyhrazeno pro virtuální alokace 	uvnitř 	jádra?
   1GB virtuální alokace se rozprostírá
 * 896MB z přiřazené paměti jádra se 128MB odečte
-  4GB	
+  4GB
 
-Jaký význam má sticky-bit? 
+Jaký význam má sticky-bit?
 * Sticky bit na adresáři zaručuje, že pouze vlastník souborů v něm, vlastník adresáře a root, 	může tyto soubory mazat, přejmenovávat. Bez sticky bitu, by mohl kdokoli s právy zápisu a 	spuštění na adresáři cokoli v něm mazat nebo přejmenovávat.
 
 Jak se jmenuje nástroj jádra, který překládá virtuální adresy (s nimiž pracuje 	procesor) na fyzické adresy?
@@ -479,36 +479,36 @@ Jak se jmenuje nástroj jádra, který překládá virtuální adresy (s nimiž 
   registr
 * stránková tabulka
 
-Jak se jmenuje program, který se začne provádět po zapnutí počítače? 
+Jak se jmenuje program, který se začne provádět po zapnutí počítače?
   OS
 * BIOS, UEFI
   AVG
 
-Jakou funkcí může proces změnit své efektivní a reálné UID? 
+Jakou funkcí může proces změnit své efektivní a reálné UID?
   setuser()
 * setuid()
   seteuid()
 
 
 Má?li proces reálné a efektivní UID rovno 1 a uložené UID rovno 2, pak po spuštění
-	(exec* ()) programu bez set?UID bitu vlastněného uživatelem 3 bude mít proces tyto	hodnoty reálného, efektivního a uloženého UID (v tomto pořadí)?	 
-  1, 1, 2	 
-	1, 3, 3	 
-	1, 2, 2	 
-	1, 3, 2	 
-* 1, 1, 1	 
-	3, 1, 2	 
+	(exec* ()) programu bez set?UID bitu vlastněného uživatelem 3 bude mít proces tyto	hodnoty reálného, efektivního a uloženého UID (v tomto pořadí)?
+  1, 1, 2
+	1, 3, 3
+	1, 2, 2
+	1, 3, 2
+* 1, 1, 1
+	3, 1, 2
 
-fork() - jaka je návratová hodnota? 
+fork() - jaka je návratová hodnota?
   vždy 0
 * 0, -1, kladné číslo. Vrátí 0 potomkovi, rodiči číslo potomka, -1 chyba)
   číslo potomka vrátí rodiči, 0 potomkovi
-  0 rodiči, číslo potomka potomkovi	
+  0 rodiči, číslo potomka potomkovi
 
-Čím se vyznačuje proces číslo 0 (idle)? 
-* nesmí být zablokován uvnitř čekací rutiny 
+Čím se vyznačuje proces číslo 0 (idle)?
+* nesmí být zablokován uvnitř čekací rutiny
 
-struktura stat - kde je uloženo o jaký typ souboru jde? 
+struktura stat - kde je uloženo o jaký typ souboru jde?
   st_dev
 * st_mode
   st_ino
@@ -518,125 +518,125 @@ Jaká je návratová hodnota fuknce exec() při úspěchu?
   vždy 1
   0, proces pokračuje dalším programem
 
-RCU - co využívá? 
+RCU - co využívá?
   semafor
   spinlock
 * paměťovou bariéru
 
-Proces který požadoval stránku, ale ta nebyla dostupná, se dostal do stavu? 
+Proces který požadoval stránku, ale ta nebyla dostupná, se dostal do stavu?
   přerušitelného čekání
-* nepřerušitelného čekání 
+* nepřerušitelného čekání
   běžící v režimu jádra
 
 Čím se zjistí maximální délka souboru?
   size()
 * pathconf()
   sysconf()
-  fcntl()	
- 
+  fcntl()
 
-Koho/co přebíjí LANG? 
+
+Koho/co přebíjí LANG?
   všechny proměnné prostředí
 * nastavení konkrétních kategorii lokalizace
   všechny nastavení lokalizace
   pouze nastavení jazyka zpráv
 
-Událostně řízené programování využívá? 
+Událostně řízené programování využívá?
   fork(), exec()
 * poll(), select()
 
 Jak se zakáže přerušení na CPU?
   zakázat přerušení nelze
 * funkce cli a sti
-  nointerrupt()	
+  nointerrupt()
   interrupt()
 
-Hodnoty CHILD_MAX, LINK_MAX a další patří mezi? 
-  systémové limity procesu 
-* POSIX.1 compile-time limity 
-  run-time limity 
-  globální proměnné 
+Hodnoty CHILD_MAX, LINK_MAX a další patří mezi?
+  systémové limity procesu
+* POSIX.1 compile-time limity
+  run-time limity
+  globální proměnné
 
-Proces má následující UID? 
-  reálné, efektivní, uložené a seznam doplňkových 
-  reálné, uložené a seznam doplňkových 
-* reálné, efektivní a uložené 
-  reálné, efektivní a seznam doplňkových 
+Proces má následující UID?
+  reálné, efektivní, uložené a seznam doplňkových
+  reálné, uložené a seznam doplňkových
+* reálné, efektivní a uložené
+  reálné, efektivní a seznam doplňkových
 
 Konstruktory statických objektů v C++ se volají?
-  v průběhu statického linkování programu 
+  v průběhu statického linkování programu
 * před vstupem do funkce main()
-  po návratu z funkce __main() 
-  po zpracování argumentů příkazové řádky například pomocí getopt() 
+  po návratu z funkce __main()
+  po zpracování argumentů příkazové řádky například pomocí getopt()
 
-Chceme-li kopírovat data z jednoho deskriptoru do druhého a naopak (bez 	zablokování přenosu jedním směrem čekáním na připravenost k přenosu druhým 	směrem), je nejlépe?  
-  použít samostatný proces pro každý směr	 
-* službu select() nebo poll()	 
-  neblokující čtení/zápis O_NDELAY	 
-  samostatné vlákno pro každý směr	 
+Chceme-li kopírovat data z jednoho deskriptoru do druhého a naopak (bez 	zablokování přenosu jedním směrem čekáním na připravenost k přenosu druhým 	směrem), je nejlépe?
+  použít samostatný proces pro každý směr
+* službu select() nebo poll()
+  neblokující čtení/zápis O_NDELAY
+  samostatné vlákno pro každý směr
 
 Mějme program:
-static int pole[100]; 
-main() { int pole1[200]; } 
-Tento program bude mít po zkompilování sekci DATA velkou 
+static int pole[100];
+main() { int pole1[200]; }
+Tento program bude mít po zkompilování sekci DATA velkou
 přibližně (nepočítám to, co přidá standardní knihovna)?
-* 0 bajtů 
-  100* sizeof(int) bajtů 
-  100 bajtů 
-  200* sizeof(int) bajtů 
-  200 bajtů 
+* 0 bajtů
+  100* sizeof(int) bajtů
+  100 bajtů
+  200* sizeof(int) bajtů
+  200 bajtů
 
 Úspěšné volání lseek(fd, -10, SEEK_CUR) nastaví ukazovátko pozice v souboru?
-  deset bajtů před konec souboru 
-  do původní pozice (nezmění pozici) 
-  na začátek souboru 
+  deset bajtů před konec souboru
+  do původní pozice (nezmění pozici)
+  na začátek souboru
 * o deset bajtů zpět
 
-Volání lseek(fd, 0, SEEK_SET) nastaví ukazovátko pozice v souboru? 
-* na začátek souboru	 
-  do původní pozice (nezmění pozici)	 
-  na konec souboru	 
+Volání lseek(fd, 0, SEEK_SET) nastaví ukazovátko pozice v souboru?
+* na začátek souboru
+  do původní pozice (nezmění pozici)
+  na konec souboru
 
 Logical Volume Manager (lvm) umožňuje?
-  zmenšení/zvětšení logical volume, aniž by bylo nutno informovat o změně nadřazený 	souborový systém.	 
-* přesun dat z jednoho physical volume na jiný za běhu.	 
-  přesun logical volume na jinou volume group za běhu.	 
-  přesun physical extentu na jiný physical volume za běhu.	 
+  zmenšení/zvětšení logical volume, aniž by bylo nutno informovat o změně nadřazený 	souborový systém.
+* přesun dat z jednoho physical volume na jiný za běhu.
+  přesun logical volume na jinou volume group za běhu.
+  přesun physical extentu na jiný physical volume za běhu.
 
 Po vykonání služby fork() zdědí potomek od rodičovského procesu?
-  čekající signály	 
-  číslo procesu 
-* hodnotu ukazatele vrcholu zásobníku	 
-  deskriptory kromě těch s flagem FD_CLOEXEC	 
-  zámky na souborech	 
+  čekající signály
+  číslo procesu
+* hodnotu ukazatele vrcholu zásobníku
+  deskriptory kromě těch s flagem FD_CLOEXEC
+  zámky na souborech
 
 Použitím proměnné LD_PRELOAD lze předefinovat funkci původně definovanou v knihovně jen v případě, že?
-  se jedná o funkci s verzovanými symboly 
-* se jedná o knihovnu linkovanou v době běhu (např. Linux ELF) 
-  se jedná o knihovnu linkovanou v době kompilace (např. Linux a.out) 
-  se jedná o statickou knihovnu 
+  se jedná o funkci s verzovanými symboly
+* se jedná o knihovnu linkovanou v době běhu (např. Linux ELF)
+  se jedná o knihovnu linkovanou v době kompilace (např. Linux a.out)
+  se jedná o statickou knihovnu
 
 
 Po chybě služby jádra je hodnota errno platná?
-  do příští chyby služby jádra v celém systému 
-  trvale, chceme-li zjišťovat další chybu služby jádra, je třeba před voláním nastavit errno na 0 
-  do přečtení této proměnné 
-* do příští chyby služby jádra v tomtéž procesu/vlákně 
+  do příští chyby služby jádra v celém systému
+  trvale, chceme-li zjišťovat další chybu služby jádra, je třeba před voláním nastavit errno na 0
+  do přečtení této proměnné
+* do příští chyby služby jádra v tomtéž procesu/vlákně
 
 
 Změnit čas poslední modifikace souboru je možno službou jádra?
-  time() 
-  getrusage() 
+  time()
+  getrusage()
   link()
-* truncate() 
-  stat() 
+* truncate()
+  stat()
 
-Proces se může prohlásit za vedoucí proces skupiny voláním služby jádra?	 
-  leader()	 
-  initgroups()	 
-* setpgrp()	 
-  setegid()	 
-  setgid()	
+Proces se může prohlásit za vedoucí proces skupiny voláním služby jádra?
+  leader()
+  initgroups()
+* setpgrp()
+  setegid()
+  setgid()
 
 Jak lze získat text chyby služby jádra?
   txterror()
@@ -644,136 +644,136 @@ Jak lze získat text chyby služby jádra?
   exception()
   message()
 
-Převody řetězců mezi různými znakovými sadami lze programově realizovat 
+Převody řetězců mezi různými znakovými sadami lze programově realizovat
   knihovní funkcí?
-  strxfrm() 
-  setlocale() 
-* iconv() 
-  to_charset() 
-  nl_langinfo() 
+  strxfrm()
+  setlocale()
+* iconv()
+  to_charset()
+  nl_langinfo()
 
 Vytvořit novou verzi souboru s tím, že po případné havárii systému je garantováno, že 	soubor má buďto celý původní obsah nebo celý nový obsah lze sekvencí volání?
-  open(), write() a rename() (žádné další potvrzování zde není nutné) 
-  open() s parametrem O_EXCL, write() a rename() 
-* open(), write(), fsync() a rename() 
-  open() s parametrem O_PONIES, write() a rename() 
-  open(), write() a rename() s parametrem FS_COMMIT 
+  open(), write() a rename() (žádné další potvrzování zde není nutné)
+  open() s parametrem O_EXCL, write() a rename()
+* open(), write(), fsync() a rename()
+  open() s parametrem O_PONIES, write() a rename()
+  open(), write() a rename() s parametrem FS_COMMIT
 
-Má?li i?uzel 32?bitové ukazatele na blok, 10 přímých odkazů, 1 blok nepřímých 	odkazů, 1 blok nepřímých odkazů druhé úrovně a 1 blok nepřímých odkazů třetí 	úrovně (jak bylo popsáno na přednášce), pak souborový systém se 4KB bloky může 	být velký maximálně? 
-  4GB	 
-  4TB	 
-* 16TB	 
-  16GB	 
+Má?li i?uzel 32?bitové ukazatele na blok, 10 přímých odkazů, 1 blok nepřímých 	odkazů, 1 blok nepřímých odkazů druhé úrovně a 1 blok nepřímých odkazů třetí 	úrovně (jak bylo popsáno na přednášce), pak souborový systém se 4KB bloky může 	být velký maximálně?
+  4GB
+  4TB
+* 16TB
+  16GB
 
 Úspěšné volání open("file", O _WRONLY | O_CREAT | O_EXCL, 0640) vytvoří vždy soubor s právy?
-  r-x------ 
-  rwxr-xr-x 
-* žádná z ostatních možností obecně neplatí 
-  rw-r----- 
-  rw-r--r-- 
+  r-x------
+  rwxr-xr-x
+* žádná z ostatních možností obecně neplatí
+  rw-r-----
+  rw-r--r--
 
-Co nemají společného vlákna jednoho procesu? 
-* zásobník 
-  přístup k mutexům procesu 
-  text programu, nad kterým běží 
-  tabulku otevřených souborů 
-  virtuální paměť 
+Co nemají společného vlákna jednoho procesu?
+* zásobník
+  přístup k mutexům procesu
+  text programu, nad kterým běží
+  tabulku otevřených souborů
+  virtuální paměť
 
-Při posloupnosti volání: 
-fd1 = open(soubor,O_WRONLY) 
-fd2 = open(soubor,O_WRONLY) 
-write(fd1,"blabla") 
-write(fd2,"blabla") 
-Co bude v souboru zapsáno? 
+Při posloupnosti volání:
+fd1 = open(soubor,O_WRONLY)
+fd2 = open(soubor,O_WRONLY)
+write(fd1,"blabla")
+write(fd2,"blabla")
+Co bude v souboru zapsáno?
   blablablabla
 * blabla
 
-Knihovní funkce system() využívá těchto služeb jádra? 
-  sysconf() a pathconf() 
-  jen fork() a exec() 
-* fork(), exec() a wait() 
-  sysctl() a setuid() 
+Knihovní funkce system() využívá těchto služeb jádra?
+  sysconf() a pathconf()
+  jen fork() a exec()
+* fork(), exec() a wait()
+  sysctl() a setuid()
 
-Má-li systém monolitické jádro, odpovídá ovladač klávesnice přibližně které části programu?          
-* objektovému modelu 
-  hlavičkovému souboru 
-  vláknu 
-  procesu 
+Má-li systém monolitické jádro, odpovídá ovladač klávesnice přibližně které části programu?
+* objektovému modelu
+  hlavičkovému souboru
+  vláknu
+  procesu
 
-Které z následujících tvrzení je pravdivé? 
-  vedoucí proces skupiny je vždy zároveň vedoucím procesem session 
-  jedna session reprezentuje procesy na popředí na jednom terminálu 
-* v rámci session existuje jedna nebo více skupin procesů 
-  v rámci skupiny procesů existuje jedna nebo více sessions 
-  proces může být obecně ve více než jedné session 
+Které z následujících tvrzení je pravdivé?
+  vedoucí proces skupiny je vždy zároveň vedoucím procesem session
+  jedna session reprezentuje procesy na popředí na jednom terminálu
+* v rámci session existuje jedna nebo více skupin procesů
+  v rámci skupiny procesů existuje jedna nebo více sessions
+  proces může být obecně ve více než jedné session
 
-K zadanému deskriptoru nelze prostředky POSIXu zjistit? 
-  preferovanou velikost bloku pro I/O operace 
-  velikost souboru 
-  typ souboru (běžný, roura, speciální, atd.) 
-* jméno souboru 
-  aktuální pozici v souboru 
+K zadanému deskriptoru nelze prostředky POSIXu zjistit?
+  preferovanou velikost bloku pro I/O operace
+  velikost souboru
+  typ souboru (běžný, roura, speciální, atd.)
+* jméno souboru
+  aktuální pozici v souboru
 
-Kontext v systému je? 
-  okolí, ve kterém se proces nachází 
-  text programu, který je umístěn v jádře systému 
-* stav procesoru, příslušný běhu jednoho procesu nebo vlákna 
-  popisovač sdíleného modulu, získaný pomocí dlopen. 
+Kontext v systému je?
+  okolí, ve kterém se proces nachází
+  text programu, který je umístěn v jádře systému
+* stav procesoru, příslušný běhu jednoho procesu nebo vlákna
+  popisovač sdíleného modulu, získaný pomocí dlopen.
 
-Jaká přístupová práva má proces běžící pod UID C a GID D k souboru vlastněnému 	uživatelem A a skupinou B s následujícím ACL:	u::rwx,g::rw-,o:--x,u:C:rw-,g:D:-wx,m::r-x?	 
-* jen čtení  
-  čtení a zápis	 
-  čtení a provádění	 
+Jaká přístupová práva má proces běžící pod UID C a GID D k souboru vlastněnému 	uživatelem A a skupinou B s následujícím ACL:	u::rwx,g::rw-,o:--x,u:C:rw-,g:D:-wx,m::r-x?
+* jen čtení
+  čtení a zápis
+  čtení a provádění
   jen provádění
   čtení, zápis, provádění
 
 Volání rename(old, new) v případě, že soubory old a new neleží na stejném svazku?
-  funguje stejně, jako kdyby tyto soubory ležely na stejném svazku	 
-* vrátí chybu  
-  zaručuje atomický přesun dat, ne však metadat	 
-  nezaručuje atomické přejmenování	 	  
+  funguje stejně, jako kdyby tyto soubory ležely na stejném svazku
+* vrátí chybu
+  zaručuje atomický přesun dat, ne však metadat
+  nezaručuje atomické přejmenování
 
 Co nastane při vytvoření hard linku na symbolický link?
   skončí chybou
   vytvoří se hard link na původní soubor
 * vytvoří se symbolický link na původní soubor
 
-Který filesystém dokáže ukládat krátké symlinky přímo do i-nodů? 
+Který filesystém dokáže ukládat krátké symlinky přímo do i-nodů?
   UFS
   XFS
 * Ext2FS
   ReiserFS
 
-Pokud chceme, aby se po pádu systému neobjevila v souborech data z jiných (dříve 	smazaných) souborů, je třeba? 
-* zapisovat data dříve než metadata		
-  žurnálovat změny v metadatech	 
-  zapisovat metadata dříve než data	 
-  volat fdatasync() po každém zápisu	 
+Pokud chceme, aby se po pádu systému neobjevila v souborech data z jiných (dříve 	smazaných) souborů, je třeba?
+* zapisovat data dříve než metadata
+  žurnálovat změny v metadatech
+  zapisovat metadata dříve než data
+  volat fdatasync() po každém zápisu
 
-Alokátor paměti ve standardní knihovně (malloc() a další) získává paměť? 
-  od jiných procesů, jejichž paměť je třeba nejprve odswapovat 
-  ze zásobníku procesu 
-* od jádra po blocích velikosti násobku velikosti stránky 
-  z oblasti vytvořené staticky při startu procesu 
-  od jádra po blocích které specifikuje volající 
+Alokátor paměti ve standardní knihovně (malloc() a další) získává paměť?
+  od jiných procesů, jejichž paměť je třeba nejprve odswapovat
+  ze zásobníku procesu
+* od jádra po blocích velikosti násobku velikosti stránky
+  z oblasti vytvořené staticky při startu procesu
+  od jádra po blocích které specifikuje volající
 
-Který ze systémových limitů definovaných normou není obvykle v systému implementován z důvodu přílišné režie a nejistého výsledku aplikace tohoto limitu? 
-  limit na počet procesů daného uživatele 
-  limit na velikost virtuální paměti 
-* limit na resident set size 
-  limit na strojový čas (problémem je zde více procesorů) 
-  limit na velikost zásobníku 
+Který ze systémových limitů definovaných normou není obvykle v systému implementován z důvodu přílišné režie a nejistého výsledku aplikace tohoto limitu?
+  limit na počet procesů daného uživatele
+  limit na velikost virtuální paměti
+* limit na resident set size
+  limit na strojový čas (problémem je zde více procesorů)
+  limit na velikost zásobníku
 
 Velikost bufferu roury lze zjistit pomocí služby jádra?
   pipe()
   sysconf()
   mknod()
-* pathconf()	 
+* pathconf()
 
 Chce-li proces zablokovat doručování některých signálů během vykonávání ovladače
-určitého signálu, může to specifikovat pomocí služby? 
-* sigaction()	 
-  signal()	 
-  sigsetmask()	 
-  sigsuspend()	 
-  sigpending()	
+určitého signálu, může to specifikovat pomocí služby?
+* sigaction()
+  signal()
+  sigsetmask()
+  sigsuspend()
+  sigpending()
