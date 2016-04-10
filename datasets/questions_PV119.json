@@ -1,0 +1,1183 @@
+[
+  {
+    "name": "Listina zakladnich prav a svobod zarucuje:",
+    "answers": [
+      {
+        "body": "listovni tajemstvi pisemnosti uchovavanych v soukromi",
+        "right": true
+      },
+      {
+        "body": "listovni tajemstvi pisemnosti zasilanych poÜtou",
+        "right": true
+      },
+      {
+        "body": "tajemstvi zprav podavanych telefonem",
+        "right": true
+      },
+      {
+        "body": "tajemstvi zprav podavanych elektronickou poÜtou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pisemnosti osobni povahy mohou byt pouzity:",
+    "answers": [
+      {
+        "body": "se souhlasem osoby, ktera je vytvorila",
+        "right": true
+      },
+      {
+        "body": "bez souhlasu osoby, ktera je vytvorila",
+        "right": false
+      },
+      {
+        "body": "k ucelum urednim na zaklade zakona",
+        "right": true
+      },
+      {
+        "body": "na zaklade \"zpravodajske licence\"",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Obchodni tajemstvi",
+    "answers": [
+      {
+        "body": "je vzdy predmetem prav nalezejicich k podniku",
+        "right": true
+      },
+      {
+        "body": "patri vzdy do majetku obchodni spolecnosti",
+        "right": false
+      },
+      {
+        "body": "jedna se o autorska prava a technicke vynalezy",
+        "right": false
+      },
+      {
+        "body": "je zaznamenano u uradu prumysloveho vlastnictvi",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pri poruÜeni autorskeho prava ma autor pravo se domahat",
+    "answers": [
+      {
+        "body": "odstraneni nasledku neopravnenych zasahu do autorskeho prava",
+        "right": true
+      },
+      {
+        "body": "zaplaceni pokuty",
+        "right": false
+      },
+      {
+        "body": "zadostiucineni",
+        "right": true
+      },
+      {
+        "body": "vydani neopravneneho obohaceni",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Databaze",
+    "answers": [
+      {
+        "body": "se povazuje za souborne autorske dilo",
+        "right": true
+      },
+      {
+        "body": "majetkove autorske pravo k databazi trva 15 let od jejiho porizeni",
+        "right": true
+      },
+      {
+        "body": "muze byt neomezene vytezovana jen, je-li verejne pristupna",
+        "right": false
+      },
+      {
+        "body": "muze byt neomezeni vytizovana pro osobni potrebu uzivatele",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zanik patentu",
+    "answers": [
+      {
+        "body": "majitel patentu je povinnen vynalez prakticky vyuzivat",
+        "right": false
+      },
+      {
+        "body": "patent muze byt zruÜen, pokud jej majitel nevyuziva (m¨ze byt ale zruÜen patentovy monopol, pokud jej majitel nevyuziva a blokuje jeho uzivani ostatnim, kteri by chteli)",
+        "right": false
+      },
+      {
+        "body": "patent zanika, uplyne-li doba jeho platnosti",
+        "right": true
+      },
+      {
+        "body": "patent zanika, nezaplati-li majitel poplatky za...",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Spravce je povinnen",
+    "answers": [
+      {
+        "body": "prokazat souhlas subjektu udaju po celou dobu zpracovavani",
+        "right": true
+      },
+      {
+        "body": "informovat subjekt udaju, kdo a jakym zpusobem bude udaje zpracovavat",
+        "right": true
+      },
+      {
+        "body": "informovat subjekt udaju, komu mohou byt jeho udaje zpristupneny",
+        "right": true
+      },
+      {
+        "body": "pravidelne jednou rocne zaslat subjektu udaju ... zpracovavanych",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zamestnanci spravce:",
+    "answers": [
+      {
+        "body": "musi uzavrit dohodu o ochranezpracovavanych",
+        "right": true
+      },
+      {
+        "body": "mohou zpracovavat osobni udaje pouze v rozsahu stanovenym  spravcem",
+        "right": true
+      },
+      {
+        "body": "maji dozivotni povinnost mlcenlivosti o zpracovavnych informacich",
+        "right": false
+      },
+      {
+        "body": "maji dozivotni povinnost mlcenlivosti o bezpecnostnich prvcich",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Podle zakona o svobodnem pristupu k informacim jsou",
+    "answers": [
+      {
+        "body": "povinnymi subjekty statni organy",
+        "right": true
+      },
+      {
+        "body": "povinnymi subjekty vÜichni, kdo hospodaoi s veo... mozna",
+        "right": false
+      },
+      {
+        "body": "zadateli fyzicke osoby zpusobile k pravnim ukonum",
+        "right": true
+      },
+      {
+        "body": "zadateli veÜkere pravnicke osoby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V souvislosti s ochranou utajovanych informaci...",
+    "answers": [
+      {
+        "body": "dodrzovat nutna omezeni stanovena vladou",
+        "right": true
+      },
+      {
+        "body": "podrobit se bezpecnostni proverce",
+        "right": true
+      },
+      {
+        "body": "odevzdat nalezenou utajovanou informaci",
+        "right": true
+      },
+      {
+        "body": "zachovavat mlcenlivost o utajovanych informacich",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "1 Listina zakladnich prav",
+    "answers": [
+      {
+        "body": "zarucuje ochranu pisemnosti uchovavanych v soukromi",
+        "right": true
+      },
+      {
+        "body": "zarueuje ochranu pisemnosti prepravovanych poÜtou",
+        "right": true
+      },
+      {
+        "body": "zarueuje tajemstvi zprav podavanych telefonem",
+        "right": true
+      },
+      {
+        "body": "zarucuje tajemstvi zprav prenaÜenych elektronicky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "2. Pisemnost osobniho charakteru",
+    "answers": [
+      {
+        "body": "muze byt zverejnina se souhlasem autora",
+        "right": true
+      },
+      {
+        "body": "muze byt zveoejnina bez souhlasu autora",
+        "right": false
+      },
+      {
+        "body": "muze byt pouzita k urednim ucelum na zaklade zakona",
+        "right": true
+      },
+      {
+        "body": "muze byt zverejnina na zaklade zpravodajske licence",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "3.Obchodni tajemstvi",
+    "answers": [
+      {
+        "body": "patri mezi majetek podniku",
+        "right": false
+      },
+      {
+        "body": "patri k pravum souvisejicim s podnikem",
+        "right": true
+      },
+      {
+        "body": "jedna se o autorska prava a technicke vynalezy",
+        "right": false
+      },
+      {
+        "body": "je zaznamenano u uradu prumysloveho vlastnictvi",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "4.Osobnostni autorska prava",
+    "answers": [
+      {
+        "body": "autorem muze byt pouze fyzicka osoba zpusobila k pravnim ukonum",
+        "right": false
+      },
+      {
+        "body": "o zverejnini dila rozhoduje autor",
+        "right": true
+      },
+      {
+        "body": "autorstvi je neprevoditelne a autor se jej nemuze vzdat",
+        "right": true
+      },
+      {
+        "body": "smrti autora prechazi autorska prava na dedice ne- vykon prav, ne prava",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "5.Zamestnanecky vztah            nevim",
+    "answers": [
+      {
+        "body": "veÜkera prava k dilum vykonava zamestnanec",
+        "right": true
+      },
+      {
+        "body": "po zaniku pravnicke osoby bez pravniho nastupce prechazeji prava na autora",
+        "right": true
+      },
+      {
+        "body": "pri zhotoveni pocitacoveho programu na objednavku ma autor pravo na primirenou dodatecnou odmenu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "6.Vynalezy",
+    "answers": [
+      {
+        "body": "patentovatelne jsou jen nove vynalezy",
+        "right": true
+      },
+      {
+        "body": "patentovatelne jsou jen prumyslove vyuzitelne vynalezy",
+        "right": true
+      },
+      {
+        "body": "patent nemuze byt nikdy udelen na pocitacovy program",
+        "right": true
+      },
+      {
+        "body": "pravo k patentu ma jeho autor",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "7 Osobni udaje",
+    "answers": [
+      {
+        "body": "urcitelnou osobou je osoba, o niz je znamo jmeno, prijmeni, bydliÜte a datum narozeni",
+        "right": true
+      },
+      {
+        "body": "citlivym udajem je prisluÜnost k politicke strani nebo hnuti",
+        "right": true
+      },
+      {
+        "body": "osobni udaj muze byt anonymizovan",
+        "right": false
+      },
+      {
+        "body": "udaje o osobi se deli na osobni a neosobni",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "8.Pri neopravnenem zverejnini osobnich udaju ma subjekt udaju pravo zadat",
+    "answers": [
+      {
+        "body": "odstraneni zpusobenych Ükod",
+        "right": true
+      },
+      {
+        "body": "zaplaceni pokuty",
+        "right": false
+      },
+      {
+        "body": "zadostiucineni",
+        "right": true
+      },
+      {
+        "body": "vydani bezduvodneho obohaceni",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "9.Svobodny pristup k informacim",
+    "answers": [
+      {
+        "body": "poskytovatelem jsou statni organy",
+        "right": true
+      },
+      {
+        "body": "poskytovatelem jsou vÜechny organizace hospodarici s verejnymi prostredky",
+        "right": true
+      },
+      {
+        "body": "zadatelem je fyzicka osoba zpusobila k pravnim ukonum",
+        "right": true
+      },
+      {
+        "body": "zadatelem jsou vÜechny pravnicke osoby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "10 Pro pristup k utajovanym informacim musi podnik",
+    "answers": [
+      {
+        "body": "byt administrativni bezpeeny",
+        "right": true
+      },
+      {
+        "body": "nebyt v konkurzu ani likvidaci",
+        "right": true
+      },
+      {
+        "body": "vypracovat bezpeenostni projekt",
+        "right": true
+      },
+      {
+        "body": "mit certifikovany vnitrni informacni system",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Odvetvi ceskeho prava",
+    "answers": [
+      {
+        "body": "obcanske pravo nepatri mezi odvetvi soukromeho prava",
+        "right": false
+      },
+      {
+        "body": "pracovni pravo nepatri mezi odvetvi verejneho prava",
+        "right": true
+      },
+      {
+        "body": "trestni pravo patri mezi odvetvi soukromeho prava",
+        "right": false
+      },
+      {
+        "body": "spravni pravo patri mezi odvetvi verejneho prava",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vlada CR",
+    "answers": [
+      {
+        "body": "tvori zakony CR",
+        "right": true
+      },
+      {
+        "body": "je volena poslaneckou snemovnou Parlamantu CR",
+        "right": false
+      },
+      {
+        "body": "navrhuje zakony CR",
+        "right": true
+      },
+      {
+        "body": "funkce clena vlady CR je neslucitelna s funkci senatora parlamentu CR",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "zanik trestnosti",
+    "answers": [
+      {
+        "body": "vina obzalovaneho se vzdy posuzuje podle trestneho zakona ve stavu v okamziku spachani trestneho cinu",
+        "right": true
+      },
+      {
+        "body": "odsouzeny muze byt za dobre chovani propusten po vykonu poloviny ulozeneho trestu",
+        "right": true
+      },
+      {
+        "body": "v pripadne trestneho teroru zanika jeho trestnost pri ucinne litosti pachatele",
+        "right": false
+      },
+      {
+        "body": "trestny cin teroru nemuze byt promlcen",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "trestni rizeni",
+    "answers": [
+      {
+        "body": "zalobu podava poskozeny",
+        "right": true
+      },
+      {
+        "body": "ucastniky jsou vzdy obzalovany a obhajce",
+        "right": true
+      },
+      {
+        "body": "nad trestnim rizenim vykonava dozor statni zastupce nebo soud",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "spolecnost s rucenim omezenim ",
+    "answers": [
+      {
+        "body": "ma minimalne 2 cleny a maximalne 50 clenu",
+        "right": true
+      },
+      {
+        "body": "kazdy ze spolecniku ruci za zavasky spolecnosti do vyse sveho nesplaceneho vkladu",
+        "right": true
+      },
+      {
+        "body": "zakladni kapital je minimalne 200 000 Kc",
+        "right": true
+      },
+      {
+        "body": "nejvyssim organem je predstavenstvo",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "pravnicka osoba",
+    "answers": [
+      {
+        "body": "zpusobilost k pravum je ekvivalentni zpusobilosti k pravnim ukonum",
+        "right": true
+      },
+      {
+        "body": "jedna se vzdy o ucelove zdruzeni majetku",
+        "right": false
+      },
+      {
+        "body": "vsechny druhy obchodnich spolecnosti jsou pravnickymi osobami",
+        "right": true
+      },
+      {
+        "body": "o vzniku ci zaniku pravnicke osoby vzdy rozhoduje soud",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "zavazky",
+    "answers": [
+      {
+        "body": "jednostranne zavazky musi mit ustni, pisemnou nebo elektronickou podobu",
+        "right": true
+      },
+      {
+        "body": "vznikaji na zaklada smlouvy",
+        "right": true
+      },
+      {
+        "body": "ze zavazku je povinnen dluznik neco dat, konat,neceho se zdrzet nebo trpet",
+        "right": false
+      },
+      {
+        "body": "strany smolouvy si vzdy mohou zvolit, zda smlouvu uzavrenou dle obcanskeho nebo obchodniho zakoniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "vykon rozhodnuti",
+    "answers": [
+      {
+        "body": "muze byt proveden srazkami ze mzdy",
+        "right": true
+      },
+      {
+        "body": "muze byt proveden donucenim k provedeni praci ci vykonu",
+        "right": true
+      },
+      {
+        "body": "pri nezaplaceni dluzne castky muze byt udelen alternativni trest odneti svobody",
+        "right": true
+      },
+      {
+        "body": "muze byt provedena exekuce na movity i nemovity majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "v pravocni smlouve nesmi chybet",
+    "answers": [
+      {
+        "body": "podpis stran",
+        "right": true
+      },
+      {
+        "body": "druh prace",
+        "right": true
+      },
+      {
+        "body": "datum vzniku a zaniku pracovniho pomeru",
+        "right": false
+      },
+      {
+        "body": "ujednani o vysi mzdy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "pracovni doba a dovolena",
+    "answers": [
+      {
+        "body": "zakladni vymera pracovni doby je 42,5 hodin tydne",
+        "right": false
+      },
+      {
+        "body": "matky s detmi a mladistvi maji zakladni vymeru pracovni doby 20 hodin tydne",
+        "right": false
+      },
+      {
+        "body": "prescasova prace je nepripustna",
+        "right": false
+      },
+      {
+        "body": "zakladni vymera dovolene je 4 tdyny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Listina zakladnich prav a svobod zarucuje",
+    "answers": [
+      {
+        "body": "pravo na zachovani dobre povesti",
+        "right": true
+      },
+      {
+        "body": "pravo na ochranu obchodniho tajemstvi",
+        "right": true
+      },
+      {
+        "body": "pravo na ochranu jmena",
+        "right": true
+      },
+      {
+        "body": "pravo na ochranu pred neopravnenim shromazdovanim osobnich udaju",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle zakona o svobodnem pristupu k informacim nesmi byt poskytnute informace ktere jsou",
+    "answers": [
+      {
+        "body": "utajovanymi informacemi",
+        "right": true
+      },
+      {
+        "body": "obchodnim tajemstvim",
+        "right": true
+      },
+      {
+        "body": "osobnimi udaji",
+        "right": true
+      },
+      {
+        "body": "informacemi o rozhodnuti organu statni spravy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "tresne ciny v souvislosti s utajovanymi informcemi ",
+    "answers": [
+      {
+        "body": "projednavaji vojenske soudy",
+        "right": false
+      },
+      {
+        "body": "vyzvedacstvi muze byt trestano vymecnym trestem",
+        "right": false
+      },
+      {
+        "body": "ohrozeni utajovane informace je trestne i kdyz je spachano z nedbalosti",
+        "right": true
+      },
+      {
+        "body": "vyzvedacstvi v kategorii \"Vyhrazene\" je prestupkem",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Po smrti fyzicke osoby prislusi uplatnovat pravo na:",
+    "answers": [
+      {
+        "body": "ochranu jeji osobnosti jejim detem",
+        "right": true
+      },
+      {
+        "body": "ochranu jeji osobnosti jejim dedicum",
+        "right": false
+      },
+      {
+        "body": "nahradu skody spusebenou neopravnenym zasahem do prava na ochranu osobnosti jejim detem",
+        "right": false
+      },
+      {
+        "body": "nahradu skody spusebenou neopravnenym zasahem do prava na ochranu osobnosti jejim dedicum",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pri poruseni nebo ohrozeni prava na obchodni tajmenstvi ma .....",
+    "answers": [
+      {
+        "body": "odstraneni zavadneho stavu",
+        "right": true
+      },
+      {
+        "body": "zaplaceni pokuty",
+        "right": false
+      },
+      {
+        "body": "zadostiucineni",
+        "right": true
+      },
+      {
+        "body": "vydani bezduvodneho obohaceni",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Majetkova autorska prava",
+    "answers": [
+      {
+        "body": "jejich drzitelem muze byt pouze fyzicka osoba spusobila pravnim ukonum ktera dilo vytvorila",
+        "right": true
+      },
+      {
+        "body": "obecne trvaji 50 let po smrti autora",
+        "right": false
+      },
+      {
+        "body": "nelze se jich vzdat a jsou neprevoditelna",
+        "right": false
+      },
+      {
+        "body": "po smrti autora prechazeji na dedice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pravo prumysloveho vlastnictvi chrani",
+    "answers": [
+      {
+        "body": "autorska dila",
+        "right": true
+      },
+      {
+        "body": "biotechnologicke vynalezy",
+        "right": true
+      },
+      {
+        "body": "obchodni tajemstvi",
+        "right": true
+      },
+      {
+        "body": "zlepsovaci navrhy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "citlive udaje muze spravce spracovavat ",
+    "answers": [
+      {
+        "body": "jestlize je spracovani nezbytpne pro zjisteni a uplatnovani pravnich naroku",
+        "right": true
+      },
+      {
+        "body": "poklada-li to za nezbytne k ochrane zivotne dulezitych zajmu subjektu udaju",
+        "right": true
+      },
+      {
+        "body": "poklada-li to za nezbytne k ochrane svych zajmu",
+        "right": false
+      },
+      {
+        "body": "na zaklade pisemne smlouvy se subjektem udaju",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "pri poruseni povinnosti pri zpracovavani osobnich udaju ma subjekt udaju pravo domahat se",
+    "answers": [
+      {
+        "body": "odstraneni nasledku takoveho jednani",
+        "right": true
+      },
+      {
+        "body": "zaplaceni pokuty",
+        "right": false
+      },
+      {
+        "body": "zadostiucineni",
+        "right": true
+      },
+      {
+        "body": "vydani bezduvodneho obohaceni",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "informace vyzadane zadatelem podle zakona o svobodnem pristupu k informacim se preda",
+    "answers": [
+      {
+        "body": "zverejnenim na uredni desce",
+        "right": true
+      },
+      {
+        "body": "zverejnenim dalkovim pristupem (Internet)",
+        "right": true
+      },
+      {
+        "body": "odkazem na zverejnenou informaci",
+        "right": false
+      },
+      {
+        "body": "pisemne",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "utajovane informace mohou byt poskytovany organizaci, ktera",
+    "answers": [
+      {
+        "body": "je administrativne bezpecna",
+        "right": true
+      },
+      {
+        "body": "neni v likvidaci ci konkurzu",
+        "right": true
+      },
+      {
+        "body": "ma certifikovany vnitrni informacni system",
+        "right": false
+      },
+      {
+        "body": "vypracovala bezpecnostni projekt",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi zakladni principy soukromeho prava patri",
+    "answers": [
+      {
+        "body": "smi se co neni zakonem zakazano",
+        "right": true
+      },
+      {
+        "body": "smi se jen to, co je zakonem dovoleno",
+        "right": false
+      },
+      {
+        "body": "smi se jen to, co je zakonem urceno",
+        "right": false
+      },
+      {
+        "body": "musi se jen to, co je zakonem urceno",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "PSP CR",
+    "answers": [
+      {
+        "body": "je volena na 4 roky",
+        "right": true
+      },
+      {
+        "body": "ma 150 poslancu",
+        "right": false
+      },
+      {
+        "body": "schvaluje vladu",
+        "right": true
+      },
+      {
+        "body": "tvori zakony",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vypoved ze strany zamestnance",
+    "answers": [
+      {
+        "body": "zakladni vyp. doba 3 mesice",
+        "right": true
+      },
+      {
+        "body": "osoba mladistva nemuze podat okamzitou vypoved",
+        "right": false
+      },
+      {
+        "body": "osoba na rod. dovolene muze podat okamzitou vypoved",
+        "right": true
+      },
+      {
+        "body": "zamestnanec nemusi vypoved zduvodnovat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zamestnavatel",
+    "answers": [
+      {
+        "body": "pri spojeni firem prechazi pracovni zavazky na novy subjekt",
+        "right": true
+      },
+      {
+        "body": "pri zaniku firmy prechazi zavazky na stat",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zpusobilost k pravu",
+    "answers": [
+      {
+        "body": "je li clovek zpusobily k pravu, je zpusobily i k pravnim ukonum",
+        "right": true
+      },
+      {
+        "body": "je li clovek zpusobily k pravnim ukonum, je zpusobily i k pravu",
+        "right": true
+      },
+      {
+        "body": "zpusobilost k pravu vznika 18. Rokem",
+        "right": true
+      },
+      {
+        "body": "zpusobilost k pravnim ukonum vznika 18. Rokem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Organy cinne v trestnim rizeni",
+    "answers": [
+      {
+        "body": "mestska police",
+        "right": false
+      },
+      {
+        "body": "soudy",
+        "right": true
+      },
+      {
+        "body": "statni zastupitelstvi",
+        "right": true
+      },
+      {
+        "body": "vezenska sluzba",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Okolnosti vylucujici trestni odpovednost",
+    "answers": [
+      {
+        "body": "jakakoliv nutna obrana",
+        "right": false
+      },
+      {
+        "body": "nepricetnost",
+        "right": true
+      },
+      {
+        "body": "je li z duvodu dusevni choroby omezena schopnost osoby kontrolovat sve ciny",
+        "right": true
+      },
+      {
+        "body": "vznika vzdy dosazenim 15 let",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": " Soudnictvi",
+    "answers": [
+      {
+        "body": "soudy jsou okresni, krajske, vrchni, nejvyssi, nejvyssi spravni a ustavni",
+        "right": true
+      },
+      {
+        "body": "pokud promeskate lhutu na odvolani, rozsudek nabyva pravni moci",
+        "right": true
+      },
+      {
+        "body": "proti platebnimu prikazu lze podat odpor",
+        "right": true
+      },
+      {
+        "body": "proti rozsudku se muzete odvolat a dovolat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "komanditni spolecnost",
+    "answers": [
+      {
+        "body": "ma minimalne 2 spolecniky",
+        "right": true
+      },
+      {
+        "body": "vsichni ruci celym svym majetkem",
+        "right": false
+      },
+      {
+        "body": "min jmeni 200 kKc",
+        "right": false
+      },
+      {
+        "body": "jsou dva druhy spolecniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": null,
+    "answers": [
+      {
+        "body": "Verejna obchodni spolecnost",
+        "right": false
+      },
+      {
+        "body": "Verejna obchodni spolecnost ma povinnost jednou rocne zverejnit svou ucetni zaverku",
+        "right": false
+      },
+      {
+        "body": "Verejna obchodni spolecnost musi mit nejmene 2 cleny.",
+        "right": true
+      },
+      {
+        "body": "Verejna o.s. musi mit zakladni kapital.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Statni moc",
+    "answers": [
+      {
+        "body": "Statni moc lze uplatnovat jen v mezich stanovenych zakonem",
+        "right": true
+      },
+      {
+        "body": "Statni moc lze uplatnovat v mezich dovolenych zakonem.",
+        "right": false
+      },
+      {
+        "body": "Statni moc lze uplatnovat v mezich nezakazanych zakonem.",
+        "right": false
+      },
+      {
+        "body": "Nikdo nesmiu byt nucen delat, co zakon neuklada.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": " Trestni rizeni",
+    "answers": [
+      {
+        "body": "zalobu podava poskozeny.",
+        "right": true
+      },
+      {
+        "body": "Nad rizenim dohlizi statni zastupce",
+        "right": true
+      },
+      {
+        "body": "Statni zastupce narizuje vazbu obzalovaneho.",
+        "right": false
+      },
+      {
+        "body": "ucastnikem rizeni je vzdy obzalovany a obhajce.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obcanskopravni spor:",
+    "answers": [
+      {
+        "body": "Soud je vazan navrhy poskozeneho.",
+        "right": true
+      },
+      {
+        "body": "Naklady za soudni spor vzdy uhradi poskozeny.",
+        "right": false
+      },
+      {
+        "body": "Naklady za soudni spor vzdy uhradi zalovany.",
+        "right": false
+      },
+      {
+        "body": "Soud muze vyhlasit rozsudek pro ome?k?n?.???",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": " Vlastnicke pravo:",
+    "answers": [
+      {
+        "body": "Nabyti vlastnictvi je mozne koupi, dedenim nebo vydrzenim veci.",
+        "right": true
+      },
+      {
+        "body": "Zastavni pravo se nevztahuje na movity majetek.",
+        "right": false
+      },
+      {
+        "body": "Vecne bremeno se vztahuje na movity i nemovity majetek.",
+        "right": false
+      },
+      {
+        "body": "Pri koupi veci s hodnotou nad 500 000 Kc je nutnosti pisemna smlouva.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": " Zastupovani:",
+    "answers": [
+      {
+        "body": "Jenom rodice smi zastupovat sve deti.",
+        "right": false
+      },
+      {
+        "body": "Manzele se smi zastupovat ve vecech pravnich ukonu.",
+        "right": false
+      },
+      {
+        "body": "Manzele se nesmi zastupovat v pravnim ukonu materialniho vyrovnani.",
+        "right": true
+      },
+      {
+        "body": "Je mozne zastupovat jenom fyzicke osoby.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Senat:",
+    "answers": [
+      {
+        "body": "Ma 81 clenu",
+        "right": true
+      },
+      {
+        "body": "Jsou voleni na 4 roky",
+        "right": false
+      },
+      {
+        "body": "Navrhuje zakony CR",
+        "right": true
+      },
+      {
+        "body": "Vyslovuje vlade neduveru",
+        "right": false
+      }
+    ]
+  }
+]

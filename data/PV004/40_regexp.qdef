@@ -1,0 +1,81 @@
+V textovém souboru jsou řádky obsahující takto uspořádané informace:
+<pre>Michal Brandejs &lt;brandejs&gt;</pre>
+Jakým substitučním příkazem editoru <strong>vi</strong> je všechny hromadně převedete do tvaru:
+<pre>Jmeno: Michal Prijmeni: Brandejs e-mail: brandejs</pre>
+ :r1 řešení: <TT>1,$s/^[A-Za-z]*[ ][A-Za-z]*[ <][a-z]*[>]/Jmeno: \1 Prijmeni: \3 e-mail: \5/</TT>
+ :r2 řešení: <TT>1,$s/\(^[A-Za-z]*\)[ ]\([A-Za-z]*\)[ ]\(<[a-z]*>\)/Jmeno: \1 Prijmeni: \2 e-mail: \3/</TT>
+ :r3 řešení: <TT>1,$s/\(.*\) \(.*\) <\(.*\)>/Jmeno: \1 Prijmeni: \2 e-mail: \3/</TT>
+ :r4 řešení: <TT>1,$s/^[A-Za-z]*[ ][A-Za-z]*[ <][a-z]*[>]/Jmeno: $1 Prijmeni: $3 e-mail: $5/</TT>
+:r3 ok
+--
+V textovém souboru jsou řádky obsahující takto uspořádané informace:
+<PRE>brandejs:*:11000:100:Michal Brandejs:/home/brandejs:/bin/ksh</PRE>
+Jakým substitučním příkazem editoru <B>vi</B> je všechny hromadně převedete do tvaru:
+<PRE>
+Michal Brandejs &lt;brandejs&gt;
+</PRE>
+ :r1 řešení: <TT>1,$s/(.*):.*:.*:.*:(.*):.*/\2 <\1>/</TT>
+ :r2 řešení: <TT>1,$s/\(.*\):.*:.*:.*:\(.*\):.*:.*/\2 <\1>/</TT>
+ :r3 řešení: <TT>1,$s/\([^:]*:\).*:\([^:]:\).*/\2 <\1>/</TT>
+:r2 ok
+--
+Regulární výraz [0-9][^0-9].x vyhovuje např. řetězci
+ :r1 0ax
+ :r2 a0x
+ :r3 00bx
+ :r4 0abx
+:r4 ok
+--
+Jakým substitučním příkazem editoru <B>vi</B> nahradíme řetězec <TT>\end{syntax}</TT> řetězcem <TT>\end{syntax}%</TT> (stačí provést 1x na řádku)?
+ :r1 <TT>1,$s/\end\{syntax\}/\end\{syntax\}%/</TT>
+ :r2 <TT>1,$s/\end{syntax}/\end{syntax}%/</TT>
+ :r3 <TT>1,$s/\\end{syntax}/\\end{syntax}%/</TT>
+ :r4 <TT>1,$s/\\\end{syntax}/\\\end{syntax}%/</TT>
+:r3 ok
+--
+Kterým substitučním příkazem editoru <B>vi</B> zrušíte (vyprázdníte) na běžném řádku všechny řetězce znaků začínající rovnítkem, následované alespoň jednou mezerou, přičemž zrušit se musí všechny mezery za rovnítkem?
+ :r1 <TT>s/=[ ][ ]*//g</TT>
+ :r2 <TT>s/=[ ]*//g</TT>
+ :r3 <TT>s/=[ ][ ][ ]*//g</TT>
+ :r4 <TT>s/=*//g</TT>
+ :r5 <TT>s/=*[ ]//g</TT>
+:r1 ok
+--
+Kterým substitučním příkazem editoru <B>vi</B> v celém souboru vyprázdníme všechny řádky, které obsahují pouze řetězec <TT>ahoj</TT>?
+ :r1 <TT>1,$s/ahoj//g</TT>
+ :r2 <TT>1,$s/*ahoj*//g</TT>
+ :r3 <TT>1,$s/[^ ]*ahoj[^ ]*//</TT>
+ :r4 <TT>1,$s/^ahoj$//</TT>
+ :r5 <TT>1,$s/\^ahoj\$//</TT>
+:r4 ok
+--
+Jakým substitučním příkazem editoru <B>vi</B> zrušíme nadbytečné mezery na běžném řádku (tzn. řetězce mezer delší než 1 znak nahradit jednou mezerou)?
+ :r1 <TT>s/[ ]*/ /</TT>
+ :r2 <TT>s/ [ ]*/[ ]/</TT>
+ :r3 <TT>s/[ ][ ]*/ /</TT>
+ :r4 <TT>s/[ ][ ]*/[ ]/</TT>
+:r3 ok
+--
+Jakým substitučním příkazem editoru <B>vi</B> přidáme za poslední znak každého řádku znak středník?
+ :r1 1,$s/.*/;/
+ :r2 1,$s/.*$/;/
+ :r3 1,$s/$/;/
+ :r4 1,$s/^.*/;/
+ :r5 1,$s/$*/;/
+:r3 ok
+--
+V souboru máte vždy na jednom řádku jedno URL. Jakým příkazem editoru <B>vi</B> zrušíte z konců všech řádků řetězec znaků <TT>index.htm</TT> nebo <TT>index.html</TT>? Tzn. řádky obsahující např. <TT>http://www.fi.muni.cz/index.html</TT> změňte na <TT>http://www.fi.muni.cz/</TT>. Za URL bezprostředně následuje znak nového řádku.
+ :r1 <TT>1,$s/index\.html\{0,1\}$//</TT>
+ :r2 <TT>1,$s/[a-z]*$//</TT>
+ :r3 <TT>1,$s/\/index.html*//</TT>
+ :r4 <TT>1,$s/\/[a-z].[a-z]$//</TT>
+:r1 ok
+--
+Jakým substitučním příkazem řádkového režimu editoru <B>vi</B> změníte všechny řádky souboru ze tvaru
+<PRE>Lampa stolní typ GY34827|B240|3487636|790</PRE>
+do tvaru
+<PRE>Lampa stolní typ GY34827|B240|DKP 3487636|790 Kč</PRE>
+ :r1 <TT>1,$s/\(.*\)|\(.*\)|\(.*\)|\(.*\)/\1DKP \2 Kč/</TT>
+ :r2 <TT>1,$s/\(.*|.*|\)\(.*|.*\)/\1DKP \2 Kč/</TT>
+ :r3 <TT>1,$s/\(.*\)|\(.*\)|[0-9]*|\(.*\)/\1DKP \2 Kč/</TT>
+:r2 ok
