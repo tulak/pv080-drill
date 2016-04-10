@@ -1371,7 +1371,7 @@
       },
       {
         "body": "Tajnou informaci musí vědět jen oprávněný uživatel",
-        "right": false
+        "right": true
       },
       {
         "body": "Tajnou informaci musíme sdělit administrátorovi pro případně admin. zásahy v našem systému",
@@ -1949,7 +1949,7 @@
       },
       {
         "body": "K zajištění důvěrnosti",
-        "right": true
+        "right": false
       },
       {
         "body": "K zajištění integrity",
