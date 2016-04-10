@@ -1,3 +1,4 @@
-pv080-drill
+fi-muni-drill
 ===========
-Simple application to drill answers for course PV080
+
+Simple application to drill answers

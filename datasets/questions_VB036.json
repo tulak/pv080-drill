@@ -1,0 +1,6725 @@
+[
+  {
+    "name": "\"For example\"\/\"For instance\" are commonly abbreviated to ___.",
+    "answers": [
+      {
+        "body": "i.e.",
+        "right": false
+      },
+      {
+        "body": "etc.",
+        "right": false
+      },
+      {
+        "body": "e.g.",
+        "right": true
+      },
+      {
+        "body": "et al.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "In ___ NF the database is completely non-normalized.",
+    "answers": [
+      {
+        "body": "zero",
+        "right": true
+      },
+      {
+        "body": "third",
+        "right": false
+      },
+      {
+        "body": "second",
+        "right": false
+      },
+      {
+        "body": "first",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Parentheses are sometimes referred to as ___.",
+    "answers": [
+      {
+        "body": "brackets",
+        "right": true
+      },
+      {
+        "body": "slashes",
+        "right": false
+      },
+      {
+        "body": "periods",
+        "right": false
+      },
+      {
+        "body": "commas",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the \"verb and preposition\" collocations is NOT correct?",
+    "answers": [
+      {
+        "body": "include something in something",
+        "right": false
+      },
+      {
+        "body": "assign something to something",
+        "right": false
+      },
+      {
+        "body": "combine something with something",
+        "right": false
+      },
+      {
+        "body": "distinguish something for something",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "In 3NF, the database is logically organized but difficult to maintain.",
+    "answers": [
+      {
+        "body": "True",
+        "right": false
+      },
+      {
+        "body": "False",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Each subsequent normal form depends on normalization steps taken in the previous normal form.",
+    "answers": [
+      {
+        "body": "False",
+        "right": false
+      },
+      {
+        "body": "True",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT correct?",
+    "answers": [
+      {
+        "body": "separate - separation",
+        "right": false
+      },
+      {
+        "body": "ambiguous - ambiguity",
+        "right": false
+      },
+      {
+        "body": "dependent - dependency",
+        "right": false
+      },
+      {
+        "body": "redundant - redundance",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A database's level of normalization is determined by the ___ form.",
+    "answers": [
+      {
+        "body": "common",
+        "right": false
+      },
+      {
+        "body": "normal",
+        "right": true
+      },
+      {
+        "body": "general",
+        "right": false
+      },
+      {
+        "body": "standard",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Database ___ is the process of organizing data into an efficient and logical structure.",
+    "answers": [
+      {
+        "body": "management",
+        "right": false
+      },
+      {
+        "body": "administration",
+        "right": false
+      },
+      {
+        "body": "modeling",
+        "right": false
+      },
+      {
+        "body": "normalization",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A goal of normalization is ___.",
+    "answers": [
+      {
+        "body": "to minimize the number of tables",
+        "right": false
+      },
+      {
+        "body": "to minimize the number of relationships",
+        "right": false
+      },
+      {
+        "body": "to minimize data redundancy",
+        "right": true
+      },
+      {
+        "body": "to minimize the number of entities",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "update- back up",
+        "right": true
+      },
+      {
+        "body": "redundant - unnecessary",
+        "right": false
+      },
+      {
+        "body": "technique - method",
+        "right": false
+      },
+      {
+        "body": "require - need",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following statements is NOT true?",
+    "answers": [
+      {
+        "body": "A data dictionary holds information about the data it stores.",
+        "right": false
+      },
+      {
+        "body": "A data dictionary contains actual data from the database.",
+        "right": true
+      },
+      {
+        "body": "A data dictionary is an integral part of a database.",
+        "right": false
+      },
+      {
+        "body": "A data dictionary is sometimes called a repository.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT correct?",
+    "answers": [
+      {
+        "body": "maintain - maintenance",
+        "right": false
+      },
+      {
+        "body": "destroy - destroyal",
+        "right": true
+      },
+      {
+        "body": "relate - relationship",
+        "right": false
+      },
+      {
+        "body": "retrieve - retrieval",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Data is a valuable asset and its quality is guaranteed by ___.",
+    "answers": [
+      {
+        "body": "data accuracy",
+        "right": false
+      },
+      {
+        "body": "data integrity",
+        "right": true
+      },
+      {
+        "body": "data verification",
+        "right": false
+      },
+      {
+        "body": "data reliability",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A specialized language for requesting information from a database is called ___.",
+    "answers": [
+      {
+        "body": "a query language",
+        "right": true
+      },
+      {
+        "body": "a question language",
+        "right": false
+      },
+      {
+        "body": "a search language",
+        "right": false
+      },
+      {
+        "body": "an inquiry language",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Software that controls the organization, storage, retrieval, security and integrity of data in a database is called a ___.",
+    "answers": [
+      {
+        "body": "database management system",
+        "right": true
+      },
+      {
+        "body": "database manipulation software",
+        "right": false
+      },
+      {
+        "body": "database manager system",
+        "right": false
+      },
+      {
+        "body": "database managing software",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The Structured Query Language (SQL) is a set of instructions used to interact with ___ database.",
+    "answers": [
+      {
+        "body": "a multidimensional",
+        "right": false
+      },
+      {
+        "body": "an object-oriented",
+        "right": false
+      },
+      {
+        "body": "a relational",
+        "right": true
+      },
+      {
+        "body": "a flat file",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "___ ensures that users enter only alphabetic data into a field.",
+    "answers": [
+      {
+        "body": "An alphabetic check",
+        "right": true
+      },
+      {
+        "body": "A consistency check",
+        "right": false
+      },
+      {
+        "body": "A range check",
+        "right": false
+      },
+      {
+        "body": "A numeric check",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A subsection of a data warehouse that deals with specific information is ___.",
+    "answers": [
+      {
+        "body": "a data model",
+        "right": false
+      },
+      {
+        "body": "a data matrix",
+        "right": false
+      },
+      {
+        "body": "a data mart",
+        "right": true
+      },
+      {
+        "body": "a data centre",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following job titles is NOT correct?",
+    "answers": [
+      {
+        "body": "database administrator",
+        "right": false
+      },
+      {
+        "body": "database developer",
+        "right": false
+      },
+      {
+        "body": "database analyzer",
+        "right": true
+      },
+      {
+        "body": "data modeler",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following words is NOT spelt correctly?",
+    "answers": [
+      {
+        "body": "acess privileges",
+        "right": true
+      },
+      {
+        "body": "optical disc",
+        "right": false
+      },
+      {
+        "body": "database approach",
+        "right": false
+      },
+      {
+        "body": "hard disk",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A listing of activities that modify the contents of the database is called ___.",
+    "answers": [
+      {
+        "body": "a backup",
+        "right": false
+      },
+      {
+        "body": "a recovery utility",
+        "right": false
+      },
+      {
+        "body": "a log",
+        "right": true
+      },
+      {
+        "body": "a report generator",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A ___, or data modeler, focuses on the meaning and usage of data.",
+    "answers": [
+      {
+        "body": "database analyst",
+        "right": true
+      },
+      {
+        "body": "database administrator",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The word \"appropriate\" is similar in meaning to",
+    "answers": [
+      {
+        "body": "current",
+        "right": false
+      },
+      {
+        "body": "cost-effective",
+        "right": false
+      },
+      {
+        "body": "continuous",
+        "right": false
+      },
+      {
+        "body": "convenient",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The major weaknesses of file processing systems are redundant data and isolated data.",
+    "answers": [
+      {
+        "body": "False",
+        "right": false
+      },
+      {
+        "body": "True",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A relational database stores data in tables that consist of rows and ___.",
+    "answers": [
+      {
+        "body": "lines",
+        "right": false
+      },
+      {
+        "body": "arrays",
+        "right": false
+      },
+      {
+        "body": "rows",
+        "right": false
+      },
+      {
+        "body": "columns",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A collection of unprocessed items, which can include text, numbers, images, audio and video is referred to as ___.",
+    "answers": [
+      {
+        "body": "information",
+        "right": false
+      },
+      {
+        "body": "data",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The smallest unit of data a computer can process is ___",
+    "answers": [
+      {
+        "body": "a byte",
+        "right": false
+      },
+      {
+        "body": "a character",
+        "right": false
+      },
+      {
+        "body": "a bit",
+        "right": true
+      },
+      {
+        "body": "a record",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Data in a database can be more vulnerable than data in file processing systems.",
+    "answers": [
+      {
+        "body": "False",
+        "right": false
+      },
+      {
+        "body": "True",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The smallest unit of data a user accesses is ___.",
+    "answers": [
+      {
+        "body": "a field",
+        "right": true
+      },
+      {
+        "body": "a record",
+        "right": false
+      },
+      {
+        "body": "a data file",
+        "right": false
+      },
+      {
+        "body": "a bit",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "IDEA is a symmetric encryption algorithm.",
+    "answers": [
+      {
+        "body": "True",
+        "right": true
+      },
+      {
+        "body": "False",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "DES operates on blocks of 64 bits using a secret key that is 56 bits long.",
+    "answers": [
+      {
+        "body": "False",
+        "right": false
+      },
+      {
+        "body": "True",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Bitlocker Drive Encryption was developed by ___.",
+    "answers": [
+      {
+        "body": "Microsoft",
+        "right": true
+      },
+      {
+        "body": "DMA Design",
+        "right": false
+      },
+      {
+        "body": "HAL Laboratory",
+        "right": false
+      },
+      {
+        "body": "Sun Microsystems",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Keep your data ___ \u2014 in and out of the office.",
+    "answers": [
+      {
+        "body": "neat and tidy",
+        "right": false
+      },
+      {
+        "body": "rough and ready",
+        "right": false
+      },
+      {
+        "body": "up and running",
+        "right": false
+      },
+      {
+        "body": "safe and sound",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The DES encryption algorithm was developed by the US government and ___.",
+    "answers": [
+      {
+        "body": "Hewlett Packard",
+        "right": false
+      },
+      {
+        "body": "IBM",
+        "right": true
+      },
+      {
+        "body": "Microsoft",
+        "right": false
+      },
+      {
+        "body": "Xerox",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Blowfish is one of the commonly used secure encryption algorithms.",
+    "answers": [
+      {
+        "body": "True",
+        "right": true
+      },
+      {
+        "body": "False",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "___ DES was designed to increase the size of the DES key.",
+    "answers": [
+      {
+        "body": "Triple",
+        "right": true
+      },
+      {
+        "body": "Multiple",
+        "right": false
+      },
+      {
+        "body": "Quadruple",
+        "right": false
+      },
+      {
+        "body": "Double",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The meaning of \"unclassified\" data is ___.",
+    "answers": [
+      {
+        "body": "unprocessed",
+        "right": false
+      },
+      {
+        "body": "confidential",
+        "right": false
+      },
+      {
+        "body": "raw",
+        "right": false
+      },
+      {
+        "body": "public",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "AES and IDEA are popular ___ ciphers.",
+    "answers": [
+      {
+        "body": "field",
+        "right": false
+      },
+      {
+        "body": "single-bit",
+        "right": false
+      },
+      {
+        "body": "block",
+        "right": true
+      },
+      {
+        "body": "stream",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The entire encryption process happens ___ for the user.",
+    "answers": [
+      {
+        "body": "behind the scenes",
+        "right": true
+      },
+      {
+        "body": "behind closed doors",
+        "right": false
+      },
+      {
+        "body": "behind the bars",
+        "right": false
+      },
+      {
+        "body": "behind the mask",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "In which phase of the system development is a working model of the proposed system used?",
+    "answers": [
+      {
+        "body": "In the design phase",
+        "right": true
+      },
+      {
+        "body": "In the planning phase",
+        "right": false
+      },
+      {
+        "body": "In the analysis phase",
+        "right": false
+      },
+      {
+        "body": "In the implementation phase",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What type of feasibility is concerned with whether the project can be completed on time?",
+    "answers": [
+      {
+        "body": "technical",
+        "right": false
+      },
+      {
+        "body": "operational",
+        "right": false
+      },
+      {
+        "body": "economic",
+        "right": false
+      },
+      {
+        "body": "schedule",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The purpose of the ___ phase is to construct the new system and deliver it to the users.",
+    "answers": [
+      {
+        "body": "design",
+        "right": false
+      },
+      {
+        "body": "modeling",
+        "right": false
+      },
+      {
+        "body": "support",
+        "right": false
+      },
+      {
+        "body": "implementation",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Organizations today often have a ___ who is responsible for physical security of the property and people.",
+    "answers": [
+      {
+        "body": "chief operating officer",
+        "right": false
+      },
+      {
+        "body": "chief executive officer",
+        "right": false
+      },
+      {
+        "body": "chief information officer",
+        "right": false
+      },
+      {
+        "body": "chief security officer",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "steer - take control of",
+        "right": false
+      },
+      {
+        "body": "solicit - approve",
+        "right": true
+      },
+      {
+        "body": "opt for - choose",
+        "right": false
+      },
+      {
+        "body": "acquire - get",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following verbs is NOT correct?",
+    "answers": [
+      {
+        "body": "evaluate",
+        "right": false
+      },
+      {
+        "body": "prioritize",
+        "right": false
+      },
+      {
+        "body": "investigate",
+        "right": false
+      },
+      {
+        "body": "determinate",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Lower levels (subclasses) contain attributes of higher levels (classes) in a concept called ___.",
+    "answers": [
+      {
+        "body": "heredity",
+        "right": false
+      },
+      {
+        "body": "inheritance",
+        "right": true
+      },
+      {
+        "body": "heritability",
+        "right": false
+      },
+      {
+        "body": "heritage",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "An interactive systems design concept involving discussion groups in a workshop setting is called ___.",
+    "answers": [
+      {
+        "body": "joint analysis development",
+        "right": false
+      },
+      {
+        "body": "job application development",
+        "right": false
+      },
+      {
+        "body": "job analysis documentation",
+        "right": false
+      },
+      {
+        "body": "joint application design",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Application software developed at the user's request is called ___.",
+    "answers": [
+      {
+        "body": "user-written software",
+        "right": false
+      },
+      {
+        "body": "small programs",
+        "right": false
+      },
+      {
+        "body": "packaged software",
+        "right": false
+      },
+      {
+        "body": "custom software",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A measure of how suitable the development of a system will be to the organization is its ___.",
+    "answers": [
+      {
+        "body": "feasibility",
+        "right": true
+      },
+      {
+        "body": "functionality",
+        "right": false
+      },
+      {
+        "body": "applicability",
+        "right": false
+      },
+      {
+        "body": "interoperability",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A technique that describes processes that transform inputs into outputs is called ___.",
+    "answers": [
+      {
+        "body": "data modeling",
+        "right": false
+      },
+      {
+        "body": "object modeling",
+        "right": false
+      },
+      {
+        "body": "function modeling",
+        "right": false
+      },
+      {
+        "body": "process modeling",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Conducting a feasibility study is one of the two major activities of the ___ phase.",
+    "answers": [
+      {
+        "body": "design",
+        "right": false
+      },
+      {
+        "body": "analysis",
+        "right": true
+      },
+      {
+        "body": "planning",
+        "right": false
+      },
+      {
+        "body": "implementation",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "System development activities are grouped into larger categories called ___.",
+    "answers": [
+      {
+        "body": "periods",
+        "right": false
+      },
+      {
+        "body": "phases",
+        "right": true
+      },
+      {
+        "body": "stages",
+        "right": false
+      },
+      {
+        "body": "steps",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A model that describes various stages involved in the process of development of an information system is called ___.",
+    "answers": [
+      {
+        "body": "system engineering process",
+        "right": false
+      },
+      {
+        "body": "software design",
+        "right": false
+      },
+      {
+        "body": "system development life cycle",
+        "right": true
+      },
+      {
+        "body": "systems methodology",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is the odd one out?",
+    "answers": [
+      {
+        "body": "support",
+        "right": false
+      },
+      {
+        "body": "assist",
+        "right": false
+      },
+      {
+        "body": "allocate",
+        "right": true
+      },
+      {
+        "body": "aid",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Many SDLCs contain ___ phases.",
+    "answers": [
+      {
+        "body": "three",
+        "right": false
+      },
+      {
+        "body": "two",
+        "right": false
+      },
+      {
+        "body": "four",
+        "right": false
+      },
+      {
+        "body": "five",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT correct?",
+    "answers": [
+      {
+        "body": "flow - flew - flown",
+        "right": true
+      },
+      {
+        "body": "lay - laid - laid",
+        "right": false
+      },
+      {
+        "body": "show - showed - shown",
+        "right": false
+      },
+      {
+        "body": "write - wrote - written",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following job titles is NOT correct?",
+    "answers": [
+      {
+        "body": "systems analytist",
+        "right": true
+      },
+      {
+        "body": "computer programmer",
+        "right": false
+      },
+      {
+        "body": "project leader",
+        "right": false
+      },
+      {
+        "body": "software developer",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The first and most critical phase of any systems development effort is ___.",
+    "answers": [
+      {
+        "body": "analysis",
+        "right": false
+      },
+      {
+        "body": "planning",
+        "right": true
+      },
+      {
+        "body": "design",
+        "right": false
+      },
+      {
+        "body": "implementation",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The ___ Modeling Language, or UML, allows programmers to create diagrams to represent data.",
+    "answers": [
+      {
+        "body": "Universal",
+        "right": false
+      },
+      {
+        "body": "United",
+        "right": false
+      },
+      {
+        "body": "Uniform",
+        "right": false
+      },
+      {
+        "body": "Unified",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "A benchmark is standard by which something can be measured or judged.",
+    "answers": [
+      {
+        "body": "True",
+        "right": true
+      },
+      {
+        "body": "False",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What is the purpose of benchmarking in computer technology?",
+    "answers": [
+      {
+        "body": "To provide system requirements",
+        "right": false
+      },
+      {
+        "body": "To record a log of software errors",
+        "right": false
+      },
+      {
+        "body": "To describe a process or operation",
+        "right": false
+      },
+      {
+        "body": "To measure performance of hardware or software",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The ___ the WIPs rating, the more requests the Web server can handle per second.",
+    "answers": [
+      {
+        "body": "high",
+        "right": false
+      },
+      {
+        "body": "higher",
+        "right": true
+      },
+      {
+        "body": "highest",
+        "right": false
+      },
+      {
+        "body": "highly",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following words is NOT spelt correctly?",
+    "answers": [
+      {
+        "body": "successful",
+        "right": false
+      },
+      {
+        "body": "recieve",
+        "right": true
+      },
+      {
+        "body": "environment",
+        "right": false
+      },
+      {
+        "body": "algorithm",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following collocations is NOT correct?",
+    "answers": [
+      {
+        "body": "to do a measurement",
+        "right": true
+      },
+      {
+        "body": "to handle a request",
+        "right": false
+      },
+      {
+        "body": "to click a link",
+        "right": false
+      },
+      {
+        "body": "to run a test",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The number of web interactions per second that the system under test can sustain is known as ___.",
+    "answers": [
+      {
+        "body": "WIRT",
+        "right": false
+      },
+      {
+        "body": "WIPS",
+        "right": true
+      },
+      {
+        "body": "SPEC",
+        "right": false
+      },
+      {
+        "body": "SUT",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Firefox 3.5 performs well in benchmark tests ___ previous versions.",
+    "answers": [
+      {
+        "body": "for",
+        "right": false
+      },
+      {
+        "body": "with",
+        "right": false
+      },
+      {
+        "body": "against",
+        "right": true
+      },
+      {
+        "body": "to",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "TPC-W benchmark uses ___ primary metrics.",
+    "answers": [
+      {
+        "body": "three",
+        "right": false
+      },
+      {
+        "body": "two",
+        "right": true
+      },
+      {
+        "body": "five",
+        "right": false
+      },
+      {
+        "body": "four",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "WIRT is used to calculate the ___ of Web interactions successfully completed during the length of the benchmark test.",
+    "answers": [
+      {
+        "body": "value",
+        "right": false
+      },
+      {
+        "body": "count",
+        "right": false
+      },
+      {
+        "body": "amount",
+        "right": false
+      },
+      {
+        "body": "number",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following \"verb - noun\" pairs is NOT correct?",
+    "answers": [
+      {
+        "body": "constrain - constraint",
+        "right": false
+      },
+      {
+        "body": "measure - measurement",
+        "right": false
+      },
+      {
+        "body": "complete - completion",
+        "right": false
+      },
+      {
+        "body": "maintain - maintainance",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a web language?",
+    "answers": [
+      {
+        "body": "HTML",
+        "right": false
+      },
+      {
+        "body": "C++",
+        "right": true
+      },
+      {
+        "body": "PHP",
+        "right": false
+      },
+      {
+        "body": "Javascript",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A ____-generation language is a nonprocedural language that enables users to access data in a database.",
+    "answers": [
+      {
+        "body": "second",
+        "right": false
+      },
+      {
+        "body": "fifth",
+        "right": false
+      },
+      {
+        "body": "third",
+        "right": false
+      },
+      {
+        "body": "fourth",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "___ is an example of a third-generation programming language.",
+    "answers": [
+      {
+        "body": "SQL",
+        "right": false
+      },
+      {
+        "body": "COBOL",
+        "right": true
+      },
+      {
+        "body": "PHP",
+        "right": false
+      },
+      {
+        "body": "XML",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": ".NET Framework is a programming infrastructure created by ___ .",
+    "answers": [
+      {
+        "body": "Oracle",
+        "right": false
+      },
+      {
+        "body": "Microsoft",
+        "right": true
+      },
+      {
+        "body": "Apple",
+        "right": false
+      },
+      {
+        "body": "Google",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The word \"suite\" rhymes with ___.",
+    "answers": [
+      {
+        "body": "delete",
+        "right": true
+      },
+      {
+        "body": "compute",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A popular query language for relational databases is SQL, which is short for ___.",
+    "answers": [
+      {
+        "body": "system query language",
+        "right": false
+      },
+      {
+        "body": "server query language",
+        "right": false
+      },
+      {
+        "body": "structured query language",
+        "right": true
+      },
+      {
+        "body": "standard query language",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "___ uses a series of English-like words to write instructions or assigns names to a sequence of instructions called a procedure.",
+    "answers": [
+      {
+        "body": "A procedural language",
+        "right": true
+      },
+      {
+        "body": "An assembly language",
+        "right": false
+      },
+      {
+        "body": "A functional language",
+        "right": false
+      },
+      {
+        "body": "An object-oriented language",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "___ is one of many .NET programming languages.",
+    "answers": [
+      {
+        "body": "C sharp",
+        "right": true
+      },
+      {
+        "body": "C flat",
+        "right": false
+      },
+      {
+        "body": "C hash",
+        "right": false
+      },
+      {
+        "body": "C plus",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "___ languages are the only languages understood by computers.",
+    "answers": [
+      {
+        "body": "Assembly",
+        "right": false
+      },
+      {
+        "body": "High-level",
+        "right": false
+      },
+      {
+        "body": "Natural",
+        "right": false
+      },
+      {
+        "body": "Machine",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The verb \"accomplish\" is similar in meaning to ___.",
+    "answers": [
+      {
+        "body": "depict",
+        "right": false
+      },
+      {
+        "body": "achieve",
+        "right": true
+      },
+      {
+        "body": "yield",
+        "right": false
+      },
+      {
+        "body": "modify",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A process by which source code is converted into machine language is called ___.",
+    "answers": [
+      {
+        "body": "execution",
+        "right": false
+      },
+      {
+        "body": "compilation",
+        "right": true
+      },
+      {
+        "body": "debugging",
+        "right": false
+      },
+      {
+        "body": "modeling",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a Web page authoring program?",
+    "answers": [
+      {
+        "body": "Dreamweaver",
+        "right": false
+      },
+      {
+        "body": "Flash",
+        "right": false
+      },
+      {
+        "body": "SharePoint Designer",
+        "right": false
+      },
+      {
+        "body": "XML",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following statements is NOT true?",
+    "answers": [
+      {
+        "body": "COBOL was designed for scientific computing.",
+        "right": true
+      },
+      {
+        "body": "A programmer is often called a developer.",
+        "right": false
+      },
+      {
+        "body": "Visual Studio was developed by Microsoft.",
+        "right": false
+      },
+      {
+        "body": "Ruby on Rails is an open source web application framework.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "XML stands for ___ markup language.",
+    "answers": [
+      {
+        "body": "extra",
+        "right": false
+      },
+      {
+        "body": "extensible",
+        "right": true
+      },
+      {
+        "body": "extended",
+        "right": false
+      },
+      {
+        "body": "extreme",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "OOP promotes a way of programming that allows programmers to think in terms of ___.",
+    "answers": [
+      {
+        "body": "data",
+        "right": false
+      },
+      {
+        "body": "procedures",
+        "right": false
+      },
+      {
+        "body": "objects",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "With object-oriented design, the programmer packages the data and the program into a single unit called ___.",
+    "answers": [
+      {
+        "body": "a procedure",
+        "right": false
+      },
+      {
+        "body": "a class",
+        "right": false
+      },
+      {
+        "body": "an object",
+        "right": true
+      },
+      {
+        "body": "a category",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A ___ control structure shows one or more actions following each other in order.",
+    "answers": [
+      {
+        "body": "sequence",
+        "right": true
+      },
+      {
+        "body": "do-while",
+        "right": false
+      },
+      {
+        "body": "selection",
+        "right": false
+      },
+      {
+        "body": "repetition",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "For programmers it is essential to understand ___ structures, which are the elementary building blocks for all programs.",
+    "answers": [
+      {
+        "body": "control",
+        "right": true
+      },
+      {
+        "body": "management",
+        "right": false
+      },
+      {
+        "body": "check",
+        "right": false
+      },
+      {
+        "body": "steering",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "___ languages are used to add dynamic content and interactive element to Web pages.",
+    "answers": [
+      {
+        "body": "Scripting",
+        "right": true
+      },
+      {
+        "body": "Nonprocedural",
+        "right": false
+      },
+      {
+        "body": "Procedural",
+        "right": false
+      },
+      {
+        "body": "Functional",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following verbs is NOT correct?",
+    "answers": [
+      {
+        "body": "automate",
+        "right": false
+      },
+      {
+        "body": "manipulate",
+        "right": false
+      },
+      {
+        "body": "simplificate",
+        "right": true
+      },
+      {
+        "body": "authenticate",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The Acid3 Browser Test uses JavaScript to perform approximately ___ subtests.",
+    "answers": [
+      {
+        "body": "150",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": true
+      },
+      {
+        "body": "50",
+        "right": false
+      },
+      {
+        "body": "10",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "To pass the test, a browser must use its default settings.",
+    "answers": [
+      {
+        "body": "False",
+        "right": false
+      },
+      {
+        "body": "True",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT synonymous?",
+    "answers": [
+      {
+        "body": "original - default",
+        "right": false
+      },
+      {
+        "body": "simultaneously - gradually",
+        "right": true
+      },
+      {
+        "body": "intend - plan",
+        "right": false
+      },
+      {
+        "body": "ensure - make sure",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Cascading style sheets are used to format the layout of Web pages.",
+    "answers": [
+      {
+        "body": "True",
+        "right": true
+      },
+      {
+        "body": "False",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Just remember to install updates and security ___.",
+    "answers": [
+      {
+        "body": "parts",
+        "right": false
+      },
+      {
+        "body": "partitions",
+        "right": false
+      },
+      {
+        "body": "patches",
+        "right": true
+      },
+      {
+        "body": "batches",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Acid1, the first in the series of three tests, was developed in ___.",
+    "answers": [
+      {
+        "body": "1995",
+        "right": false
+      },
+      {
+        "body": "2005",
+        "right": false
+      },
+      {
+        "body": "1998",
+        "right": true
+      },
+      {
+        "body": "2008",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following verbs is NOT correct?",
+    "answers": [
+      {
+        "body": "to increment",
+        "right": false
+      },
+      {
+        "body": "to configure",
+        "right": false
+      },
+      {
+        "body": "to applicate",
+        "right": true
+      },
+      {
+        "body": "to hover",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Acid3 test is a web test page that checks a web browser's ___ with elements of various web standards.",
+    "answers": [
+      {
+        "body": "cohesion",
+        "right": false
+      },
+      {
+        "body": "compliance",
+        "right": true
+      },
+      {
+        "body": "comprehension",
+        "right": false
+      },
+      {
+        "body": "configuration",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "A series of tests from the Web Standards Project to assess the standards support of web browsers is called ___.",
+    "answers": [
+      {
+        "body": "an approval test",
+        "right": false
+      },
+      {
+        "body": "an alpha test",
+        "right": false
+      },
+      {
+        "body": "an acid test",
+        "right": true
+      },
+      {
+        "body": "an affirmative test",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "slight - minor",
+        "right": false
+      },
+      {
+        "body": "evaluate - comprehend",
+        "right": true
+      },
+      {
+        "body": "release - launch",
+        "right": false
+      },
+      {
+        "body": "increment - increase",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "One of the greatest accomplishments of bioinformatics might be the ___.",
+    "answers": [
+      {
+        "body": "Human Microbiome Project",
+        "right": false
+      },
+      {
+        "body": "Human Genome Project",
+        "right": true
+      },
+      {
+        "body": "Human Food Project",
+        "right": false
+      },
+      {
+        "body": "Human Health Project",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "collect - gather",
+        "right": false
+      },
+      {
+        "body": "gain popularity - explode in popularity",
+        "right": false
+      },
+      {
+        "body": "mystify - plague",
+        "right": true
+      },
+      {
+        "body": "assist - aid",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "essentially - basically",
+        "right": false
+      },
+      {
+        "body": "resemble - look like",
+        "right": false
+      },
+      {
+        "body": "affect - influence",
+        "right": false
+      },
+      {
+        "body": "acquire - accomplish",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Informatics is also referred to as ___.",
+    "answers": [
+      {
+        "body": "information science",
+        "right": true
+      },
+      {
+        "body": "information highway",
+        "right": false
+      },
+      {
+        "body": "information system",
+        "right": false
+      },
+      {
+        "body": "information technology",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following \"verb - noun\" pairs is NOT correct?",
+    "answers": [
+      {
+        "body": "retrieve - retrieval",
+        "right": false
+      },
+      {
+        "body": "resemble - resemblence",
+        "right": true
+      },
+      {
+        "body": "affect - effect",
+        "right": false
+      },
+      {
+        "body": "analyze - analysis",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "which of the following job titles is NOT correct?",
+    "answers": [
+      {
+        "body": "scientist",
+        "right": false
+      },
+      {
+        "body": "biologist",
+        "right": false
+      },
+      {
+        "body": "genetician",
+        "right": true
+      },
+      {
+        "body": "researcher",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bioinformatics is the application of information technology to the field of ___.",
+    "answers": [
+      {
+        "body": "molecular biology",
+        "right": true
+      },
+      {
+        "body": "biomedical sciences",
+        "right": false
+      },
+      {
+        "body": "biotechnology",
+        "right": false
+      },
+      {
+        "body": "biochemistry",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT correct?",
+    "answers": [
+      {
+        "body": "an increasing number of courses",
+        "right": false
+      },
+      {
+        "body": "a small percentage of people",
+        "right": false
+      },
+      {
+        "body": "massive amounts of data",
+        "right": false
+      },
+      {
+        "body": "an amount of computer applications",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The HGP project provides us with a better understanding of the ___ of human beings.",
+    "answers": [
+      {
+        "body": "origins",
+        "right": false
+      },
+      {
+        "body": "blood types",
+        "right": false
+      },
+      {
+        "body": "genetic makeup",
+        "right": true
+      },
+      {
+        "body": "life span",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Bioinformatics, ___ a relatively new field, has helped us to learn much more about human life.",
+    "answers": [
+      {
+        "body": "however",
+        "right": false
+      },
+      {
+        "body": "in addition to",
+        "right": false
+      },
+      {
+        "body": "despite",
+        "right": false
+      },
+      {
+        "body": "although",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The top layer of the OSI reference model is the ___.",
+    "answers": [
+      {
+        "body": "session layer",
+        "right": false
+      },
+      {
+        "body": "presentation layer",
+        "right": false
+      },
+      {
+        "body": "application layer",
+        "right": true
+      },
+      {
+        "body": "network layer",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "attach - add",
+        "right": false
+      },
+      {
+        "body": "intact - damaged",
+        "right": true
+      },
+      {
+        "body": "discrete - independent",
+        "right": false
+      },
+      {
+        "body": "reverse - move back",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The OSI reference model describes the flow of data in a network through ___ layers.",
+    "answers": [
+      {
+        "body": "seven",
+        "right": true
+      },
+      {
+        "body": "five",
+        "right": false
+      },
+      {
+        "body": "six",
+        "right": false
+      },
+      {
+        "body": "eight",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Encryption takes place at the ___ layer.",
+    "answers": [
+      {
+        "body": "presentation",
+        "right": true
+      },
+      {
+        "body": "application",
+        "right": false
+      },
+      {
+        "body": "session",
+        "right": false
+      },
+      {
+        "body": "transport",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following pairs is NOT similar in meaning?",
+    "answers": [
+      {
+        "body": "scheme - system",
+        "right": false
+      },
+      {
+        "body": "maintain - confirm",
+        "right": true
+      },
+      {
+        "body": "scramble - change",
+        "right": false
+      },
+      {
+        "body": "congestion - bottleneck",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The abbreviation \"OSI\" in the OSI reference model stands for ___.",
+    "answers": [
+      {
+        "body": "Operating System Interface",
+        "right": false
+      },
+      {
+        "body": "Operational Subsystem Interface",
+        "right": false
+      },
+      {
+        "body": "Optimal System Integration",
+        "right": false
+      },
+      {
+        "body": "Open Systems Interconnection",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Routers operate at the ___ layer.",
+    "answers": [
+      {
+        "body": "network",
+        "right": true
+      },
+      {
+        "body": "physical",
+        "right": false
+      },
+      {
+        "body": "transport",
+        "right": false
+      },
+      {
+        "body": "session",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following does NOT use the preposition \"into\" correctly?",
+    "answers": [
+      {
+        "body": "the message travels into the computer",
+        "right": true
+      },
+      {
+        "body": "divide the data into segments",
+        "right": false
+      },
+      {
+        "body": "convert the bits into readable data",
+        "right": false
+      },
+      {
+        "body": "split the data into smaller groups of bits",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Each layer communicates with the layers immediately ___.",
+    "answers": [
+      {
+        "body": "forward and backward",
+        "right": false
+      },
+      {
+        "body": "up and down",
+        "right": false
+      },
+      {
+        "body": "high and low",
+        "right": false
+      },
+      {
+        "body": "above and below",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "It keeps a copy of each packet until it is confirmed that the packet ___ undamaged at the next node.",
+    "answers": [
+      {
+        "body": "arrived",
+        "right": true
+      },
+      {
+        "body": "got",
+        "right": false
+      },
+      {
+        "body": "came",
+        "right": false
+      },
+      {
+        "body": "reached",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The top layer of the OSI reference model is the ___.",
+    "answers": [
+      {
+        "body": "session layer",
+        "right": false
+      },
+      {
+        "body": "presentation layer",
+        "right": false
+      },
+      {
+        "body": "application layer",
+        "right": true
+      },
+      {
+        "body": "network layer",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "attach - add",
+        "right": false
+      },
+      {
+        "body": "intact - damaged",
+        "right": true
+      },
+      {
+        "body": "discrete - independent",
+        "right": false
+      },
+      {
+        "body": "reverse - move back",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The OSI reference model describes the flow of data in a network through ___ layers.",
+    "answers": [
+      {
+        "body": "seven",
+        "right": true
+      },
+      {
+        "body": "five",
+        "right": false
+      },
+      {
+        "body": "six",
+        "right": false
+      },
+      {
+        "body": "eight",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Encryption takes place at the ___ layer.",
+    "answers": [
+      {
+        "body": "presentation",
+        "right": true
+      },
+      {
+        "body": "application",
+        "right": false
+      },
+      {
+        "body": "session",
+        "right": false
+      },
+      {
+        "body": "transport",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following pairs is NOT similar in meaning?",
+    "answers": [
+      {
+        "body": "scheme - system",
+        "right": false
+      },
+      {
+        "body": "maintain - confirm",
+        "right": true
+      },
+      {
+        "body": "scramble - change",
+        "right": false
+      },
+      {
+        "body": "congestion - bottleneck",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The abbreviation \"OSI\" in the OSI reference model stands for ___.",
+    "answers": [
+      {
+        "body": "Operating System Interface",
+        "right": false
+      },
+      {
+        "body": "Operational Subsystem Interface",
+        "right": false
+      },
+      {
+        "body": "Optimal System Integration",
+        "right": false
+      },
+      {
+        "body": "Open Systems Interconnection",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Routers operate at the ___ layer.",
+    "answers": [
+      {
+        "body": "network",
+        "right": true
+      },
+      {
+        "body": "physical",
+        "right": false
+      },
+      {
+        "body": "transport",
+        "right": false
+      },
+      {
+        "body": "session",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following does NOT use the preposition \"into\" correctly?",
+    "answers": [
+      {
+        "body": "the message travels into the computer",
+        "right": true
+      },
+      {
+        "body": "divide the data into segments",
+        "right": false
+      },
+      {
+        "body": "convert the bits into readable data",
+        "right": false
+      },
+      {
+        "body": "split the data into smaller groups of bits",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Each layer communicates with the layers immediately ___.",
+    "answers": [
+      {
+        "body": "forward and backward",
+        "right": false
+      },
+      {
+        "body": "up and down",
+        "right": false
+      },
+      {
+        "body": "high and low",
+        "right": false
+      },
+      {
+        "body": "above and below",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "It keeps a copy of each packet until it is confirmed that the packet ___ undamaged at the next node.",
+    "answers": [
+      {
+        "body": "arrived",
+        "right": true
+      },
+      {
+        "body": "got",
+        "right": false
+      },
+      {
+        "body": "came",
+        "right": false
+      },
+      {
+        "body": "reached",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If you can make time, it _____ very nice to see you.",
+    "answers": [
+      {
+        "body": "would be",
+        "right": true
+      },
+      {
+        "body": "could be",
+        "right": false
+      },
+      {
+        "body": "would've been",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I don't mind coming with you, _____ give me a lift back.",
+    "answers": [
+      {
+        "body": "supposing you",
+        "right": false
+      },
+      {
+        "body": "provided you can",
+        "right": true
+      },
+      {
+        "body": "if you were able",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If you get into difficulties, _____ your mobile phone to rely on.",
+    "answers": [
+      {
+        "body": "you always get",
+        "right": false
+      },
+      {
+        "body": "you've always got",
+        "right": true
+      },
+      {
+        "body": "you're always getting",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ there's any doubt in your mind, don't do it.",
+    "answers": [
+      {
+        "body": "If",
+        "right": true
+      },
+      {
+        "body": "Even if",
+        "right": false
+      },
+      {
+        "body": "If only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "This'll be one of Mark's little tricks, _____.",
+    "answers": [
+      {
+        "body": "supposing a mistake",
+        "right": false
+      },
+      {
+        "body": "unless there's a mistake",
+        "right": false
+      },
+      {
+        "body": "if I'm not mistaken",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Take the front door key _____ Davy gets home first, in which case you won't need one.",
+    "answers": [
+      {
+        "body": "unless",
+        "right": true
+      },
+      {
+        "body": "provided",
+        "right": false
+      },
+      {
+        "body": "if",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If I really _____ into this house, I would hardly be knocking on the door, would I?",
+    "answers": [
+      {
+        "body": "was going to break",
+        "right": true
+      },
+      {
+        "body": "broke",
+        "right": false
+      },
+      {
+        "body": "would break",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If the match is cancelled, I'll let you know by mid-morning. _____, I'll see you at 1 o'clock, as arranged.",
+    "answers": [
+      {
+        "body": "Unless",
+        "right": false
+      },
+      {
+        "body": "Supposing",
+        "right": false
+      },
+      {
+        "body": "Otherwise",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "If you really can't face doing that kind of work, _____.",
+    "answers": [
+      {
+        "body": "I'm sure they'll understand",
+        "right": true
+      },
+      {
+        "body": "I'm sure they would've understood",
+        "right": false
+      },
+      {
+        "body": "I'll be sure they understand",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ you need to call for assistance, you'll find a little whistle tied to your collar.",
+    "answers": [
+      {
+        "body": "Even if",
+        "right": false
+      },
+      {
+        "body": "Should",
+        "right": true
+      },
+      {
+        "body": "If only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The town is full of pleasant _____ rather expensive guesthouses.",
+    "answers": [
+      {
+        "body": "if",
+        "right": true
+      },
+      {
+        "body": "unless",
+        "right": false
+      },
+      {
+        "body": "provided",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If Brian really wanted to come on this trip, he _____ come to me by now and apologized.",
+    "answers": [
+      {
+        "body": "would've",
+        "right": true
+      },
+      {
+        "body": "would",
+        "right": false
+      },
+      {
+        "body": "will have",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If Beth _____ to be unavailable, let's ask Joanna instead.",
+    "answers": [
+      {
+        "body": "will turn out",
+        "right": false
+      },
+      {
+        "body": "turned out",
+        "right": false
+      },
+      {
+        "body": "turns out",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "_____, I wouldn't get involved in this.",
+    "answers": [
+      {
+        "body": "If you were me",
+        "right": false
+      },
+      {
+        "body": "If I were you",
+        "right": true
+      },
+      {
+        "body": "If you'll have my advice",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I think we'll go _____ it does rain.",
+    "answers": [
+      {
+        "body": "unless",
+        "right": false
+      },
+      {
+        "body": "even if",
+        "right": true
+      },
+      {
+        "body": "if",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "It _____ hard to catch him up if you leave now.",
+    "answers": [
+      {
+        "body": "couldn't be",
+        "right": false
+      },
+      {
+        "body": "shouldn't be",
+        "right": true
+      },
+      {
+        "body": "weren't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If it looks like _____, I'll leave early.",
+    "answers": [
+      {
+        "body": "it's going to rain",
+        "right": true
+      },
+      {
+        "body": "it rains",
+        "right": false
+      },
+      {
+        "body": "would rain",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If you'd rung to tell me, I _____ at the station to pick you up.",
+    "answers": [
+      {
+        "body": "could've been",
+        "right": true
+      },
+      {
+        "body": "was being",
+        "right": false
+      },
+      {
+        "body": "would be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If she _____ that decision, she wouldn't be in such a terrible mess now.",
+    "answers": [
+      {
+        "body": "hadn't made",
+        "right": true
+      },
+      {
+        "body": "doesn't make",
+        "right": false
+      },
+      {
+        "body": "didn't make",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "By the end of the month, everything _____.",
+    "answers": [
+      {
+        "body": "will have been sorted out",
+        "right": true
+      },
+      {
+        "body": "gets sorted out",
+        "right": false
+      },
+      {
+        "body": "is being sorted out",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Just stay calm - it _____ long now before the ambulance arrives.",
+    "answers": [
+      {
+        "body": "won't be",
+        "right": true
+      },
+      {
+        "body": "isn't",
+        "right": false
+      },
+      {
+        "body": "isn't going to be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ in a second.",
+    "answers": [
+      {
+        "body": "I'm going to be back",
+        "right": false
+      },
+      {
+        "body": "I'll be back",
+        "right": true
+      },
+      {
+        "body": "I'm due back",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Do you think _____ Ian later?",
+    "answers": [
+      {
+        "body": "you`re to see",
+        "right": false
+      },
+      {
+        "body": "you'll have seen",
+        "right": false
+      },
+      {
+        "body": "you'll be seeing",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "`What _____ do about this mess?' said Tom's mother.",
+    "answers": [
+      {
+        "body": "will you",
+        "right": false
+      },
+      {
+        "body": "are you due to",
+        "right": false
+      },
+      {
+        "body": "are you intending to",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "If you come at 2.00, _____.",
+    "answers": [
+      {
+        "body": "I'll still be working",
+        "right": true
+      },
+      {
+        "body": "I still work",
+        "right": false
+      },
+      {
+        "body": "I'm still working",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I expect he _____ to the match tonight as usual.",
+    "answers": [
+      {
+        "body": "is to go",
+        "right": false
+      },
+      {
+        "body": "will be going",
+        "right": true
+      },
+      {
+        "body": "goes",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "By _____ I'll be sipping a cool drink by the hotel pool!",
+    "answers": [
+      {
+        "body": "this time tomorrow",
+        "right": true
+      },
+      {
+        "body": "the next day",
+        "right": false
+      },
+      {
+        "body": "tomorrow",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ to this police station every day this week at 9 o'clock.",
+    "answers": [
+      {
+        "body": "You are to report",
+        "right": true
+      },
+      {
+        "body": "You'll have reported",
+        "right": false
+      },
+      {
+        "body": "I hope you will report",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "When we _____ to the service station, we'll stop and get some water.",
+    "answers": [
+      {
+        "body": "are getting",
+        "right": false
+      },
+      {
+        "body": "get",
+        "right": true
+      },
+      {
+        "body": "will get",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Quick, pass the bucket. _____ sick!",
+    "answers": [
+      {
+        "body": "I can be",
+        "right": false
+      },
+      {
+        "body": "I'll be",
+        "right": false
+      },
+      {
+        "body": "I'm going to be",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Sorry, there's just no way I _____ it before lunchtime.",
+    "answers": [
+      {
+        "body": "finish",
+        "right": false
+      },
+      {
+        "body": "will be finish",
+        "right": false
+      },
+      {
+        "body": "can finish",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "By the end of the month, everything _____ much clearer.",
+    "answers": [
+      {
+        "body": "will have been",
+        "right": false
+      },
+      {
+        "body": "will be",
+        "right": true
+      },
+      {
+        "body": "can be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "No, madam, the match on court 5 isn't _____ until 2.30.",
+    "answers": [
+      {
+        "body": "on the point of starting",
+        "right": false
+      },
+      {
+        "body": "due to start",
+        "right": true
+      },
+      {
+        "body": "about to start",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If you've been away, you _____ what happened to Jeremy.",
+    "answers": [
+      {
+        "body": "don't hear",
+        "right": false
+      },
+      {
+        "body": "won't have heard",
+        "right": true
+      },
+      {
+        "body": "won't be hearing",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ a look just as soon as I'm free.",
+    "answers": [
+      {
+        "body": "I'll come and have",
+        "right": true
+      },
+      {
+        "body": "I'm coming and having",
+        "right": false
+      },
+      {
+        "body": "I'll have come and had",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I doubt whether _____ time, to be honest.",
+    "answers": [
+      {
+        "body": "we're on the point of having",
+        "right": false
+      },
+      {
+        "body": "we'll have",
+        "right": true
+      },
+      {
+        "body": "we're going to be having",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Look, I'll tell you when _____, OK?",
+    "answers": [
+      {
+        "body": "I've finished",
+        "right": true
+      },
+      {
+        "body": "I'll have finished",
+        "right": false
+      },
+      {
+        "body": "I'm to finish",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You can use my bike if you want. _____ it until tomorrow.",
+    "answers": [
+      {
+        "body": "I can't need",
+        "right": false
+      },
+      {
+        "body": "I'm not needing",
+        "right": false
+      },
+      {
+        "body": "I won't be needing",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I think we should _____ going to the coast until the weather's better.",
+    "answers": [
+      {
+        "body": "like",
+        "right": false
+      },
+      {
+        "body": "hope",
+        "right": false
+      },
+      {
+        "body": "delay",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "'I _____ to see why you are chatting together when I've just asked you to do some writing,' said the teacher.",
+    "answers": [
+      {
+        "body": "need",
+        "right": false
+      },
+      {
+        "body": "fail",
+        "right": true
+      },
+      {
+        "body": "finish",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "And as they approach the last 200 metres, Philips is _____ to keep up with the leaders.",
+    "answers": [
+      {
+        "body": "struggling",
+        "right": true
+      },
+      {
+        "body": "avoiding",
+        "right": false
+      },
+      {
+        "body": "delaying",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "On the quiet coach of the train you're _____ to use mobile phones.",
+    "answers": [
+      {
+        "body": "forbidden",
+        "right": true
+      },
+      {
+        "body": "banned",
+        "right": false
+      },
+      {
+        "body": "prevented",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mark loves playing with his kids and pretending _____ different animals.",
+    "answers": [
+      {
+        "body": "being",
+        "right": false
+      },
+      {
+        "body": "to be",
+        "right": true
+      },
+      {
+        "body": "that he be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "We expect _____ in Singapore by mid-afternoon on Wednesday.",
+    "answers": [
+      {
+        "body": "to be",
+        "right": true
+      },
+      {
+        "body": "being",
+        "right": false
+      },
+      {
+        "body": "that we be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I remember _____ the Taj Mahal when I was six.",
+    "answers": [
+      {
+        "body": "visiting",
+        "right": true
+      },
+      {
+        "body": "to visit",
+        "right": false
+      },
+      {
+        "body": "visit",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I really miss _____ Auntie Julie to stay.",
+    "answers": [
+      {
+        "body": "having",
+        "right": true
+      },
+      {
+        "body": "to have",
+        "right": false
+      },
+      {
+        "body": "that we had",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Hannah dared _____ off the rocks into the sea.",
+    "answers": [
+      {
+        "body": "me to jump",
+        "right": true
+      },
+      {
+        "body": "that I jump",
+        "right": false
+      },
+      {
+        "body": "me jumping",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Of course we'll _____ you to do it, no problem.",
+    "answers": [
+      {
+        "body": "spend",
+        "right": false
+      },
+      {
+        "body": "pay",
+        "right": true
+      },
+      {
+        "body": "offer",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I don't think George _____ to be criticized quite so strongly.",
+    "answers": [
+      {
+        "body": "avoided",
+        "right": false
+      },
+      {
+        "body": "commanded",
+        "right": false
+      },
+      {
+        "body": "deserved",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Have you _____ sipping warm milk? That might help you sleep.",
+    "answers": [
+      {
+        "body": "sought",
+        "right": false
+      },
+      {
+        "body": "tried",
+        "right": true
+      },
+      {
+        "body": "managed",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I can't imagine Josie _____ lost for words!",
+    "answers": [
+      {
+        "body": "be",
+        "right": false
+      },
+      {
+        "body": "being",
+        "right": true
+      },
+      {
+        "body": "to be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "How dare you _____ me what to do!",
+    "answers": [
+      {
+        "body": "tell",
+        "right": true
+      },
+      {
+        "body": "to tell",
+        "right": false
+      },
+      {
+        "body": "telling",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I regret _____ that your order has been lost.",
+    "answers": [
+      {
+        "body": "to inform you",
+        "right": true
+      },
+      {
+        "body": "informing you",
+        "right": false
+      },
+      {
+        "body": "informing",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jenkins admitted _____ the money.",
+    "answers": [
+      {
+        "body": "to steal",
+        "right": false
+      },
+      {
+        "body": "steal",
+        "right": false
+      },
+      {
+        "body": "stealing",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The magician _____ to saw his assistant in half, but it was obviously just an illusion.",
+    "answers": [
+      {
+        "body": "appeared",
+        "right": true
+      },
+      {
+        "body": "involved",
+        "right": false
+      },
+      {
+        "body": "invited",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I was stopped at customs and made _____ my suitcase.",
+    "answers": [
+      {
+        "body": "opening",
+        "right": false
+      },
+      {
+        "body": "opened",
+        "right": false
+      },
+      {
+        "body": "to open",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Many people consider _____ the best player in the world right now.",
+    "answers": [
+      {
+        "body": "him to be",
+        "right": true
+      },
+      {
+        "body": "he being",
+        "right": false
+      },
+      {
+        "body": "that he be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I'm taking a flask because I don't want to have to keep stopping _____ bottles of water.",
+    "answers": [
+      {
+        "body": "to buy",
+        "right": true
+      },
+      {
+        "body": "and buy",
+        "right": false
+      },
+      {
+        "body": "buying",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ is it pouring with rain, but the wind's getting up as well.",
+    "answers": [
+      {
+        "body": "In addition to",
+        "right": false
+      },
+      {
+        "body": "Although",
+        "right": false
+      },
+      {
+        "body": "Not only",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "It's so expensive going out now. _____, you've got to treat yourself once in a while.",
+    "answers": [
+      {
+        "body": "What's more",
+        "right": false
+      },
+      {
+        "body": "All the same",
+        "right": true
+      },
+      {
+        "body": "At any rate",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ owing Jack \u014120, I've still got to pay my car insurance for last month.",
+    "answers": [
+      {
+        "body": "Moreover",
+        "right": false
+      },
+      {
+        "body": "Not only",
+        "right": false
+      },
+      {
+        "body": "As well as",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "It's been a lovely holiday so far. _____, Monday wasn't too great.",
+    "answers": [
+      {
+        "body": "Having said that",
+        "right": true
+      },
+      {
+        "body": "On top of that",
+        "right": false
+      },
+      {
+        "body": "On the whole",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I think his argument is valid _____.",
+    "answers": [
+      {
+        "body": "to some extent",
+        "right": true
+      },
+      {
+        "body": "in the first place",
+        "right": false
+      },
+      {
+        "body": "accordingly",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____, I always thought he looked a rather suspicious character.",
+    "answers": [
+      {
+        "body": "To tell the truth",
+        "right": true
+      },
+      {
+        "body": "As opposed to",
+        "right": false
+      },
+      {
+        "body": "As a result",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____, this will be a good year for those born under Aries, although it won't be without a few little problems.",
+    "answers": [
+      {
+        "body": "Not only",
+        "right": false
+      },
+      {
+        "body": "In addition to",
+        "right": false
+      },
+      {
+        "body": "Broadly speaking",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "He had a nasty fall, _____ of which he was off work for a week.",
+    "answers": [
+      {
+        "body": "hence",
+        "right": false
+      },
+      {
+        "body": "as a result",
+        "right": true
+      },
+      {
+        "body": "despite the fact",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wasn't sure about his last point, but _____ I agreed with what he said.",
+    "answers": [
+      {
+        "body": "by and large",
+        "right": true
+      },
+      {
+        "body": "even so",
+        "right": false
+      },
+      {
+        "body": "accordingly",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I don't think I'm going to be able to do this course. _____, I don't understand about computer programming.",
+    "answers": [
+      {
+        "body": "On the contrary",
+        "right": false
+      },
+      {
+        "body": "For a start",
+        "right": true
+      },
+      {
+        "body": "Consequently",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I quite like beach holidays, _____ my wife likes cultural stuff in towns.",
+    "answers": [
+      {
+        "body": "on the contrary",
+        "right": false
+      },
+      {
+        "body": "whereas",
+        "right": true
+      },
+      {
+        "body": "on the other hand",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I can't be bothered to go out. I've got too much work to do _____.",
+    "answers": [
+      {
+        "body": "for a start",
+        "right": true
+      },
+      {
+        "body": "furthermore",
+        "right": false
+      },
+      {
+        "body": "having said that",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I didn't get the job but, _____, I wasn't all that bothered.",
+    "answers": [
+      {
+        "body": "for one thing",
+        "right": false
+      },
+      {
+        "body": "furthermore",
+        "right": false
+      },
+      {
+        "body": "to tell the truth",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "David's a decent enough club golfer. _____, he's never going to make the big time.",
+    "answers": [
+      {
+        "body": "However",
+        "right": true
+      },
+      {
+        "body": "On the contrary",
+        "right": false
+      },
+      {
+        "body": "Whereas",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____, did you remember to post that letter?",
+    "answers": [
+      {
+        "body": "By the way",
+        "right": true
+      },
+      {
+        "body": "Having said that",
+        "right": false
+      },
+      {
+        "body": "As well as",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I thought we should go tomorrow _____ Friday.",
+    "answers": [
+      {
+        "body": "in contrast to",
+        "right": false
+      },
+      {
+        "body": "as opposed to",
+        "right": true
+      },
+      {
+        "body": "whereas",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Our swimmers and gymnasts picked up several Olympic medals. _____, the athletics team had a miserable time.",
+    "answers": [
+      {
+        "body": "Whereas",
+        "right": false
+      },
+      {
+        "body": "As opposed to",
+        "right": false
+      },
+      {
+        "body": "In contrast",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "_____, she's failed her exams as well as losing her boyfriend.",
+    "answers": [
+      {
+        "body": "To make matters worse",
+        "right": true
+      },
+      {
+        "body": "As well as",
+        "right": false
+      },
+      {
+        "body": "Not only",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "We are sorry to inform you that there has been a lightning strike by some TV engineers. _____, we are unable to bring you the second half of this match.",
+    "answers": [
+      {
+        "body": "On the contrary",
+        "right": false
+      },
+      {
+        "body": "Moreover",
+        "right": false
+      },
+      {
+        "body": "Consequently",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "_____, I thought it was a load of rubbish, but don't tell Jim that.",
+    "answers": [
+      {
+        "body": "Although",
+        "right": false
+      },
+      {
+        "body": "Despite the fact that",
+        "right": false
+      },
+      {
+        "body": "To be perfectly honest",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "facilitate - execute",
+        "right": true
+      },
+      {
+        "body": "unveil - reveal",
+        "right": false
+      },
+      {
+        "body": "viable - feasible",
+        "right": false
+      },
+      {
+        "body": "garner - gather",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The explosion in the use of computers began with 'Third Generation' computers, which relied on ___.",
+    "answers": [
+      {
+        "body": "transistors",
+        "right": false
+      },
+      {
+        "body": "vacuum tubes",
+        "right": false
+      },
+      {
+        "body": "microchips",
+        "right": false
+      },
+      {
+        "body": "integrated circuits",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The first high level general purpose programming language, ___, was also developed at IBM in 1957.",
+    "answers": [
+      {
+        "body": "FORTRAN",
+        "right": true
+      },
+      {
+        "body": "BASIC",
+        "right": false
+      },
+      {
+        "body": "COBOL",
+        "right": false
+      },
+      {
+        "body": "ALGOL",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "ENIAC is the name of a ___.",
+    "answers": [
+      {
+        "body": "computer",
+        "right": true
+      },
+      {
+        "body": "computer game",
+        "right": false
+      },
+      {
+        "body": "programming language",
+        "right": false
+      },
+      {
+        "body": "social networking site",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Yahoo! is ___.",
+    "answers": [
+      {
+        "body": "a handheld game console",
+        "right": false
+      },
+      {
+        "body": "an online auction Web site",
+        "right": false
+      },
+      {
+        "body": "an online bookstore",
+        "right": false
+      },
+      {
+        "body": "a popular search engine and portal",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The Linux mascot is a ___ named Tux, created by Larry Ewing.",
+    "answers": [
+      {
+        "body": "lizard",
+        "right": false
+      },
+      {
+        "body": "bunny",
+        "right": false
+      },
+      {
+        "body": "penguin",
+        "right": true
+      },
+      {
+        "body": "monkey",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "What type of content does YouTube host?",
+    "answers": [
+      {
+        "body": "Songs",
+        "right": false
+      },
+      {
+        "body": "Images",
+        "right": false
+      },
+      {
+        "body": "Videos",
+        "right": true
+      },
+      {
+        "body": "Blogs",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "During WWII, ___ was a key member of the code-breaking team, whose task was to decipher enemy communications, encoded using an \u2018Enigma\u2019 machine.",
+    "answers": [
+      {
+        "body": "Clifford Berry",
+        "right": false
+      },
+      {
+        "body": "John von Neumann",
+        "right": false
+      },
+      {
+        "body": "John V. Atanasoff",
+        "right": false
+      },
+      {
+        "body": "Alan Turing",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following verbs is NOT correct?",
+    "answers": [
+      {
+        "body": "overcome - overcame - overcome",
+        "right": false
+      },
+      {
+        "body": "lay - laid - lain",
+        "right": true
+      },
+      {
+        "body": "overtake -\u00a0\u00a0overtook - overtaken",
+        "right": false
+      },
+      {
+        "body": "broadcast - broadcast - broadcast",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "In 2008 Google released its new Web browser ___.",
+    "answers": [
+      {
+        "body": "Android",
+        "right": false
+      },
+      {
+        "body": "Firefox",
+        "right": false
+      },
+      {
+        "body": "Chrome",
+        "right": true
+      },
+      {
+        "body": "OmniWeb",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The computer, which correctly predicted an Eisenhower victory in 1952, was called ___.",
+    "answers": [
+      {
+        "body": "Sinclair VX80",
+        "right": false
+      },
+      {
+        "body": "UNIVAC I",
+        "right": true
+      },
+      {
+        "body": "American Supercomputer",
+        "right": false
+      },
+      {
+        "body": "Harvard Mark I",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Redirecting users to fake websites is also called ___.",
+    "answers": [
+      {
+        "body": "spamming",
+        "right": false
+      },
+      {
+        "body": "phishing",
+        "right": false
+      },
+      {
+        "body": "blogging",
+        "right": false
+      },
+      {
+        "body": "pharming",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The arrival of Napster in 1999 marked the emergence of decentralized ___ sharing of music over the Internet.",
+    "answers": [
+      {
+        "body": "peer-to-peer",
+        "right": true
+      },
+      {
+        "body": "person-to-person",
+        "right": false
+      },
+      {
+        "body": "consumer-to-consumer",
+        "right": false
+      },
+      {
+        "body": "business-to-business",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT a pair of synonyms?",
+    "answers": [
+      {
+        "body": "instead of - in lieu of",
+        "right": false
+      },
+      {
+        "body": "surpass - exceed",
+        "right": false
+      },
+      {
+        "body": "eventually - possibly",
+        "right": true
+      },
+      {
+        "body": "merge - combine",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "In 1984, ___ revolutionized laser-printing technology with its first LaserJet, a printer that personal computer users could afford.",
+    "answers": [
+      {
+        "body": "Canon",
+        "right": false
+      },
+      {
+        "body": "Xerox",
+        "right": false
+      },
+      {
+        "body": "Hewlett-Packard",
+        "right": true
+      },
+      {
+        "body": "IBM",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "British physicist ___ invented the World Wide Web at CERN in 1989.",
+    "answers": [
+      {
+        "body": "Marc Andreessen",
+        "right": false
+      },
+      {
+        "body": "Mark Gillett",
+        "right": false
+      },
+      {
+        "body": "Tim Berners-Lee",
+        "right": true
+      },
+      {
+        "body": "Bill Gates",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which of the following prepositions is NOT correct?",
+    "answers": [
+      {
+        "body": "visitors to the Web site",
+        "right": false
+      },
+      {
+        "body": "PSPgo, the successor of Sony's PSP",
+        "right": true
+      },
+      {
+        "body": "increase in popularity",
+        "right": false
+      },
+      {
+        "body": "Windows 98, an upgrade to Windows 95",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The Internet grew out of a project originally funded by the U.S. Government agency called ___.",
+    "answers": [
+      {
+        "body": "Darwin",
+        "right": false
+      },
+      {
+        "body": "GNU",
+        "right": false
+      },
+      {
+        "body": "Ethernet",
+        "right": false
+      },
+      {
+        "body": "ARPA",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Which of the following is NOT true?",
+    "answers": [
+      {
+        "body": "The Wii is a home video game console released by Nintendo.",
+        "right": false
+      },
+      {
+        "body": "Web 2.0 is a more social, collaborative, and interactive web.",
+        "right": false
+      },
+      {
+        "body": "The fastest supercomputer produced by IBM in 2006 is called Big Blue.",
+        "right": true
+      },
+      {
+        "body": "Spit is defined as \"SPam over Internet Telephony\".",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Steve Jobs and Steve Wozniak, who began ___ in 1976, are among the most well-known revolutionaries of the computing age.",
+    "answers": [
+      {
+        "body": "Intel Corporation",
+        "right": false
+      },
+      {
+        "body": "Apple Computer, Inc.",
+        "right": true
+      },
+      {
+        "body": "Compaq, Inc.",
+        "right": false
+      },
+      {
+        "body": "Microsoft Corporation",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ catch a cold if you swim in that freezing lake.",
+    "answers": [
+      {
+        "body": "You're bound to",
+        "right": true
+      },
+      {
+        "body": "You should",
+        "right": false
+      },
+      {
+        "body": "You need to",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Yes, do come if you can. It _____ be lovely to see you!",
+    "answers": [
+      {
+        "body": "may",
+        "right": false
+      },
+      {
+        "body": "could",
+        "right": false
+      },
+      {
+        "body": "would",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "It _____ not have been the best speech in the world, but I think everyone got the message.",
+    "answers": [
+      {
+        "body": "might",
+        "right": true
+      },
+      {
+        "body": "would",
+        "right": false
+      },
+      {
+        "body": "must",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Honestly, I did my best. I _____ have tried any harder.",
+    "answers": [
+      {
+        "body": "couldn't",
+        "right": true
+      },
+      {
+        "body": "wouldn't",
+        "right": false
+      },
+      {
+        "body": "shouldn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I _____ think you'll be OK. I mean, you've run 5 km in training, so 7 km isn't that much further.",
+    "answers": [
+      {
+        "body": "need",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": false
+      },
+      {
+        "body": "should",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "You _____ been really proud of John when he got that medal for bravery.",
+    "answers": [
+      {
+        "body": "must have",
+        "right": true
+      },
+      {
+        "body": "may have",
+        "right": false
+      },
+      {
+        "body": "could have",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Never mind, John. Life _____ be horribly cruel at times!",
+    "answers": [
+      {
+        "body": "might",
+        "right": false
+      },
+      {
+        "body": "can",
+        "right": true
+      },
+      {
+        "body": "should",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You _____ seriously be suggesting we should drive 200 km just to look at a bicycle!",
+    "answers": [
+      {
+        "body": "can't",
+        "right": true
+      },
+      {
+        "body": "needn't",
+        "right": false
+      },
+      {
+        "body": "mustn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You _____ have been mad to agree to help Joanna with her project.",
+    "answers": [
+      {
+        "body": "could",
+        "right": false
+      },
+      {
+        "body": "should",
+        "right": false
+      },
+      {
+        "body": "must",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "You _____ come if you don't want to.",
+    "answers": [
+      {
+        "body": "wouldn't",
+        "right": false
+      },
+      {
+        "body": "couldn't",
+        "right": false
+      },
+      {
+        "body": "needn't",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I _____ go to the disco and nobody's going to stop me!",
+    "answers": [
+      {
+        "body": "will",
+        "right": true
+      },
+      {
+        "body": "could",
+        "right": false
+      },
+      {
+        "body": "would",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I don't see why you _____ get so angry whenever you can't find something.",
+    "answers": [
+      {
+        "body": "have to",
+        "right": true
+      },
+      {
+        "body": "may",
+        "right": false
+      },
+      {
+        "body": "could",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "It _____ be great having your own swimming pool.",
+    "answers": [
+      {
+        "body": "shall",
+        "right": false
+      },
+      {
+        "body": "can",
+        "right": false
+      },
+      {
+        "body": "must",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "How weird that you _____ just bump into an old friend after ten years!",
+    "answers": [
+      {
+        "body": "should",
+        "right": true
+      },
+      {
+        "body": "shall",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You _____ loved your Grandad George - what a pity you never knew him.",
+    "answers": [
+      {
+        "body": "could've",
+        "right": false
+      },
+      {
+        "body": "would've",
+        "right": true
+      },
+      {
+        "body": "should've",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wouldn't worry about him - it _____ just be that he needs a bit of time to himself.",
+    "answers": [
+      {
+        "body": "can",
+        "right": false
+      },
+      {
+        "body": "could",
+        "right": true
+      },
+      {
+        "body": "should",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Sorry, but I _____ possibly do that, and you know it.",
+    "answers": [
+      {
+        "body": "won't",
+        "right": false
+      },
+      {
+        "body": "mightn't",
+        "right": false
+      },
+      {
+        "body": "can't",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "There was a time when I _____ have said yes, but I'm too old for all that now.",
+    "answers": [
+      {
+        "body": "should",
+        "right": false
+      },
+      {
+        "body": "must",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "How embarrassing! You _____ have told me there was toothpaste all down my shirt!",
+    "answers": [
+      {
+        "body": "must",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": true
+      },
+      {
+        "body": "need to",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Listen, you _____ believe what I've just seen!",
+    "answers": [
+      {
+        "body": "wouldn't",
+        "right": true
+      },
+      {
+        "body": "couldn't",
+        "right": false
+      },
+      {
+        "body": "needn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You _____ have eaten all that already - it's impossible!",
+    "answers": [
+      {
+        "body": "can't",
+        "right": true
+      },
+      {
+        "body": "won't",
+        "right": false
+      },
+      {
+        "body": "mustn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You _____ have gone to all this trouble - it must have taken you ages!",
+    "answers": [
+      {
+        "body": "couldn't",
+        "right": false
+      },
+      {
+        "body": "wouldn't",
+        "right": false
+      },
+      {
+        "body": "needn't",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I accept she _____ well have a lot of problems, but that doesn't excuse her behaviour.",
+    "answers": [
+      {
+        "body": "may",
+        "right": true
+      },
+      {
+        "body": "must",
+        "right": false
+      },
+      {
+        "body": "would",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "You silly boy! You _____ have broken your neck!",
+    "answers": [
+      {
+        "body": "must",
+        "right": false
+      },
+      {
+        "body": "should",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "How annoying! I _____ have collected it for you if I'd known, as I was going past that shop this morning.",
+    "answers": [
+      {
+        "body": "could",
+        "right": true
+      },
+      {
+        "body": "may",
+        "right": false
+      },
+      {
+        "body": "must",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "It _____ still be possible to change your course because the classes haven't been finalized yet.",
+    "answers": [
+      {
+        "body": "need",
+        "right": false
+      },
+      {
+        "body": "can",
+        "right": false
+      },
+      {
+        "body": "should",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Try as I _____, I simply couldn't get the engine working.",
+    "answers": [
+      {
+        "body": "might",
+        "right": true
+      },
+      {
+        "body": "could",
+        "right": false
+      },
+      {
+        "body": "can",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Sorry, I _____ have answered the phone myself, but I'm so nice and comfy on this sofa!",
+    "answers": [
+      {
+        "body": "must",
+        "right": false
+      },
+      {
+        "body": "may",
+        "right": false
+      },
+      {
+        "body": "would",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I accept I _____ have been a little abrupt when we met last week.",
+    "answers": [
+      {
+        "body": "may",
+        "right": true
+      },
+      {
+        "body": "should",
+        "right": false
+      },
+      {
+        "body": "would",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_____ on your guard - there are lots of pickpockets and muggers there.",
+    "answers": [
+      {
+        "body": "You'd better be",
+        "right": true
+      },
+      {
+        "body": "You may be",
+        "right": false
+      },
+      {
+        "body": "You would be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Everyone else seemed keen on the proposed changes, but Irena _____ be persuaded.",
+    "answers": [
+      {
+        "body": "shouldn't",
+        "right": false
+      },
+      {
+        "body": "needn't",
+        "right": false
+      },
+      {
+        "body": "wouldn't",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I know you're 14 now, Tom, but you _____ still have told me where you were going.",
+    "answers": [
+      {
+        "body": "should",
+        "right": true
+      },
+      {
+        "body": "need",
+        "right": false
+      },
+      {
+        "body": "must",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jack _____ a good boxer if he hadn't decided to pursue a career in tennis.",
+    "answers": [
+      {
+        "body": "should have been",
+        "right": false
+      },
+      {
+        "body": "could have been",
+        "right": true
+      },
+      {
+        "body": "had to be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jim _____ be Jim if he didn't break a few hearts on his travels.",
+    "answers": [
+      {
+        "body": "wouldn't",
+        "right": true
+      },
+      {
+        "body": "shouldn't",
+        "right": false
+      },
+      {
+        "body": "couldn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "It _____ have done her any good, staying out all night in the rain in that tent.",
+    "answers": [
+      {
+        "body": "can't",
+        "right": true
+      },
+      {
+        "body": "needn't",
+        "right": false
+      },
+      {
+        "body": "shouldn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "That's just absurd. You _____ as well say travelling by plane should be banned because there's a chance of crashing.",
+    "answers": [
+      {
+        "body": "can",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": true
+      },
+      {
+        "body": "should",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "So it was David who started the fight? I _____ have known!",
+    "answers": [
+      {
+        "body": "could",
+        "right": false
+      },
+      {
+        "body": "might",
+        "right": true
+      },
+      {
+        "body": "may",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "She _____ be all smiles one moment and horrible the next.",
+    "answers": [
+      {
+        "body": "need",
+        "right": false
+      },
+      {
+        "body": "shall",
+        "right": false
+      },
+      {
+        "body": "can",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I _____ been much more sympathetic if he hadn't been such an unfriendly person.",
+    "answers": [
+      {
+        "body": "would've",
+        "right": true
+      },
+      {
+        "body": "should've",
+        "right": false
+      },
+      {
+        "body": "must've",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mark _____ lift his own body weight when he was 11 years old.",
+    "answers": [
+      {
+        "body": "might",
+        "right": false
+      },
+      {
+        "body": "may",
+        "right": false
+      },
+      {
+        "body": "could",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I can't remember a summer _____ it hasn't rained until August.",
+    "answers": [
+      {
+        "body": "when",
+        "right": true
+      },
+      {
+        "body": "at which",
+        "right": false
+      },
+      {
+        "body": "where",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Captain James Francis saved the lives of three soldiers, an act of bravery _____ he was awarded the Queen's Medal.",
+    "answers": [
+      {
+        "body": "(nothing)",
+        "right": false
+      },
+      {
+        "body": "for which",
+        "right": true
+      },
+      {
+        "body": "when",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I looked for an article on the web for three whole hours, _____ I had to give up.",
+    "answers": [
+      {
+        "body": "on which note",
+        "right": false
+      },
+      {
+        "body": "in which case",
+        "right": false
+      },
+      {
+        "body": "at which point",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I'm going to try out the new dartboard _____ I got for my birthday.",
+    "answers": [
+      {
+        "body": "whom",
+        "right": false
+      },
+      {
+        "body": "of which",
+        "right": false
+      },
+      {
+        "body": "(nothing)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Four cyclists _____ lights were not working were stopped by police.",
+    "answers": [
+      {
+        "body": "whose",
+        "right": true
+      },
+      {
+        "body": "that",
+        "right": false
+      },
+      {
+        "body": "(nothing)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I got up at 5.30, _____ is a lovely time for seeing the sun rise over the plains.",
+    "answers": [
+      {
+        "body": "that",
+        "right": false
+      },
+      {
+        "body": "which",
+        "right": true
+      },
+      {
+        "body": "when",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "We tend to eat a lot of couscous, _____ is very nutritious but doesn't fill you up too much.",
+    "answers": [
+      {
+        "body": "that",
+        "right": false
+      },
+      {
+        "body": "(nothing)",
+        "right": false
+      },
+      {
+        "body": "which",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "United have bought a number of good new players this summer, _____ Netzer would seem to be the pick of the bunch.",
+    "answers": [
+      {
+        "body": "when",
+        "right": false
+      },
+      {
+        "body": "of whom",
+        "right": true
+      },
+      {
+        "body": "where",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Today Paul managed to swim five metres, _____ was really encouraging.",
+    "answers": [
+      {
+        "body": "(nothing)",
+        "right": false
+      },
+      {
+        "body": "that",
+        "right": false
+      },
+      {
+        "body": "which",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "You're the only person I know _____ puts peanut butter on top of jam.",
+    "answers": [
+      {
+        "body": "(nothing)",
+        "right": false
+      },
+      {
+        "body": "who",
+        "right": true
+      },
+      {
+        "body": "whom",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The Crystal Palace stadium is a venue _____ Powell never seems to run well.",
+    "answers": [
+      {
+        "body": "at which",
+        "right": true
+      },
+      {
+        "body": "(nothing)",
+        "right": false
+      },
+      {
+        "body": "that",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Certain minor local issues are decided by the village committee, _____ my aunt is Vice President.",
+    "answers": [
+      {
+        "body": "of which",
+        "right": true
+      },
+      {
+        "body": "which",
+        "right": false
+      },
+      {
+        "body": "where",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The plane left at 6.15, at a time _____ I'm normally still in bed.",
+    "answers": [
+      {
+        "body": "of which",
+        "right": false
+      },
+      {
+        "body": "that",
+        "right": false
+      },
+      {
+        "body": "when",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "There's a new guy in our class _____ uncle is a racing driver.",
+    "answers": [
+      {
+        "body": "of whom",
+        "right": false
+      },
+      {
+        "body": "of whose",
+        "right": false
+      },
+      {
+        "body": "whose",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Yes, _____ needs to be done, I'll do it.",
+    "answers": [
+      {
+        "body": "whatever",
+        "right": true
+      },
+      {
+        "body": "whose",
+        "right": false
+      },
+      {
+        "body": "that",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I went to a hair salon in Regent's Street _____ I've used a few times before.",
+    "answers": [
+      {
+        "body": "which",
+        "right": true
+      },
+      {
+        "body": "to which",
+        "right": false
+      },
+      {
+        "body": "where",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I don't know _____ you got that idea, but I can assure you it isn't true.",
+    "answers": [
+      {
+        "body": "whose",
+        "right": false
+      },
+      {
+        "body": "from which",
+        "right": false
+      },
+      {
+        "body": "where",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Everything _____ she brought out from the storage cupboard turned out to be old rubbish.",
+    "answers": [
+      {
+        "body": "(nothing)",
+        "right": true
+      },
+      {
+        "body": "where",
+        "right": false
+      },
+      {
+        "body": "of which",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "She's the one person Nick _____ might listen to.",
+    "answers": [
+      {
+        "body": "which",
+        "right": false
+      },
+      {
+        "body": "(nothing)",
+        "right": true
+      },
+      {
+        "body": "of whom",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I've just remembered the name of that guy _____ I was talking about.",
+    "answers": [
+      {
+        "body": "whose",
+        "right": false
+      },
+      {
+        "body": "(nothing)",
+        "right": true
+      },
+      {
+        "body": "which",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The salesman _____ Derek to sign up for the insurance policy.",
+    "answers": [
+      {
+        "body": "persuaded",
+        "right": true
+      },
+      {
+        "body": "made",
+        "right": false
+      },
+      {
+        "body": "argued",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "John said that when he saw us in our fancy dress, he _____ we'd all gone mad.",
+    "answers": [
+      {
+        "body": "had thought",
+        "right": false
+      },
+      {
+        "body": "thought",
+        "right": true
+      },
+      {
+        "body": "thinks",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Tessa _____ that she was happy to continue with the existing arrangement.",
+    "answers": [
+      {
+        "body": "objected",
+        "right": false
+      },
+      {
+        "body": "confirmed",
+        "right": true
+      },
+      {
+        "body": "advised",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Dave _____ that nobody was buying his pictures at the moment.",
+    "answers": [
+      {
+        "body": "threatened",
+        "right": false
+      },
+      {
+        "body": "complained",
+        "right": true
+      },
+      {
+        "body": "supposed",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Dawn said she _____ what the professor was talking about.",
+    "answers": [
+      {
+        "body": "couldn't understand",
+        "right": true
+      },
+      {
+        "body": "can't understand",
+        "right": false
+      },
+      {
+        "body": "couldn't understood",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Martin said he _____ to be back by 10.00 at the latest.",
+    "answers": [
+      {
+        "body": "was hoping",
+        "right": true
+      },
+      {
+        "body": "have hoped",
+        "right": false
+      },
+      {
+        "body": "will hope",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Julia _____ against going to Bolivia for the funeral.",
+    "answers": [
+      {
+        "body": "persuaded",
+        "right": false
+      },
+      {
+        "body": "accepted",
+        "right": false
+      },
+      {
+        "body": "decided",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Her coach _____ Anita not to drop out of the race.",
+    "answers": [
+      {
+        "body": "urged",
+        "right": true
+      },
+      {
+        "body": "repeated",
+        "right": false
+      },
+      {
+        "body": "insisted",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Gordon _____ to take on the project, provided that he could have some IT support.",
+    "answers": [
+      {
+        "body": "permitted",
+        "right": false
+      },
+      {
+        "body": "remarked",
+        "right": false
+      },
+      {
+        "body": "agreed",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Sarah _____ me as her 'work colleague', which wasn't strictly true.",
+    "answers": [
+      {
+        "body": "introduced",
+        "right": true
+      },
+      {
+        "body": "explained",
+        "right": false
+      },
+      {
+        "body": "claimed",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "John _____ not to tell anyone our secret.",
+    "answers": [
+      {
+        "body": "urged",
+        "right": false
+      },
+      {
+        "body": "promised",
+        "right": true
+      },
+      {
+        "body": "declared",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Marcy _____ taking a pedal boat out on the river.",
+    "answers": [
+      {
+        "body": "announced",
+        "right": false
+      },
+      {
+        "body": "thought",
+        "right": false
+      },
+      {
+        "body": "suggested",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "When Nick _____ to withdraw his support, Claire suddenly became much less critical.",
+    "answers": [
+      {
+        "body": "claimed",
+        "right": false
+      },
+      {
+        "body": "considered",
+        "right": false
+      },
+      {
+        "body": "threatened",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Terry _____ on finishing his speech even though it was clear everyone was getting bored.",
+    "answers": [
+      {
+        "body": "insisted",
+        "right": true
+      },
+      {
+        "body": "demanded",
+        "right": false
+      },
+      {
+        "body": "urged",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I _____ there would be more restaurants in the town centre.",
+    "answers": [
+      {
+        "body": "expected",
+        "right": true
+      },
+      {
+        "body": "preferred",
+        "right": false
+      },
+      {
+        "body": "wanted",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mr Porter_____ Clare to take a credit card with her rather than cash.",
+    "answers": [
+      {
+        "body": "suggested",
+        "right": false
+      },
+      {
+        "body": "advised",
+        "right": true
+      },
+      {
+        "body": "supposed",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "John _____ that everyone go back to his house for more celebrations.",
+    "answers": [
+      {
+        "body": "persuaded",
+        "right": false
+      },
+      {
+        "body": "insisted",
+        "right": true
+      },
+      {
+        "body": "invited",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Frank _____ that all club members should pay \u01415 towards the costs of the new boathouse.",
+    "answers": [
+      {
+        "body": "invited",
+        "right": false
+      },
+      {
+        "body": "proposed",
+        "right": true
+      },
+      {
+        "body": "advised",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mike said that if he _____ about the dog's erratic behaviour, he would never have bought it.",
+    "answers": [
+      {
+        "body": "knows",
+        "right": false
+      },
+      {
+        "body": "knew",
+        "right": false
+      },
+      {
+        "body": "had known",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Everyone _____ Lucy on passing her driving test.",
+    "answers": [
+      {
+        "body": "supported",
+        "right": false
+      },
+      {
+        "body": "congratulated",
+        "right": true
+      },
+      {
+        "body": "welcomed",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Despite ______________ hard, he failed the exam.",
+    "answers": [
+      {
+        "body": "studying",
+        "right": true
+      },
+      {
+        "body": "he studied",
+        "right": false
+      },
+      {
+        "body": "he has studied",
+        "right": false
+      },
+      {
+        "body": "study",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "He made his children ______ their homework every afternoon.",
+    "answers": [
+      {
+        "body": "to do",
+        "right": false
+      },
+      {
+        "body": "studied",
+        "right": false
+      },
+      {
+        "body": "do",
+        "right": true
+      },
+      {
+        "body": "to study",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Did you remember __________ the door?",
+    "answers": [
+      {
+        "body": "having locked",
+        "right": false
+      },
+      {
+        "body": "locking",
+        "right": false
+      },
+      {
+        "body": "lock",
+        "right": false
+      },
+      {
+        "body": "to lock",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I could hardly ________ the ship in the distance.",
+    "answers": [
+      {
+        "body": "look out",
+        "right": false
+      },
+      {
+        "body": "see out",
+        "right": false
+      },
+      {
+        "body": "make out",
+        "right": true
+      },
+      {
+        "body": "make up",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Where was Jack yesterday? - I don't know. He ________________ seeing the doctor.",
+    "answers": [
+      {
+        "body": "mustn't have been",
+        "right": false
+      },
+      {
+        "body": "might have been",
+        "right": true
+      },
+      {
+        "body": "couldn't have been",
+        "right": false
+      },
+      {
+        "body": "might has been",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "She wished she ___________ the new car.",
+    "answers": [
+      {
+        "body": "has bought",
+        "right": false
+      },
+      {
+        "body": "to buy",
+        "right": false
+      },
+      {
+        "body": "had bought",
+        "right": true
+      },
+      {
+        "body": "bought",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Which model __________ 250 k.p.h.?",
+    "answers": [
+      {
+        "body": "does go",
+        "right": false
+      },
+      {
+        "body": "have gone",
+        "right": false
+      },
+      {
+        "body": "goes",
+        "right": true
+      },
+      {
+        "body": "going",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "That is the man __________ grandfather founded Kentucky Root Beer.",
+    "answers": [
+      {
+        "body": "whose",
+        "right": true
+      },
+      {
+        "body": "that",
+        "right": false
+      },
+      {
+        "body": "who",
+        "right": false
+      },
+      {
+        "body": "which",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Look at those clouds! It ___________!",
+    "answers": [
+      {
+        "body": "'s going to rain",
+        "right": true
+      },
+      {
+        "body": "'s raining",
+        "right": false
+      },
+      {
+        "body": "'s rained",
+        "right": false
+      },
+      {
+        "body": "'ll rain",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "That room _______________ for a meeting today.",
+    "answers": [
+      {
+        "body": "used",
+        "right": false
+      },
+      {
+        "body": "is being used",
+        "right": true
+      },
+      {
+        "body": "is using",
+        "right": false
+      },
+      {
+        "body": "is used",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "\"I will finish that project soon.\" - Ken said he ___________ that project soon.",
+    "answers": [
+      {
+        "body": "would finish",
+        "right": true
+      },
+      {
+        "body": "had finished",
+        "right": false
+      },
+      {
+        "body": "will finish",
+        "right": false
+      },
+      {
+        "body": "will be finished",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "We ____________ tennis every day when we were young.",
+    "answers": [
+      {
+        "body": "were playing",
+        "right": false
+      },
+      {
+        "body": "would play",
+        "right": true
+      },
+      {
+        "body": "use to play",
+        "right": false
+      },
+      {
+        "body": "were used to play",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Fiestas ______________ in Cologne, Germany for many years now.",
+    "answers": [
+      {
+        "body": "have made",
+        "right": false
+      },
+      {
+        "body": "have been made",
+        "right": true
+      },
+      {
+        "body": "are made",
+        "right": false
+      },
+      {
+        "body": "have been making",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jack told her that he ____________ come the next day.",
+    "answers": [
+      {
+        "body": "is going to",
+        "right": false
+      },
+      {
+        "body": "was going to",
+        "right": true
+      },
+      {
+        "body": "wants",
+        "right": false
+      },
+      {
+        "body": "will come",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I think San Francisco is ____ exciting ____ New York.",
+    "answers": [
+      {
+        "body": "so ... as",
+        "right": false
+      },
+      {
+        "body": "as ... as",
+        "right": true
+      },
+      {
+        "body": "so ... than",
+        "right": false
+      },
+      {
+        "body": "as ... than",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "She _________________ lunch by the time we arrived.",
+    "answers": [
+      {
+        "body": "finishing",
+        "right": false
+      },
+      {
+        "body": "had finished",
+        "right": true
+      },
+      {
+        "body": "finished",
+        "right": false
+      },
+      {
+        "body": "have finished",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "The test was ____ difficult she had problems finishing it on time.",
+    "answers": [
+      {
+        "body": "so",
+        "right": true
+      },
+      {
+        "body": "such",
+        "right": false
+      },
+      {
+        "body": "a",
+        "right": false
+      },
+      {
+        "body": "as",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Why are your hands so dirty? - I _______________ in the garden.",
+    "answers": [
+      {
+        "body": "have worked",
+        "right": false
+      },
+      {
+        "body": "was working",
+        "right": false
+      },
+      {
+        "body": "have been working",
+        "right": true
+      },
+      {
+        "body": "worked",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "_________________, we won't have much to talk about.",
+    "answers": [
+      {
+        "body": "If he came",
+        "right": false
+      },
+      {
+        "body": "If he didn't come",
+        "right": false
+      },
+      {
+        "body": "Unless he comes",
+        "right": true
+      },
+      {
+        "body": "If he not comes",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "If she ___________ about his financial situation, she would have helped him out.",
+    "answers": [
+      {
+        "body": "have known",
+        "right": false
+      },
+      {
+        "body": "had been knowing",
+        "right": false
+      },
+      {
+        "body": "knew",
+        "right": false
+      },
+      {
+        "body": "had known",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "You'll be leaving for Tokyo soon, ___________?",
+    "answers": [
+      {
+        "body": "won't you",
+        "right": true
+      },
+      {
+        "body": "aren't you",
+        "right": false
+      },
+      {
+        "body": "don't you",
+        "right": false
+      },
+      {
+        "body": "shall you",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I really think you ____________ see a doctor.",
+    "answers": [
+      {
+        "body": "better",
+        "right": false
+      },
+      {
+        "body": "could better",
+        "right": false
+      },
+      {
+        "body": "would better",
+        "right": false
+      },
+      {
+        "body": "had better",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "___________ the last market session, the Down Jones dropped 67 points.",
+    "answers": [
+      {
+        "body": "While",
+        "right": false
+      },
+      {
+        "body": "While having",
+        "right": false
+      },
+      {
+        "body": "Throughout",
+        "right": false
+      },
+      {
+        "body": "During",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "He has ___________ in continuing the project.",
+    "answers": [
+      {
+        "body": "no interested",
+        "right": false
+      },
+      {
+        "body": "no interest",
+        "right": true
+      },
+      {
+        "body": "not interest",
+        "right": false
+      },
+      {
+        "body": "no interesting",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jack _____________ a fortune when his great uncle Jack passed on.",
+    "answers": [
+      {
+        "body": "came into",
+        "right": true
+      },
+      {
+        "body": "went into",
+        "right": false
+      },
+      {
+        "body": "made into",
+        "right": false
+      },
+      {
+        "body": "bought",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Unfortunately, Mary has _______ friends in Tacoma.",
+    "answers": [
+      {
+        "body": "a few",
+        "right": false
+      },
+      {
+        "body": "few",
+        "right": true
+      },
+      {
+        "body": "some",
+        "right": false
+      },
+      {
+        "body": "many",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "He'll give you a call as soon as he __________.",
+    "answers": [
+      {
+        "body": "is going to arrive.",
+        "right": false
+      },
+      {
+        "body": "will arrive",
+        "right": false
+      },
+      {
+        "body": "is arriving",
+        "right": false
+      },
+      {
+        "body": "arrives",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "When I stopped __________ to Mary, she was picking some flowers in her garden.",
+    "answers": [
+      {
+        "body": "speaking",
+        "right": false
+      },
+      {
+        "body": "to stop",
+        "right": false
+      },
+      {
+        "body": "to speak",
+        "right": true
+      },
+      {
+        "body": "spoke",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Do you think ___________ ?",
+    "answers": [
+      {
+        "body": "does he know what he wants",
+        "right": false
+      },
+      {
+        "body": "what he wants he knows",
+        "right": false
+      },
+      {
+        "body": "he knows what does he want",
+        "right": false
+      },
+      {
+        "body": "he knows what he wants",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "By the time she arrives, we ________________ our homework.",
+    "answers": [
+      {
+        "body": "will finish",
+        "right": false
+      },
+      {
+        "body": "finish",
+        "right": false
+      },
+      {
+        "body": "were finished",
+        "right": false
+      },
+      {
+        "body": "will have finished",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I really didn't want to come last night. _______.",
+    "answers": [
+      {
+        "body": "So do I",
+        "right": false
+      },
+      {
+        "body": "Neither do I",
+        "right": false
+      },
+      {
+        "body": "Neither I did",
+        "right": false
+      },
+      {
+        "body": "Neither did I",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "The sun ______ at 9 last night.",
+    "answers": [
+      {
+        "body": "sat",
+        "right": false
+      },
+      {
+        "body": "set",
+        "right": true
+      },
+      {
+        "body": "was setting",
+        "right": false
+      },
+      {
+        "body": "setted",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Gordon's so lucky to have won that free trip to Paris - I wish I _____ with him.",
+    "answers": [
+      {
+        "body": "was going",
+        "right": true
+      },
+      {
+        "body": "could gone",
+        "right": false
+      },
+      {
+        "body": "will go",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wish you _____ a bit more daring!",
+    "answers": [
+      {
+        "body": "be",
+        "right": false
+      },
+      {
+        "body": "are",
+        "right": false
+      },
+      {
+        "body": "were",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "It's high time you and Jack _____ out your differences.",
+    "answers": [
+      {
+        "body": "sort",
+        "right": false
+      },
+      {
+        "body": "sorted",
+        "right": true
+      },
+      {
+        "body": "had sorted",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I'd rather you _____ take the car tonight, as I might need it later on.",
+    "answers": [
+      {
+        "body": "didn't",
+        "right": true
+      },
+      {
+        "body": "not",
+        "right": false
+      },
+      {
+        "body": "wouldn't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wish there _____ more people like Alison.",
+    "answers": [
+      {
+        "body": "was",
+        "right": false
+      },
+      {
+        "body": "were",
+        "right": true
+      },
+      {
+        "body": "would be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "It's almost as if he _____ scared to reveal anything about himself.",
+    "answers": [
+      {
+        "body": "be",
+        "right": false
+      },
+      {
+        "body": "would be",
+        "right": false
+      },
+      {
+        "body": "is",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I wish we _____ such an early plane.",
+    "answers": [
+      {
+        "body": "don't catch",
+        "right": false
+      },
+      {
+        "body": "wouldn't catch",
+        "right": false
+      },
+      {
+        "body": "weren't catching",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "_____ he buys me a diamond ring, I still won't have him back!",
+    "answers": [
+      {
+        "body": "Even if",
+        "right": true
+      },
+      {
+        "body": "If only",
+        "right": false
+      },
+      {
+        "body": "Supposing",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Just _____ what a mess we'd be in if everybody behaved like you!",
+    "answers": [
+      {
+        "body": "as if",
+        "right": false
+      },
+      {
+        "body": "suppose",
+        "right": false
+      },
+      {
+        "body": "imagine",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "I do wish you _____ put your feet on the seat like that.",
+    "answers": [
+      {
+        "body": "wouldn't",
+        "right": true
+      },
+      {
+        "body": "didn't",
+        "right": false
+      },
+      {
+        "body": "won't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I sometimes wish I _____ into such a big family!",
+    "answers": [
+      {
+        "body": "wasn't born",
+        "right": false
+      },
+      {
+        "body": "hadn't been born",
+        "right": true
+      },
+      {
+        "body": "would be born",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wish it _____ as simple as that, Joey, but unfortunately it isn't.",
+    "answers": [
+      {
+        "body": "is",
+        "right": false
+      },
+      {
+        "body": "was",
+        "right": true
+      },
+      {
+        "body": "would be",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I'd rather _____ if Mick's going to be there.",
+    "answers": [
+      {
+        "body": "didn't go",
+        "right": false
+      },
+      {
+        "body": "not go",
+        "right": true
+      },
+      {
+        "body": "I don't go",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Imagine the war _____ - how might life be different now?",
+    "answers": [
+      {
+        "body": "did never happen",
+        "right": false
+      },
+      {
+        "body": "had never happened",
+        "right": true
+      },
+      {
+        "body": "would never happen",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wish it _____ so dark in here. When's Dad going to fix that light?",
+    "answers": [
+      {
+        "body": "isn't",
+        "right": false
+      },
+      {
+        "body": "wasn't",
+        "right": true
+      },
+      {
+        "body": "weren't",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wish I _____ ride a bike that fast!",
+    "answers": [
+      {
+        "body": "could",
+        "right": true
+      },
+      {
+        "body": "am able to",
+        "right": false
+      },
+      {
+        "body": "would",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "I wish I _____ the answer, I really do.",
+    "answers": [
+      {
+        "body": "knew",
+        "right": true
+      },
+      {
+        "body": "know",
+        "right": false
+      },
+      {
+        "body": "could know",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "It was as if a great weight _____ lifted from my mind.",
+    "answers": [
+      {
+        "body": "had been",
+        "right": true
+      },
+      {
+        "body": "is",
+        "right": false
+      },
+      {
+        "body": "been",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Let's just suppose for a moment that what he's saying _____ correct.",
+    "answers": [
+      {
+        "body": "be",
+        "right": false
+      },
+      {
+        "body": "is",
+        "right": true
+      },
+      {
+        "body": "should be",
+        "right": false
+      }
+    ]
+  }
+]

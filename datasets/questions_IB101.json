@@ -1,0 +1,2926 @@
+[
+  {
+    "name": "Pro p pravdivé bude formule ¬(p ⋁ q)",
+    "answers": [
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p pravdivé bude formule ¬p ⋀ q",
+    "answers": [
+      {
+        "body": "vždy nepravdivá",
+        "right": true
+      },
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro p pravdivé bude formule p ⋀ q",
+    "answers": [
+      {
+        "body": "vždy nepravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": true
+      },
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro p pravdivé bude formule p ⇒ q",
+    "answers": [
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": true
+      },
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule (p ⇒ q) ⇒ (q ⇒ p) je",
+    "answers": [
+      {
+        "body": "kontradikce",
+        "right": false
+      },
+      {
+        "body": "tautologie",
+        "right": false
+      },
+      {
+        "body": "ne tautologie, ale splnitelná",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p nepravdivé bude formule p ⋁ q",
+    "answers": [
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z variant je úplným systémem logických spojek?",
+    "answers": [
+      {
+        "body": "⋁ , ⋀ , ⇔",
+        "right": false
+      },
+      {
+        "body": "⋁ , ⋀",
+        "right": false
+      },
+      {
+        "body": "⋁ , ⋀ , ¬",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z variant je úplným systémem logických spojek ?",
+    "answers": [
+      {
+        "body": "¬ , ⇔",
+        "right": false
+      },
+      {
+        "body": "NOR",
+        "right": true
+      },
+      {
+        "body": "⋁ , ⋀ , ⇔",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z variant je úplným systémem logických spojek ?",
+    "answers": [
+      {
+        "body": "XOR, ⋁",
+        "right": false
+      },
+      {
+        "body": "XOR, ¬",
+        "right": false
+      },
+      {
+        "body": "XOR, ⇒",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z variant je úplným systémem logických spojek?",
+    "answers": [
+      {
+        "body": "NAND",
+        "right": true
+      },
+      {
+        "body": "⋁, ⋀, ⇒",
+        "right": false
+      },
+      {
+        "body": "⋀, XOR",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z variant je ůplným systémem logických spojek ?",
+    "answers": [
+      {
+        "body": "¬, ⇔",
+        "right": false
+      },
+      {
+        "body": "NOR",
+        "right": true
+      },
+      {
+        "body": "⋁, ⋀, ⇔",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro formuli ¬p ⇒ (q ⋀ ¬q) urcete, ktera z nasledujicich interpretaci je modelem",
+    "answers": [
+      {
+        "body": "I(p) = 1, I(q) = 0",
+        "right": true
+      },
+      {
+        "body": "I(p) =0, I(q) = 1",
+        "right": false
+      },
+      {
+        "body": "I(p) = 0, I(q) = 0",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro p nepravdivé bude formule ¬(p ⋀ q)",
+    "answers": [
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": false
+      },
+      {
+        "body": "vždy pravdivá",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p nepravdivé bude formule ¬p ⋀ q",
+    "answers": [
+      {
+        "body": "vždy nepravdivá",
+        "right": false
+      },
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p nepravdivé bude formule ¬p ⋁ q",
+    "answers": [
+      {
+        "body": "vždy bepravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": false
+      },
+      {
+        "body": "vždy pravdivá",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p nepravdivé bude formule p ⇒ q",
+    "answers": [
+      {
+        "body": "vždy pravdivá",
+        "right": true
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule ¬(p ⋁ q) je ekvivalentní s formulí",
+    "answers": [
+      {
+        "body": "¬(¬q ⋀ ¬p)",
+        "right": false
+      },
+      {
+        "body": "¬(q ⋀ p)",
+        "right": false
+      },
+      {
+        "body": "¬q ⋀ ¬p",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formule ¬(p ⋀ q) je ekvivalentní s formulí",
+    "answers": [
+      {
+        "body": "¬(q ⋁ p)",
+        "right": false
+      },
+      {
+        "body": "¬(¬q ⋁ ¬p)",
+        "right": false
+      },
+      {
+        "body": "¬q ⋁ ¬p",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p nepravdivé bude formule p ⋀ q",
+    "answers": [
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": true
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která logická spojka netvoří spolu se spojkou ¬ úplný systém logických spojek ?",
+    "answers": [
+      {
+        "body": "XOR",
+        "right": true
+      },
+      {
+        "body": "⇒",
+        "right": false
+      },
+      {
+        "body": "⋁",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která logická spojka netvoří spolu se spojkou ¬ úplný systém logických spojek ?",
+    "answers": [
+      {
+        "body": "⋁",
+        "right": false
+      },
+      {
+        "body": "⇔",
+        "right": true
+      },
+      {
+        "body": "⇒",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Prenexe zachovává",
+    "answers": [
+      {
+        "body": "splnitelnost formulí, ale ne ekvivalenci",
+        "right": false
+      },
+      {
+        "body": "ekvivalenci formulí, ale ne splnitelnost",
+        "right": false
+      },
+      {
+        "body": "ekvivalenci i splnitelnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které logické spojky spolu netvoří úplný systém logických spojek ?",
+    "answers": [
+      {
+        "body": "⇔, NOR",
+        "right": false
+      },
+      {
+        "body": "⇔, ⇒",
+        "right": true
+      },
+      {
+        "body": "⇔, ⋁ , XOR",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které logické spojky spolu netvoří systém logických spojek ?",
+    "answers": [
+      {
+        "body": "⇔, ¬",
+        "right": true
+      },
+      {
+        "body": "⇔, ⋀, XOR",
+        "right": false
+      },
+      {
+        "body": "⇔, NAND",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V úplném systému logických spojek",
+    "answers": [
+      {
+        "body": "může být negace",
+        "right": true
+      },
+      {
+        "body": "musí být negace",
+        "right": false
+      },
+      {
+        "body": "nesmí být negace",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro formuli (p ⋁ q) ⇒ (¬p ⋀ q) urcete, ktera z nasledujicich interpretaci je modelem",
+    "answers": [
+      {
+        "body": "I(p) = 1, I(q) = 0",
+        "right": false
+      },
+      {
+        "body": "I(p) =1, I(q) = 1",
+        "right": false
+      },
+      {
+        "body": "I(p) = 0, I(q) = 0",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která formule je ekvivalentní s formulí ¬p ⇒ ¬q  ?",
+    "answers": [
+      {
+        "body": "q ⇒ p",
+        "right": true
+      },
+      {
+        "body": "¬p ⇒ ¬q",
+        "right": false
+      },
+      {
+        "body": "p ⇒ q",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která formule je ekvivalentní s formulí p ⇒ q ?",
+    "answers": [
+      {
+        "body": "¬q ⇒ ¬p",
+        "right": true
+      },
+      {
+        "body": "q ⇒ p",
+        "right": false
+      },
+      {
+        "body": "¬p ⇒ ¬q",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která formule logicky vyplývá z teori {p ⇒ (r ⋀ p), ¬p ⋀ s, s ⋁ (p ⇒ q)} ?",
+    "answers": [
+      {
+        "body": "s ⋀ (q ⋁ r)",
+        "right": false
+      },
+      {
+        "body": "p ⋁ q ⋁ r ⋁ ¬s",
+        "right": false
+      },
+      {
+        "body": "¬q ⋁ s ⋁ r",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nechť P(Adam, Eva, jablko) znamená Adam dává Evě jablko. Která formule je symbolickým přepisem výroku Eva dává někomu jablko a někdo nedává Evě nic ?",
+    "answers": [
+      {
+        "body": "∃xP(Eva, x, jablko) ⋀ ∃y∃z¬P(y, Eva, z)",
+        "right": false
+      },
+      {
+        "body": "∃xP(x, Eva, jablko) ⋀ ¬(∃y∃zP(Eva, y, z))",
+        "right": false
+      },
+      {
+        "body": "∃xP(Eva, x jablko) ⋀ ∃y ¬(∃z P(y, Eva, z))",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nechť  P(Adam, Eva, jablko) znamená Adam dává Evě jablko. Která formule je symbolickým přepisem výroku někdo dává Evě jablko a Eva nedává nikomu nic?",
+    "answers": [
+      {
+        "body": "∃xP(x, Eva, jablko) ⋀ ¬(∃y∃zP(Eva, y, z))",
+        "right": true
+      },
+      {
+        "body": "∃xP(x, Eva, jablko) ⋀ ∃y∃z¬P(Eva, y, z)",
+        "right": false
+      },
+      {
+        "body": "∃xP(Eva, x jablko) ⋀ ∃y ¬(∃zP(Eva, y, z))",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule p",
+    "answers": [
+      {
+        "body": "je v konjunktivní normální formě a není v disjunktivní normální formě.",
+        "right": false
+      },
+      {
+        "body": "není ani v konjunktivní ani v disjunktivní normální formě.",
+        "right": false
+      },
+      {
+        "body": "je v konjunktivní i disjunktivní normální formě.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro formuli A = ¬(¬a1 ⋁ ¬a2 ⋁ ¬a3) platí, že",
+    "answers": [
+      {
+        "body": "A ⇒ ¬ai pro každé i = 1, 2, 3 je kontradikce.",
+        "right": false
+      },
+      {
+        "body": "A ⇒ ai pro každé i = 1, 2, 3 je tautologie.",
+        "right": true
+      },
+      {
+        "body": "A ⇒ ¬ai pro každé i = 1, 2, 3 je tautologie.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která formule reprezentuje stejnou pravdivostní funkci jako formule p ⇒ (¬q ⇒ p) ?",
+    "answers": [
+      {
+        "body": "(¬q ⋁ p) ⋁ (q ⋀ ¬p)",
+        "right": true
+      },
+      {
+        "body": "(p ⋀ ¬q) ⋁ (¬q ⋀ p)",
+        "right": false
+      },
+      {
+        "body": "q ⋀ ¬p",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která formule reprezentuje stejnou pravdivostní funkci jako formule p ⇒ ((q ⋀ ¬p) ⇒ p) ?",
+    "answers": [
+      {
+        "body": "(q ⋀ ¬q) ⋁ (¬q ⋁ p)",
+        "right": false
+      },
+      {
+        "body": "(¬q ⋁ p) ⋁ (q ⋀ ¬p)",
+        "right": true
+      },
+      {
+        "body": "(q ⋀ ¬p) ⋁ p",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro proměnné x,y ve formuli P(x) ⋀ ∃xP(y,x) platí, že",
+    "answers": [
+      {
+        "body": "každá má jeden volný výskyt",
+        "right": true
+      },
+      {
+        "body": "jen y má volný výskyt",
+        "right": false
+      },
+      {
+        "body": "jen x má volný výsky",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Obecná rezoluce je pro predikátovou logiku",
+    "answers": [
+      {
+        "body": "korektní a úplná",
+        "right": true
+      },
+      {
+        "body": "ne korektní, ale úplná",
+        "right": false
+      },
+      {
+        "body": "korektní, ale ne úplná",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Obecná rezoluce je pro Hornovy klauzule v predikátové logice",
+    "answers": [
+      {
+        "body": "korektní a úplná",
+        "right": true
+      },
+      {
+        "body": "ne korektní, ale úplná",
+        "right": false
+      },
+      {
+        "body": "korektní, ale ne úplná",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Term nabývá hodnoty",
+    "answers": [
+      {
+        "body": "z dané domény",
+        "right": true
+      },
+      {
+        "body": "libovolné hodnoty",
+        "right": false
+      },
+      {
+        "body": "pravda, nepravda",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme konečnou doménu D = {a1,a2,...,an}. Pak ∀xP(x) je zkratkou",
+    "answers": [
+      {
+        "body": "P(a1) ⋀ P(a2) ⋀ … ⋀ P(an)",
+        "right": true
+      },
+      {
+        "body": "P(a1) ⋁ P(a2) ⋁ … ⋁ P(an)",
+        "right": false
+      },
+      {
+        "body": "P(ai) pro právě jedno i",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme konečnou doménu D = {a1,a2,...,an}. Pak ∃xP(x) je zkratkou",
+    "answers": [
+      {
+        "body": "P(a1) ⋀ P(a2) ⋀ … ⋀ P(an)",
+        "right": false
+      },
+      {
+        "body": "P(a1) ⋁ P(a2) ⋁ … ⋁ P(an)",
+        "right": true
+      },
+      {
+        "body": "P(ai) pro právě jedno i",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule ∀x(P(x, a) ⇒ ∃y(x = f(y, b))) je pravdivá v interpretaci I s doménou D, kde",
+    "answers": [
+      {
+        "body": "D jsou celá záporná čísla a nula, I(a) = 0, I(b) = -1, I(f) = +, I(p) = ≤",
+        "right": false
+      },
+      {
+        "body": "D jsou celá přirozená čísla včetně nuly, I(a) = 0, I(b) = 1, I(f) = +, I(p) = ≥",
+        "right": false
+      },
+      {
+        "body": "D jsou přirozená čísla bez nuly, I(a) = 1, I(b) = 1, I(f) = +, I(P) = \u003e",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všech správně utvořených formulí výrokové logiky a P množinu všech tautologií. Které z následujících tvrzení platí?",
+    "answers": [
+      {
+        "body": "je-li systém sporný, pak T = V",
+        "right": true
+      },
+      {
+        "body": "je-li systém úplný, pak P ⊂ T",
+        "right": false
+      },
+      {
+        "body": "je-li systém korektní, pak P = T",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všech správně utvořených formulí výrokové logiky a P množinu všech tautologií. Které z následujících tvrzení platí?",
+    "answers": [
+      {
+        "body": "je-li systém sporný, pak T = P",
+        "right": false
+      },
+      {
+        "body": "je-li systém korektní, pak T ⊆ P",
+        "right": true
+      },
+      {
+        "body": "je-li systém úplný, pak T = V",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme nějaký formální systém výrokové logiky a označme T množinu všech teorémů, které v něm lze odvodit. Dále označme V množinu všech správně utvořených formulí výrokové logiky a P množinu všech tautologií. Které z následujících tvrzení platí?",
+    "answers": [
+      {
+        "body": "je-li systém sporný, pak P = V",
+        "right": false
+      },
+      {
+        "body": "je-li systém bezesporný, pak T = V",
+        "right": false
+      },
+      {
+        "body": "je-li systém úplný, pak P = T",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výsledkem skolemizace je",
+    "answers": [
+      {
+        "body": "nahrazení existenčně kvatifikovaných formulí",
+        "right": true
+      },
+      {
+        "body": "nahrazení všeobecně kvantifikovaných formulí",
+        "right": false
+      },
+      {
+        "body": "nalezení nejobecnějšího unifikátoru",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výrok je",
+    "answers": [
+      {
+        "body": "nulární predikát",
+        "right": true
+      },
+      {
+        "body": "unární predikát",
+        "right": false
+      },
+      {
+        "body": "něco jiného",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nechť P,Q a R jsou formule predikátového počtu. Pak pro ně platí, že",
+    "answers": [
+      {
+        "body": "existuje nejvýše jeden nejobecnější unifikátor",
+        "right": true
+      },
+      {
+        "body": "existuje právě jeden nejobecnější unifikátor",
+        "right": false
+      },
+      {
+        "body": "existuje alespoň jeden nejobecnější unifikátor",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Substituce je ve tvaru A/B, kde",
+    "answers": [
+      {
+        "body": "A je proměnná a B je libovolný term",
+        "right": true
+      },
+      {
+        "body": "A je proměnná a B je konstanta nebo term, nikoliv proměnná",
+        "right": false
+      },
+      {
+        "body": "A je konstanta nebo proměnná a B je libovolný term",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Skolemizace zachovává",
+    "answers": [
+      {
+        "body": "ekvivalenci formulí",
+        "right": false
+      },
+      {
+        "body": "splnitelnost formulí",
+        "right": true
+      },
+      {
+        "body": "ani ekvivalenci ani splnitelnost",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Proměnnými, za které lze substituovat, jsou",
+    "answers": [
+      {
+        "body": "jen volné proměnné",
+        "right": true
+      },
+      {
+        "body": "všechny proměnné",
+        "right": false
+      },
+      {
+        "body": "jen vázané proměnné",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Lineární rezoluce je pro Hornovy klauzule v predikátové logice",
+    "answers": [
+      {
+        "body": "korektní, ale né úplná",
+        "right": false
+      },
+      {
+        "body": "ne korektní, ale úplná",
+        "right": false
+      },
+      {
+        "body": "korektní a úplná",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Lineární rezoluce je pro predikátovou logiku",
+    "answers": [
+      {
+        "body": "korektní a úplná",
+        "right": true
+      },
+      {
+        "body": "korektní, ale ne úplná",
+        "right": false
+      },
+      {
+        "body": "ne korektní, ale úplná",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Lineární rezoluce je",
+    "answers": [
+      {
+        "body": "korektní a úplná pro výrokový počet.",
+        "right": true
+      },
+      {
+        "body": "ne korektní, ale úplná pro výrokový počet.",
+        "right": false
+      },
+      {
+        "body": "korektní ne včak úplná pro výrokový počet",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Platí",
+    "answers": [
+      {
+        "body": "¬∀xP(x) ⇔ ∃x¬P(x)",
+        "right": true
+      },
+      {
+        "body": "∀xP(x) ⇔ ∃x¬P(x)",
+        "right": false
+      },
+      {
+        "body": "¬∀xP(x) ⇔ ¬∃x¬P(x)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule p ⇒ p a (p ⇒ p) ⇒ (q ⇒ (p ⇒ q)) jsou tautologie. Přimou aplikací věty o implikaci (sémantický modus ponens) na tyto tautologie získáme tautologii",
+    "answers": [
+      {
+        "body": "q ⇒ (p ⇒ p)",
+        "right": false
+      },
+      {
+        "body": "q ⇒ (p ⇒ q)",
+        "right": true
+      },
+      {
+        "body": "(q ⇒ p) ⇒ p",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Úplnou normální formou formule ¬(p ⇒ p) je",
+    "answers": [
+      {
+        "body": "p ⋀ ¬p",
+        "right": true
+      },
+      {
+        "body": "p ⋁ ¬p",
+        "right": false
+      },
+      {
+        "body": "úplná normální forma neexistuje",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Úplnou normálni formou formule p ⇒ (p ⇒ p) je",
+    "answers": [
+      {
+        "body": "p ⋁ ¬p",
+        "right": true
+      },
+      {
+        "body": "úplná normální forma neexistuje",
+        "right": false
+      },
+      {
+        "body": "p ⋀ ¬p",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Klauzule je pravdivá,",
+    "answers": [
+      {
+        "body": "jestliže aspoň jeden literál je pravdivý",
+        "right": true
+      },
+      {
+        "body": "právě když všechny pozitivní literály jsou pravdivé",
+        "right": false
+      },
+      {
+        "body": "právě když všechny literály jsou pravdivé",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Klauzule",
+    "answers": [
+      {
+        "body": "je množina literálů chápaná jako jejich konjunkce",
+        "right": false
+      },
+      {
+        "body": "je množina literálů chápaná jako jejich konjunkce a dizjunkce",
+        "right": false
+      },
+      {
+        "body": "je množina literálů chápaná jako jejich dizjunkce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Všechny logické důsledky množiny {p ⋁ ¬p} jsou",
+    "answers": [
+      {
+        "body": "p, p ⋁ ¬p, ¬p ⋁ p, (¬p ⋁ p) ⋀ (p ⋁ ¬p)",
+        "right": false
+      },
+      {
+        "body": "všechny správně utvořené formule výrokové logiky",
+        "right": false
+      },
+      {
+        "body": "všechny tautologie výrokové logiky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kterou klauzuli musíme přidat k množině klauzulí {p ⋁ q, ¬q, ¬r ⋁ ¬p}, aby množina byla sporná",
+    "answers": [
+      {
+        "body": "r",
+        "right": true
+      },
+      {
+        "body": "r ⋁ ¬q",
+        "right": false
+      },
+      {
+        "body": "¬r",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Přidáme-li k formuli {{p, ¬p}} klauzule {p} a {¬p}. bude takto vytvořená formule",
+    "answers": [
+      {
+        "body": "tautologií",
+        "right": false
+      },
+      {
+        "body": "splnitelná",
+        "right": false
+      },
+      {
+        "body": "kontradiktorická",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V úplném systému logických spojek",
+    "answers": [
+      {
+        "body": "nesmí být implikace.",
+        "right": false
+      },
+      {
+        "body": "může být implikace",
+        "right": true
+      },
+      {
+        "body": "musí být implikace",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Může být výraz t1 = t2 formulí ?",
+    "answers": [
+      {
+        "body": "ano, pokud jsou t1, t2 termy",
+        "right": true
+      },
+      {
+        "body": "ano, pokud jsou t1, t2 predikáty",
+        "right": false
+      },
+      {
+        "body": "ne, t1 = t2 není nikdy formulí",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z nabízených možností není premisou formule p ⋁ ¬p ?",
+    "answers": [
+      {
+        "body": "{p ⋁ ¬p}",
+        "right": false
+      },
+      {
+        "body": "žádná z uvedených",
+        "right": true
+      },
+      {
+        "body": "∅",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule p ⋁ (q ⋀ r)",
+    "answers": [
+      {
+        "body": "je v konjunktivní normální formě",
+        "right": false
+      },
+      {
+        "body": "neni v normální formě",
+        "right": false
+      },
+      {
+        "body": "je v dizjunktivní normální formě",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formule p ⋁ ¬(q ⋀ r)",
+    "answers": [
+      {
+        "body": "je v dizjunktivní normální formě",
+        "right": false
+      },
+      {
+        "body": "není v normální formě",
+        "right": true
+      },
+      {
+        "body": "je v konjunktivní normální formě",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nechť formule A, B obsahují spojky ¬, ⋀, ⋁. Nechť A', B' vzniknou z A, B záměnou spojek ⋀, ⋁. Pak platí:",
+    "answers": [
+      {
+        "body": "⊨ A právě když ⊨ A'.",
+        "right": false
+      },
+      {
+        "body": "⊨ A právě když ⊨ ¬A'.",
+        "right": true
+      },
+      {
+        "body": "⊨ ¬A právě když ⊨ ¬A'.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule p ⋁ (q ⋀ r)",
+    "answers": [
+      {
+        "body": "není v úplné normální formě",
+        "right": true
+      },
+      {
+        "body": "je v úplné dizjunktivní normální formě",
+        "right": false
+      },
+      {
+        "body": "je v úplné konjunktivní normální formě",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro libovolné výrokové formule A,B,C platí:",
+    "answers": [
+      {
+        "body": "{A, B} ⊨ C právě když A ⊨ (B ⇒ C)",
+        "right": true
+      },
+      {
+        "body": "A ⊨ C právě kfyž A ⊨ (B ⇒ C)",
+        "right": false
+      },
+      {
+        "body": "(A ⇒ B) ⊨ právě když A ⊨ (B ⇒ C)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pravdivostní funkce výrokové formule P má alespoň jednu hodnotu rovnu jedné a aslepoň jednu hodnotu rovnou 0. Formule P je potom",
+    "answers": [
+      {
+        "body": "ne tautologie, ale splnitelná",
+        "right": true
+      },
+      {
+        "body": "kontradikce",
+        "right": false
+      },
+      {
+        "body": "tautologie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pravdivostní funkce výrokové formule P má alespoň jednu hodnotu rovnu jedné a aslepoň jednu hodnotu rovnou 1. Formue P je potom",
+    "answers": [
+      {
+        "body": "buď tautologie nebo splnitelná",
+        "right": true
+      },
+      {
+        "body": "kontradikce",
+        "right": false
+      },
+      {
+        "body": "musí být tautologie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro termy platí",
+    "answers": [
+      {
+        "body": "jen funkce jsou termy",
+        "right": false
+      },
+      {
+        "body": "jen proměnné a konstanty jsou termy",
+        "right": false
+      },
+      {
+        "body": "každá proměnná a každá konstanta je term",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro existenční ∃ a všeobecný ∀ kvantifikátor platí",
+    "answers": [
+      {
+        "body": "¬(∀xP(x)) je ekvivalentní s ∃x(¬P(x))",
+        "right": true
+      },
+      {
+        "body": "¬(∀xP(x)) je ekvivalentní s ¬(∃x¬P(x))",
+        "right": false
+      },
+      {
+        "body": "∀xP(x) je ekvivalentní s ∃x(¬P(x))",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule A logicky vyplívá z množiny T, pokud",
+    "answers": [
+      {
+        "body": "existuje model I monžiny T, který splňuje A.",
+        "right": false
+      },
+      {
+        "body": "pro každý model I množiny T I splňuje A.",
+        "right": true
+      },
+      {
+        "body": "pro každým model I množiny A I splňuje T.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule A NOR A je ekvivalentní s formulí",
+    "answers": [
+      {
+        "body": "¬A",
+        "right": true
+      },
+      {
+        "body": "A",
+        "right": false
+      },
+      {
+        "body": "true",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Důkaz se skládá z",
+    "answers": [
+      {
+        "body": "nejméně čtyř rezolučních kroků",
+        "right": true
+      },
+      {
+        "body": "více než čtyř rezolučních kroků",
+        "right": false
+      },
+      {
+        "body": "méně než čtyč rezolučních kroků",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "LI-rezoluce je",
+    "answers": [
+      {
+        "body": "ne korektní, ale úplná pro výrokový počet",
+        "right": false
+      },
+      {
+        "body": "korektní ne však úplná pro výrokový počet",
+        "right": true
+      },
+      {
+        "body": "korektní a ṕlná pro výrokový počet",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro LI-rezoluci a rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "právě odvozená klazule nemusí být použita v bezprostředné následujícím rezolučním kroku.",
+        "right": false
+      },
+      {
+        "body": "právě odvozená klazule musí být použita v bezprostředně následujícím rezolučním kroku.",
+        "right": true
+      },
+      {
+        "body": "právě odvozená klauzule musí být použita v některém z  následujících rezolučních kroků, ne však nutně v bezprostředně následujícím.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro LI-rezoluci a rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "střední klauzule se může později použit jako klauzule boční",
+        "right": false
+      },
+      {
+        "body": "střední klauzule se nemůže později použít jako klauzule boční",
+        "right": true
+      },
+      {
+        "body": "alespoň jedna střední klauzule se musí později použít jako klauzule boční",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro SLD-rezoluci a rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "alespoň jedna střední klauzule se musí později pužít jako klazule boční",
+        "right": false
+      },
+      {
+        "body": "střední klauzule se může později použit jako klazule boční",
+        "right": false
+      },
+      {
+        "body": "střední klazule se nemůže později použít jako klauzule boční",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro SLD-rezoluci a rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "právě odvozená klazule musí být použita v některém z následujících kroků, ne však nutně v bezprostředně následujícím",
+        "right": false
+      },
+      {
+        "body": "právě odvozená klazule musí být použita v bezprostředně následujícím rezolučním kroku",
+        "right": true
+      },
+      {
+        "body": "právě odvozená klazule nemusí být použita v bezprostředně následujícím rezolučním kroku",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro SLD-rezoluci a rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "obsahuje alespoň jednu nekonečnou větev",
+        "right": false
+      },
+      {
+        "body": "může obsahovat nekonečnou větev",
+        "right": true
+      },
+      {
+        "body": "má vždy konečně mnoho uzlů",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z následujících klauzulí není hornovská ?",
+    "answers": [
+      {
+        "body": "{p, q, ¬r}",
+        "right": true
+      },
+      {
+        "body": "{¬p, ¬q, ¬r}",
+        "right": false
+      },
+      {
+        "body": "{p, ¬q, ¬r}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Strom lineárního vstupního (LI)-rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klauzule, je vždy zároveň stromem",
+    "answers": [
+      {
+        "body": "lineárního rezolučního odvození G z P",
+        "right": false
+      },
+      {
+        "body": "LD-rezolučního odvození ◻ z P ⋃ {¬G}",
+        "right": false
+      },
+      {
+        "body": "lineárního rezolučního vyvrácení P ⋃ {G}",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Strom LD-rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klazule, je vždy zároveň stromem",
+    "answers": [
+      {
+        "body": "Lineárního vstupního (LI)-rezolučního odvození G z P",
+        "right": false
+      },
+      {
+        "body": "LD-rezolučního vyvrácení P ⋃ {G}",
+        "right": true
+      },
+      {
+        "body": "SLD-rezolučního odvození ◻ z P ⋃ {G}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Strom lineárního rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klauzule, je vždy zároveň stromem",
+    "answers": [
+      {
+        "body": "lineárního vstupního (LI)-rezolučního odvoze ◻ z / ⋃ {G}",
+        "right": false
+      },
+      {
+        "body": "rezolučního vyvrácení P ⋃ {G}",
+        "right": true
+      },
+      {
+        "body": "rezolučního odvození G z P",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Z množiny vstupních klazulí",
+    "answers": [
+      {
+        "body": "nejsou použity dvě klauzule",
+        "right": false
+      },
+      {
+        "body": "není použita jedna z klazulí",
+        "right": false
+      },
+      {
+        "body": "jsou v důkazu použity všechny",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Rezolventou {p, q} a {¬r, ¬p} je",
+    "answers": [
+      {
+        "body": "q ⋀ ¬r",
+        "right": false
+      },
+      {
+        "body": "p ⋁ q ⋀ ¬r",
+        "right": false
+      },
+      {
+        "body": "q ⋁ ¬r",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Rezolventou {p, ¬q} a {q, ¬p} je",
+    "answers": [
+      {
+        "body": "◻",
+        "right": false
+      },
+      {
+        "body": "q ⋁ ¬q",
+        "right": true
+      },
+      {
+        "body": "q ⋀ ¬q",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro SLD-strom platí, že",
+    "answers": [
+      {
+        "body": "existuje alespoň jedna cesta odpovídající rezolučnímu vyvrácení kořenové klauzule",
+        "right": false
+      },
+      {
+        "body": "všechny cesty jsou rezolučním vyvrácením kořenové klauzule",
+        "right": false
+      },
+      {
+        "body": "nemusí existovat cesta odpovídající rezolučnímu vyvrácení kořenové klauzule",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "SLD-rezoluce je",
+    "answers": [
+      {
+        "body": "korektni ne však úplná pro výrokový počet",
+        "right": true
+      },
+      {
+        "body": "korektní a úplná pro výrokový počet",
+        "right": false
+      },
+      {
+        "body": "ne korektní, ale úplná pro výrokový počet",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Strom SLD-rezolučního odvození ◻ z P ⋃ {G}, kde P je množina Hornových klauzulí a G cílová klazule, je vždy zároveň stromem",
+    "answers": [
+      {
+        "body": "SLD-rezolučního odvození G z P",
+        "right": false
+      },
+      {
+        "body": "LD-rezolučního odvození G z P",
+        "right": false
+      },
+      {
+        "body": "SLD-rezolučního vyvrácení P ⋃ {G}",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro LD-rezoluci a rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "právě odvozená klazule musí být použita v některém z následujícíh kroků, ne však nutně v bezprostředně následujícím",
+        "right": false
+      },
+      {
+        "body": "právě odvozená klazule musí být použita v bezprostředně následujícím rezolučním kroku",
+        "right": true
+      },
+      {
+        "body": "právě odvozená klauzule nemusí být použita v bezprostředně následujícím rezolučním kroku",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Každá nesplnitelná množina neprázdných Hornových klauzulí musí obsahovat",
+    "answers": [
+      {
+        "body": "alespoň jeden fakt a alespoň jedno pravidlo.",
+        "right": false
+      },
+      {
+        "body": "alespoň jeden cíl a alespoň jedno pravidlo.",
+        "right": false
+      },
+      {
+        "body": "alespoň jeden fakt a alespoň jeden cíl.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "LD-rezoluce je",
+    "answers": [
+      {
+        "body": "ne korektní, ale úplná pro výrokový počet.",
+        "right": false
+      },
+      {
+        "body": "korektní ne však úplná pro výrokový počet.",
+        "right": true
+      },
+      {
+        "body": "korektní a úplná pro výrokový počet",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro SLD-strom platí, že",
+    "answers": [
+      {
+        "body": "obsahuje alespoň jednu nekonečnou větev",
+        "right": false
+      },
+      {
+        "body": "může obsahovat nekonečnou větev",
+        "right": true
+      },
+      {
+        "body": "má vždy konečně mnoho uzlů",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule A NAND A je ekvivalentní s formulí",
+    "answers": [
+      {
+        "body": "A NOR A",
+        "right": true
+      },
+      {
+        "body": "A NOR (A NOR A)",
+        "right": false
+      },
+      {
+        "body": "(A NOR A) NOR A",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pravdivostní funkce výrokové formule P má alespoň jednu hodnotu rovnou 0. Formule P je potom",
+    "answers": [
+      {
+        "body": "může být tautologie",
+        "right": false
+      },
+      {
+        "body": "kontradikce nebo splnitelná",
+        "right": true
+      },
+      {
+        "body": "tautologie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule A NAND A je ekvivalentní s formulí",
+    "answers": [
+      {
+        "body": "A",
+        "right": false
+      },
+      {
+        "body": "true",
+        "right": false
+      },
+      {
+        "body": "¬A",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formule (r ⋀ ¬p) ⋁ (p ⋀ r)",
+    "answers": [
+      {
+        "body": "je v úplné dizjunktivní normální formě",
+        "right": true
+      },
+      {
+        "body": "není v úplně normální formě",
+        "right": false
+      },
+      {
+        "body": "je v úplně konjunktivní normální formě",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jsou-li formule A a A ⇒ B tautologie, pak",
+    "answers": [
+      {
+        "body": "¬A ⋁ ¬B je též tautologie",
+        "right": false
+      },
+      {
+        "body": "B je též tautologie",
+        "right": true
+      },
+      {
+        "body": "¬B je též tautologie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Normální konjunktivní forma formule (q ⇒ p) ⋀ (q ⇔ (p ⋁ q)) je",
+    "answers": [
+      {
+        "body": "¬p ⋁ ¬q",
+        "right": false
+      },
+      {
+        "body": "p ⋁ ¬q",
+        "right": false
+      },
+      {
+        "body": "(p ⋁ ¬q) ⋀ (¬p ⋁ q)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Normální disjunktivní forma formule (¬q ⋁ p) ⋀ (q ⇔ (¬p ⇒ q))",
+    "answers": [
+      {
+        "body": "(¬q ⋀ p) ⋁ (¬p ⋀ ¬q)",
+        "right": false
+      },
+      {
+        "body": "q ⋁ ¬p",
+        "right": false
+      },
+      {
+        "body": "(p ⋀ q) ⋁ (¬p ⋀ ¬q)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z následujících formulí není tautologie",
+    "answers": [
+      {
+        "body": "∃x∀yA(x,y) ⇒ ∀y∃xA(x,y)",
+        "right": false
+      },
+      {
+        "body": "∀x∀yA(x,y) ⇒ ∀xA(x,x)",
+        "right": false
+      },
+      {
+        "body": "∀xA(x) ⇒ ∃xA(x)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formule predikátové logiky (∀x(¬P(x)) ⇒ ∀yQ(y)) ⇒ ∀x(¬P(x)) je",
+    "answers": [
+      {
+        "body": "kontradikce",
+        "right": false
+      },
+      {
+        "body": "tautologie",
+        "right": true
+      },
+      {
+        "body": "splnitelná, ale není tautologie",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule predikátové logiky ∃x(¬P(x) ⋀ ¬Q(x)) ⋁ (∀xP(x) ⋁ ∀xQ(x)) je",
+    "answers": [
+      {
+        "body": "splnitelná, ale není tautologie",
+        "right": true
+      },
+      {
+        "body": "tautologie",
+        "right": false
+      },
+      {
+        "body": "kontradikce",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule je množina klazulí chápána jako",
+    "answers": [
+      {
+        "body": "jejich konjunkce",
+        "right": true
+      },
+      {
+        "body": "jejich dizjunkce",
+        "right": false
+      },
+      {
+        "body": "jejich konjukce a dizjunkce",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které tvrzení logicky nevyplývá z dvojice tvrzení\u003cbr\u003e1. Každému, kdo si pere sám, nepere žádná pradlena.\u003cbr\u003e2. Každá pradlena pere všem, kdo si neperou sami.",
+    "answers": [
+      {
+        "body": "každá pradlena pere sama sobě.",
+        "right": false
+      },
+      {
+        "body": "žádná pradlena nepere sama sobě.",
+        "right": false
+      },
+      {
+        "body": "existují pradleny.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme kontradikci K a libovolnou formuli F výrokové logiky. Pak platí",
+    "answers": [
+      {
+        "body": "F ⊨ K",
+        "right": false
+      },
+      {
+        "body": "K ⊨ F",
+        "right": true
+      },
+      {
+        "body": "⊨ F ⋀ ¬K",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme výrokové formule A1, A2, A3, B. Pak platí, že A1, A2, A3 ⊨ B.",
+    "answers": [
+      {
+        "body": "právě když A1, A2 ⊨ A3 ⇒ B.",
+        "right": true
+      },
+      {
+        "body": "právě když A1, A2 ⊨ B ⇒ A3.",
+        "right": false
+      },
+      {
+        "body": "právě když A1, A2 ⊨ A3 ⇒ ¬B.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní logické důsledky množiny {¬p ⇒ q}, které obsahují jen výrokové proměnné p, q jsou",
+    "answers": [
+      {
+        "body": "p, q, p ⋁ q",
+        "right": false
+      },
+      {
+        "body": "¬p ⋁ q, p ⋁ ¬q, p ⋁ q, (¬p ⋁ q) ⋀ (p ⋁ ¬q), p, q, p ⋀ q",
+        "right": false
+      },
+      {
+        "body": "p ⋁ q, q ⋁ ¬q",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní logické důsledky množiny {p, q}, které obsahují jen výrokové proměnné p,q jsou",
+    "answers": [
+      {
+        "body": "p, q, p ⋁ q, p ⋀ q, p ⇒ q, p ⇔ q",
+        "right": false
+      },
+      {
+        "body": "p, q, p ⋀ q",
+        "right": false
+      },
+      {
+        "body": "¬p ⋁ q, p ⋁ ¬q, p ⋁ q, (¬p ⋁ q) ⋀ (p ⋁ ¬q), p, q, p ⋀ q, p ⋁ ¬p",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní logické důsledky množiny {p ⋁ q}, které obsahují jen výrokové proměnné p,q jsou",
+    "answers": [
+      {
+        "body": "p, q, p ⋁ q, p ⋁ ¬q",
+        "right": false
+      },
+      {
+        "body": "p, q, p ⋀ ¬q",
+        "right": true
+      },
+      {
+        "body": "¬p ⋁ q, p ⋁ ¬q, p ⋁ q, (¬p ⋁ q) ⋀ (p ⋁ ¬q), p, q, p ⋀ q",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní logické důsledky množiny {p, ¬p} jsou",
+    "answers": [
+      {
+        "body": "všechny vzájemně neekvivalentní správně utvořené formule výrokové logiky",
+        "right": true
+      },
+      {
+        "body": "¬p ⋁ p, p ⋁ ¬p, (¬p ⋁ p) ⋀ (p ⋁ ¬p)",
+        "right": false
+      },
+      {
+        "body": "p, ¬p, p ⋁ ¬p",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní premisy formule (p ⇒ q) ⋀ (q ⇒ p) (obsahující výrokové symboly p,q) jsou",
+    "answers": [
+      {
+        "body": "{¬p ⋁ q, p ⋁ ¬q, p ⋁ q, ¬p ⋁ ¬q}",
+        "right": false
+      },
+      {
+        "body": "{p ⇔ q}, {p ⇔ q, p ⋁ q}, {p ⇔ q, ¬p ⋁ ¬q}, {p ⋀ ¬p}",
+        "right": true
+      },
+      {
+        "body": "{¬p ⋁ q, p ⋁ ¬q}, {¬p ⋁ q}, {p ⋁ ¬q}, ∅",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní premisy formule p ⇔ q (obsahující pouze výrokové symboly p, q) jsou",
+    "answers": [
+      {
+        "body": "{¬p ⋁ q, p ⋁ ¬q}, {¬p ⋁ q}, {p ⋁ ¬q}, ∅",
+        "right": false
+      },
+      {
+        "body": "{¬p ⋁ q, p ⋁ ¬q, p ⋁ q, ¬p ⋁ ¬q}",
+        "right": false
+      },
+      {
+        "body": "{p ⇔ q}, {p ⇔ q, p ⋁ q}, {p ⇔ q, ¬p ⋁ ¬q}, {p ⋀ ¬p}",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemné neekvivalentní premisy formule p ⇔ q (obsahující pouze výrokové symboly p,q) jsou",
+    "answers": [
+      {
+        "body": "¬∀xP(x) ⇔ ∃x¬P(x)",
+        "right": true
+      },
+      {
+        "body": "∀xP(x) ⇔ ∃x¬P(x)",
+        "right": false
+      },
+      {
+        "body": "¬∀xP(x) ⇔ ¬∃x¬P(x)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Prázdná klazule ◻ je",
+    "answers": [
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": true
+      },
+      {
+        "body": "pravdivá podle vstupní množiny klauzulí",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro formuli F = p ⇒ p označte pravdivé tvrzení:",
+    "answers": [
+      {
+        "body": "Prázdná množina formulí není premisou F.",
+        "right": false
+      },
+      {
+        "body": "Množina {¬(p ⇒ p)} není premisou F.",
+        "right": false
+      },
+      {
+        "body": "Libovolná množina formulí je premisou F.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro formuli F = p ⋁ ¬p označte pravdivé tvrzení:",
+    "answers": [
+      {
+        "body": "Prázdná množina formulí není premisou F.",
+        "right": false
+      },
+      {
+        "body": "Množina {p ⋁ ¬p} není premisou F.",
+        "right": false
+      },
+      {
+        "body": "Libovolná množina formulí je premisou F.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Negaci věty “Na každém hradě straší bílá paní” je věta",
+    "answers": [
+      {
+        "body": "Na některých hradech bílá paní nestraší.",
+        "right": true
+      },
+      {
+        "body": "Na některých hradech bílá paní straší.",
+        "right": false
+      },
+      {
+        "body": "Na žádném hradě bílá paní nestraší.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro spojky NAND (negace konjunkce) a NOR (negace disjunkce) platí",
+    "answers": [
+      {
+        "body": "((p NAND p) NOR p) je tautologie",
+        "right": false
+      },
+      {
+        "body": "((p NAND p) NOR (p NOR p)) je tautologie",
+        "right": false
+      },
+      {
+        "body": "((p NOR p) NAND p) je tautologie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro spojku NAND(negace konjunkce) platí",
+    "answers": [
+      {
+        "body": "(p NAND (p NAND p)) je tautologie",
+        "right": true
+      },
+      {
+        "body": "(p NAND (p NAND p)) je kontradikce",
+        "right": false
+      },
+      {
+        "body": "(p NAND p) je kontradikce",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Úplná normální konjunktivní forma formule r ⋀ (¬p ⋁ q) je",
+    "answers": [
+      {
+        "body": "(p ⋀ q ⋀ r) ⋁ (p ⋀ ¬q ⋀ r) ⋁ (¬p ⋀ q ⋀ ¬r) ⋁ (¬p ⋀ q ⋀ r)",
+        "right": false
+      },
+      {
+        "body": "(p ⋁ q ⋁ r) ⋀ (p ⋁ ¬q ⋁ r) ⋀ (¬p ⋁ q ⋁ ¬r) ⋀ (¬p ⋁ q ⋁ r) ⋀ (¬p ⋁ ¬q ⋁ r)",
+        "right": true
+      },
+      {
+        "body": "(p ⋁ ¬q ⋁ r) ⋀ (¬p ⋁ q ⋁ ¬r) ⋀ (p ⋁ q ⋁ r) ⋀ (¬p ⋁ ¬q ⋁ r) ⋀ (¬p ⋁ q ⋁ ¬r)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Implikace ∀xA(x) ⇒ ∃xA(x)",
+    "answers": [
+      {
+        "body": "platí jen pro neprázdnou doménu",
+        "right": true
+      },
+      {
+        "body": "platí vždy",
+        "right": false
+      },
+      {
+        "body": "neplatí nikdy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro lineární rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "právě odvozená klauzule musí být použita v bezprostředně následujícím rezolučním kroku",
+        "right": true
+      },
+      {
+        "body": "právě odvozená klauzule musí být použita v některém z  následujících rezolučních kroků, ne však nutně v bezprostředně následujícím.",
+        "right": false
+      },
+      {
+        "body": "právě odvozená klauzule nemusí být použita v bezprostředně následujícím rezolučním kroku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro lineární rezoluční strom platí, že",
+    "answers": [
+      {
+        "body": "střední klauzule se nesmí později použít jako klauzule boční.",
+        "right": false
+      },
+      {
+        "body": "střední klauzule se může později použit jako klauzule boční",
+        "right": true
+      },
+      {
+        "body": "alespoň jedna střední klauzule se musí později použít jako klauzule boční.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Uvažujte následující program v Prologu:\u003cbr\u003es(X,Y,1):- s(Y,1,X).\u003cbr\u003es(1,1,1).\u003cbr\u003eVolání cíle ?- s(X,Y,Z).",
+    "answers": [
+      {
+        "body": "uspěje, výsledkem je X=1, Y=1, Z=1",
+        "right": false
+      },
+      {
+        "body": "skončí neúspěchem",
+        "right": false
+      },
+      {
+        "body": "vede k zacyklení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve normální formě: S = { P(0), ¬P(g(x)) V Q(f(x))}. Který z následujících výrazů nepatří do Herbrandovy báze B(S)?",
+    "answers": [
+      {
+        "body": "P(g(f(0)))",
+        "right": false
+      },
+      {
+        "body": "Q(f(g(0)))",
+        "right": false
+      },
+      {
+        "body": "P(0, f(0))",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nechť P je formule v predikátové logice, která není kontradikcí ani tautologií. Potom",
+    "answers": [
+      {
+        "body": "existuje buď alespoň jedna formule v prenexové konjunktní formě s ní ekvivalentní, nebo alespoň jedna formule v prenexové disjunktní normální formě s ní ekvivalentní, ale ne obě zároveň",
+        "right": false
+      },
+      {
+        "body": "existuje právě jedna formule v prenexové konjunktní normální formě s ní neekvivalentní (až na pojmenování proměnných)",
+        "right": false
+      },
+      {
+        "body": "existuje alespoň jedna formule v prenexové konjunktní normální formě s ní ekvivalentní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = { P(g(0)), ¬P(g(x)) V Q(f(x))}. Který z následujících výrazů patří do každého Herbrandova modelu M(S)?",
+    "answers": [
+      {
+        "body": "Q(f(0))",
+        "right": true
+      },
+      {
+        "body": "P(0)",
+        "right": false
+      },
+      {
+        "body": "Q(g(0))",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V SLD stromu prologovského programu\u003cbr\u003ep(X):- r(X). r(X):- q(X). r(a). r(b).\u003cbr\u003epro cíl ?- p(Y).",
+    "answers": [
+      {
+        "body": "jsou dvě úspěšné větve a jedna neúspěšná",
+        "right": true
+      },
+      {
+        "body": "jsou dvě neúspěšné větve a jedna úspěšná",
+        "right": false
+      },
+      {
+        "body": "není žádná neúspěšná větev",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nejobecnějším unifikátorem množiny {P(x,y), P(a,f(x))} (kde a je konstanta, x,y jsou proměnné) je:",
+    "answers": [
+      {
+        "body": "{x/a, y/f(a)}",
+        "right": true
+      },
+      {
+        "body": "množinu nelze unifikovat",
+        "right": false
+      },
+      {
+        "body": "{x/a, y/f(x)}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = { P(f(a)), R(b), ¬R(x) V ¬P(x)}. Který z následujících výrazů nepatří do žádného Herbrandova modelu M(S)?",
+    "answers": [
+      {
+        "body": "P(b)",
+        "right": true
+      },
+      {
+        "body": "R(f(b))",
+        "right": false
+      },
+      {
+        "body": "P(a)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výsledkem aplikace (substitucí na výraz) P(x,y) {x/y} {y/a} (kde a je konstanta, x,y jsou proměnné) je výraz",
+    "answers": [
+      {
+        "body": "P(y,a)",
+        "right": false
+      },
+      {
+        "body": "P(y,y)",
+        "right": false
+      },
+      {
+        "body": "P(a,a)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výsledkem unifikace množiny {P(a,b), P(c,d), P(a,d)} (kde a,b,c,d jsou konstanty) je:",
+    "answers": [
+      {
+        "body": "prázdná substituce",
+        "right": false
+      },
+      {
+        "body": "množinu nelze unifikovat",
+        "right": true
+      },
+      {
+        "body": "unifikátorem je {c/a, b/d}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nejlevější větev SLD stromu prologovského programu\u003cbr\u003eq(X):- p(X). p(a). p(X):- q(X).\u003cbr\u003epro cíl ?- q(Y).",
+    "answers": [
+      {
+        "body": "je neúspěšná",
+        "right": false
+      },
+      {
+        "body": "je úspěšná",
+        "right": true
+      },
+      {
+        "body": "je nekonečná",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = { P(a,b),  ¬P(x,y) V P(y,x)}. Který z následujících výrazů patří do každého Herbrandova modelu M(S)?",
+    "answers": [
+      {
+        "body": "P(b,b)",
+        "right": false
+      },
+      {
+        "body": "P(a,a)",
+        "right": false
+      },
+      {
+        "body": "P(b,a)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nejobecnějším unifikátorem množiny {R(a,f(y)), R(y,x)} (kde a je konstanta, x,y jsou proměnné) není:",
+    "answers": [
+      {
+        "body": "{x/f(a), y/a}",
+        "right": false
+      },
+      {
+        "body": "{x/f(y), y/a}",
+        "right": true
+      },
+      {
+        "body": "{x/f(y)} {y/a}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro program v Prologu\u003cbr\u003ep(X):- q(Y). q(X):- p(Y). p(a). p(b). p(c).\u003cbr\u003ea cíl ?-p(Z). platí",
+    "answers": [
+      {
+        "body": "volání cíle uspěje jen jednou, výsledkem je Z=a",
+        "right": false
+      },
+      {
+        "body": "volání cíle vede k zacyklení",
+        "right": true
+      },
+      {
+        "body": "volání cíle uspěje opakovaně (po zadaném středníku) postupně s výsledky Z=a; Z=b; Z=c",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = {P(0,1), ¬P(x,y) V R(f(x,y))}. Který z následujících výrazů patří do Herbrandova univerza U(S)?",
+    "answers": [
+      {
+        "body": "f(f(0), f(1))",
+        "right": false
+      },
+      {
+        "body": "f(P(0,1),0)",
+        "right": false
+      },
+      {
+        "body": "f(f(0,0),1)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = { P(0,0), Q(0,1), ¬Q(x,y) V ¬P(x,y)}. Který z následujících výrazů nepatří do žádného Herbrandova modelu M(S)?",
+    "answers": [
+      {
+        "body": "Q(0,1)",
+        "right": false
+      },
+      {
+        "body": "Q(0,0)",
+        "right": true
+      },
+      {
+        "body": "Q(1,1)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Možnou rezolventou klauzulí {P(a, f(x,a)), P(y,z)} a {¬P(v,f(w,v)), ¬P(v,u)} (kde a je konstanta, u,v,w,x,y,z jsou proměnné) je",
+    "answers": [
+      {
+        "body": "{¬P(f(a,a), f(x,a))}",
+        "right": false
+      },
+      {
+        "body": "{¬P(v,f(w,v)), ¬P(v,u)}",
+        "right": false
+      },
+      {
+        "body": "{¬P(a,u)}",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Možnou rezolventou klauzulí {P(a, f(x,a)), P(y,z)} a {¬P(v,f(w,v)), ¬P(v,u)} (kde a je konstanta, u,v,w,x,y,z jsou proměnné) je",
+    "answers": [
+      {
+        "body": "{¬P(f(x,a), a)}",
+        "right": false
+      },
+      {
+        "body": "(prázdná klauzule)",
+        "right": true
+      },
+      {
+        "body": "{P(a, f(x,a)), ¬P(v,f(w,v)), ¬P(v,u)}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Nechť P je formule v predikátové logice, která není kontradikcí, ani tautologií. Potom",
+    "answers": [
+      {
+        "body": "existuje alespoň jedna formule v prenexové konjunktní normální formě s ní ekvivalentní",
+        "right": true
+      },
+      {
+        "body": "existuje právě jedna formule v prenexové konjunktní normální formě s ní neekvivalentní (až na pojmenování proměnných)",
+        "right": false
+      },
+      {
+        "body": "existuje buď alespoň jedna formule v prenexové konjunktní normální formě s ní ekvivalentní, nebo alespoň jedna formule v prenexové disjunktní normální formě s ní ekvivalentní, ale ne obě zároveň",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výsledkem kompozice substitucí {x/y} {y/f(z)} {z/u} je substituce",
+    "answers": [
+      {
+        "body": "{x/f(u)}",
+        "right": false
+      },
+      {
+        "body": "{x/y, y/f(z), z/u}",
+        "right": false
+      },
+      {
+        "body": "{x/f(u), y/f(u), z/u}",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = { P(a), ¬P(g(x)) V Q(f(x))}. Který z následujících výrazů nepatří do Herbrandova univerza U(S)?",
+    "answers": [
+      {
+        "body": "f(f(a), g(a))",
+        "right": true
+      },
+      {
+        "body": "f(g(f(a)))",
+        "right": false
+      },
+      {
+        "body": "f(g(a))",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mějme množinu formulí ve Skolemově normální formě: S = { P(a,b),  ¬P(x,y) V R(f(x,y))}. Který z výrazů patří do Herbrandovy báze B(S)?",
+    "answers": [
+      {
+        "body": "P(f(a,a),b)",
+        "right": true
+      },
+      {
+        "body": "R(f(a,b), P(a,b))",
+        "right": false
+      },
+      {
+        "body": "¬P(a, f(b,a))",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výsledkem aplikace (substituce na výraz) R(y,x){x/y, y/a} (kde a je konstanta, x,y jsou proměnné) je výraz:",
+    "answers": [
+      {
+        "body": "R(a,a)",
+        "right": false
+      },
+      {
+        "body": "R(y,y)",
+        "right": false
+      },
+      {
+        "body": "R(a,y)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme následující program v Prologu:\u003cbr\u003ec(X,0):- c(0,X).\u003cbr\u003ec(0,0).\u003cbr\u003ec(0,1).\u003cbr\u003eKterý cíl uspěje?",
+    "answers": [
+      {
+        "body": "?- c(1,0).",
+        "right": true
+      },
+      {
+        "body": "?- c(X,0).",
+        "right": false
+      },
+      {
+        "body": "?- c(0,0).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V 3-hodnotové Lukasziewiczově logice je pravdivostní funkce pro implikaci val(p =\u003e q) definována",
+    "answers": [
+      {
+        "body": "min{1,1+val(p)-val(q)}",
+        "right": false
+      },
+      {
+        "body": "min{1,1-val(p)+val(q)}",
+        "right": true
+      },
+      {
+        "body": "max{1-val(p), val(q)}",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Ve fuzzy logice pro pravdivostní hodnoty výroků p,q,r val(p)=1, val(q)=0.5, val(r)=0.2 platí, že val(¬(p=\u003eq) ⋁ r) je",
+    "answers": [
+      {
+        "body": "1",
+        "right": false
+      },
+      {
+        "body": "0",
+        "right": false
+      },
+      {
+        "body": "0.5",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro konstanty a,b,c a proměnné X,Y platí, že generalizací literálu p(a,b,X) je",
+    "answers": [
+      {
+        "body": "p(a,Y,X)",
+        "right": true
+      },
+      {
+        "body": "p(a,Y,b)",
+        "right": false
+      },
+      {
+        "body": "p(a,b,c)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků není pravdivý?",
+    "answers": [
+      {
+        "body": "□A =\u003e ¬◊¬A",
+        "right": false
+      },
+      {
+        "body": "□(A =\u003e B) =\u003e (□A =\u003e □B)",
+        "right": false
+      },
+      {
+        "body": "◊A =\u003e □A",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Všechny vzájemně neekvivalentní logické důsledky množiny { p, ¬p } jsou",
+    "answers": [
+      {
+        "body": "všechny vzájemně neekvivalentní správně utvořené formule výrokové logiky",
+        "right": true
+      },
+      {
+        "body": "p, ¬p, p ⋁ ¬p",
+        "right": false
+      },
+      {
+        "body": "¬p ⋁ p,  p ⋁ ¬p, (¬p ⋁ p) ⋀  (p ⋁ ¬p)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V 3-hodnotové Lukasziewiczově logice pro val(p)=1, val(q)=0.5 má pravdivostní hodnotu 1 formule",
+    "answers": [
+      {
+        "body": "p ⋀ ¬q",
+        "right": false
+      },
+      {
+        "body": "p ⋀ q",
+        "right": false
+      },
+      {
+        "body": "p ⋁ q",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formule □(A =\u003e B) =\u003e (□A =\u003e □B)",
+    "answers": [
+      {
+        "body": "je vždy pravdivá (tautologie)",
+        "right": true
+      },
+      {
+        "body": "je pravdivá jen pro některá A,B",
+        "right": false
+      },
+      {
+        "body": "není nikdy pravdivá",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro konstanty a,b,c a proměnné X,Y platí, že specializací literal p(a,X,Y) je",
+    "answers": [
+      {
+        "body": "p(X,X,X)",
+        "right": false
+      },
+      {
+        "body": "p(X,b,Y)",
+        "right": false
+      },
+      {
+        "body": "p(a,X,a)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mějme tautologii T a libovolnou formuli F výrokové logiky. Pak platí",
+    "answers": [
+      {
+        "body": "T |= F",
+        "right": false
+      },
+      {
+        "body": "F |= T",
+        "right": true
+      },
+      {
+        "body": "|= F ⋀ T",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Implikace ∀xA(x) ⇒ ∃xA(x)",
+    "answers": [
+      {
+        "body": "platí jen pro neprázdnou doménu",
+        "right": true
+      },
+      {
+        "body": "platí vždy",
+        "right": false
+      },
+      {
+        "body": "neplatí nikdy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výsledkem Skolemizace ∃x∀xP(a,x,y) formule je",
+    "answers": [
+      {
+        "body": "∀yP(a,f(y),y)",
+        "right": false
+      },
+      {
+        "body": "∀yP(a,b,y)",
+        "right": true
+      },
+      {
+        "body": "∀yP(a,a,y)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro konstanty a,b a proměnné X,Y platí, že generalizací literálu p(Y,a) je",
+    "answers": [
+      {
+        "body": "p(b,a)",
+        "right": false
+      },
+      {
+        "body": "p(Y,X)",
+        "right": true
+      },
+      {
+        "body": "p(Y,b)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro konstanty a,b a proměnné X,Y platí, že specializací literálu p(X,a) je",
+    "answers": [
+      {
+        "body": "p(X,b)",
+        "right": false
+      },
+      {
+        "body": "p(X,Y)",
+        "right": false
+      },
+      {
+        "body": "p(a,a)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Která z formulí je formálně zapsanou negací tvrzení 'Všichni sourozenci mají stejného otce i matku'? Je použit predikát S(x,y) s významem 'x a y jsou sourozenci'. Dále jsou použity funkce otec(x) reprezentující otce osoby x a matka(x) reprezentující matku osoby x.",
+    "answers": [
+      {
+        "body": "∃x∃y((¬S(x,y) ⋀ ¬(otec(x) = otec(y))) ⋁ matka(x) = matka(y))",
+        "right": false
+      },
+      {
+        "body": "∃x∃y(¬S(x,y) ⋁ (otec(x) = otec(y) ⋀  matka(x) = matka(y)))",
+        "right": false
+      },
+      {
+        "body": "∃x∃y(S(x,y) ⋀ (¬otec(x) = otec(y)) ⋁ ¬(matka(x) = matka(y)))",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formule p ⋁ ¬q",
+    "answers": [
+      {
+        "body": "je v úplné konjunktivní normální formě",
+        "right": true
+      },
+      {
+        "body": "není v úplné konjunktivní ani úplné disjunktivní normální formě",
+        "right": false
+      },
+      {
+        "body": "je v úplné disjunktivní normální formě",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule p ⋁ q ⋁ r",
+    "answers": [
+      {
+        "body": "je v konjunktivní i disjunktivní normální formě",
+        "right": true
+      },
+      {
+        "body": "není v disjunktivní normální formě",
+        "right": false
+      },
+      {
+        "body": "není v konjunktivní normální formě",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Která z formulí je formálně zapsanou negací tvrzení Každý člověk je mladší než jeho rodiče.?\u003cbr\u003eJsou použity predikáty C(x) s významem \"x je člověk\", R(x,y) s významem \"x je rodič y\" a x \u003e y s významem \"x je větší než y\". Dále je použita funkce vek(x) reprezentující věk x.",
+    "answers": [
+      {
+        "body": "∃x∃y(C(y) ⋀ R(x,y) ⋀ ¬(vek(x) \u003e vek(y)))",
+        "right": true
+      },
+      {
+        "body": "∃x∃y(¬C(y) ⋁ (R(x,y) ⋀ (vek(x) \u003e vek(y))))",
+        "right": false
+      },
+      {
+        "body": "∃x∃y((¬C(y) ⋀ ¬R(x,y)) ⋁ (vek(x) \u003e vek(y)))",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Formule F logicky vyplývá z množiny S, pokud",
+    "answers": [
+      {
+        "body": "každý model formule F je i modelem množiny S.",
+        "right": false
+      },
+      {
+        "body": "existuje alespoň jeden model množiny S, který splňuje formuli F.",
+        "right": false
+      },
+      {
+        "body": "každý model množiny S splňuje formuli F.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro program v Prologu r(X):- s(Y). s(a). s(X):- r(Y). s(b). s(c). a cíl ?- s(a). platí:",
+    "answers": [
+      {
+        "body": "volání cíle neuspěje",
+        "right": false
+      },
+      {
+        "body": "volání cíle vede k zacyklení",
+        "right": false
+      },
+      {
+        "body": "volání cíle uspěje",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Prenexace zachovává",
+    "answers": [
+      {
+        "body": "ekvivalenci formulí, ale ne splnitelnost",
+        "right": false
+      },
+      {
+        "body": "ekvivalenci i splnitelnost",
+        "right": true
+      },
+      {
+        "body": "splnitelnost formulí, ale ne ekvivalenci",
+        "right": false
+      }
+    ]
+  }
+]

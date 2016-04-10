@@ -1,0 +1,550 @@
+Operační systém UNIX vznikl okolo roku 
+ :r1 1950
+ :r2 1960
+ :r3 1970
+ :r4 1980
+ :r5 1990
+:r3 ok
+--
+První verze UNIXu byla naprogramována pro počítač 
+ :r1 IBM PC
+ :r2 PDP
+ :r3 IBM 370
+ :r4 VAX
+ :r5 Sun
+:r2 ok
+--
+První verze UNIXu byla vytvořena v
+ :r1 Bell Laboratories
+ :r2 University of Berkeley
+ :r3 Microsoftu
+ :r4 Novellu
+ :r5 USL (UNIX System Laboratories)
+:r1 ok
+--
+Co vzniklo dříve? MS-DOS (předchůdce MS-Windows) nebo UNIX?
+ :r1 MS-DOS
+ :r2 UNIX
+ :r3 Obojí je zhruba stejně staré.
+:r2 ok
+--
+Kdo jsou autoři prvních verzí UNIXu?
+ :r1 Steeve Jobs, Tim O'Reilly, Andrew Tanenbaum
+ :r2 Larry Ellison, Scott McNealy, Michael Tiemann
+ :r3 Brian Kernighan, Dennis Ritchie, Ken Thompson
+ :r4 Eric Raymond, Richard Stallman, Linus Torvalds
+:r3 ok
+--
+Operační systém Linux vzniká od roku
+ :r1 1951
+ :r2 1961
+ :r3 1971
+ :r4 1981
+ :r5 1991
+:r5 ok
+--
+Záznamy o uživatelích, kteří mají právo přistupovat k systému, jsou uloženy v souboru:
+ :r1 /etc/group
+ :r2 /etc/users
+ :r3 /etc/passwd
+ :r4 /etc/shadow
+ :r5 /etc/motd
+:r3 ok
+--
+Hesla uživatelů v otevřeném tvaru jsou uložena v uživatelům nepřístupném souboru:
+ :r1 /etc/passwd
+ :r2 /etc/passwords
+ :r3 /etc/shadow
+ :r4 nejsou uložena
+:r4 ok
+--
+Soubor /etc/passwd v aktuálních verzích systému
+ :r1 obsahuje zašifrovaná hesla uživatelů
+ :r2 neobsahuje hesla uživatelů
+ :r3 nikdy, ani v minulosti neobsahoval hesla uživatelů
+ :r4 obsahuje nezašifrovaná hesla uživatelů
+:r2 ok
+--
+Účet uživatele <B>ne</B>obsahuje
+ :r1 primární skupinu
+ :r2 uživatelské jméno
+ :r3 UID uživatele
+ :r4 UČO uživatele
+ :r5 žádná z ostatních odpovědí není správná
+:r4 ok
+--
+Hesla uživatelů v zašifrovaném tvaru jsou uložena v uživatelům
+nepřístupném souboru:
+ :r1 /etc/passwd
+ :r2 /etc/shadow
+ :r3 /etc/passwords
+ :r4 nejsou uložena
+:r2 ok
+--
+Uživatel zapomněl svoje heslo. Jak jej nejsnáze získá?
+ :r1 uživatel použije příkaz decryptpas
+ :r2 uživatel požádá superuživatele o provedení příkazu decryptpas
+ :r3 uživatel požádá superuživatele o získání svého hesla ze souboru /etc/shadow
+ :r4 žádná jiná odpověď není správná
+:r4 ok
+--
+Uživatelské jméno se nazývá:
+ :r1 login
+ :r2 loggin
+ :r3 user name
+ :r4 uid
+ :r5 user
+:r1 ok
+--
+Hodnota UID u uživatele root je
+ :r1 A
+ :r2 root
+ :r3 0
+ :r4 1
+ :r5 99999
+:r3 ok
+--
+Uživatel je členem
+ :r1 nemusí být členem žádné skupiny
+ :r2 je členem alespoň jedné skupiny
+ :r3 je členem alespoň dvou skupin
+:r2 ok
+--
+Seznam skupin uživatelů v systému je uložen v souboru
+ :r1 /etc/team
+ :r2 /etc/groups
+ :r3 /etc/group
+ :r4 /etc/teams
+ :r5 /etc/cluster
+:r3 ok
+--
+Soubor /etc/passwd musí být
+ :r1 čitelný pouze superuživateli
+ :r2 nesmí být čitelný nikomu
+ :r3 čitelný pro všechny
+ :r4 čitelný pouze skupině root
+ :r5 žádná jiná odpověď není správná
+:r3 ok
+--
+Soubor /etc/shadow musí být
+ :r1 čitelný pouze superuživateli
+ :r2 nesmí být čitelný nikomu
+ :r3 čitelný pro všechny
+ :r4 žádná jiná odpověď není správná
+:r1 ok
+--
+Každé uživatelské jméno v souboru /etc/passwd musí být definováno
+ :r1 alespoň jednou
+ :r2 právě jednou
+ :r3 nemusí být definováno vůbec
+ :r4 právě dvakrát
+ :r5 alespoň dvakrát
+:r2 ok
+--
+Každé uživatelské jméno v souboru /etc/group musí být použito
+ :r1 alespoň jednou
+ :r2 právě jednou
+ :r3 nemusí být uvedeno vůbec
+ :r4 právě dvakrát
+ :r5 alespoň dvakrát
+:r3 ok
+--
+Interpret příkazů a domácí adresář, který se spustí a nastaví po přihlášení uživatele, je popsán
+ :r1 v souboru .profile
+ :r2 v účtu uživatele
+ :r3 stavem při posledním odhlášení
+ :r4 v souboru /etc/userdef
+ :r5 v UID záznamu
+:r2 ok
+--
+Čas v unixu je uložen (např. čas změny obsahu souboru)
+ :r1 ve tvaru yyyymmddhhmiss
+ :r2 ve tvaru ddmmyyyyhhmiss
+ :r3 v počtu hodin od začátku epochy
+ :r4 v počtu minut od začátku epochy
+ :r5 v počtu sekund od začátku epochy
+:r5 ok
+--
+Epocha v unixu začala
+ :r1 1. 1. 1970 00:00
+ :r2 31. 12. 1970 24:00
+ :r3 1. 1. 1980 00:00
+ :r4 31. 12. 1980 24:00
+:r1 ok
+--
+Počet údajů na řádku v souboru /etc/passwd je (některý může být nevýznamný) alespoň
+ :r1 4
+ :r2 5
+ :r3 6
+ :r4 7
+ :r5 8
+:r4 ok
+--
+Odlišnosti v chování textových terminálů jsou
+ :r1 sjednoceny instalací kompatibilního driveru
+ :r2 transformovány na jednotné volání popisem v databázi /lib/terminfo/*/*
+ :r3 omezeny na kompatibilní typy terminálů v compatibility seznamu
+:r2 ok
+--
+Démon je
+ :r1 je ovladač spících zařízení s nejnižší prioritou
+ :r2 je spící program aktivovaný událostí
+ :r3 infiltrovaný interpret příkazů
+ :r4 ladící systém jádra operačního systému
+:r2 ok
+--
+Každý řádek textového souboru v unixu končí
+ :r1 znakem CR
+ :r2 znakem LF
+ :r3 znaky CR,LF
+ :r4 znaky LF,CR
+:r2 ok
+--
+Každý řádek textového souboru v unixu končí
+ :r1 znakem Carriage Return
+ :r2 znakem Long Field
+ :r3 znaky CR,LF
+ :r4 znaky LF,CR
+ :r5 žádná z ostatních odpovědí není správná
+:r5 ok
+--
+Každý řádek textového souboru v MS-DOSu/Windows končí
+ :r1 znakem CR
+ :r2 znakem LF
+ :r3 znaky CR,LF
+ :r4 znaky LF,CR
+:r3 ok
+--
+Při přenosu textového souboru z MS-DOSu/Windows do unixu
+ :r1 přidáváme řídící znak CR za každý řádek
+ :r2 přidáváme řídící znak LF za každý řádek
+ :r3 odebíráme řídící znak CR za každým řádkem
+ :r4 odebíráme řídící znak LF za každým řádkem
+:r3 ok
+--
+Při přenosu textového souboru z unixu do MS-DOSu/Windows
+ :r1 přidáváme řídící znak CR za každý řádek
+ :r2 přidáváme řídící znak LF za každý řádek
+ :r3 odebíráme řídící znak CR za každým řádkem
+ :r4 odebíráme řídící znak LF za každým řádkem
+:r1 ok
+--
+Primární prompt běžného uživatele unixu je znak
+ :r1 #
+ :r2 $
+ :r3 &
+ :r4 *
+ :r5 %
+:r2 ok
+--
+Primární prompt superuživatele je znak
+ :r1 #
+ :r2 $
+ :r3 &
+ :r4 *
+ :r5 %
+:r1 ok
+--
+Primární prompt si uživatel nastavuje/mění v proměnné prostředí
+ :r1 PROMPT
+ :r2 PRMPT
+ :r3 PRM1
+ :r4 PS1
+ :r5 PS
+:r4 ok
+--
+Příkazem <TT>stty -a</TT> 
+ :r1 se uživatel odhlásí ze sezení u terminálu
+ :r2 se uživateli obnoví výchozí nastavení terminálu
+ :r3 se uživateli sdělí nastavení terminálu
+ :r4 se uživateli zpřístupní všechny terminály
+ :r5 se uživateli přepne terminál do ascii režimu
+:r3 ok
+--
+Konvence pro prezentaci (výpis) znaku control-c je
+ :r1 CTRL-C
+ :r2 CC
+ :r3 ^C
+ :r4 C-C
+ :r5 #C
+:r3 ok
+--
+Výpis (prezentace) \012 znamená
+ :r1 zápis hodnoty -12
+ :r2 znak s ordinální hodnotou 12 dekadicky
+ :r3 znak s ordinální hodnotou 12 oktalově
+ :r4 znak s ordinální hodnotou 12 hexadecimálně
+ :r5 textový řetězec 12
+:r3 ok
+--
+Speciální znak <B>intr</B> (typicky control-c)
+ :r1 přeruší činnost operačního systému
+ :r2 přeruší běh procesu na popředí
+ :r3 přeruší výpis na terminál na popředí
+ :r4 přeruší výpis na terminál na pozadí
+:r2 ok
+--
+Proces běžící na popředí násilně ukončím (např. pokud cyklí
+v nekonečné smyčce) stiskem speciálního znaku
+ :r1 intr
+ :r2 stop
+ :r3 kill
+ :r4 eof
+:r1 ok
+--
+Speciální znak <B>eof</B> (typicky control-d)
+ :r1 ukončí stav X-off
+ :r2 přeruší běh procesu
+ :r3 ukončí zpracování fail stavu
+ :r4 vloží příznak konce souboru
+:r4 ok
+--
+Speciální znaky <B>start</B> a <B>stop</B> (typicky control-q a
+control-s)
+ :r1 realizují protokol X-ON/X-OFF
+ :r2 spustí a ukončí proces
+ :r3 přihlásí a odhlásí uživatele
+ :r4 spustí a ukončí komunikaci operačního systému
+:r1 ok
+--
+Při provádění příkazu <TT>cp /dev/tty /dev/null</TT> <B>ne</B>získáte prompt stisknutím speciálního znaku
+ :r1 stop
+ :r2 eof
+ :r3 intr
+ :r4 susp
+:r1 ok
+--
+Co provede příkaz <TT>cp /etc/passwd /dev/tty</TT>
+ :r1 zkopíruje obsah běžného souboru /etc/passwd do běžného souboru  /dev/tty
+ :r2 zkopíruje obsah běžného souboru /etc/passwd na první tiskárnu systému
+ :r3 zkopíruje obsah běžného souboru /etc/passwd na terminál uživatele
+ :r4 čte z klávesnice terminálu a zapisuje do souboru /etc/passwd
+:r3 ok
+--
+Přihlašovací (login) shell <B>nelze</B> za žádných okolností ukončit
+ :r1 speciálním znakem eof
+ :r2 speciálním znakem stop
+ :r3 speciálním znakem intr
+ :r4 příkazem exit
+ :r5 rozpadnutím spojení
+:r2 ok
+--
+Která služba používá šifrovanou komunikaci mezi klientem a serverem?
+ :r1 telnet
+ :r2 rsh
+ :r3 ssh
+ :r4 ftp
+:r3 ok
+--
+Jaký počet kořenových adresářů je uživateli dostupný?
+ :r1 tolik, kolik je v systému připojených diskových zařízení
+ :r2 tolik, kolik je v systému připojených diskových zařízení, plus 1
+ :r3 právě jeden
+ :r4 žádný
+:r3 ok
+--
+Při úspěšném přihlášení uživatele do systému se <B>ne</B>provede
+ :r1 vypíší se systémové zprávy, jsou-li nějaké
+ :r2 vypíše se sdělení správce systému, je-li nějaké
+ :r3 spustí se uživatelem vybraný shell dle obsahu /etc/passwd
+ :r4 uživatel se přihlásí do skupiny dle obsahu /etc/group
+ :r5 vypíše se prompt shellu
+:r4 ok
+--
+Při zadávání příkazů shellu <B>ne</B>platí, že
+ :r1 lze příkazy zadávat "do zásoby"
+ :r2 lze u některých shellů využít paměti starých (historii) příkazů
+ :r3 příkazy lze zadávat bez ohledu na velikost písmen
+ :r4 po stisknutí klávesy Enter již nelze opravovat obsah odeslaného řádku
+ :r5 řádek lze upravovat tak dlouho, dokud není stisknuta klávesa Enter
+:r3 ok
+--
+Při zadávání příkazů shellu klávesou Enter ještě <B>ne</B>odešleme příkaz shellu ke zpracování (použijeme pokračovací řádek), když
+ :r1 klávesu Enter stiskneme na konci řádku
+ :r2 klávesu Enter stiskneme rychle dvakrát po sobě (tzv. doubleclick)
+ :r3 před stiskem klávesy Enter vložíme obrácené lomítko
+ :r4 po stisku klávesy Enter vložíme znak větší-než
+:r3 ok
+--
+Sekundární prompt se používá
+ :r1 ve vnořeném shellu
+ :r2 na pokračovacím řádku
+ :r3 při čtení příkazů ze skriptu
+ :r4 na řádku zrušeném speciálním znakem kill
+:r2 ok
+--
+Sekundární prompt lze přenastavit změnou proměnné prostředí PS2
+a implicitně obsahuje znak
+ :r1 $
+ :r2 >
+ :r3 #
+ :r4 &
+ :r5 *
+:r2 ok
+--
+Historii mnou zadaných příkazů shellu bash mi vypíše příkaz
+ :r1 man history
+ :r2 cat history
+ :r3 cat ~/.history
+ :r4 cat ~/.bash_history
+ :r5 žádná z ostatních odpovědí není správně
+:r4 ok
+--
+Historie zadaných příkazů shellu bash se ukládá do souboru s historií příkazů, když
+ :r1 se uživatel přihlašuje
+ :r2 uživatel zadává jakýkoli příkaz
+ :r3 se uživatel odhlašuje
+ :r4 uživatel zadá příkaz history
+:r3 ok
+--
+Operační systém Linux 
+ :r1 vznikl předáním ochranné známky UNIX společnosti GNU
+ :r2 je předchůdcem unixu
+ :r3 vznikl nezávisle na unixu
+ :r4 je následovníkem unixu
+:r3 ok
+--
+Uživatel ke v/v zařízením v unixu přistupuje prostřednictvím
+ :r1 instalovaných driverů
+ :r2 ikon zařízení
+ :r3 speciálních souborů
+ :r4 přerušení
+:r3 ok
+--
+UNIX byl při svém vzniku koncipován jako systém
+ :r1 multiprogramový, multiuživatelský, síťový
+ :r2 multiprogramový, multiuživatelský, s terminálovým přístupem
+ :r3 multiprogramový, síťový, s terminálovým přístupem
+ :r4 multiuživatelský, síťový, s terminálovým přístupem
+:r2 ok
+--
+Ukončí-li se shell, který byl spuštěn po přihlášení uživatele
+ :r1 je uživatel odhlášen ze systému
+ :r2 automaticky se spustí další shell, není-li zadán příkaz exit
+ :r3 tento shell uživatel nemůže ukončit, protože je systémový
+ :r4 systém se uživatele zeptá, zda chce spustit novou kopii shellu
+:r1 ok
+--
+Bezprostředně po ukončení právě prováděného příkazu shellu, jsou-li zadány nějaké příkazy "do zásoby"
+ :r1 se příkazy v zásobě ihned provedou bez potvrzení uživatele
+ :r2 musí uživatel potvrdit provedení každého příkazu v zásobě zvlášť
+ :r3 musí uživatel potvrdit celou skupinu příkazů v zásobě, jsou provedeny bud všechny nebo ani jeden
+ :r4 nelze zadávat příkazy do zásoby bez povolení superuživatele
+:r1 ok
+--
+Pro šifrované zpřístupnění terminálu vzdáleného počítače použijeme
+ :r1 telnet
+ :r2 ssh
+ :r3 rsh
+ :r4 ftp
+ :r5 scp
+:r2 ok
+--
+Které tři z vyjmenovaných aplikací patří mezi unixové shelly?
+ :r1 bash, ssh, ksh
+ :r2 ssh, telnet, putty
+ :r3 sh, bash, ksh
+ :r4 bash, sh-bash, ksh-bash
+:r3 ok
+--
+Proces běžící na popředí pozastavím speciálním znakem
+ :r1 intr
+ :r2 eof
+ :r3 susp
+ :r4 supr
+ :r5 su
+:r3 ok
+--
+Nápovědu k příkazu <tt>rm</tt> získám pomocí
+ :r1 rm -f
+ :r2 rmman
+ :r3 rm help
+ :r4 man rm
+:r4 ok
+--
+Proces je v unixu jednoznačně identifikován
+ :r1 uživatelem, který spustil
+ :r2 číslem přiřazeným při spuštění
+ :r3 terminálem, ze kterého byl spuštěn
+ :r4 časem spuštění
+:r2 ok
+--
+Speciální znak <B>susp</B>
+ :r1 přepne počítač do úsporného režimu
+ :r2 pozastaví proces
+ :r3 ukončí proces
+ :r4 zamkne relaci uživatele
+:r2 ok
+--
+Příkaz <B>ps</B>
+ :r1 vypíše přihlášené uživatele
+ :r2 vypíše spuštěné procesy
+ :r3 vypíše programy v systému souborů
+:r2 ok
+--
+Příkaz <tt>kill -9 1000</tt>
+ :r1 násilně ukončí program s názvem 1000, mám-li na to právo
+ :r2 násilně ukončí program s názvem 1000
+ :r3 násilně ukončí proces s číslem 1000, mám-li na to právo
+ :r4 násilně ukončí proces s číslem 1000
+ :r5 je chybný příkaz
+:r3 ok
+--
+Uživatel <B>root</B>
+ :r1 smí číst všechny soubory, nesmí je však modifikovat
+ :r2 smí číst všechny soubory a modifikovat jen ty, které jsou ve skupině <TT>root</TT>
+ :r3 uživateli root se přístupová práva nekontrolují
+:r3 ok
+--
+Uživatelů <B>root</B> smí být v systému zavedeno
+ :r1 žádný
+ :r2 jeden
+ :r3 dva
+ :r4 tolik, kolik jich je zavedeno v souboru /etc/passwd
+:r2 ok
+--
+Příkaz <TT>man cat</TT>
+ :r1 vypíše obsah souboru cat na standardní výstup
+ :r2 vypíše obsah souboru man na standardní výstup
+ :r3 vypíše manuálovou stránku příkazu cat na standardní výstup
+ :r4 vypíše manuálovou stránku příkazu man na standardní výstup
+ :r5 je chybný příkaz
+:r3 ok
+--
+Příkaz <TT>man 5 passwd</TT>
+ :r1 může vypsat manuálovou stránku příkazu passwd
+ :r2 může vypsat manuálovou stránku souboru /etc/passwd
+ :r3 může vypsat manuálovou stránku příkazu login
+ :r4 je chybný příkaz
+:r2 ok
+--
+Kterým příkazem <B>nelze</B> získat obsah (předpokládejme textového) souboru
+ :r1 cat
+ :r2 more
+ :r3 less
+ :r4 pwd
+ :r5 všemi uvedenými
+:r4 ok
+--
+Adresář /etc je určen
+ :r1 pro dočasné soubory jako pomocný
+ :r2 pro různé soubory, které nebylo možné dát do jiných adresářů
+ :r3 pro umístění zpravidla konfiguračních souborů
+ :r4 pro umístění zpravidla speciálních souborů
+:r3 ok
+--
+Externí příkazy shellu jsou zpravidla umístěny v adresáři
+ :r1 /usr/local/bin
+ :r2 /bin
+ :r3 /etc
+ :r4 /usr
+ :r5 /usr/lib
+:r2 ok
+--
+Pro umísťování adresářů se soubory, jejichž obsah se často mění (např. log soubory se záznamy o provedených operacích), je určen adresář
+ :r1 /bin
+ :r2 /lib
+ :r3 /usr
+ :r4 /var
+ :r5 /etc
+:r4 ok
