@@ -1,336 +1,333 @@
-Listina zakladnich prav a svobod zarucuje:
--* listovni tajemstvi pisemnosti uchovavanych v soukromi
--* listovni tajemstvi pisemnosti zasilanych po�tou
--* tajemstvi zprav podavanych telefonem
--* tajemstvi zprav podavanych elektronickou po�tou
+Listina základních práv a svobod zaručuje
+-* listovní tajemství písemností uchovávaných v soukromí
+-* listovní tajemství písemností zasílaných poštou
+-* tajemství zpráv podávaných telefonem
+-* tajemství zpráv podávaných elektronickou poštou
 ====
-Pisemnosti osobni povahy mohou byt pouzity:
--* se souhlasem osoby, ktera je vytvorila
-- bez souhlasu osoby, ktera je vytvorila
--* k ucelum urednim na zaklade zakona
-- na zaklade "zpravodajske licence"
+Písemnosti osobní povahy mohou být použity
+-* se souhlasem osoby, která je vytvořila
+- bez souhlasu osoby, která je vytvořila
+-* k účelům úředním na základě zákona
+- na základě "zpravodajské licence"
 ====
-Obchodni tajemstvi
--* je vzdy predmetem prav nalezejicich k podniku
-- patri vzdy do majetku obchodni spolecnosti
-- jedna se o autorska prava a technicke vynalezy
-- je zaznamenano u uradu prumysloveho vlastnictvi
+Obchodní tajemství
+-* je vždy předmětem práv náležejících k podniku
+- patří vždy do majetku obchodní společnosti
+- jedná se o autorská práva a technické vynálezy
+- je zaznamenáno u Úřadu průmyslového vlastnictví
 ====
-Pri poru�eni autorskeho prava ma autor pravo se domahat
--* odstraneni nasledku neopravnenych zasahu do autorskeho prava
-- zaplaceni pokuty
--* zadostiucineni
--* vydani neopravneneho obohaceni
+Při porušení autorského práva má autor právo se domáhat
+-* odstranění následků neoprávněných zásahů do autorského práva
+- zaplacení pokuty
+-* zadostiučinění
+-* vydání neoprávněného obohacení
 ====
-Databaze
--* se povazuje za souborne autorske dilo
--* majetkove autorske pravo k databazi trva 15 let od jejiho porizeni
-- muze byt neomezene vytezovana jen, je-li verejne pristupna
-- muze byt neomezeni vytizovana pro osobni potrebu uzivatele
+Databáze
+-* se považuje za souborné autorské dílo
+-* majetkové autorské právo k databázi trvá 15 let od jejího pořízení
+- může být neomezeně vytěžována jen, je-li veřejně přístupná
+- může být neomezeně vytěžována pro osobní potřebu uživatele
 ====
-Zanik patentu
-- majitel patentu je povinnen vynalez prakticky vyuzivat  
-- patent muze byt zru�en, pokud jej majitel nevyuziva (m�ze byt ale zru�en patentovy monopol, pokud jej majitel nevyuziva a blokuje jeho uzivani ostatnim, kteri by chteli)
--* patent zanika, uplyne-li doba jeho platnosti
--* patent zanika, nezaplati-li majitel poplatky za...
+Zánik patentu
+- majitel patentu je povinnen vynález prakticky využívat
+- patent může být zrušen, pokud jej majitel nevyužívá
+-* patent zaniká, uplyne-li doba jeho platnosti
+-* patent zaniká, nezaplatí-li majitel poplatky za...
 ====
-Spravce je povinnen
--* prokazat souhlas subjektu udaju po celou dobu zpracovavani
--* informovat subjekt udaju, kdo a jakym zpusobem bude udaje zpracovavat
--* informovat subjekt udaju, komu mohou byt jeho udaje zpristupneny
-- pravidelne jednou rocne zaslat subjektu udaju ... zpracovavanych
+Správce je povinen
+-* prokázat souhlas subjektu údajů po celou dobu zpracovávání
+-* informovat subjekt údajů, kdo a jakým způsobem bude údaje zpracovávat
+-* informovat subjekt údajů, komu mohou být jeho údaje zpřístupněny
+- pravidelně jednou ročně zaslat subjektu údajů ... zpracovávaných
 ====
-Zamestnanci spravce:
--* musi uzavrit dohodu o ochranezpracovavanych
--* mohou zpracovavat osobni udaje pouze v rozsahu stanovenym  spravcem
-- maji dozivotni povinnost mlcenlivosti o zpracovavnych informacich
-- maji dozivotni povinnost mlcenlivosti o bezpecnostnich prvcich
+Zaměstnanci správce
+-* musí uzavřít dohodu o ochraně zpracovávaných informací
+-* mohou zpracovávat osobní údaje pouze v rozsahu stanoveným správcem
+- mají doživotní povinnost mlčenlivosti o zpracovávaných informacích
+- mají doživotní povinnost mlčenlivosti o bezpečnostních prvcích
 ====
-Podle zakona o svobodnem pristupu k informacim jsou
--* povinnymi subjekty statni organy
-- povinnymi subjekty v�ichni, kdo hospodaoi s veo... mozna
--* zadateli fyzicke osoby zpusobile k pravnim ukonum
--* zadateli ve�kere pravnicke osoby
-====
-V souvislosti s ochranou utajovanych informaci...
--* dodrzovat nutna omezeni stanovena vladou
--* podrobit se bezpecnostni proverce
+V souvislosti s ochranou utajovaných informací...
+-* dodržovat nutná omezení stanovená vládou
+-* podrobit se bezpečnostní prověrce
 -* odevzdat nalezenou utajovanou informaci
--* zachovavat mlcenlivost o utajovanych informacich
+-* zachovávat mlčenlivost o utajovaných informacích
 ====
-1 Listina zakladnich prav
--* zarucuje ochranu pisemnosti uchovavanych v soukromi
--* zarueuje ochranu pisemnosti prepravovanych po�tou
--* zarueuje tajemstvi zprav podavanych telefonem
--* zarucuje tajemstvi zprav prena�enych elektronicky
+Osobnostní autorská práva
+- autorem může být pouze fyzická osoba způsobilá k právním úkonům
+-* o zveřejnění díla rozhoduje autor
+-* autorství je nepřevoditelné a autor se jej nemůže vzdát
+-* smrtí autora přechází autorská práva na dědice
 ====
-2. Pisemnost osobniho charakteru
--* muze byt zverejnina se souhlasem autora
-- muze byt zveoejnina bez souhlasu autora
--* muze byt pouzita k urednim ucelum na zaklade zakona
-- muze byt zverejnina na zaklade zpravodajske licence
+Zaměstnanecký vztah
+-* veškerá práva k dílům vykonává zaměstnanec
+-* po zániku právnické osoby bez právního nástupce přecházejí práva na autor
+při zhotovení počítačového programu na objednávku má autor
+-* právo na přiměřenou dodatečnou odměnu
 ====
-3.Obchodni tajemstvi
-- patri mezi majetek podniku
--* patri k pravum souvisejicim s podnikem
-- jedna se o autorska prava a technicke vynalezy
-- je zaznamenano u uradu prumysloveho vlastnictvi
+Vynálezy
+-* patentovatelné jsou jen nové vynálezy
+-* patentovatelné jsou jen průmyslové využitelné vynálezy
+-* patent nemůže být nikdy udělen na počítačový program
+- právo k patentu má jeho autor
 ====
-4.Osobnostni autorska prava
-- autorem muze byt pouze fyzicka osoba zpusobila k pravnim ukonum
--* o zverejnini dila rozhoduje autor
--* autorstvi je neprevoditelne a autor se jej nemuze vzdat 
--* smrti autora prechazi autorska prava na dedice ne- vykon prav, ne prava
+Osobní údaje
+-* určitelnou osobou je osoba, o níž je známo jméno, příjmení, bydliště a datum narození
+-* citlivým údajem je příslušnost k politické straně nebo hnutí
+- osobní údaj může být anonymizován
+- údaje o osobě se dělí na osobní a neosobní
 ====
-5.Zamestnanecky vztah            nevim
--* ve�kera prava k dilum vykonava zamestnanec
--* po zaniku pravnicke osoby bez pravniho nastupce prechazeji prava na autora
--* pri zhotoveni pocitacoveho programu na objednavku ma autor pravo na primirenou dodatecnou odmenu
+Při neoprávněném zveřejnění osobních údajů má subjekt údajů právo žádat
+-* odstranění způsobených škod
+- zaplacení pokuty
+-* zadostiučinění
+-* vydání bezdůvodného obohacení
 ====
-6.Vynalezy
--* patentovatelne jsou jen nove vynalezy
--* patentovatelne jsou jen prumyslove vyuzitelne vynalezy
--* patent nemuze byt nikdy udelen na pocitacovy program
-- pravo k patentu ma jeho autor
+Svobodný přístup k informacím
+-* poskytovatelem jsou státní orgány
+-* poskytovatelem jsou všechny organizace hospodařící s veřejnými prostředky
+-* žadatelem je fyzická osoba způsobilá k právním úkonům
+-* žadatelem jsou všechny právnické osoby
 ====
-7 Osobni udaje
--* urcitelnou osobou je osoba, o niz je znamo jmeno, prijmeni, bydli�te a datum narozeni
--* citlivym udajem je prislu�nost k politicke strani nebo hnuti
-- osobni udaj muze byt anonymizovan
-- udaje o osobi se deli na osobni a neosobni
+Pro přístup k utajovaným informacím musí podnik
+-* být administrativně bezpečný
+-* nebýt v konkurzu ani likvidaci
+-* vypracovat bezpečnostní projekt
+- mít certifikovaný vnitřní informační systém?
 ====
-8.Pri neopravnenem zverejnini osobnich udaju ma subjekt udaju pravo zadat
--* odstraneni zpusobenych �kod
-- zaplaceni pokuty
--* zadostiucineni
--* vydani bezduvodneho obohaceni
+Odvětví českého práva
+- občanské právo nepatří mezi odvětví soukromého práva
+-* pracovní právo nepatří mezi odvětví veřejného práva
+- trestní právo patří mezi odvětví soukromého práva
+-* správní právo patří mezi odvětví veřejného práva
 ====
-9.Svobodny pristup k informacim
--* poskytovatelem jsou statni organy
--* poskytovatelem jsou v�echny organizace hospodarici s verejnymi prostredky
--* zadatelem je fyzicka osoba zpusobila k pravnim ukonum
--* zadatelem jsou v�echny pravnicke osoby
+Vláda ČR
+-* tvoří zákony ČR
+- je volena poslaneckou sněmovnou parlamentu ČR
+-* navrhuje zákony ČR
+-* funkce člena vlády ČR je neslučitelná s funkcí senátora parlamentu ČR
 ====
-10 Pro pristup k utajovanym informacim musi podnik
--* byt administrativni bezpeeny
--* nebyt v konkurzu ani likvidaci
--* vypracovat bezpeenostni projekt
-- mit certifikovany vnitrni informacni system
+Zánik trestnosti
+-* vina obžalovaného se vždy posuzuje podle trestného zákona ve stavu v okamžiku spáchaní trestného činu 
+-* odsouzeny může být za dobré chovaní propuštěn po výkonu poloviny uloženého trestu
+- v případě trestného činu teroru zaniká jeho trestnost při účinné lítosti pachatele
+-* trestný čin teroru nemůže být promlčen
 ====
-Odvetvi ceskeho prava
-- obcanske pravo nepatri mezi odvetvi soukromeho prava
--* pracovni pravo nepatri mezi odvetvi verejneho prava
-- trestni pravo patri mezi odvetvi soukromeho prava
--* spravni pravo patri mezi odvetvi verejneho prava
+Trestní řízení může být ukončeno
+-* rozsudkem
+-* podmíněným zastavením trestního stíhání
+-* schválením narovnání mezi pachatelem a poškozeným
+-* trestním příkazem
 ====
-Vlada CR
--* tvori zakony CR
-- je volena poslaneckou snemovnou Parlamantu CR
--* navrhuje zakony CR
--* funkce clena vlady CR je neslucitelna s funkci senatora parlamentu CR
+Trestní řízení
+-* žalobu podává poškozený
+-* účastníky jsou vždy obžalovaný a obhájce
+-* nad trestním řízením vykonává dozor státní zástupce nebo soud
 ====
-zanik trestnosti
--* vina obzalovaneho se vzdy posuzuje podle trestneho zakona ve stavu v okamziku spachani trestneho cinu 
--* odsouzeny muze byt za dobre chovani propusten po vykonu poloviny ulozeneho trestu
-- v pripadne trestneho teroru zanika jeho trestnost pri ucinne litosti pachatele
--* trestny cin teroru nemuze byt promlcen
+fyzická osoba
+- má-li právní osobnost, je i svéprávná 
+-* je-li svéprávná, má i právní osobnost
+- právní osobnost se získává v 18 letech 
+-* svéprávnost se získává v 18 letech 
 ====
-trestni rizeni
--* zalobu podava poskozeny
--* ucastniky jsou vzdy obzalovany a obhajce
--* nad trestnim rizenim vykonava dozor statni zastupce nebo soud
+Občanskoprávní spor
+-* soud je vázán návrhy poškozeného.
+- náklady za soudní spor vždy uhradí poškozený.
+- náklady za soudní spor vždy uhradí žalovaný.
+-* soud může vyhlásit rozsudek pro zmeškání.
 ====
-spolecnost s rucenim omezenim 
--* ma minimalne 2 cleny a maximalne 50 clenu 
--* kazdy ze spolecniku ruci za zavasky spolecnosti do vyse sveho nesplaceneho vkladu
--* zakladni kapital je minimalne 200 000 Kc
-- nejvyssim organem je predstavenstvo
+Zaměstnavatel
+-* při spojení firem přechází pracovní závazky na novy subjekt
+- při zániku firmy přechází závazky na stát
+- zaměstnanec může převést pracovní poměr na jinou osobu
+- zaměstnavatel může převést pracovní poměr na jiného zaměstnavatele?
 ====
-pravnicka osoba
--* zpusobilost k pravum je ekvivalentni zpusobilosti k pravnim ukonum
-- jedna se vzdy o ucelove zdruzeni majetku
--* vsechny druhy obchodnich spolecnosti jsou pravnickymi osobami
-- o vzniku ci zaniku pravnicke osoby vzdy rozhoduje soud
+Mzda a plat
+-* soukromí zaměstnavatelé jsou omezeni minimální mzdou
+- veřejnoprávní zaměstnavatelé nejsou omezeni minimální mzdou
+-* mzda musí být sjednána v pracovní smlouvě
+-* nevyplacení mzdy může být důvodem okamžitého zrušení pracovního poměru ze strany zaměstnance
 ====
-zavazky
--* jednostranne zavazky musi mit ustni, pisemnou nebo elektronickou podobu
--* vznikaji na zaklada smlouvy
-- ze zavazku je povinnen dluznik neco dat, konat,neceho se zdrzet nebo trpet
--* strany smolouvy si vzdy mohou zvolit, zda smlouvu uzavrenou dle obcanskeho nebo obchodniho zakoniku 
+Společnost s ručením omezeným
+-* má minimálně 2 členy a maximálně 50 členů
+-* každý ze společníků ručí za závazky společnosti do výše svého nesplaceného vkladu
+-* základní kapitál je minimálně 200 000 Kč
+- nejvyšším orgánem je představenstvo
 ====
-vykon rozhodnuti
--* muze byt proveden srazkami ze mzdy
--* muze byt proveden donucenim k provedeni praci ci vykonu
--* pri nezaplaceni dluzne castky muze byt udelen alternativni trest odneti svobody 
--* muze byt provedena exekuce na movity i nemovity majetek
+Právnická osoba
+-* způsobilost k právům je ekvivalentní způsobilosti k právním úkonům
+- jedna se vždy o účelové sdružení majetku
+-* všechny druhy obchodních společností jsou právnickými osobami
+- o vzniku či zániku právnické osoby vždy rozhoduje soud
 ====
-v pravocni smlouve nesmi chybet
+Závazky
+-* jednostranné závazky musí mít ústní, písemnou nebo elektronickou podobu
+-* vznikají na základě smlouvy
+- ze závazku je povinen dlužník něco dát, konat, něčeho se zdržet nebo trpět
+-* strany smlouvy si vždy mohou zvolit, zda smlouvu uzavřenou dle občanského nebo obchodního zákoníku 
+====
+Výkon rozhodnutí
+-* může byt proveden srážkami ze mzdy
+-* může byt proveden donucením k provedeni práce či výkonu
+-* při nezaplacení dlužné částky může být udělen alternativní trest odnětí svobody 
+-* může být provedena exekuce na movitý i nemovitý majetek
+====
+V pracovní smlouvě nesmí chybět
 -* podpis stran
--* druh prace
-- datum vzniku a zaniku pracovniho pomeru
--* ujednani o vysi mzdy
+-* druh práce
+- datum vzniku a zániku pracovního poměru
+-* ujednaní o výši mzdy
 ====
-pracovni doba a dovolena
-- zakladni vymera pracovni doby je 42,5 hodin tydne
-- matky s detmi a mladistvi maji zakladni vymeru pracovni doby 20 hodin tydne
-- prescasova prace je nepripustna
--* zakladni vymera dovolene je 4 tdyny
+Pracovní doba a dovolená
+- základní výměra pracovní doby je 42,5 hodin týdně
+- matky s dětmi a mladiství mají základní výměru 20 hodin týdně
+- přesčasová práce je nepřípustná
+-* základní výměra dovolené je 4 týdny
 ====
-Listina zakladnich prav a svobod zarucuje
--* pravo na zachovani dobre povesti
--* pravo na ochranu obchodniho tajemstvi
--* pravo na ochranu jmena
--* pravo na ochranu pred neopravnenim shromazdovanim osobnich udaju
+Listina základních práv a svobod zaručuje
+-* právo na zachovaní dobré pověsti
+-* právo na ochranu obchodního tajemství
+-* právo na ochranu jména
+-* právo na ochranu před neoprávněným shromažďováním osobních údajů
 ====
-Podle zakona o svobodnem pristupu k informacim nesmi byt poskytnute informace ktere jsou
--* utajovanymi informacemi
--* obchodnim tajemstvim
--* osobnimi udaji
-- informacemi o rozhodnuti organu statni spravy
+Podle zákona o svobodném přístupu k informacím nesmí být poskytnuté informace které jsou
+-* utajovanými informacemi
+-* obchodním tajemstvím
+-* osobními údaji
+- informacemi o rozhodnuti orgánu státní správy
 ====
-tresne ciny v souvislosti s utajovanymi informcemi 
-- projednavaji vojenske soudy 
-- vyzvedacstvi muze byt trestano vymecnym trestem
--* ohrozeni utajovane informace je trestne i kdyz je spachano z nedbalosti
-- vyzvedacstvi v kategorii "Vyhrazene" je prestupkem
+trestné činy v souvislosti s utajovanými informacemi
+- projednávají vojenské soudy 
+-* vyzvědačství může být trestáno výjimečným trestem
+-* ohrožení utajované informace je trestné i když je spácháno z nedbalosti
+- vyzvědačství v kategorii "Vyhrazené" je přestupkem
 ====
-Po smrti fyzicke osoby prislusi uplatnovat pravo na:
--* ochranu jeji osobnosti jejim detem
-- ochranu jeji osobnosti jejim dedicum
-- nahradu skody spusebenou neopravnenym zasahem do prava na ochranu osobnosti jejim detem
--* nahradu skody spusebenou neopravnenym zasahem do prava na ochranu osobnosti jejim dedicum
+Po smrti fyzické osoby přísluší uplatňovat právo na
+-* ochranu její osobnosti jejím dětem
+- ochranu její osobnosti jejím dědicům
+- náhradu škody způsobenou neoprávněným zásahem do práva na ochranu osobnosti jejím dětem
+-* náhradu škody způsobenou neoprávněným zásahem do práva na ochranu osobnosti jejím dědicům
 ====
-Pri poruseni nebo ohrozeni prava na obchodni tajmenstvi ma .....
--* odstraneni zavadneho stavu
+Při porušení nebo ohrožení práva na obchodní tajemství má poškozený právo na
+-* odstranění závadného stavu
+- zaplacení pokuty
+-* zadostiučinění
+-* vydání bezdůvodného obohaceni
+====
+Majetková autorská práva
+-* jejich držitelem může být pouze fyzická osoba způsobilá právním úkonům, která dílo vytvořila
+- obecně trvají 50 let po smrti autora
+- nelze se jich vzdát a jsou nepřevoditelná
+-* po smrti autora přecházejí na dědice
+====
+Právo průmyslového vlastnictví chrání
+-* autorská díla 
+-* biotechnologické vynálezy
+-* obchodní tajemství
+-* zlepšovací návrhy
+====
+Citlivé údaje může správce zpracovávat
+-* jestliže je zpracování nezbytné pro zjištění a uplatňování právních nároků
+-* poklada-li to za nezbytné k ochraně životně důležitých zájmů subjektu údajů
+- poklada-li to za nezbytné k ochraně svých zájmů
+-* na základě písemné smlouvy se subjektem údajů
+====
+Při porušení povinnosti při zpracovávání osobních údajů má subjekt údajů právo domáhat se
+-* odstraněni následků takového jednání
 - zaplaceni pokuty
--* zadostiucineni
--* vydani bezduvodneho obohaceni
+-* zadostiučinění
+-* vydání bezdůvodného obohacení
 ====
-Majetkova autorska prava
--* jejich drzitelem muze byt pouze fyzicka osoba spusobila pravnim ukonum ktera dilo vytvorila
-- obecne trvaji 50 let po smrti autora
-- nelze se jich vzdat a jsou neprevoditelna
--* po smrti autora prechazeji na dedice
+Informace vyžádané žadatelem podle zákona o svobodném přístupu k informacím se předají
+-* zveřejněním na úřední desce
+-* zveřejněním dálkovým přístupem (Internet)
+- odkazem na zveřejněnou informaci
+-* písemně
 ====
-Pravo prumysloveho vlastnictvi chrani
--* autorska dila 
--* biotechnologicke vynalezy
--* obchodni tajemstvi
--* zlepsovaci navrhy
+Utajované informace mohou být poskytovány organizaci, která
+-* je administrativně bezpečná
+-* není v likvidaci či konkurzu
+- má certifikovaný vnitřní informační systém
+- vypracovala bezpečnostní projekt
 ====
-citlive udaje muze spravce spracovavat 
--* jestlize je spracovani nezbytpne pro zjisteni a uplatnovani pravnich naroku
--* poklada-li to za nezbytne k ochrane zivotne dulezitych zajmu subjektu udaju
-- poklada-li to za nezbytne k ochrane svych zajmu
--* na zaklade pisemne smlouvy se subjektem udaju
+Mezi základní principy soukromého práva patří
+-* smí se co není zákonem zakázáno
+- smí se jen to, co je zákonem dovoleno
+- smí se jen to, co je zákonem určeno
+- musí se jen to, co je zákonem určeno
 ====
-pri poruseni povinnosti pri zpracovavani osobnich udaju ma subjekt udaju pravo domahat se
--* odstraneni nasledku takoveho jednani
-- zaplaceni pokuty
--* zadostiucineni
--* vydani bezduvodneho obohaceni
-====
-informace vyzadane zadatelem podle zakona o svobodnem pristupu k informacim se preda
--* zverejnenim na uredni desce
--* zverejnenim dalkovim pristupem (Internet)
-- odkazem na zverejnenou informaci
--* pisemne
-====
-utajovane informace mohou byt poskytovany organizaci, ktera
--* je administrativne bezpecna
--* neni v likvidaci ci konkurzu
-- ma certifikovany vnitrni informacni system
-- vypracovala bezpecnostni projekt
-====
-Mezi zakladni principy soukromeho prava patri
--* smi se co neni zakonem zakazano
-- smi se jen to, co je zakonem dovoleno
-- smi se jen to, co je zakonem urceno
-- musi se jen to, co je zakonem urceno
-====
-PSP CR
+PSP (poslanecká sněmovna parlamentu) ČR
 -* je volena na 4 roky
-- ma 150 poslancu
--* schvaluje vladu
--* tvori zakony
+- má 150 poslanců
+-* schvaluje vládu
+-* tvoří zákony
 ====
-Vypoved ze strany zamestnance
--* zakladni vyp. doba 3 mesice
-- osoba mladistva nemuze podat okamzitou vypoved
--* osoba na rod. dovolene muze podat okamzitou vypoved
--* zamestnanec nemusi vypoved zduvodnovat
+Výpověď ze strany zaměstnance
+-* základní výpovědní doba 3 měsíce
+- osoba mladistvá nemůže podat okamžitou výpověď
+-* osoba na rodičovské dovolené může podat okamžitou výpověď
+-* zaměstnanec nemusí výpověď zdůvodňovat
 ====
-Zamestnavatel
--* pri spojeni firem prechazi pracovni zavazky na novy subjekt
-- pri zaniku firmy prechazi zavazky na stat
+Způsobilost k právu
+-* je-li člověk způsobilý k právu, je způsobilý i k právním úkonům
+-* je-li člověk způsobilý k právním úkonům, je způsobilý i k právu
+-* způsobilost k právu vzniká 18. Rokem
+-* způsobilost k právním úkonům vzniká 18. Rokem
 ====
-Zpusobilost k pravu
--* je li clovek zpusobily k pravu, je zpusobily i k pravnim ukonum
--* je li clovek zpusobily k pravnim ukonum, je zpusobily i k pravu
--* zpusobilost k pravu vznika 18. Rokem 
--* zpusobilost k pravnim ukonum vznika 18. Rokem
-====
-Organy cinne v trestnim rizeni
-- mestska police
+Orgány činné v trestním řízení
+- městská police
 -* soudy
--* statni zastupitelstvi
-- vezenska sluzba
+-* státní zastupitelství
+- vězeňská služba
 ====
-Okolnosti vylucujici trestni odpovednost
-- jakakoliv nutna obrana
--* nepricetnost
--* je li z duvodu dusevni choroby omezena schopnost osoby kontrolovat sve ciny 
--* vznika vzdy dosazenim 15 let
+Okolnosti vylučující trestní odpovědnost
+- jakákoliv nutná obrana
+-* nepříčetnost
+-* je-li z důvodu duševní choroby omezena schopnost osoby kontrolovat své činy 
+-* trestní odpovědnost vzniká vždy dosažením 15 let
 ====
- Soudnictvi
--* soudy jsou okresni, krajske, vrchni, nejvyssi, nejvyssi spravni a ustavni
--* pokud promeskate lhutu na odvolani, rozsudek nabyva pravni moci
--* proti platebnimu prikazu lze podat odpor
--* proti rozsudku se muzete odvolat a dovolat
+Soudnictví
+-* soudy jsou okresní, krajské, vrchní, nejvyšší, nejvyšší správní a ústavní
+-* pokud promeškáte lhůtu na odvolání, rozsudek nabývá právní moci
+-* proti platebnímu příkazu lze podat odpor
+-* proti rozsudku se můžete odvolat a dovolat
 ====
-komanditni spolecnost
--* ma minimalne 2 spolecniky 
-- vsichni ruci celym svym majetkem
-- min jmeni 200 kKc
--* jsou dva druhy spolecniku
+Komanditní společnost
+-* má minimálně 2 společníky 
+- všichni ručí celým svým majetkem
+- minimální jmění je 200 000 Kč
+-* jsou dva druhy společníků
 ====
-- Verejna obchodni spolecnost
-- Verejna obchodni spolecnost ma povinnost jednou rocne zverejnit svou ucetni zaverku 
--* Verejna obchodni spolecnost musi mit nejmene 2 cleny.
-- Verejna o.s. musi mit zakladni kapital. 
+Veřejná obchodní společnost
+- veřejná obchodní společnost má povinnost jednou ročně zveřejnit svou účetní závěrku 
+-* veřejná obchodní společnost musí mít nejméně 2 členy.
+- veřejná obchodní společnost musí mít základní kapitál.
 ====
-Statni moc
--* Statni moc lze uplatnovat jen v mezich stanovenych zakonem 
-- Statni moc lze uplatnovat v mezich dovolenych zakonem.
-- Statni moc lze uplatnovat v mezich nezakazanych zakonem.
--* Nikdo nesmiu byt nucen delat, co zakon neuklada.
+Státní moc
+-* státní moc lze uplatňovat jen v mezích stanovených zákonem 
+- státní moc lze uplatňovat v mezích dovolených zákonem.
+- státní moc lze uplatňovat v mezích nezakázaných zákonem.
+-* Nikdo nesmí byt nucen dělat, co zákon neukládá.
 ====
- Trestni rizeni
--* zalobu podava poskozeny.
--* Nad rizenim dohlizi statni zastupce 
-- Statni zastupce narizuje vazbu obzalovaneho.
--* ucastnikem rizeni je vzdy obzalovany a obhajce. 
+Trestní řízení
+-* žalobu podává poškozený.
+-* nad řízením dohlíží státní zástupce 
+- státní zástupce nařizuje vazbu obžalovaného.
+-* účastníkem řízení je vždy obžalovaný a obhájce. 
 ====
-Obcanskopravni spor:
--* Soud je vazan navrhy poskozeneho.
-- Naklady za soudni spor vzdy uhradi poskozeny.
-- Naklady za soudni spor vzdy uhradi zalovany.
-- Soud muze vyhlasit rozsudek pro ome?k?n?.???
+Vlastnické právo
+-* nabyti vlastnictví je možné koupí, děděním nebo vydražením věci. 
+- zástavní právo se nevztahuje na movitý majetek.
+- věcné břemeno se vztahuje na movitý i nemovitý majetek.
+- při koupi věci s hodnotou nad 500 000 Kč je nutnosti písemná smlouva.
 ====
- Vlastnicke pravo:
--* Nabyti vlastnictvi je mozne koupi, dedenim nebo vydrzenim veci. 
-- Zastavni pravo se nevztahuje na movity majetek.
-- Vecne bremeno se vztahuje na movity i nemovity majetek. 
-- Pri koupi veci s hodnotou nad 500 000 Kc je nutnosti pisemna smlouva.
+Zastupování
+- jenom rodiče smí zastupovat své děti.
+- manželé se smí zastupovat ve věcech právních úkonů.
+-* manželé se nesmí zastupovat v právním úkonu materiálního vyrovnání.
+- je možné zastupovat jenom fyzické osoby.
 ====
- Zastupovani:
-- Jenom rodice smi zastupovat sve deti.
-- Manzele se smi zastupovat ve vecech pravnich ukonu.
--* Manzele se nesmi zastupovat v pravnim ukonu materialniho vyrovnani. 
-- Je mozne zastupovat jenom fyzicke osoby.
-====
-Senat:
--* Ma 81 clenu
-- Jsou voleni na 4 roky
--* Navrhuje zakony CR
-- Vyslovuje vlade neduveru 
+Senát
+-* má 81 členů
+- jsou voleni na 4 roky
+-* navrhuje zákony ČR
+- vyslovuje vládě nedůvěru 
