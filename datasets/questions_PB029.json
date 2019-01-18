@@ -1,0 +1,1750 @@
+[
+  {
+    "name": "Mezi PDL (jazyky pro popis stránky) NEpatří:",
+    "answers": [
+      {
+        "body": "PostScript",
+        "right": false
+      },
+      {
+        "body": "PageML",
+        "right": true
+      },
+      {
+        "body": "PDF",
+        "right": false
+      },
+      {
+        "body": "DVI",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro TeXové primitivum \\input NEplatí:",
+    "answers": [
+      {
+        "body": "Před a za vloženým souborem provede stránkový zlom",
+        "right": true
+      },
+      {
+        "body": "Pokud část příkazů \\input v dokumentu zakomentujeme, posunou se nám čísla stránek",
+        "right": false
+      },
+      {
+        "body": "Slouží k vložení obsahu souborů do aktuálního dokumentu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Balík pdfpages je vhodným nástrojem ve chvíli, kdy:",
+    "answers": [
+      {
+        "body": "připravujeme knihu, která sestává z mnoha LaTeXových souborů představujících kapitoly.",
+        "right": false
+      },
+      {
+        "body": "připravujeme sborník, který sestává z mnoha homogenních LaTeXových dokumentů používajících stejnou LaTeXovou třídu a TeXový kompilátor.",
+        "right": false
+      },
+      {
+        "body": "chceme do výstupního dokumentu vložit obsah PDF souborů.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Balík pdfpages je zbytečně silným nástrojem ve chvíli, kdy:",
+    "answers": [
+      {
+        "body": "připravujeme knihu, která sestává z mnoha LaTeXových souborů představujících kapitoly.",
+        "right": true
+      },
+      {
+        "body": "připravujeme sborník, který sestává z mnoha heterogenních LaTeXových dokumentů používajících rozdílné LaTeXové třídy a TeXové kompilátory.",
+        "right": false
+      },
+      {
+        "body": "chceme do výstupního dokumentu vložit obsah PDF souborů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Soubory IDX a IND jsou v následujícím vztahu:",
+    "answers": [
+      {
+        "body": "Soubor IDX vzniká použitím makra \\index a na konci překladu obsahuje záznamy volání makra \\makeindex. Soubor IND vzniká při zpracování souboru IDX externím programem a obsahuje LaTeXový zdrojový kód, který se vysází do dokumentu v místě volání makra \\printindex.",
+        "right": false
+      },
+      {
+        "body": "Soubor IND vzniká použitím makra \\index a na konci překladu obsahuje záznamy volání makra \\makeindex. Soubor IDX vzniká při zpracování souboru IND externím programem a obsahuje LaTeXový zdrojový kód, který se vysází do dokumentu v místě volání makra \\printindex.",
+        "right": false
+      },
+      {
+        "body": "Soubor IDX vzniká použitím makra \\makeindex a na konci překladu obsahuje záznamy volání makra \\index. Soubor IND vzniká při zpracování souboru IDX externím programem a obsahuje LaTeXový zdrojový kód, který se vysází do dokumentu v místě volání makra \\printindex.",
+        "right": true
+      },
+      {
+        "body": "Soubor IND vzniká použitím makra \\makeindex a na konci překladu obsahuje záznamy volání makra \\index. Soubor IDX vzniká při zpracování souboru IND externím programem a obsahuje LaTeXový zdrojový kód, který se vysází do dokumentu v místě volání makra \\printindex.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Program latexmk NEní schopný:",
+    "answers": [
+      {
+        "body": "automaticky zvolit vhodný prohlížeč PDF dokumentů v systému Windows.",
+        "right": true
+      },
+      {
+        "body": "automaticky detekovat externí soubory, na kterých LaTeXový dokument závisí.",
+        "right": false
+      },
+      {
+        "body": "spouštět jiné externí programy, než makeindex a bibtex.",
+        "right": false
+      },
+      {
+        "body": "automaticky překompilovávat dokument, který autor v reálném čase upravuje.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Program latexmk NEní schopný:",
+    "answers": [
+      {
+        "body": "provést dostatečný počet překladů pro vyřešení křížových referencí.",
+        "right": false
+      },
+      {
+        "body": "automaticky spustit vhodný externí program pro přípravu bibliografie.",
+        "right": false
+      },
+      {
+        "body": "odsteanit veškeré pomocné soubory po překladu LaTeXového dokumentu.",
+        "right": false
+      },
+      {
+        "body": "automaticky spustit vhodný externí program pro přípravu rejstříku.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků neplatí:",
+    "answers": [
+      {
+        "body": "LaTeXový dokument sestává z preambule uvedené příkazem \\documentclass a těla dokumentu v okolí document.",
+        "right": false
+      },
+      {
+        "body": "Každý XML dokument používá logické značkování.",
+        "right": true
+      },
+      {
+        "body": "Příkaz pro překlad LaTeXového dokumentu pdftexem je pdflatex.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Adobe InDesign NEimplementuje následující funkci HZ-programu:",
+    "answers": [
+      {
+        "body": "optický kerning",
+        "right": false
+      },
+      {
+        "body": "Implementuje všechny uvedené",
+        "right": true
+      },
+      {
+        "body": "zavěšování interpunkce",
+        "right": false
+      },
+      {
+        "body": "roztahování znaků",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "TeXový kompilátor pdfTeX NEimplementuje následující funkci HZ-programu:",
+    "answers": [
+      {
+        "body": "optický kerning",
+        "right": true
+      },
+      {
+        "body": "Implementuje všechny uvedené",
+        "right": false
+      },
+      {
+        "body": "zavěšování interpunkce",
+        "right": false
+      },
+      {
+        "body": "roztahování znaků",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi fáze zpracování dokumentu v TeXu (procesory) nepatří",
+    "answers": [
+      {
+        "body": "dělicí procesor.",
+        "right": true
+      },
+      {
+        "body": "hlavní procesor.",
+        "right": false
+      },
+      {
+        "body": "expand procesor.",
+        "right": false
+      },
+      {
+        "body": "input procesor.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Činnost TeXu se popisuje jako souhra několika procesorů. Který sem nepatří?",
+    "answers": [
+      {
+        "body": "Kernel procesor.",
+        "right": true
+      },
+      {
+        "body": "Expand procesor.",
+        "right": false
+      },
+      {
+        "body": "Token procesor.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Balík graphicx NElze použít pro vložení",
+    "answers": [
+      {
+        "body": "výstupu programu Metafont",
+        "right": true
+      },
+      {
+        "body": "výstupu programu MetaPost.",
+        "right": false
+      },
+      {
+        "body": "bitmapové grafiky",
+        "right": false
+      },
+      {
+        "body": "vektorové grafiky",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Uvést koncovku souboru v příkazu \\includegraphics je:",
+    "answers": [
+      {
+        "body": "zakázané; při uvedení koncovky nebude soubor nalezen.",
+        "right": false
+      },
+      {
+        "body": "nepovinné; při neuvedení koncovky dojde k použití souboru se známou koncovkou.",
+        "right": true
+      },
+      {
+        "body": "nepovinné, ale preferované; činí to kód lépe čitelným.",
+        "right": false
+      },
+      {
+        "body": "povinné; při neuvedení koncovky nebude soubor nalezen.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "O MetaPostu NEplatí:",
+    "answers": [
+      {
+        "body": "Jedná se o jazyk pro tvorbu fontů.",
+        "right": true
+      },
+      {
+        "body": "V rámci MetaPostu lze používat prostředky TeXu, např. pro sazbu matematiky.",
+        "right": false
+      },
+      {
+        "body": "Výstupem překladu MetaPostového kódu je vektorový obrázek ve formátu Encapsulated PostScript.",
+        "right": false
+      },
+      {
+        "body": "Lze jej použít pro tvorbu vektorových obrázků.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "O MetaFontu NEplatí:",
+    "answers": [
+      {
+        "body": "Jedná se o jazyk pro tvorbu fontů.",
+        "right": false
+      },
+      {
+        "body": "V rámci Metafontu lze používat prostředky TeXu, např. pro sazbu matematiky.",
+        "right": true
+      },
+      {
+        "body": "Výstupem překladu MetaFontového kódu je vektorový obrázek ve formátu Encapsulated PostScript.",
+        "right": false
+      },
+      {
+        "body": "Lze jej použít pro tvorbu vektorových obrázků.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Program Inkscape je určený",
+    "answers": [
+      {
+        "body": "k úpravě bitmapových obrázků.",
+        "right": false
+      },
+      {
+        "body": "k sazbě dokumentů.",
+        "right": false
+      },
+      {
+        "body": "k úpravě vektorových obrázků.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Program GIMP je určený",
+    "answers": [
+      {
+        "body": "k úpravě bitmapových obrázků.",
+        "right": true
+      },
+      {
+        "body": "k sazbě dokumentů.",
+        "right": false
+      },
+      {
+        "body": "k úpravě vektorových obrázků.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků NEplatí:",
+    "answers": [
+      {
+        "body": "WriteLaTeX, nyní OverLeaf, je bezva cloudové řešení pro sazbu TeXových dokumentů. ",
+        "right": false
+      },
+      {
+        "body": "Maximalistických výsledků lze v typografii zatím dosáhnout jen ručním zlomem.",
+        "right": false
+      },
+      {
+        "body": "Algoritmy řádkového a stránkového zlomu v TeXu jsou provázány a optimalizace se děje naráz.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků je pravdivý?",
+    "answers": [
+      {
+        "body": "TeX potřebuje při překladu bitmapy (.pk soubory) použitých fontů.",
+        "right": false
+      },
+      {
+        "body": "Odstavcový optimum-fit algoritmus v TeXu se zvýšením kladné hodnoty \\tolerance může zpomalit.",
+        "right": true
+      },
+      {
+        "body": "Hlavním sw-archívem k TeXu je CPAN.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jeden angloamerický typografický bod je",
+    "answers": [
+      {
+        "body": "metrická verze odvozená z francouzské stopy.",
+        "right": false
+      },
+      {
+        "body": "taková jednotka, že 72pt = 6pc = 1in.",
+        "right": true
+      },
+      {
+        "body": "dvanáctina cicera.",
+        "right": false
+      },
+      {
+        "body": "větší než Didotův.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Petit a garmond jsou",
+    "answers": [
+      {
+        "body": "robustní implementace opticky škálovatelných fontů.",
+        "right": false
+      },
+      {
+        "body": "názvy často užívaných stupňů písma. ",
+        "right": true
+      },
+      {
+        "body": "nic z uvedených ostatních možností. ",
+        "right": false
+      },
+      {
+        "body": "názvy známých francouzských typografů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Příkaz \\nocite pro uvedení necitovaných záznamů v seznamu literatury má smysl použít pro:",
+    "answers": [
+      {
+        "body": "uvedení děl, ze kterých jsme parafrázovali část textu bez citace. ",
+        "right": false
+      },
+      {
+        "body": "uvedení děl, která se týkají probíraného tématu.",
+        "right": true
+      },
+      {
+        "body": "uvedení děl, ze kterých jsme převzali část textu bez citace.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Názvy pravidel programu arara jsou v následujícím vztahu s názvy spouštěných příkazů:",
+    "answers": [
+      {
+        "body": "V žádném vztahu nejsou, pravidla mohou být pojmenována libovolně.",
+        "right": true
+      },
+      {
+        "body": "Názvy pravidel musí odpovídat názvům příkazů tak, jak je uživatel zadává na příkazové řádce.",
+        "right": false
+      },
+      {
+        "body": "Názvy pravidel a příkazů se musí rýmovat.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Při sazbě dokumentu, který obsahuje bibliografii připravenou ručně pomocí prostředí thebibliography:",
+    "answers": [
+      {
+        "body": "jsou zapotřebí dva překlady. Při prvním překladu dojde k poznamenání použitých návěští v BCF souboru. Při druhém překladu dojde k vysázení bibliografie a zároveň značek návěští v samotném dokumentu.",
+        "right": false
+      },
+      {
+        "body": "jsou zapotřebí tři překlady. Při prvním překladu dojde k poznamenání použitých návěští v AUX souboru. Při druhém překladu dojde k vysázení bibliografie a k poznamenání značek návěští v AUX souboru. Při třetím překladu dojde k vysázení značek návěští v samotném dokumentu.",
+        "right": false
+      },
+      {
+        "body": "stačí pouze jeden překlad. Cenou za toto pohodlí je nutnost manuálně zajistit formátování bibliografických záznamů.",
+        "right": false
+      },
+      {
+        "body": "jsou zapotřebí dva překlady. Při prvním překladu dojde k vysázení bibliografie a k poznamenání značek návěští v AUX souboru. Při druhém překladu dojde k vysázení značek návěští v samotném dokumentu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Použití systémů Subversion (SVN) a Git pro sledování změn v binárních souborech (souborech obsahujících netextová data) je:",
+    "answers": [
+      {
+        "body": "běžné, protože textové soubory dnes už nikdo nepoužívá.",
+        "right": false
+      },
+      {
+        "body": "možné, ale nepohodlné kvůli omezeným možnostem, jak vyobrazit rozdíly mezi dvěma revizemi souboru.",
+        "right": true
+      },
+      {
+        "body": "nemožné, protože SVN a Git jsou určené výhradně pro práci s textovými soubory.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro soubor Makefile NEplatí:",
+    "answers": [
+      {
+        "body": "umožňuje specifikovat, jakým způsobem má dojít k vytvoření zadaných souborů.",
+        "right": false
+      },
+      {
+        "body": "může obsahovat definice proměnných, cíle, recepty a TeXová makra.",
+        "right": true
+      },
+      {
+        "body": "slouží jako předpis, na základě kterého pracuje program make.",
+        "right": false
+      },
+      {
+        "body": "umožňuje popsat závislosti mezi jednotlivými soubory.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Běžně používané desktopové kancelářské aplikace (LibreOffice, MS Office Word) NEumožňují:",
+    "answers": [
+      {
+        "body": "práci se systémem Subversion (SVN).",
+        "right": false
+      },
+      {
+        "body": "sledování změn v dokumentu.",
+        "right": false
+      },
+      {
+        "body": "porovnávání obsahu dvou dokumentů.",
+        "right": false
+      },
+      {
+        "body": "umožňují vše z výše uvedeného.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi české typografy a písmáky nepatří",
+    "answers": [
+      {
+        "body": "Václav Mucha.",
+        "right": true
+      },
+      {
+        "body": "Oldřich Hlavsa.",
+        "right": false
+      },
+      {
+        "body": "Vojtěch Preissig.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi české typografy a písmáky nepatří",
+    "answers": [
+      {
+        "body": "František Štorm.",
+        "right": false
+      },
+      {
+        "body": "Jiří Hlavenka.",
+        "right": true
+      },
+      {
+        "body": "František Muzika.",
+        "right": false
+      },
+      {
+        "body": "Oldřich Menhart",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi světové typografy a písmáky nepatří",
+    "answers": [
+      {
+        "body": "Hermann Zapf.",
+        "right": false
+      },
+      {
+        "body": "Fradarick Goudy.",
+        "right": false
+      },
+      {
+        "body": "Donald Ervin Knuth.",
+        "right": false
+      },
+      {
+        "body": "John Times",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro recepty v Makefile NEplatí",
+    "answers": [
+      {
+        "body": "Jedná se o seznamy příkazů. Jednotlivé příkazy jsou odsazené pomocí znaku tabulátoru a jsou postupně spouštěny interpretrem zadaným v proměnné SHELL.",
+        "right": false
+      },
+      {
+        "body": "Ke každému cíli je třeba uvést neprázdný recept.",
+        "right": true
+      },
+      {
+        "body": "Jednotlivé řádky receptů mohou být předznamenané znakem -. V takovém případě nebude brán ohled na neúspěšné zpracování řádku.",
+        "right": false
+      },
+      {
+        "body": "Jednotlivé řádky receptů mohou být předznamenané znakem @. V takovém případě nebude text řádku vypsán do terminálu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Příkaz \\printindex v té podobě, jak jej definuje balíček imakeidx, NEzpůsobí",
+    "answers": [
+      {
+        "body": "vložení zdrojového kódu rejstříku ze souboru IND do dokumentu.",
+        "right": false
+      },
+      {
+        "body": "zaznamenání argumentu spolu s číslem stránky do souboru IDX.",
+        "right": true
+      },
+      {
+        "body": "překlad obsahu souboru s koncovkou IDX na zdrojový kód rejstříku uložený v souboru IND.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Průkopníkem digitální revoluce v počítačové typografii je",
+    "answers": [
+      {
+        "body": "Bill Gates.",
+        "right": false
+      },
+      {
+        "body": "Paul Ginsparg.",
+        "right": false
+      },
+      {
+        "body": "Donald Knuth.",
+        "right": true
+      },
+      {
+        "body": "Marlon Brando.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících seznamů neobsahuje entity stejné kategorie:",
+    "answers": [
+      {
+        "body": "opmac, pdfetex, pdflatex",
+        "right": true
+      },
+      {
+        "body": "pdftex, xetex, luatex, tex",
+        "right": false
+      },
+      {
+        "body": "latex, context, plain[tex]",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Příkaz acroread slouží k:",
+    "answers": [
+      {
+        "body": "sazbě TeXového souboru do dokumentu DVI.",
+        "right": false
+      },
+      {
+        "body": "spuštění prohlížeče PDF dokumentů.",
+        "right": true
+      },
+      {
+        "body": "převodu dokumentu DVI na dokument PDF.",
+        "right": false
+      },
+      {
+        "body": "nalezení souborů v TeXové distribuci TeX Live.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Příkaz dvipdfax slouží k:",
+    "answers": [
+      {
+        "body": "sazbě TeXového souboru do dokumentu DVI.",
+        "right": false
+      },
+      {
+        "body": "spuštění prohlížeče PDF dokumentů.",
+        "right": false
+      },
+      {
+        "body": "převodu dokumentu DVI na dokument PDF.",
+        "right": true
+      },
+      {
+        "body": "nalezení souborů v TeXové distribuci TeX Live.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro znak konce řádku platí:",
+    "answers": [
+      {
+        "body": "poprvé se objevil s příchodem jednobajtových kódování.",
+        "right": false
+      },
+      {
+        "body": "jeho různé reprezentace mohou v aplikacích působit problémy.",
+        "right": true
+      },
+      {
+        "body": "kóduje se ve všech operačních systémech stejně.",
+        "right": false
+      },
+      {
+        "body": "při přípravě textových souborů se nepoužívá.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "V cyklu přípravy dokumentů je správné pořadí kroků přípravy dokumentu:",
+    "answers": [
+      {
+        "body": "značkování, korektury, imprimatur, sazba.",
+        "right": false
+      },
+      {
+        "body": "design, značkování, korektury.",
+        "right": false
+      },
+      {
+        "body": "náčrtek, sazba, tiskárna.",
+        "right": false
+      },
+      {
+        "body": "design, sazba, distribuce.",
+        "right": true
+      },
+      {
+        "body": "značkování, sazba, design, distribuce.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "S kradením ovcí je srovnatelný/srovnatelné:",
+    "answers": [
+      {
+        "body": "Použití komerčních písem pro sazbu bakalářské práce.",
+        "right": false
+      },
+      {
+        "body": "Proklad minusek v textu odstavce.",
+        "right": true
+      },
+      {
+        "body": "Používání optického škálování při sazbě diplomové práce.",
+        "right": false
+      },
+      {
+        "body": "Fakt, že tentýž dokument vytiskne TeX na různých tiskárnách stejně až na rozlišení výstupního zařízení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "O kódování UTF-32 NEplatí:",
+    "answers": [
+      {
+        "body": "jedná se o jediné běžně používané Unicode kódování.",
+        "right": true
+      },
+      {
+        "body": "vyžaduje uvedení znaku Byte Order Mark (BOM) na začátku souboru pro rozlišení použité endianity.",
+        "right": false
+      },
+      {
+        "body": "reprezentuje libovolný Unicode znak čtyřmi bajty.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro řešení obecných problémů NEní optimální využít:",
+    "answers": [
+      {
+        "body": "diskuzní fórum; ještě by ostatní studenti označili, že jsem „Otravný/á”.",
+        "right": false
+      },
+      {
+        "body": "e-mail; vyučující určitě nechce mnohokrát odpovídat na stejnou otázku.",
+        "right": true
+      },
+      {
+        "body": "přednášku; má otázka je hloupá a vyučující se mi bude smát na videozáznamu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi metody použitelné v URL na výměnu dokumentů na Internetu nepatří:",
+    "answers": [
+      {
+        "body": "https.",
+        "right": false
+      },
+      {
+        "body": "file.",
+        "right": false
+      },
+      {
+        "body": "ftp.",
+        "right": false
+      },
+      {
+        "body": "gmail.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Platí, že:",
+    "answers": [
+      {
+        "body": "Validní XML dokument splňuje omezení konkrétního XML jazyka a zároveň je dobře utvořený.",
+        "right": true
+      },
+      {
+        "body": "Dobře utvořený XML dokument splňuje omezení konkrétního XML jazyka a zároveň je validní.",
+        "right": false
+      },
+      {
+        "body": "Dobře utvořený XML dokument splňuje XML syntax a zároveň je validní.",
+        "right": false
+      },
+      {
+        "body": "Validní XML dokument nesplňuje XML syntax, ale je dobře utvořený.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Vynechání elementu, který je v XML schématu definován jako povinný, je v XML dokumentu prohřeškem vůči:",
+    "answers": [
+      {
+        "body": "lidské čitelnosti",
+        "right": false
+      },
+      {
+        "body": "dobré utvořenosti (well-formedness)",
+        "right": false
+      },
+      {
+        "body": "validitě",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vytvoření formální definice XML jazyka, který rozlišuje elementy <program>, <Program> a <PROGRAM> označující postupně den v týdnu, přísadu v kuchařském receptu a název oblíbeného filmu, je prohřeškem vůči:",
+    "answers": [
+      {
+        "body": "lidské čitelnosti",
+        "right": true
+      },
+      {
+        "body": "validitě",
+        "right": false
+      },
+      {
+        "body": "dobré utvořenosti (well-formedness)",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi XML jazyky nepatří:",
+    "answers": [
+      {
+        "body": "JavaScript.",
+        "right": true
+      },
+      {
+        "body": "DocBook.",
+        "right": false
+      },
+      {
+        "body": "XHTML",
+        "right": false
+      },
+      {
+        "body": "HTML5",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi XML jazyky nepatří:",
+    "answers": [
+      {
+        "body": "MathML.",
+        "right": false
+      },
+      {
+        "body": "Apache.",
+        "right": true
+      },
+      {
+        "body": "RDF",
+        "right": false
+      },
+      {
+        "body": "XLink",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících formalismů neslouží ke kontrole XML jazyka:",
+    "answers": [
+      {
+        "body": "Relax NG.",
+        "right": false
+      },
+      {
+        "body": "DTD.",
+        "right": false
+      },
+      {
+        "body": "SPDL",
+        "right": true
+      },
+      {
+        "body": "XML Schema",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Etapa designu dokumentu",
+    "answers": [
+      {
+        "body": "je nezastupitelná, ale často absentující etapa na cestě od autora ke čtenáři.",
+        "right": true
+      },
+      {
+        "body": "musí být autorem řešena vždy se vystudovaným a certifikovaným grafikem.",
+        "right": false
+      },
+      {
+        "body": "nic z uvedených ostatních možností není správně.",
+        "right": false
+      },
+      {
+        "body": "je nejdražší a nejdůležitější etapa přípravy dokumentu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jaký je vztah mezi jazyky SGML, XML, HTML a XHTML?",
+    "answers": [
+      {
+        "body": "SGML je následníkem XML, HTML původně bylo jazykem XML a dnes se jedná o samostatný jazyk, XHTML je jazykem SGML",
+        "right": false
+      },
+      {
+        "body": "SGML je následníkem XML, HTML původně bylo jazykem SGML a dnes se jedná o samostatný jazyk, XHTML je jazykem XML",
+        "right": false
+      },
+      {
+        "body": "XML je následníkem SGML, HTML původně bylo jazykem XML a dnes se jedná o samostatný jazyk, XHTML je jazykem SGML",
+        "right": false
+      },
+      {
+        "body": "XML je následníkem SGML, HTML původně bylo jazykem SGML a dnes se jedná o samostatný jazyk, XHTML je jazykem XML",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výhodou oddělení formy od obsahu NENÍ:",
+    "answers": [
+      {
+        "body": "možnost zadefinovat různé podoby jednoho dokumentu",
+        "right": false
+      },
+      {
+        "body": "konzistentní vzhled napříč dokumentem",
+        "right": false
+      },
+      {
+        "body": "možnost extrahovat vyznačené informace z dokumentu",
+        "right": false
+      },
+      {
+        "body": "vysoká rychlost přípravy jednotlivých dokumentů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z níže uvedených tvrzení je pravdivé",
+    "answers": [
+      {
+        "body": "dopravní podnik města Brna již v roce založení FI sázel hamonogram jízd a tabulky na zastávkách fontem, který navrhl a implementoval první čestný doktor FI MU.",
+        "right": true
+      },
+      {
+        "body": "ideální počet řádků na stránce knihy je 42, to věděl již Gutenberg a proto vysadil 42řádkovou bibli.",
+        "right": false
+      },
+      {
+        "body": "TeX je hodně rozšířený neboť jeho propagaci hradí GNU Foundation",
+        "right": false
+      },
+      {
+        "body": "METAFONT i TeX je hodně portabilní a bezpečný protože je naprogramován v Javě.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z principů NEmusí každý sázecí systém umožňovat:",
+    "answers": [
+      {
+        "body": "WYSISYG",
+        "right": true
+      },
+      {
+        "body": "výstup by měl být nezávislý na výstupním zařízení.",
+        "right": false
+      },
+      {
+        "body": "mít koncept roztažitelné ale nedělitelné mezery",
+        "right": false
+      },
+      {
+        "body": "slova dělená v závislosti na jazyce",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Cíl .PHONY v souboru Makefile slouží k:",
+    "answers": [
+      {
+        "body": "výčtu všech cílů, u kterých se nemá porovnávat čas vytvoření cíle a čas vytvoření jeho závislostí.",
+        "right": true
+      },
+      {
+        "body": "výčtu všech cílů, kterých je třeba bezpodmínečně dosáhnout při každém spuštění programu make.",
+        "right": false
+      },
+      {
+        "body": "výčtu telefonních čísel autorů, k podobnému účelu slouží cíl .MAILY.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi digitální formáty písem nepatří",
+    "answers": [
+      {
+        "body": "technologie Multiple Master od Adobe",
+        "right": false
+      },
+      {
+        "body": "TrueType",
+        "right": false
+      },
+      {
+        "body": "bitmapový PostScript Type3",
+        "right": false
+      },
+      {
+        "body": "TeXfont",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Značkování a sazba několika rejstříků je v LaTeXu:",
+    "answers": [
+      {
+        "body": "nemožné, tuto funkcionalitu zprostředkovává pouze formát ConTeXt.",
+        "right": false
+      },
+      {
+        "body": "proveditelné, existuje množství balíků, které definují příslušná makra.",
+        "right": true
+      },
+      {
+        "body": "velmi obtížné, uživatel musí ručně připravit LaTeXové zdrojové kódy rejstříků.",
+        "right": false
+      },
+      {
+        "body": "snadné, samotné jádro LaTeXu pro něj definuje makra.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "následující příkaz jistě vnitřně NEvyužívá TeXové primitivum \\input:",
+    "answers": [
+      {
+        "body": "Příkaz \\mintedinline LaTeXového balíčku minted pro vysázení úryvku zdrojového kódu.",
+        "right": false
+      },
+      {
+        "body": "LaTeXový příkaz \\bibliography pro vysázení seznamu literatury připraveného programem bibtex.",
+        "right": false
+      },
+      {
+        "body": "LaTeXový příkaz \\section pro vysázení názvu sekce.",
+        "right": true
+      },
+      {
+        "body": "LaTeXový příkaz \\printindex pro vysázení rejstříku.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro přípravu rejstříku s českým řazením NElze použít program:",
+    "answers": [
+      {
+        "body": "makeindex",
+        "right": true
+      },
+      {
+        "body": "csindex",
+        "right": false
+      },
+      {
+        "body": "texindy",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "písmová kuželka je",
+    "answers": [
+      {
+        "body": "světlá výška písma",
+        "right": false
+      },
+      {
+        "body": "proklad písma",
+        "right": false
+      },
+      {
+        "body": "stupeň písma",
+        "right": true
+      },
+      {
+        "body": "střední výška písma",
+        "right": false
+      },
+      {
+        "body": "nic z uvedeného",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi rozdíly programů bibtex a biber NEpatří:",
+    "answers": [
+      {
+        "body": "schopnost programu biber řadit a transformovat Unicode textové řetězce.",
+        "right": false
+      },
+      {
+        "body": "schopnost programu biber vysázet výsledný dokument pouze ve třech překladech.",
+        "right": true
+      },
+      {
+        "body": "spouštění programů v obskurním jazyce za účelem formátování záznamů programem bibtex",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Správné doplnění za X do rovnice Obsah + X = Dokument",
+    "answers": [
+      {
+        "body": "Vazba",
+        "right": false
+      },
+      {
+        "body": "Forma",
+        "right": true
+      },
+      {
+        "body": "XML",
+        "right": false
+      },
+      {
+        "body": "Sazba",
+        "right": false
+      },
+      {
+        "body": "Ražba",
+        "right": false
+      },
+      {
+        "body": "LaTeX",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro jazyky XML platí, že:",
+    "answers": [
+      {
+        "body": "Jazyk DTD (Document Type Definition) umožňuje definovat silnější omezení, než XML schémata, která jsou novinkou jazyka XML.",
+        "right": false
+      },
+      {
+        "body": "Jazyk DTD (Document Type Definition) umožňuje definovat silnější omezení, než XML schémata, která jsou dědictvím jazyka SGML.",
+        "right": false
+      },
+      {
+        "body": "XML schémata umožňují definovat silnější omezení, než jazyk DTD (Document Type Definition), který je novinkou jazyka XML.",
+        "right": false
+      },
+      {
+        "body": "XML schémata umožňují definovat silnější omezení, než jazyk DTD (Document Type Definition), který je dědictvím jazyka SGML.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Polyglossia je:",
+    "answers": [
+      {
+        "body": "TeXový formát.",
+        "right": false
+      },
+      {
+        "body": "LaTeXový balíček. ",
+        "right": true
+      },
+      {
+        "body": "program.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "LaTeX je:",
+    "answers": [
+      {
+        "body": "TeXový formát.",
+        "right": true
+      },
+      {
+        "body": "LaTeXový balíček. ",
+        "right": false
+      },
+      {
+        "body": "program.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Babel je:",
+    "answers": [
+      {
+        "body": "TeXový formát.",
+        "right": false
+      },
+      {
+        "body": "LaTeXový balíček. ",
+        "right": true
+      },
+      {
+        "body": "program.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "TeX je:",
+    "answers": [
+      {
+        "body": "TeXový formát.",
+        "right": false
+      },
+      {
+        "body": "LaTeXový balíček. ",
+        "right": false
+      },
+      {
+        "body": "program.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "pdfTeX je",
+    "answers": [
+      {
+        "body": "program",
+        "right": true
+      },
+      {
+        "body": "LaTeXový balíček.",
+        "right": false
+      },
+      {
+        "body": "TeXový formát.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výhodou LaTeXu oproti XML jako autorský značkovací jazyk je:",
+    "answers": [
+      {
+        "body": "algoritmické vynucení struktury, a značkování.",
+        "right": false
+      },
+      {
+        "body": "snadnost editace, kompaktnost zápisu a snadnost zavedení autorských preferencí zápisu.",
+        "right": true
+      },
+      {
+        "body": "kratší historický vývoj.",
+        "right": false
+      },
+      {
+        "body": "větší podpora sw nástrojů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výhodou XML oproti LaTeXu jako autorský značkovací jazyk je:",
+    "answers": [
+      {
+        "body": "algoritmické vynucení struktury, a značkování.",
+        "right": true
+      },
+      {
+        "body": "snadnost editace, kompaktnost zápisu a snadnost zavedení autorských preferencí zápisu.",
+        "right": false
+      },
+      {
+        "body": "delší historický vývoj.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků platí:",
+    "answers": [
+      {
+        "body": "TeX je bezva WYSISYG systém.",
+        "right": false
+      },
+      {
+        "body": "Overleaf nebo ShareLaTeX jsou široce používané balíky maker.",
+        "right": false
+      },
+      {
+        "body": "LaTeX je přirovnáván k závodničce F1, neboť sází nejrychleji ze všech formátů.",
+        "right": false
+      },
+      {
+        "body": "IniTeX je verze TeXu schopná zápisu vzorů dělení a makrobalíků jako je LaTeX do souboru, zvaného formátový, pro rychlý start překladu dokumentu TeXem.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "U designu technických a informačních dokumentů typu závěrečné VŠ práce",
+    "answers": [
+      {
+        "body": "je obsah primární a ideálně výrazové prostředky nemají čtenáře distrahovat (Printing should be invisible).",
+        "right": true
+      },
+      {
+        "body": "je nezbytně nutné použít XML v Unicode.",
+        "right": false
+      },
+      {
+        "body": "je forma důležitější než obsah.",
+        "right": false
+      },
+      {
+        "body": "musíme naprogramovat svá makra s využitím makroexpanze tak, aby odpovídala stylopisu.",
+        "right": false
+      },
+      {
+        "body": "je třeba použít bezpatkové písmo.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Doporučený počet znaků na řádku textu je",
+    "answers": [
+      {
+        "body": "do 70 znaků u jednosloupcové sazby (u více znaků přichází únava z přechodu na nový řádek).",
+        "right": true
+      },
+      {
+        "body": "žádná z uvedených ostatních možností není správně.",
+        "right": false
+      },
+      {
+        "body": "libovolný, nehraje to roli.",
+        "right": false
+      },
+      {
+        "body": "alespoň 60 u dvousloupcové sazby.",
+        "right": false
+      },
+      {
+        "body": "čím více, tím lépe",
+        "right": false
+      },
+      {
+        "body": "čím méně, tím lépe",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Stylováním obecného XML dokumentu pomocí CSS (Cascading Style Sheets) stylopisu jsme schopni:",
+    "answers": [
+      {
+        "body": "zadefinovat vzhled prvků, které se v dokumentu nachází.",
+        "right": true
+      },
+      {
+        "body": "zobrazit v dokumentu dodatečné navigační prvky.",
+        "right": false
+      },
+      {
+        "body": "přidat do dokumentu klikatelné odkazy.",
+        "right": false
+      },
+      {
+        "body": "transformovat uložená textová data do uživatelsky přívětivější podoby.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Oddělit formu od obsahu nelze v:",
+    "answers": [
+      {
+        "body": "lze ve všech uvedených formátech dokumentů",
+        "right": true
+      },
+      {
+        "body": "XHTML",
+        "right": false
+      },
+      {
+        "body": "formátu Office Open XML (OOXML)",
+        "right": false
+      },
+      {
+        "body": "Groffu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Oddělit formu od obsahu nelze v:",
+    "answers": [
+      {
+        "body": "lze ve všech uvedených formátech dokumentů",
+        "right": true
+      },
+      {
+        "body": "formátu OpenDocument (ODF)",
+        "right": false
+      },
+      {
+        "body": "LaTeXu",
+        "right": false
+      },
+      {
+        "body": "HTML",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Jazyky HyperText Markup Language (HTML) a eXtensible HyperText Markup Language (XHTML) slouží k",
+    "answers": [
+      {
+        "body": "vyznačení struktury.",
+        "right": true
+      },
+      {
+        "body": "definici vzhledu.",
+        "right": false
+      },
+      {
+        "body": "popisu aplikační logiky.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Pro jednoznačnou adresaci všech znaků Unicode 10.0 je potřeba alespoň:",
+    "answers": [
+      {
+        "body": "24 bitů",
+        "right": false
+      },
+      {
+        "body": "16 bitů",
+        "right": false
+      },
+      {
+        "body": "32 bitů",
+        "right": false
+      },
+      {
+        "body": "21 bitů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Příkaz latex slouží k:",
+    "answers": [
+      {
+        "body": "nalezení souborů v TeXové distribuci TeX Live",
+        "right": false
+      },
+      {
+        "body": "převodu dokumentu DVI na dokument PDF",
+        "right": false
+      },
+      {
+        "body": "spuštění prohlížeče PDF dokumentů",
+        "right": false
+      },
+      {
+        "body": "sazbě TeXového souboru do dokumentu DVI",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Při elektronické přípravě dokumentů je nejdůležitější",
+    "answers": [
+      {
+        "body": "vytvořit optimálně estetický dokument.",
+        "right": false
+      },
+      {
+        "body": "dodržet do posledního detailu vždy nejlepší typografická nastavení pro jednotlivé prvky sazby.",
+        "right": false
+      },
+      {
+        "body": "být ekologický a spotřebovat minimum papíru.",
+        "right": false
+      },
+      {
+        "body": "realizovat komunikační funkci dokumentu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "O kódování UTF-8 NEplatí:",
+    "answers": [
+      {
+        "body": "vyžaduje použití znaku BOM (Byte Order Mark) na začátku souboru pro účely indikace endianity.",
+        "right": true
+      },
+      {
+        "body": "prvních 128 znaků Unicode je kódováno přímo, čímž je zajištěna kompatibilita s ASCII.",
+        "right": false
+      },
+      {
+        "body": "využívá proměnný počet bajtů pro zakódování grafémů.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Mezi typované dokumentové značkovací jazyky NEpatří",
+    "answers": [
+      {
+        "body": "Relax NG",
+        "right": false
+      },
+      {
+        "body": "XML Schema",
+        "right": false
+      },
+      {
+        "body": "HTML DTD",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi příkazy systému Git NEpatří:",
+    "answers": [
+      {
+        "body": "git clone pro prvotní stažení obsahu repozitáře",
+        "right": false
+      },
+      {
+        "body": "git install pro instalaci systému Git",
+        "right": true
+      },
+      {
+        "body": "git push pro zaslání svých úprav do repozitáře",
+        "right": false
+      },
+      {
+        "body": "git pull pro stažení nejnovějších změn v repozitáři",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Systém Git oproti systému Subversion (SVN) umožňuje:",
+    "answers": [
+      {
+        "body": "uchovávání historie zmen v dokumentu na centrálním úložišti",
+        "right": false
+      },
+      {
+        "body": "správu verzí textových dokumentů",
+        "right": false
+      },
+      {
+        "body": "tvorbu nových revizí bez fungujícího připojení k repozitáři",
+        "right": true
+      },
+      {
+        "body": "koordinaci více uživatelů pracujících na jednom dokumentu",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které z tvrzení NEní pravdivé",
+    "answers": [
+      {
+        "body": "V CSS si mohu zvolit zda při čtení stránek preferuji mužský nebo ženský hlas",
+        "right": false
+      },
+      {
+        "body": "Nejvyšší váhu pravidel má implicitně uživatel",
+        "right": true
+      },
+      {
+        "body": "CSS pravidlo se skládá ze selektoru a deklarace",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Výhodou online kancelářských aplikací (Dokumenty Google, MS Office online, Overleaf, ...) oproti systémům jako SVN (Subvesion) a Git je:",
+    "answers": [
+      {
+        "body": "schopnost pracovat s obrázky a dalšími netextovými soubory",
+        "right": false
+      },
+      {
+        "body": "uložení dokumentů v cloudu, kde budou bezpečně uchované",
+        "right": false
+      },
+      {
+        "body": "podpora souběžných úprav více uživateli s okamžitou zpětnou vazbou",
+        "right": true
+      },
+      {
+        "body": "možnost práce na dokumentu kdykoliv a kdekoliv i bez internetového připojení",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "TeX na informatických školách je špatenka, protože:",
+    "answers": [
+      {
+        "body": "Neumožňuje studentům pomocí značek makrobalíku LaTeX oddělit obsah a formu a soustředit se na logické značkování obsahu.",
+        "right": false
+      },
+      {
+        "body": "Umožňuje začít výuku programování pomocí maker jako makroprocesor, což není ideální.",
+        "right": true
+      },
+      {
+        "body": "Začít výuku pravidel typografie na příkladech TeXu odradí začátečníky lépe než u kteréhokoliv jiného sázecího systému.",
+        "right": false
+      },
+      {
+        "body": "Neumožňuje instantní náhled výsledné stránky.",
+        "right": false
+      },
+      {
+        "body": "Neumožňuje adaptovat zlom dokumentu dynamicky pro konkrétní výstupní zařízení.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Vlna je",
+    "answers": [
+      {
+        "body": "TeXový formát.",
+        "right": false
+      },
+      {
+        "body": "program.",
+        "right": true
+      },
+      {
+        "body": "LaTeXový balíček.",
+        "right": false
+      }
+    ]
+  }
+]
