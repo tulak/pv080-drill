@@ -1746,5 +1746,345 @@
         "right": false
       }
     ]
+  },
+  {
+    "name": "Který z následujících výroků platí:",
+    "answers": [
+      {
+        "body": "Program pro rastování písem Type1 je uložen v souborech AFM (Adobe Font Metrics).",
+        "right": false
+      },
+      {
+        "body": "TeX zpracovává vstup v pořadí input procesor, token procesor, expand procesor a hlavní procesor.",
+        "right": true
+      },
+      {
+        "body": "Program METAFONT používá formát Opentype.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Které tvrzení je pravdivé?",
+    "answers": [
+      {
+        "body": "XSL-FO je standard ISO pro popis stránky (SPDL). ",
+        "right": false
+      },
+      {
+        "body": "Obraz stránky v osvitové jednotce je vykreslován laserovým paprskem na fotocitlivý materiál.",
+        "right": true
+      },
+      {
+        "body": "Etapa designu musí nutně předcházet etapu pořízení autorského textu ve značkovacím jazyce.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Při elektronické přípravě dokumentů je nejdůležitější",
+    "answers": [
+      {
+        "body": "dodržet do posledního detailu vždy nejlepší typografická nastavení pro jednotlivé prvky sazby.",
+        "right": false
+      },
+      {
+        "body": "být ekologický a spotřebovat minimum papíru. ",
+        "right": false
+      },
+      {
+        "body": "realizovat komunikační funkci dokumentu.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Počet znaků na řádku při sazbě",
+    "answers": [
+      {
+        "body": "nehraje roli",
+        "right": false
+      },
+      {
+        "body": "by neměl překročit 100 znaků",
+        "right": false
+      },
+      {
+        "body": "by neměl překročit 60-70 znaků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících tvrzení je pravdivé?",
+    "answers": [
+      {
+        "body": "Písmo Times Roman je opticky škálované.",
+        "right": false
+      },
+      {
+        "body": "Použití grotesku pro sazbu prezentace pro datový projektor nemusí být typografická groteska.",
+        "right": true
+      },
+      {
+        "body": "Číslice nikdy nepřesahují účaří.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků je pravdivý?",
+    "answers": [
+      {
+        "body": "Zabarvení sazby je poměr potištěné a nepotištěné plochy vysazené stránky.",
+        "right": true
+      },
+      {
+        "body": "U vícejazyčných dokumentů je vždy nutné dělit slova dle pravidel pouze jednoho jazyka.",
+        "right": false
+      },
+      {
+        "body": "Pro sazbu dokumentu v LaTeX u pro správné řešení křížových odkazů postačí vždy dva průchody za sebou.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z výroků je pravdivý:",
+    "answers": [
+      {
+        "body": "Adobe Acrobat Pro je šikovný volně šířený produkt pro stahování WWW stránek a jejich konverzi do PDF.",
+        "right": false
+      },
+      {
+        "body": "Kuželka je stupeň písma.",
+        "right": true
+      },
+      {
+        "body": "Angloamerický typografický bod (pt) je větší než Didotův (dd).",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "Design webu je nadčasový a v čase se naň požadavky nemění.",
+        "right": false
+      },
+      {
+        "body": "Computer Modern Sans font je pro sazbu dokumentu určeného pro čtení na obrazovce vhodnější než Computer Modern Roman font.",
+        "right": true
+      },
+      {
+        "body": "Součástí designu je výběr značkovacího jazyka.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Zlom pdfTeXu je založen na",
+    "answers": [
+      {
+        "body": "PDF-X modelu.",
+        "right": false
+      },
+      {
+        "body": "modelu box-glue-penalty.",
+        "right": true
+      },
+      {
+        "body": "sky-line modelu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Množina vizuálních podob symbolů spojovník, rozdělovník, pomlčka a mínus je",
+    "answers": [
+      {
+        "body": "dvouprvková",
+        "right": false
+      },
+      {
+        "body": "tříprvková",
+        "right": true
+      },
+      {
+        "body": "čtyřprvková",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků je pravdivý?",
+    "answers": [
+      {
+        "body": "PostScript je založen na afinních transformacích a Bézierových křivkách.",
+        "right": true
+      },
+      {
+        "body": "Styly pdfLaTeXu lze před vystavením validovat.",
+        "right": false
+      },
+      {
+        "body": "Optický proklad je způsob algoritmické náhrady chybějících nebo špatných ligačních programů v metrice fontu.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Poměr šířek opticky škálovaného písmene ve velikostech deset a dvacet bodů je",
+    "answers": [
+      {
+        "body": "větší než jedna polovina.",
+        "right": true
+      },
+      {
+        "body": "menší než jedna polovina.",
+        "right": false
+      },
+      {
+        "body": "jedna polovina.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z výroků je pravdivý:",
+    "answers": [
+      {
+        "body": "Sirotek je jednoslabičný východ odstavce.",
+        "right": false
+      },
+      {
+        "body": "Ghostscript je jeden z prostředků jak volně konvertovat PS do PDF.",
+        "right": true
+      },
+      {
+        "body": "Psutils je jeden z prostředků jak konvertovat bitmapový PS do vektorového PS.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků platí:",
+    "answers": [
+      {
+        "body": "Algoritmy řádkového a stránkového zlomu v TeX u jsou provázány a optimalizace se děje naráz.",
+        "right": false
+      },
+      {
+        "body": "Maximalistických výsledků lze v typografii zatím dosáhnout jen ručním zlomem.",
+        "right": true
+      },
+      {
+        "body": "TeX neprovádí na rozdíl od všech ostatních sázecích programů optimalizaci v rámci celého odstavce.",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "DTD je",
+    "answers": [
+      {
+        "body": "gramatika formálního jazyka dokumentů",
+        "right": true
+      },
+      {
+        "body": "definitní typ deskriptoru",
+        "right": false
+      },
+      {
+        "body": "definovatelný typový dokument",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Počet bytů pro zápis řetězce s názvem předmětu PB029 v UCS-2 je",
+    "answers": [
+      {
+        "body": "větší než v UTF-8",
+        "right": true
+      },
+      {
+        "body": "menší než v UTF-8",
+        "right": false
+      },
+      {
+        "body": "stejný jako v UTF-8",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Autorem písma Palatino je",
+    "answers": [
+      {
+        "body": "Thomas Morrison",
+        "right": false
+      },
+      {
+        "body": "Frederick Goudy",
+        "right": false
+      },
+      {
+        "body": "Hermann Zapf",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Šířka číslice 0 je půlkou kuželky. Vzdálenost verzálkové dotažnice od účaří je polovinou šířky verzálky M fontu. Obsah obdélníka tvořeného sazbou dnešního letopočtu (2019) je",
+    "answers": [
+      {
+        "body": "čtverčík (čtverečný)",
+        "right": true
+      },
+      {
+        "body": "dvě kuželky",
+        "right": false
+      },
+      {
+        "body": "1ex^2",
+        "right": false
+      }
+    ]
+  },
+  {
+    "name": "Který z následujících výroků je pravdivý?",
+    "answers": [
+      {
+        "body": "Weave je program pro konverzi .web souborů do Pascalu. ",
+        "right": false
+      },
+      {
+        "body": "Obrázky ve formátu SVG dnes umí přímo zpracovat všechny verze TeXu: cslatex, pdfcslatex, tex i cstex.",
+        "right": false
+      },
+      {
+        "body": "Klíčem k úspěchu webu je originální obsah.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi normy ISO související s elektronickou přípravou dokumentů patří",
+    "answers": [
+      {
+        "body": "TeXML",
+        "right": false
+      },
+      {
+        "body": "OPatgen",
+        "right": false
+      },
+      {
+        "body": "PDF/A",
+        "right": true
+      }
+    ]
   }
 ]
