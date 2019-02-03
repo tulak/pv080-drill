@@ -63,5 +63,10 @@
     "name": "VB036",
     "id": "VB036",
     "dataset": "datasets/questions_VB036.json"
+  },
+  {
+    "name": "Ped. Spol. Zaklad",
+    "id": "PEDZKL",
+    "dataset": "datasets/questions_pedzkl.json"
   }
 ]
