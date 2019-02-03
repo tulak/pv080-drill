@@ -5,6 +5,11 @@
     "dataset": "datasets/questions_IB101.json"
   },
   {
+    "name": "PB029",
+    "id": "PB029",
+    "dataset": "datasets/questions_PB029.json"
+  },
+  {
     "name": "PB071",
     "id": "PB071",
     "dataset": "datasets/questions_PB071.json"
@@ -63,5 +68,10 @@
     "name": "VB036",
     "id": "VB036",
     "dataset": "datasets/questions_VB036.json"
+  },
+  {
+    "name": "Ped. Spol. Zaklad",
+    "id": "PEDZKL",
+    "dataset": "datasets/questions_pedzkl.json"
   }
 ]
